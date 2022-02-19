@@ -1,0 +1,71 @@
+StartChar: K
+Encoding: 38 75 38
+GlifName: K_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 257
+NamedP: "ab01"
+ 277 1290 l 257
+ 284 1500 l 257
+NamedP: "at01"
+ 518 1520 l 257
+NamedP: "at02"
+ 400 856 l 257
+ 1055 1500 l 257
+ 1277 1500 l 257
+NamedP: "sv01"
+ 634 865 l 257
+ 454 802 l 257
+ 618 744 l 257
+ 1040 0 l 257
+NamedP: "sv02"
+ 803 0 l 257
+ 381 746 l 257
+ 250 0 l 257
+ 50 0 l 257
+NamedP: "ab01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I90
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I516
+sVy
+p18
+I0
+sas."
+EndChar

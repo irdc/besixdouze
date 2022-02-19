@@ -1,0 +1,22 @@
+StartChar: congruent
+Encoding: 207 8773 207
+GlifName: congruent
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 600 m 257
+ 900 600 l 257
+ 900 460 l 257
+ 100 460 l 257
+ 100 600 l 257
+100 300 m 257
+ 900 300 l 257
+ 900 160 l 257
+ 100 160 l 257
+ 100 300 l 257
+EndSplineSet
+Refer: 480 8764 N 1 0 0 1 0 300 2
+EndChar

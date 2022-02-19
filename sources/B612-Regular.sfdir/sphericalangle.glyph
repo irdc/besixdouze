@@ -1,0 +1,26 @@
+StartChar: sphericalangle
+Encoding: 501 8738 501
+GlifName: sphericalangle
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 483 m 257
+ 1100 -81 l 257
+ 1208 5 l 257
+ 966 145 l 257
+ 1077 336 1077 336 1077 544 c 256
+ 1077 753 1077 753 965 939 c 257
+ 1237 1096 l 257
+ 1115 1187 l 257
+ 100 600 l 257
+ 100 483 l 257
+862 205 m 257
+ 268 542 l 257
+ 861 879 l 257
+ 952 723 952 723 952 540 c 256
+ 952 360 952 360 862 205 c 257
+EndSplineSet
+EndChar

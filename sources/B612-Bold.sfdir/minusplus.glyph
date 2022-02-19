@@ -1,0 +1,29 @@
+StartChar: minusplus
+Encoding: 351 8723 351
+GlifName: minusplus
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 257
+ 1000 1200 l 257
+ 1000 1060 l 257
+ 100 1060 l 257
+ 100 1200 l 257
+100 612 m 257
+ 473 612 l 257
+ 473 949 l 257
+ 628 949 l 257
+ 628 612 l 257
+ 1000 612 l 257
+ 1000 488 l 257
+ 628 488 l 257
+ 628 150 l 257
+ 473 150 l 257
+ 473 488 l 257
+ 100 488 l 257
+ 100 612 l 257
+EndSplineSet
+EndChar

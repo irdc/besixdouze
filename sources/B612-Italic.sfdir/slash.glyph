@@ -1,0 +1,16 @@
+StartChar: slash
+Encoding: 485 47 485
+GlifName: slash
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+267 -100 m 257
+ 57 -100 l 257
+ 1067 1600 l 257
+ 1267 1600 l 257
+ 267 -100 l 257
+EndSplineSet
+EndChar

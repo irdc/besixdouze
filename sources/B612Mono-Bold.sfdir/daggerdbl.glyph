@@ -1,0 +1,84 @@
+StartChar: daggerdbl
+Encoding: 204 8225 204
+GlifName: daggerdbl
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+456 82 m 257
+NamedP: "sv01"
+ 200 82 l 257
+ 200 300 l 257
+NamedP: "sv02"
+ 456 300 l 257
+NamedP: "sh01"
+ 456 900 l 257
+NamedP: "sv04"
+ 200 900 l 257
+NamedP: "sv05"
+ 200 1118 l 257
+NamedP: "at02"
+ 456 1118 l 257
+NamedP: "dh01"
+ 456 1500 l 257
+ 738 1520 l 257
+NamedP: "at01"
+ 738 1118 l 257
+NamedP: "dh02"
+ 1027 1118 l 257
+ 999 900 l 257
+NamedP: "sv03"
+ 738 900 l 257
+NamedP: "sh02"
+ 738 300 l 257
+ 1000 300 l 257
+NamedP: "dv01"
+ 999 82 l 257
+NamedP: "dv02"
+ 738 82 l 257
+NamedP: "sh03"
+ 738 -400 l 257
+NamedP: "av01"
+ 456 -400 l 257
+NamedP: "sh04"
+ 456 82 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sv01\">\\u000a            <hstem pos=\"-379\" width=\"-21\"/>\\u000a            <hstem pos=\"82\" width=\"218\"/>\\u000a            <hstem pos=\"900\" width=\"218\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a            <vstem pos=\"456\" width=\"282\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh04\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"dh02\" zone=\"t: x\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"eq Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"dv02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"dv01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"dh02\" point2=\"sv03\" stem=\"eq Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv03\" point2=\"sv04\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv04\" point2=\"sv05\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

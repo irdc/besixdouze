@@ -1,0 +1,23 @@
+StartChar: V
+Encoding: 92 86 92
+GlifName: V_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+673 500 m 257
+ 697 140 l 257
+ 801 454 l 257
+ 1315 1500 l 257
+ 1504 1500 l 257
+ 852 180 l 257
+ 791 -20 l 257
+ 549 0 l 257
+ 331 1500 l 257
+ 530 1520 l 257
+ 673 500 l 257
+EndSplineSet
+Kerns2: 2 -100 "'kern' Horizontal Kerning lookup 0 subtable" 3 -100 "'kern' Horizontal Kerning lookup 0 subtable" 4 -100 "'kern' Horizontal Kerning lookup 0 subtable" 5 -100 "'kern' Horizontal Kerning lookup 0 subtable" 6 -100 "'kern' Horizontal Kerning lookup 0 subtable" 8 -100 "'kern' Horizontal Kerning lookup 0 subtable" 9 -100 "'kern' Horizontal Kerning lookup 0 subtable" 54 -100 "'kern' Horizontal Kerning lookup 0 subtable" 55 -100 "'kern' Horizontal Kerning lookup 0 subtable" 56 -100 "'kern' Horizontal Kerning lookup 0 subtable" 57 -100 "'kern' Horizontal Kerning lookup 0 subtable" 58 -100 "'kern' Horizontal Kerning lookup 0 subtable" 63 -100 "'kern' Horizontal Kerning lookup 0 subtable" 64 -100 "'kern' Horizontal Kerning lookup 0 subtable" 68 -100 "'kern' Horizontal Kerning lookup 0 subtable" 102 -100 "'kern' Horizontal Kerning lookup 0 subtable" 103 -100 "'kern' Horizontal Kerning lookup 0 subtable" 106 -100 "'kern' Horizontal Kerning lookup 0 subtable" 108 -100 "'kern' Horizontal Kerning lookup 0 subtable" 114 -100 "'kern' Horizontal Kerning lookup 0 subtable" 141 -100 "'kern' Horizontal Kerning lookup 0 subtable" 214 -100 "'kern' Horizontal Kerning lookup 0 subtable" 231 -100 "'kern' Horizontal Kerning lookup 0 subtable" 232 -100 "'kern' Horizontal Kerning lookup 0 subtable" 233 -100 "'kern' Horizontal Kerning lookup 0 subtable" 234 -100 "'kern' Horizontal Kerning lookup 0 subtable" 235 -100 "'kern' Horizontal Kerning lookup 0 subtable" 289 -100 "'kern' Horizontal Kerning lookup 0 subtable" 312 -100 "'kern' Horizontal Kerning lookup 0 subtable" 314 -100 "'kern' Horizontal Kerning lookup 0 subtable" 315 -100 "'kern' Horizontal Kerning lookup 0 subtable" 316 -100 "'kern' Horizontal Kerning lookup 0 subtable" 325 -100 "'kern' Horizontal Kerning lookup 0 subtable" 344 -100 "'kern' Horizontal Kerning lookup 0 subtable" 370 -100 "'kern' Horizontal Kerning lookup 0 subtable" 373 -100 "'kern' Horizontal Kerning lookup 0 subtable" 374 -100 "'kern' Horizontal Kerning lookup 0 subtable" 375 -100 "'kern' Horizontal Kerning lookup 0 subtable" 376 -100 "'kern' Horizontal Kerning lookup 0 subtable" 377 -100 "'kern' Horizontal Kerning lookup 0 subtable" 379 -100 "'kern' Horizontal Kerning lookup 0 subtable" 395 -100 "'kern' Horizontal Kerning lookup 0 subtable" 396 -100 "'kern' Horizontal Kerning lookup 0 subtable" 397 -100 "'kern' Horizontal Kerning lookup 0 subtable" 435 -100 "'kern' Horizontal Kerning lookup 0 subtable" 447 -100 "'kern' Horizontal Kerning lookup 0 subtable" 543 -100 "'kern' Horizontal Kerning lookup 0 subtable" 544 -100 "'kern' Horizontal Kerning lookup 0 subtable" 545 -100 "'kern' Horizontal Kerning lookup 0 subtable" 546 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

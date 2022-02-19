@@ -1,0 +1,24 @@
+StartChar: bracketright
+Encoding: 171 93 171
+GlifName: bracketright
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+633 -220 m 257
+ 619 -420 l 257
+ 53 -420 l 257
+ 80 -270 l 257
+ 452 -270 l 257
+ 467 -70 l 257
+ 686 1170 l 257
+ 741 1370 l 257
+ 369 1370 l 257
+ 396 1520 l 257
+ 962 1520 l 257
+ 904 1320 l 257
+ 633 -220 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: idieresis
+Encoding: 315 239 315
+GlifName: idieresis
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+442 0 m 257
+ 136 0 l 257
+ 320 1049 l 257
+ 632 1081 l 257
+ 442 0 l 257
+217 1537 m 257
+ 493 1537 l 257
+ 446 1271 l 257
+ 170 1271 l 257
+ 217 1537 l 257
+617 1537 m 257
+ 893 1537 l 257
+ 846 1271 l 257
+ 570 1271 l 257
+ 617 1537 l 257
+EndSplineSet
+EndChar

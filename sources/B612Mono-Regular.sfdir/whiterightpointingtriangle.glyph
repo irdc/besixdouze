@@ -1,0 +1,21 @@
+StartChar: whiterightpointingtriangle
+Encoding: 572 9655 572
+GlifName: whiterightpointingtriangle
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1000 700 m 257
+ 251 1135 l 257
+ 276 700 l 257
+ 251 266 l 257
+ 1000 700 l 257
+841 700 m 257
+ 340 410 l 257
+ 356 700 l 257
+ 340 991 l 257
+ 841 700 l 257
+EndSplineSet
+EndChar

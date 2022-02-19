@@ -1,0 +1,83 @@
+StartChar: P
+Encoding: 59 80 59
+GlifName: P_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+289 0 m 257
+NamedP: "sv01"
+ 99 0 l 257
+NamedP: "ab01"
+ 327 1290 l 257
+ 327 1490 l 257
+ 357 1495 357 1495 398.5 1499 c 128
+ 440 1503 440 1503 486 1506 c 128
+ 532 1509 532 1509 578 1510.5 c 128
+ 624 1512 624 1512 663 1512 c 257
+NamedP: "at01"
+ 823 1512 823 1512 940 1481.5 c 128
+ 1057 1451 1057 1451 1130 1396.5 c 128
+ 1203 1342 1203 1342 1231.5 1266 c 128
+ 1260 1190 1260 1190 1244 1099 c 257
+ 1157 624 1157 624 399 624 c 257
+ 289 0 l 257
+NamedP: "sv01"
+491 1147 m 257
+ 424 765 l 257
+ 576 765 576 765 689.5 787 c 128
+ 803 809 803 809 881.5 852 c 128
+ 960 895 960 895 1005.5 957 c 128
+ 1051 1019 1051 1019 1066 1100 c 257
+ 1079 1167 1079 1167 1054.5 1217.5 c 128
+ 1030 1268 1030 1268 977.5 1302 c 128
+ 925 1336 925 1336 849 1353 c 128
+ 773 1370 773 1370 683 1370 c 257
+ 666 1370 666 1370 642.5 1369.5 c 128
+ 619 1369 619 1369 594.5 1367.5 c 128
+ 570 1366 570 1366 547 1364 c 128
+ 524 1362 524 1362 509 1359 c 257
+ 491 1147 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I0
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I0
+sVy
+p18
+I810
+sas."
+EndChar

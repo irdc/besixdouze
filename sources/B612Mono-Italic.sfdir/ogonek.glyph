@@ -1,0 +1,59 @@
+StartChar: ogonek
+Encoding: 343 731 343
+GlifName: ogonek
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+552 0 m 257
+NamedP: "sv02"
+ 528 -29 528 -29 510 -61 c 257
+ 495 -88 495 -88 485 -122 c 128
+ 475 -156 475 -156 480 -189 c 257
+ 488 -238 488 -238 518 -259 c 128
+ 548 -280 548 -280 591 -279 c 257
+NamedP: "sv01"
+ 620 -279 620 -279 647.5 -269 c 128
+ 675 -259 675 -259 697 -248 c 257
+ 723 -235 723 -235 746 -218 c 257
+NamedP: "mh01"
+ 835 -318 l 257
+NamedP: "mv01"
+ 796 -344 796 -344 754 -363 c 257
+ 718 -380 718 -380 674.5 -393.5 c 128
+ 631 -407 631 -407 589 -407 c 257
+NamedP: "av01"
+ 539 -407 539 -407 494.5 -393 c 128
+ 450 -379 450 -379 415.5 -352.5 c 128
+ 381 -326 381 -326 358 -287 c 128
+ 335 -248 335 -248 328 -198 c 257
+ 323 -158 323 -158 329 -122 c 128
+ 335 -86 335 -86 346 -59 c 257
+ 358 -27 358 -27 376 0 c 257
+NamedP: "ab01"
+ 552 0 l 257
+NamedP: "sv02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"3\" point=\"mh01\" ppm1=\"18\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mv01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"mh01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

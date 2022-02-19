@@ -1,0 +1,74 @@
+StartChar: indianrupee
+Encoding: 292 8377 292
+GlifName: indianrupee
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+282 1500 m 257
+ 1237 1500 l 257
+ 1087 1292 l 257
+ 999 1292 l 257
+ 864 1340 l 257
+ 939 1251 l 257
+ 945 1231 945 1231 943 1207 c 128
+ 941 1183 941 1183 938 1169 c 257
+ 1179 1169 l 257
+ 1028 959 l 257
+ 936 959 l 257
+ 829 990 l 257
+ 877 925 l 257
+NamedP: "mh01"
+ 845 866 845 866 795.5 815.5 c 128
+ 746 765 746 765 687 726 c 128
+ 628 687 628 687 562 661.5 c 128
+ 496 636 496 636 430 627 c 257
+ 570 583 l 257
+ 904 0 l 257
+ 536 0 l 257
+ 210 573 l 257
+ 203 583 203 583 192 583 c 257
+ 100 583 l 257
+NamedP: "mh02"
+ 139 802 l 257
+ 309 802 l 257
+ 356 802 356 802 396.5 814.5 c 128
+ 437 827 437 827 470.5 848 c 128
+ 504 869 504 869 530.5 897.5 c 128
+ 557 926 557 926 576 959 c 257
+ 128 959 l 257
+NamedP: "mh03"
+ 223 1169 l 257
+NamedP: "mv01"
+ 619 1169 l 257
+ 616 1185 616 1185 610 1206.5 c 128
+ 604 1228 604 1228 588.5 1247 c 128
+ 573 1266 573 1266 546 1279 c 128
+ 519 1292 519 1292 475 1292 c 257
+ 187 1292 l 257
+NamedP: "mv02"
+ 282 1500 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"mh01\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"3\" point=\"mh02\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh02\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"3\" point=\"mh03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"4\" point=\"mh03\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"3\" point=\"mh03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-1\" point=\"mv01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mv02\" ppm1=\"25\" ppm2=\"25\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

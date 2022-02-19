@@ -1,0 +1,142 @@
+StartChar: braceleft
+Encoding: 156 123 156
+GlifName: braceleft
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+228 625 m 257
+NamedP: "iv01"
+ 350 625 l 257
+ 399 632 399 632 428.5 652 c 128
+ 458 672 458 672 474 704 c 128
+ 490 736 490 736 495 780 c 128
+ 500 824 500 824 500 880 c 257
+ 500 1119 l 257
+ 500 1204 500 1204 515.5 1277 c 128
+ 531 1350 531 1350 569 1403 c 128
+ 607 1456 607 1456 670.5 1486.5 c 128
+ 734 1517 734 1517 830 1517 c 257
+NamedP: "at01"
+ 876 1517 876 1517 908.5 1514 c 128
+ 941 1511 941 1511 966.5 1505 c 128
+ 992 1499 992 1499 1012.5 1490.5 c 128
+ 1033 1482 1033 1482 1054 1472 c 257
+NamedP: "ah03"
+ 991 1349 l 257
+NamedP: "sh01"
+ 972 1360 972 1360 939.5 1368 c 128
+ 907 1376 907 1376 882 1376 c 257
+ 869 1376 l 257
+NamedP: "ah06"
+ 815 1372 815 1372 781.5 1353.5 c 128
+ 748 1335 748 1335 730 1302.5 c 128
+ 712 1270 712 1270 706 1223.5 c 128
+ 700 1177 700 1177 700 1119 c 257
+ 700 880 l 257
+ 700 776 700 776 676 690 c 128
+ 652 604 652 604 593 550 c 257
+NamedP: "ah01"
+ 623 523 623 523 643 487.5 c 128
+ 663 452 663 452 676 409.5 c 128
+ 689 367 689 367 694.5 319 c 128
+ 700 271 700 271 700 220 c 257
+ 700 -20 l 257
+ 700 -79 700 -79 706 -125 c 128
+ 712 -171 712 -171 730 -203.5 c 128
+ 748 -236 748 -236 781.5 -254.5 c 128
+ 815 -273 815 -273 869 -277 c 257
+NamedP: "ah05"
+ 882 -277 l 257
+ 907 -277 907 -277 939.5 -269 c 128
+ 972 -261 972 -261 991 -250 c 257
+NamedP: "sh02"
+ 1054 -373 l 257
+NamedP: "ah04"
+ 1033 -383 1033 -383 1012.5 -391.5 c 128
+ 992 -400 992 -400 966.5 -406.5 c 128
+ 941 -413 941 -413 908.5 -416.5 c 128
+ 876 -420 876 -420 830 -420 c 257
+NamedP: "av01"
+ 734 -420 734 -420 670.5 -389.5 c 128
+ 607 -359 607 -359 569 -305 c 128
+ 531 -251 531 -251 515.5 -178 c 128
+ 500 -105 500 -105 500 -20 c 257
+ 500 220 l 257
+ 500 275 500 275 495 319.5 c 128
+ 490 364 490 364 474 396 c 128
+ 458 428 458 428 428.5 448 c 128
+ 399 468 399 468 350 475 c 257
+ 228 475 l 257
+NamedP: "ah02"
+ 228 625 l 257
+NamedP: "iv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"iv01\">\\u000a            <hstem pos=\"-399\" width=\"-21\"/>\\u000a            <hstem pos=\"475\" width=\"150\"/>\\u000a            <hstem pos=\"1519\" width=\"-20\"/>\\u000a            <vstem pos=\"500\" width=\"200\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah05\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah06\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh01\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah04\" point2=\"sh02\" stem=\"X: dia Lite\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"ah03\" point2=\"sh02\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah02\" point1=\"ah04\" point2=\"sh01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I0
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I0
+sVy
+p26
+I550
+sa(dp27
+g22
+I0
+sg23
+I00
+sg24
+I5
+sg25
+I0
+sg26
+I475
+sas."
+EndChar

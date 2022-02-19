@@ -1,0 +1,25 @@
+StartChar: arrowupright
+Encoding: 122 8599 122
+GlifName: arrowupright
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+110 151 m 257
+ 251 10 l 257
+ 854 613 l 257
+ 921 692 l 257
+ 932 599 l 257
+ 1100 434 l 257
+ 1100 838 l 257
+ 1120 1020 l 257
+ 938 1000 l 257
+ 534 1000 l 257
+ 700 831 l 257
+ 794 819 l 257
+ 713 754 l 257
+ 110 151 l 257
+EndSplineSet
+EndChar

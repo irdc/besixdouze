@@ -1,0 +1,24 @@
+StartChar: plusinferior
+Encoding: 426 8330 426
+GlifName: plusinferior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+104 -150 m 257
+ 284 -150 l 257
+ 322 65 l 257
+ 427 65 l 257
+ 389 -150 l 257
+ 569 -150 l 257
+ 551 -250 l 257
+ 371 -250 l 257
+ 336 -450 l 257
+ 231 -450 l 257
+ 266 -250 l 257
+ 86 -250 l 257
+ 104 -150 l 257
+EndSplineSet
+EndChar

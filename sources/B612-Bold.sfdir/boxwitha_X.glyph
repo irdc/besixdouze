@@ -1,0 +1,36 @@
+StartChar: boxwithaX
+Encoding: 166 9746 166
+GlifName: boxwithaX_
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1100 0 m 257
+ 0 0 l 257
+ 0 1100 l 257
+ 1100 1100 l 257
+ 1100 0 l 257
+165 165 m 257
+ 935 165 l 257
+ 935 935 l 257
+ 165 935 l 257
+ 165 165 l 257
+701 230 m 257
+ 570 400 l 257
+ 562 468 l 257
+ 405 230 l 257
+ 226 230 l 257
+ 448 558 l 257
+ 227 844 l 257
+ 422 869 l 257
+ 515 733 l 257
+ 528 631 l 257
+ 668 853 l 257
+ 859 870 l 257
+ 655 569 l 257
+ 896 230 l 257
+ 701 230 l 257
+EndSplineSet
+EndChar

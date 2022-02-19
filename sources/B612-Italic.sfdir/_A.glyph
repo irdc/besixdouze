@@ -1,0 +1,27 @@
+StartChar: A
+Encoding: 1 65 1
+GlifName: A_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+61 0 m 257
+ 713 1300 l 257
+ 783 1500 l 257
+ 1005 1520 l 257
+ 1235 0 l 257
+ 1045 0 l 257
+ 976 450 l 257
+ 481 450 l 257
+ 256 0 l 257
+ 61 0 l 257
+888 1360 m 257
+ 806 1100 l 257
+ 556 600 l 257
+ 953 600 l 257
+ 878 1100 l 257
+ 888 1360 l 257
+EndSplineSet
+EndChar

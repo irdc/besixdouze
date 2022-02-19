@@ -1,0 +1,130 @@
+StartChar: w
+Encoding: 555 119 555
+GlifName: w
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+809 600 m 257
+ 860 300 l 257
+NamedP: "ah02"
+ 870 300 l 257
+ 859 700 l 257
+ 932 1100 l 257
+NamedP: "sh01"
+ 1225 1120 l 257
+NamedP: "sh02"
+ 1006 0 l 257
+NamedP: "ih01"
+ 740 0 l 257
+NamedP: "ih02"
+ 641 400 l 257
+ 625 600 l 257
+NamedP: "ih03"
+ 609 400 l 257
+ 513 0 l 257
+NamedP: "ih04"
+ 248 0 l 257
+NamedP: "ih05"
+ 34 1100 l 257
+NamedP: "sh04"
+ 322 1120 l 257
+NamedP: "sh03"
+ 394 700 l 257
+ 390 300 l 257
+NamedP: "iv01"
+ 400 300 l 257
+NamedP: "ah01"
+ 443 600 l 257
+ 508 900 l 257
+NamedP: "ih06"
+ 743 900 l 257
+NamedP: "ih07"
+ 809 600 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"eq X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"sh02\" point2=\"sh03\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih02\" point1=\"sh02\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" stem=\"eq X: dia Fat\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih03\" point1=\"sh04\" point2=\"sh02\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih04\" point1=\"sh04\" point2=\"sh01\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih05\" point1=\"sh04\" point2=\"sh01\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih06\" point1=\"sh04\" point2=\"sh01\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih07\" point1=\"sh02\" point2=\"sh03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih06\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih07\"/>\\u000a          <ttc code=\"alignt\" point=\"sh03\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"sh02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ih04\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ih01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah02\" point1=\"sh03\" point2=\"ih01\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ih03\" point1=\"sh03\" point2=\"ih01\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"sh03\" point2=\"ih01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I0
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I0
+sVy
+p18
+I540
+sa(dp19
+g14
+I0
+sg15
+I00
+sg16
+I5
+sg17
+I0
+sg18
+I640
+sa(dp20
+g14
+I90
+sg15
+I00
+sg16
+I5
+sg17
+I467
+sg18
+I0
+sa(dp21
+g14
+I90
+sg15
+I00
+sg16
+I5
+sg17
+I1040
+sg18
+I0
+sa(dp22
+g14
+I90
+sg15
+I00
+sg16
+I5
+sg17
+I743
+sg18
+I0
+sas."
+EndChar

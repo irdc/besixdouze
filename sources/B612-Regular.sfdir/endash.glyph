@@ -1,0 +1,16 @@
+StartChar: endash
+Encoding: 247 8211 247
+GlifName: endash
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 446 m 257
+ 1000 446 l 257
+ 1000 600 l 257
+ 0 600 l 257
+ 0 446 l 257
+EndSplineSet
+EndChar

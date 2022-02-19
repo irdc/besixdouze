@@ -1,0 +1,72 @@
+StartChar: diamondsweetwhite
+Encoding: 209 9826 209
+GlifName: diamondsweetwhite
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+600 1400 m 257
+ 108 699 l 257
+ 600 0 l 257
+ 1090 701 l 257
+ 600 1400 l 257
+874 670 m 257
+ 629 273 l 257
+ 599 163 l 257
+ 569 273 l 257
+ 325 670 l 257
+ 205 700 l 257
+ 325 730 l 257
+ 570 1128 l 257
+ 600 1238 l 257
+ 630 1128 l 257
+ 874 730 l 257
+ 994 700 l 257
+ 874 670 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.typemytype.robofont.guides
+p1
+(lp2
+(dp3
+Vangle
+p4
+I0
+sVisGlobal
+p5
+I00
+sVmagnetic
+p6
+I5
+sVx
+p7
+I0
+sVy
+p8
+I1315
+sa(dp9
+g4
+I90
+sg5
+I00
+sg6
+I5
+sg7
+I37
+sg8
+I0
+sa(dp10
+g4
+I90
+sg5
+I00
+sg6
+I5
+sg7
+I1364
+sg8
+I0
+sas."
+EndChar

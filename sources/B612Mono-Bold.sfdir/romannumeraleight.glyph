@@ -1,0 +1,117 @@
+StartChar: romannumeraleight
+Encoding: 421 8551 421
+GlifName: romannumeraleight
+Width: 2600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1081 1500 m 257
+NamedP: "sh01"
+ 668 200 l 257
+ 640 -17 l 257
+NamedP: "ab01"
+ 288 0 l 257
+ -185 1500 l 257
+NamedP: "ah01"
+ 137 1520 l 257
+NamedP: "sh02"
+ 390 700 l 257
+NamedP: "mh01"
+ 443 260 l 257
+NamedP: "ih01"
+ 513 700 l 257
+ 761 1500 l 257
+NamedP: "ah02"
+ 1081 1500 l 257
+NamedP: "sh01"
+1489 1500 m 257
+NamedP: "mh02"
+ 2367 1500 l 257
+NamedP: "ah04"
+ 2367 1272 l 257
+NamedP: "mh03"
+ 2094 1272 l 257
+NamedP: "dh04"
+ 2094 228 l 257
+NamedP: "dh02"
+ 2395 228 l 257
+NamedP: "sh03"
+ 2360 0 l 257
+NamedP: "ah05"
+ 1482 0 l 257
+NamedP: "ah03"
+ 1482 228 l 257
+NamedP: "mh04"
+ 1760 228 l 257
+NamedP: "dh01"
+ 1760 1272 l 257
+NamedP: "dh03"
+ 1454 1272 l 257
+NamedP: "sh04"
+ 1489 1500 l 257
+NamedP: "mh02"
+839 1500 m 257
+NamedP: "mh05"
+ 1717 1500 l 257
+NamedP: "ah07"
+ 1717 1272 l 257
+NamedP: "mh06"
+ 1444 1272 l 257
+NamedP: "dh08"
+ 1444 228 l 257
+NamedP: "dh06"
+ 1745 228 l 257
+NamedP: "sh05"
+ 1710 0 l 257
+NamedP: "ah08"
+ 832 0 l 257
+NamedP: "ah06"
+ 832 228 l 257
+NamedP: "mh07"
+ 1110 228 l 257
+NamedP: "dh05"
+ 1110 1272 l 257
+NamedP: "dh07"
+ 804 1272 l 257
+NamedP: "sh06"
+ 839 1500 l 257
+NamedP: "mh05"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"mh02\">\\u000a            <hstem pos=\"0\" width=\"228\"/>\\u000a            <hstem pos=\"1272\" width=\"228\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"mh05\">\\u000a            <hstem pos=\"0\" width=\"228\"/>\\u000a            <hstem pos=\"1272\" width=\"228\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\" stem=\"eq X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" stem=\"eq X: dia Fat\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"mh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"alignt\" point=\"sh02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-1\" point=\"mh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ih01\" point1=\"sh02\" point2=\"ab01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah05\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"mh02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"8\" point=\"ah04\" ppm1=\"23\" ppm2=\"23\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"ah04\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-3\" point=\"mh03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"ah03\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-6\" point=\"ah03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh03\" round=\"true\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh03\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"sh03\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"ah05\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh04\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-7\" point=\"mh04\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah04\" point2=\"sh04\" round=\"true\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"sh04\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh04\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"lsb\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah05\" point2=\"rsb\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"alignt\" point=\"mh02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ah04\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ah03\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ah05\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah04\" point2=\"mh03\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah05\" point2=\"sh03\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah03\" point2=\"mh04\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh02\" point2=\"sh04\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"sh04\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah06\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah07\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah08\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh05\" point2=\"dh06\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh07\" point2=\"dh08\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh05\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"mh05\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"8\" point=\"ah07\" ppm1=\"23\" ppm2=\"23\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"ah07\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-3\" point=\"mh06\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"ah06\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-6\" point=\"ah06\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah06\" point2=\"sh05\" round=\"true\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh05\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh05\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"sh05\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"ah08\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh07\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-7\" point=\"mh07\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah07\" point2=\"sh06\" round=\"true\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"sh06\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh06\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah06\" point2=\"lsb\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah08\" point2=\"rsb\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"alignt\" point=\"mh05\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ah07\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ah06\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ah08\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah07\" point2=\"mh06\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah08\" point2=\"sh05\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah06\" point2=\"mh07\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh05\" point2=\"sh06\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"sh06\" ppm1=\"22\" ppm2=\"22\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

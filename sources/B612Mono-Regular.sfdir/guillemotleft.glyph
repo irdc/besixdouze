@@ -1,0 +1,67 @@
+StartChar: guillemotleft
+Encoding: 271 171 271
+GlifName: guillemotleft
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+570 1026 m 257
+NamedP: "av01"
+ 620 901 l 257
+NamedP: "sv01"
+ 295 610 l 257
+ 157 550 l 257
+NamedP: "iv01"
+ 294 490 l 257
+ 622 201 l 257
+NamedP: "sv02"
+ 568 66 l 257
+NamedP: "av02"
+ 100 478 l 257
+NamedP: "dv02"
+ 100 617 l 257
+NamedP: "dv01"
+ 570 1026 l 257
+NamedP: "av01"
+1070 1026 m 257
+NamedP: "av03"
+ 1120 901 l 257
+NamedP: "sv03"
+ 795 610 l 257
+ 657 550 l 257
+NamedP: "iv02"
+ 794 490 l 257
+ 1122 201 l 257
+NamedP: "sv04"
+ 1068 66 l 257
+NamedP: "av04"
+ 600 478 l 257
+NamedP: "dv04"
+ 600 617 l 257
+NamedP: "dv03"
+ 1070 1026 l 257
+NamedP: "av03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"Y: 135\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 135\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"av01\" point2=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv02\" stem=\"Y: 135\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av04\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv03\" point2=\"dv04\" stem=\"Y: 135\"/>\\u000a          <ttc code=\"singlev\" point1=\"av03\" point2=\"sv03\" stem=\"Y: 135\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv02\" point1=\"av03\" point2=\"av04\"/>\\u000a          <ttc code=\"singlev\" point1=\"av04\" point2=\"sv04\" stem=\"Y: 135\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

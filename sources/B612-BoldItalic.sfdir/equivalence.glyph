@@ -1,0 +1,26 @@
+StartChar: equivalence
+Encoding: 252 8801 252
+GlifName: equivalence
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+120 600 m 257
+ 920 600 l 257
+ 920 460 l 257
+ 120 460 l 257
+ 120 600 l 257
+120 300 m 257
+ 920 300 l 257
+ 920 160 l 257
+ 120 160 l 257
+ 120 300 l 257
+120 900 m 257
+ 920 900 l 257
+ 920 760 l 257
+ 120 760 l 257
+ 120 900 l 257
+EndSplineSet
+EndChar

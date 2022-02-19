@@ -1,0 +1,106 @@
+StartChar: ffligature
+Encoding: 249 64256 249
+GlifName: ffligature
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+474 876 m 257
+NamedP: "dh04"
+ 474 0 l 257
+ 148 0 l 257
+ 148 876 l 257
+NamedP: "dh03"
+ 28 876 l 257
+NamedP: "dv02"
+ 28 1100 l 257
+NamedP: "dv01"
+ 148 1100 l 257
+NamedP: "dh01"
+ 148 1114 l 257
+ 148 1201 148 1201 161 1277 c 128
+ 174 1353 174 1353 210.5 1409.5 c 128
+ 247 1466 247 1466 312.5 1498.5 c 128
+ 378 1531 378 1531 484 1531 c 257
+NamedP: "at01"
+ 545 1531 545 1531 592 1521.5 c 128
+ 639 1512 639 1512 679 1492 c 257
+ 724 1536 724 1536 794.5 1559 c 128
+ 865 1582 865 1582 963 1582 c 257
+NamedP: "av01"
+ 1015 1582 1015 1582 1061 1572.5 c 128
+ 1107 1563 1107 1563 1146 1547 c 128
+ 1185 1531 1185 1531 1218.5 1510 c 128
+ 1252 1489 1252 1489 1281 1466 c 257
+ 1160 1300 l 257
+ 1123 1325 1123 1325 1083.5 1341.5 c 128
+ 1044 1358 1044 1358 995 1358 c 257
+NamedP: "sv01"
+ 944 1358 944 1358 923 1321 c 128
+ 902 1284 902 1284 902 1198 c 257
+ 902 1100 l 257
+ 1144 1100 l 257
+NamedP: "dv03"
+ 1117 876 l 257
+NamedP: "dv04"
+ 907 876 l 257
+ 907 0 l 257
+NamedP: "dh06"
+ 581 0 l 257
+NamedP: "dh05"
+ 581 1264 l 257
+NamedP: "mh01"
+ 570 1287 570 1287 555 1296 c 128
+ 540 1305 540 1305 520 1305 c 257
+NamedP: "sv02"
+ 501 1305 501 1305 491 1290.5 c 128
+ 481 1276 481 1276 476.5 1250 c 128
+ 472 1224 472 1224 471 1187 c 128
+ 470 1150 470 1150 470 1105 c 257
+NamedP: "dh02"
+ 470 1100 l 257
+ 521 1100 l 257
+NamedP: "mh02"
+ 521 876 l 257
+NamedP: "dv05"
+ 474 876 l 257
+NamedP: "dh04"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"mh02\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"876\" width=\"224\"/>\\u000a            <hstem pos=\"1305\" width=\"226\"/>\\u000a            <vstem pos=\"148\" width=\"326\"/>\\u000a            <vstem pos=\"581\" width=\"326\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"mh01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"876\" width=\"224\"/>\\u000a            <hstem pos=\"1305\" width=\"226\"/>\\u000a            <vstem pos=\"28\" width=\"493\"/>\\u000a            <vstem pos=\"581\" width=\"326\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh05\" point2=\"dh06\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"5\" point=\"dh05\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"4\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh02\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"eq Y: 162\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv03\" point2=\"dv04\" stem=\"eq Y: 162\"/>\\u000a          <ttc code=\"doublev\" point1=\"mh02\" point2=\"dv05\" stem=\"eq Y: 162\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"eq Y: 162\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\" stem=\"eq Y: 162\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,80 @@
+StartChar: OE
+Encoding: 49 338 49
+GlifName: O_E_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+419 -17 m 257
+NamedP: "ab02"
+ 305 -17 305 -17 216 25.5 c 128
+ 127 68 127 68 73.5 160 c 128
+ 20 252 20 252 6.5 398 c 128
+ -7 544 -7 544 29 750 c 257
+ 65 956 65 956 130 1101.5 c 128
+ 195 1247 195 1247 281 1339.5 c 128
+ 367 1432 367 1432 471.5 1474.5 c 128
+ 576 1517 576 1517 690 1517 c 257
+NamedP: "at02"
+ 804 1430 l 257
+ 807 1500 l 257
+NamedP: "at01"
+ 1432 1500 l 257
+NamedP: "sv01"
+ 1404 1340 l 257
+ 989 1340 l 257
+ 975 1150 l 257
+ 928 885 l 257
+NamedP: "av01"
+ 1253 885 l 257
+NamedP: "sv02"
+ 1228 740 l 257
+ 903 740 l 257
+ 832 340 l 257
+ 790 160 l 257
+ 1230 160 l 257
+ 1182 0 l 257
+NamedP: "sv03"
+ 542 0 l 257
+NamedP: "ab01"
+ 565 70 l 257
+ 419 -17 l 257
+NamedP: "ab02"
+792 1305 m 257
+ 769 1325 769 1325 732.5 1336 c 128
+ 696 1347 696 1347 654 1347 c 257
+ 504 1347 504 1347 397.5 1203.5 c 128
+ 291 1060 291 1060 243 785 c 257
+ 214 622 214 622 214 503 c 128
+ 214 384 214 384 241 306 c 128
+ 268 228 268 228 322 190.5 c 128
+ 376 153 376 153 455 153 c 257
+ 475 153 475 153 492 154.5 c 128
+ 509 156 509 156 525.5 159.5 c 128
+ 542 163 542 163 559 170.5 c 128
+ 576 178 576 178 596 190 c 257
+ 792 1305 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

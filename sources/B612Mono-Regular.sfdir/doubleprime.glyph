@@ -1,0 +1,25 @@
+StartChar: doubleprime
+Encoding: 215 8243 215
+GlifName: doubleprime
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+448 1245 m 257
+ 284 885 l 257
+ 199 885 l 257
+ 269 1245 l 257
+ 269 1520 l 257
+ 448 1500 l 257
+ 448 1245 l 257
+748 1245 m 257
+ 584 885 l 257
+ 499 885 l 257
+ 569 1245 l 257
+ 569 1520 l 257
+ 748 1500 l 257
+ 748 1245 l 257
+EndSplineSet
+EndChar

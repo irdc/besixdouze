@@ -1,0 +1,28 @@
+StartChar: Fourroman
+Encoding: 30 8547 30
+GlifName: F_ourroman
+Width: 1800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+115 0 m 257
+ 337 1263 l 257
+ 345 1494 l 257
+ 720 1525 l 257
+ 452 0 l 257
+ 115 0 l 257
+2134 1500 m 257
+ 1495 204 l 257
+ 1426 -25 l 257
+ 1061 5 l 257
+ 847 1492 l 257
+ 1165 1526 l 257
+ 1272 700 l 257
+ 1288 260 l 257
+ 1435 700 l 257
+ 1824 1500 l 257
+ 2134 1500 l 257
+EndSplineSet
+EndChar

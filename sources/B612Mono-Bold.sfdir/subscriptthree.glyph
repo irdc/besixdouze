@@ -1,0 +1,54 @@
+StartChar: subscriptthree
+Encoding: 495 8323 495
+GlifName: subscriptthree
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+240 -120 m 257
+NamedP: ""
+ 335 -115 335 -115 343 -115 c 256
+ 496 -115 496 -115 496 -219 c 256
+ 496 -296 496 -296 402.5 -346 c 0
+ 309 -396 309 -396 184 -400 c 257
+ 184 -500 l 257
+ 270 -500 270 -500 353 -482.5 c 0
+ 436 -465 436 -465 507.5 -431.5 c 0
+ 579 -398 579 -398 623 -341.5 c 0
+ 667 -285 667 -285 667 -214 c 256
+ 667 -122 667 -122 603.5 -69 c 0
+ 540 -16 540 -16 433 -16 c 257
+ 511 26 l 257
+ 596 100 596 100 620 163 c 257
+ 620 250 l 257
+ 199 250 l 257
+ 189 150 l 257
+ 354 150 l 257
+ 484 187 l 257
+ 434 107 434 107 240 -31 c 257
+ 240 -120 l 257
+NamedP: ""
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-500\" width=\"100\"/>\\u000a            <hstem pos=\"-115\" width=\"99\"/>\\u000a            <hstem pos=\"150\" width=\"100\"/>\\u000a            <vstem pos=\"496\" width=\"171\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

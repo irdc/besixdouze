@@ -1,0 +1,21 @@
+StartChar: i
+Encoding: 311 105 311
+GlifName: i
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+390 0 m 257
+ 208 0 l 257
+ 394 1055 l 257
+ 579 1075 l 257
+ 390 0 l 257
+468 1500 m 257
+ 660 1500 l 257
+ 625 1300 l 257
+ 433 1300 l 257
+ 468 1500 l 257
+EndSplineSet
+EndChar

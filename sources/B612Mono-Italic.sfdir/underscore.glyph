@@ -1,0 +1,38 @@
+StartChar: underscore
+Encoding: 545 95 545
+GlifName: underscore
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+101 -300 m 257
+ 1200 -300 l 257
+ 1172 -455 l 257
+NamedP: "sv01"
+ 73 -455 l 257
+NamedP: "ab01"
+ 101 -300 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: -500\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

@@ -1,0 +1,60 @@
+StartChar: exclam
+Encoding: 241 33 241
+GlifName: exclam
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+605 1500 m 257
+ 605 450 l 257
+NamedP: "mh01"
+ 395 429 l 257
+ 395 1500 l 257
+NamedP: "sh02"
+ 605 1500 l 257
+378 106 m 257
+NamedP: "sh01"
+ 378 131 378 131 387.5 153 c 128
+ 397 175 397 175 413.5 191.5 c 128
+ 430 208 430 208 452 217.5 c 128
+ 474 227 474 227 499 227 c 257
+NamedP: "mh02"
+ 524 227 524 227 546 217.5 c 128
+ 568 208 568 208 584.5 191.5 c 128
+ 601 175 601 175 610.5 153 c 128
+ 620 131 620 131 620 106 c 257
+NamedP: "mh03"
+ 620 81 620 81 610.5 58.5 c 128
+ 601 36 601 36 585 19.5 c 128
+ 569 3 569 3 547 -7 c 128
+ 525 -17 525 -17 500 -17 c 257
+NamedP: "ab01"
+ 474 -17 474 -17 452 -7 c 128
+ 430 3 430 3 413.5 19.5 c 128
+ 397 36 397 36 387.5 58.5 c 128
+ 378 81 378 81 378 106 c 257
+NamedP: "sh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-2\" point=\"mh01\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"singleh\" point1=\"lsb\" point2=\"sh01\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"mh02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh03\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"mh02\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-2\" point=\"mh02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

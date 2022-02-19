@@ -1,0 +1,43 @@
+StartChar: nu
+Encoding: 336 957 336
+GlifName: nu
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+411 1100 m 257
+NamedP: "hr00"
+ 91 1100 l 257
+ 473 0 l 257
+ 827 0 l 257
+ 1209 1100 l 257
+ 888 1100 l 257
+ 739 650 l 257
+ 657 250 l 257
+ 573 650 l 257
+ 411 1100 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1100\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

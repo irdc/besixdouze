@@ -1,0 +1,30 @@
+StartChar: fractionnumeratorone
+Encoding: 286 8543 286
+GlifName: fractionnumeratorone
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+474 0 m 257
+ 289 0 l 257
+ 1064 1500 l 257
+ 1240 1500 l 257
+ 474 0 l 257
+282 1162 m 257
+ 319 1343 l 257
+ 205 1208 l 257
+ 163 1171 l 257
+ 86 1263 l 257
+ 326 1484 l 257
+ 447 1468 l 257
+ 447 822 l 257
+ 569 822 l 257
+ 569 722 l 257
+ 160 722 l 257
+ 160 822 l 257
+ 282 822 l 257
+ 282 1162 l 257
+EndSplineSet
+EndChar

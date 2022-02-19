@@ -1,0 +1,62 @@
+StartChar: logicaland
+Encoding: 340 8743 340
+GlifName: logicaland
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+780 1320 m 257
+NamedP: "hr00"
+ 1222 0 l 257
+ 1058 0 l 257
+ 722 980 l 257
+ 657 1220 l 257
+ 592 980 l 257
+ 255 0 l 257
+ 93 0 l 257
+ 522 1300 l 257
+ 780 1320 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1320\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I0
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I0
+sVy
+p18
+I1302
+sas."
+EndChar

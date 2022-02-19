@@ -1,0 +1,65 @@
+StartChar: chi
+Encoding: 185 967 185
+GlifName: chi
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+691 53 m 257
+NamedP: "hr00"
+ 614 230 l 257
+ 566 70 l 257
+ 251 -500 l 257
+ 53 -500 l 257
+ 523 329 l 257
+ 218 869 l 258
+ 190 917 190 917 160.5 946.5 c 0
+ 131 976 131 976 115.5 981.5 c 0
+ 100 987 l 257
+ 100 1117 l 257
+ 144 1117 144 1117 175 1112 c 0
+ 206 1107 206 1107 244.5 1090 c 0
+ 283 1073 283 1073 318.5 1036 c 0
+ 354 999 354 999 387 940 c 258
+ 590 586 l 257
+ 670 390 l 257
+ 705 550 l 257
+ 1003 1100 l 257
+ 1203 1100 l 257
+ 758 306 l 257
+ 1081 -265 l 258
+ 1108 -313 1108 -313 1138 -342.5 c 0
+ 1168 -372 1168 -372 1184 -377.5 c 0
+ 1200 -383 l 257
+ 1200 -517 l 257
+ 1166 -517 1166 -517 1140 -514 c 0
+ 1114 -511 1114 -511 1082.5 -500 c 0
+ 1051 -489 1051 -489 1024.5 -470 c 0
+ 998 -451 998 -451 968.5 -417 c 0
+ 939 -383 939 -383 912 -336 c 258
+ 691 53 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

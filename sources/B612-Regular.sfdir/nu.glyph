@@ -1,0 +1,21 @@
+StartChar: nu
+Encoding: 371 957 371
+GlifName: nu
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+724 0 m 257
+ 1106 1100 l 257
+ 915 1100 l 257
+ 638 295 l 257
+ 590 75 l 257
+ 544 295 l 257
+ 267 1100 l 257
+ 74 1100 l 257
+ 457 0 l 257
+ 724 0 l 257
+EndSplineSet
+EndChar

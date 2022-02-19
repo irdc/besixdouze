@@ -1,0 +1,16 @@
+StartChar: dotaccent
+Encoding: 227 729 227
+GlifName: dotaccent
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+383 1500 m 257
+ 711 1500 l 257
+ 670 1269 l 257
+ 342 1269 l 257
+ 383 1500 l 257
+EndSplineSet
+EndChar

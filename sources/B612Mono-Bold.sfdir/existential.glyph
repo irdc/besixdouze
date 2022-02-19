@@ -1,0 +1,49 @@
+StartChar: existential
+Encoding: 243 8707 243
+GlifName: existential
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+175 160 m 257
+ 175 0 l 257
+ 1187 0 l 257
+ 1170 200 l 257
+ 1170 1100 l 257
+ 1192 1300 l 257
+ 175 1300 l 257
+ 175 1150 l 257
+ 1020 1150 l 257
+ 1000 950 l 257
+ 1000 800 l 257
+ 230 800 l 257
+ 248 650 l 257
+ 1000 650 l 257
+ 1000 350 l 257
+ 1015 160 l 257
+ 175 160 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.typemytype.robofont.guides
+p1
+(lp2
+(dp3
+Vangle
+p4
+I0
+sVisGlobal
+p5
+I00
+sVmagnetic
+p6
+I5
+sVx
+p7
+I0
+sVy
+p8
+I900
+sas."
+EndChar

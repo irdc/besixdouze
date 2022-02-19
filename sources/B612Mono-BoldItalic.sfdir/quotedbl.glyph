@@ -1,0 +1,81 @@
+StartChar: quotedbl
+Encoding: 396 34 396
+GlifName: quotedbl
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+893 1500 m 257
+NamedP: "sv01"
+ 870 1367 l 257
+ 867 1349 867 1349 862.5 1324.5 c 128
+ 858 1300 858 1300 852 1273 c 128
+ 846 1246 846 1246 839 1218.5 c 128
+ 832 1191 832 1191 825 1168 c 257
+ 775 1013 l 257
+NamedP: "sv02"
+ 595 1013 l 257
+ 599 1168 l 257
+ 600 1191 600 1191 602.5 1218.5 c 128
+ 605 1246 605 1246 609 1273 c 128
+ 613 1300 613 1300 617 1324.5 c 128
+ 621 1349 621 1349 624 1367 c 257
+ 647 1500 l 257
+ 893 1500 l 257
+NamedP: "sv01"
+593 1500 m 257
+ 570 1367 l 257
+ 567 1349 567 1349 562.5 1324.5 c 128
+ 558 1300 558 1300 552 1273 c 128
+ 546 1246 546 1246 539 1218.5 c 128
+ 532 1191 532 1191 525 1168 c 257
+ 475 1013 l 257
+ 295 1013 l 257
+NamedP: "av01"
+ 299 1168 l 257
+ 300 1191 300 1191 302.5 1218.5 c 128
+ 305 1246 305 1246 309 1273 c 128
+ 313 1300 313 1300 317 1324.5 c 128
+ 321 1349 321 1349 324 1367 c 257
+ 347 1500 l 257
+NamedP: "at01"
+ 593 1500 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sv01\">\\u000a            <hstem pos=\"1067\" width=\"433\"/>\\u000a            <vstem pos=\"150\" width=\"175\"/>\\u000a            <vstem pos=\"451\" width=\"175\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

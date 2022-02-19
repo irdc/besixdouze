@@ -1,0 +1,16 @@
+StartChar: blackrightpointingtriangle
+Encoding: 162 9654 162
+GlifName: blackrightpointingtriangle
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+150 1135 m 257
+ 899 700 l 257
+ 150 266 l 257
+ 175 700 l 257
+ 150 1135 l 257
+EndSplineSet
+EndChar

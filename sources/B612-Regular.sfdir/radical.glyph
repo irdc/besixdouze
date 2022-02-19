@@ -1,0 +1,64 @@
+StartChar: radical
+Encoding: 448 8730 448
+GlifName: radical
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1500 1300 m 257
+NamedP: "dv02"
+ 1480 1150 l 257
+NamedP: "dv01"
+ 1210 1150 l 257
+ 1010 1170 l 257
+ 676 -20 l 257
+NamedP: "ab01"
+ 418 0 l 257
+ 265 550 l 257
+ 188 750 l 257
+ 373 770 l 257
+ 504 300 l 257
+ 550 60 l 257
+ 596 300 l 257
+ 878 1300 l 257
+ 1500 1300 l 257
+NamedP: "dv02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dv02\">\\u000a            <hstem pos=\"1\" width=\"-21\"/>\\u000a            <hstem pos=\"1150\" width=\"150\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"Y: 153\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,76 @@
+StartChar: daggerdbl
+Encoding: 204 8225 204
+GlifName: daggerdbl
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+361 82 m 257
+NamedP: "hr00"
+ 105 82 l 257
+ 144 300 l 257
+NamedP: "av01"
+ 400 300 l 257
+ 505 900 l 257
+ 249 900 l 257
+ 288 1118 l 257
+NamedP: "at01"
+ 544 1118 l 257
+ 611 1500 l 257
+ 897 1520 l 257
+NamedP: "at02"
+ 826 1118 l 257
+ 1115 1118 l 257
+NamedP: "sv01"
+ 1048 900 l 257
+ 787 900 l 257
+ 682 300 l 257
+ 971 300 l 257
+NamedP: "sv02"
+ 904 82 l 257
+ 643 82 l 257
+ 558 -400 l 257
+NamedP: "sv03"
+ 276 -400 l 257
+NamedP: "av02"
+ 361 82 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-379\" width=\"-21\"/>\\u000a            <hstem pos=\"150\" width=\"150\"/>\\u000a            <hstem pos=\"900\" width=\"149\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a            <vstem pos=\"400\" width=\"200\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

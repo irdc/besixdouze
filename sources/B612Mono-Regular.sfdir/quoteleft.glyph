@@ -1,0 +1,59 @@
+StartChar: quoteleft
+Encoding: 400 8216 400
+GlifName: quoteleft
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+424 1095 m 257
+NamedP: "ah02"
+ 424 1070 424 1070 414 1048 c 128
+ 404 1026 404 1026 387 1009.5 c 128
+ 370 993 370 993 347.5 983.5 c 128
+ 325 974 325 974 300 974 c 257
+NamedP: "av01"
+ 275 974 275 974 252.5 982.5 c 128
+ 230 991 230 991 213 1008 c 128
+ 196 1025 196 1025 185.5 1050.5 c 128
+ 175 1076 175 1076 175 1109 c 257
+NamedP: "ah01"
+ 175 1153 175 1153 180.5 1195 c 128
+ 186 1237 186 1237 203 1280 c 128
+ 220 1323 220 1323 252 1367.5 c 128
+ 284 1412 284 1412 336 1460 c 257
+NamedP: "mh01"
+ 380 1440 l 257
+NamedP: "mh02"
+ 361 1403 361 1403 346 1364 c 257
+ 333 1331 333 1331 322.5 1292 c 128
+ 312 1253 312 1253 312 1216 c 257
+NamedP: "mh03"
+ 333 1215 333 1215 353 1206.5 c 128
+ 373 1198 373 1198 389 1183 c 128
+ 405 1168 405 1168 414.5 1146 c 128
+ 424 1124 424 1124 424 1095 c 257
+NamedP: "ah02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"4\" point=\"mh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh01\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"4\" point=\"mh01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"mh02\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"mh02\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"mh02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-2\" point=\"mh02\" ppm1=\"17\" ppm2=\"18\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-3\" point=\"mh02\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"mh03\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"mh03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"mh01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-2\" point=\"mh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-2\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-4\" point=\"mh01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-7\" point=\"mh01\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-3\" point=\"mh02\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-1\" point=\"mh02\" ppm1=\"12\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-4\" point=\"mh02\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"mh02\" ppm1=\"14\" ppm2=\"14\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

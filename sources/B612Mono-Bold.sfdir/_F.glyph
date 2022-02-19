@@ -1,0 +1,68 @@
+StartChar: F
+Encoding: 26 70 26
+GlifName: F_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+551 0 m 257
+NamedP: "dh02"
+ 200 0 l 257
+NamedP: "dh01"
+ 200 1263 l 257
+ 165 1500 l 257
+NamedP: "at01"
+ 1167 1500 l 257
+NamedP: "dh04"
+ 1140 1272 l 257
+NamedP: "sv01"
+ 536 1272 l 257
+ 551 1134 l 257
+NamedP: "sh01"
+ 551 916 l 257
+ 1064 916 l 257
+NamedP: "dh03"
+ 1064 703 l 257
+NamedP: "dv01"
+ 551 703 l 257
+ 551 0 l 257
+NamedP: "dh02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dh02\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"703\" width=\"213\"/>\\u000a            <hstem pos=\"1272\" width=\"228\"/>\\u000a            <vstem pos=\"200\" width=\"351\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"eq X: ecart du B\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"sh01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"dh02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dh03\" point2=\"dv01\" stem=\"eq Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\" stem=\"eq Y: 162\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

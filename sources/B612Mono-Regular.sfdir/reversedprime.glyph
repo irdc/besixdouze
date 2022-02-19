@@ -1,0 +1,18 @@
+StartChar: reversedprime
+Encoding: 413 8245 413
+GlifName: reversedprime
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+252 1245 m 257
+ 416 885 l 257
+ 501 885 l 257
+ 431 1245 l 257
+ 431 1520 l 257
+ 252 1500 l 257
+ 252 1245 l 257
+EndSplineSet
+EndChar

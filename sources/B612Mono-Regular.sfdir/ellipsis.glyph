@@ -1,0 +1,112 @@
+StartChar: ellipsis
+Encoding: 228 8230 228
+GlifName: ellipsis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 150 m 257
+NamedP: "ah01"
+ 37 184 37 184 50 214 c 128
+ 63 244 63 244 85.5 266.5 c 128
+ 108 289 108 289 137.5 302 c 128
+ 167 315 167 315 201 315 c 257
+NamedP: "av01"
+ 235 315 235 315 265 302 c 128
+ 295 289 295 289 317.5 266.5 c 128
+ 340 244 340 244 353 214 c 128
+ 366 184 366 184 366 150 c 257
+NamedP: "ah02"
+ 366 116 366 116 353 85.5 c 128
+ 340 55 340 55 318 32.5 c 128
+ 296 10 296 10 266.5 -3.5 c 128
+ 237 -17 237 -17 203 -17 c 257
+NamedP: "ab01"
+ 169 -17 169 -17 138.5 -3.5 c 128
+ 108 10 108 10 85.5 32.5 c 128
+ 63 55 63 55 50 85.5 c 128
+ 37 116 37 116 37 150 c 257
+NamedP: "ah01"
+477 150 m 257
+NamedP: "ah03"
+ 477 184 477 184 490 214 c 128
+ 503 244 503 244 525.5 266.5 c 128
+ 548 289 548 289 577.5 302 c 128
+ 607 315 607 315 641 315 c 257
+NamedP: "av02"
+ 675 315 675 315 705 302 c 128
+ 735 289 735 289 757.5 266.5 c 128
+ 780 244 780 244 793 214 c 128
+ 806 184 806 184 806 150 c 257
+NamedP: "ah04"
+ 806 116 806 116 793 85.5 c 128
+ 780 55 780 55 758 32.5 c 128
+ 736 10 736 10 706.5 -3.5 c 128
+ 677 -17 677 -17 643 -17 c 257
+NamedP: "ab02"
+ 609 -17 609 -17 578.5 -3.5 c 128
+ 548 10 548 10 525.5 32.5 c 128
+ 503 55 503 55 490 85.5 c 128
+ 477 116 477 116 477 150 c 257
+NamedP: "ah03"
+917 150 m 257
+NamedP: "ah05"
+ 917 184 917 184 930 214 c 128
+ 943 244 943 244 965.5 266.5 c 128
+ 988 289 988 289 1017.5 302 c 128
+ 1047 315 1047 315 1081 315 c 257
+NamedP: "av03"
+ 1115 315 1115 315 1145 302 c 128
+ 1175 289 1175 289 1197.5 266.5 c 128
+ 1220 244 1220 244 1233 214 c 128
+ 1246 184 1246 184 1246 150 c 257
+NamedP: "ah06"
+ 1246 116 1246 116 1233 85.5 c 128
+ 1220 55 1220 55 1198 32.5 c 128
+ 1176 10 1176 10 1146.5 -3.5 c 128
+ 1117 -17 1117 -17 1083 -17 c 257
+NamedP: "ab03"
+ 1049 -17 1049 -17 1018.5 -3.5 c 128
+ 988 10 988 10 965.5 32.5 c 128
+ 943 55 943 55 930 85.5 c 128
+ 917 116 917 116 917 150 c 257
+NamedP: "ah05"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah05\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah06\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab03\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah05\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah06\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab03\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

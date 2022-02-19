@@ -1,0 +1,20 @@
+StartChar: logicalnot
+Encoding: 341 172 341
+GlifName: logicalnot
+Width: 1700
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1461 827 m 257
+ 1442 586 l 257
+ 1442 258 l 257
+ 1100 258 l 257
+ 1100 459 l 257
+ 1112 600 l 257
+ 162 600 l 257
+ 162 827 l 257
+ 1461 827 l 257
+EndSplineSet
+EndChar

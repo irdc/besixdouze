@@ -1,0 +1,11 @@
+StartChar: adieresis
+Encoding: 106 228 106
+GlifName: adieresis
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 101 97 N 1 0 0 1 0 0 2
+Refer: 223 168 N 1 0 0 1 -100 0 2
+EndChar

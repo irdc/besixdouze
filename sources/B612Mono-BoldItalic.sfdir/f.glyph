@@ -1,0 +1,114 @@
+StartChar: f
+Encoding: 245 102 245
+GlifName: f
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+487 876 m 257
+NamedP: "hr00"
+ 231 876 l 257
+ 270 1100 l 257
+NamedP: "at01"
+ 526 1100 l 257
+ 551 1242 l 257
+ 570 1339 570 1339 603.5 1412 c 128
+ 637 1485 637 1485 689 1533 c 128
+ 741 1581 741 1581 814 1602 c 128
+ 887 1623 887 1623 985 1617 c 257
+NamedP: "av01"
+ 1037 1614 1037 1614 1082.5 1601.5 c 128
+ 1128 1589 1128 1589 1165 1572.5 c 128
+ 1202 1556 1202 1556 1231.5 1537 c 128
+ 1261 1518 1261 1518 1282 1501 c 257
+ 1118 1341 l 257
+ 1089 1361 1089 1361 1055 1374.5 c 128
+ 1021 1388 1021 1388 977 1393 c 257
+ 951 1396 951 1396 930 1389.5 c 128
+ 909 1383 909 1383 893.5 1364 c 128
+ 878 1345 878 1345 866.5 1313 c 128
+ 855 1281 855 1281 847 1233 c 257
+ 823 1100 l 257
+ 1120 1100 l 257
+NamedP: "sv01"
+ 1054 876 l 257
+ 798 876 l 257
+ 644 0 l 257
+ 624 -112 624 -112 596 -195.5 c 128
+ 568 -279 568 -279 520.5 -333 c 128
+ 473 -387 473 -387 399.5 -411 c 128
+ 326 -435 326 -435 214 -428 c 257
+NamedP: "av02"
+ 177 -426 177 -426 145 -419.5 c 128
+ 113 -413 113 -413 87.5 -405.5 c 128
+ 62 -398 62 -398 44 -390 c 128
+ 26 -382 26 -382 16 -376 c 257
+ 106 -179 l 257
+ 107 -179 107 -179 107.5 -179.5 c 128
+ 108 -180 108 -180 109 -180 c 257
+ 128 -188 128 -188 151.5 -196 c 128
+ 175 -204 175 -204 201 -202 c 257
+ 229 -199 229 -199 250 -184 c 128
+ 271 -169 271 -169 286 -142.5 c 128
+ 301 -116 301 -116 312 -80 c 128
+ 323 -44 323 -44 333 0 c 257
+ 487 876 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"20\" width=\"-21\"/>\\u000a            <hstem pos=\"876\" width=\"224\"/>\\u000a            <hstem pos=\"1358\" width=\"224\"/>\\u000a            <vstem pos=\"134\" width=\"326\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I0
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I0
+sVy
+p26
+I3298
+sas."
+EndChar

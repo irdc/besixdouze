@@ -1,0 +1,70 @@
+StartChar: H
+Encoding: 29 72 29
+GlifName: H_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+672 0 m 257
+NamedP: "hr00"
+ 794 688 l 257
+NamedP: "sv01"
+ 478 688 l 257
+NamedP: "av01"
+ 356 0 l 257
+ 10 0 l 257
+NamedP: "ab01"
+ 232 1263 l 257
+ 232 1500 l 257
+NamedP: "at01"
+ 625 1520 l 257
+NamedP: "at02"
+ 518 916 l 257
+ 834 916 l 257
+ 937 1500 l 257
+NamedP: "sv02"
+ 1287 1520 l 257
+NamedP: "at03"
+ 1018 0 l 257
+NamedP: "sv03"
+ 672 0 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"19\" width=\"-21\"/>\\u000a            <hstem pos=\"655\" width=\"289\"/>\\u000a            <hstem pos=\"1518\" width=\"-20\"/>\\u000a            <vstem pos=\"131\" width=\"258\"/>\\u000a            <vstem pos=\"886\" width=\"257\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at03\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

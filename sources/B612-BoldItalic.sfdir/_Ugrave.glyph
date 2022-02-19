@@ -1,0 +1,41 @@
+StartChar: Ugrave
+Encoding: 89 217 89
+GlifName: U_grave
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1499 1500 m 257
+ 1329 534 l 257
+ 1307 390 1307 390 1247.5 282 c 128
+ 1188 174 1188 174 1100 103.5 c 128
+ 1012 33 1012 33 901 2 c 128
+ 790 -29 790 -29 664 -17 c 257
+ 531 -5 531 -5 437.5 43 c 128
+ 344 91 344 91 289.5 169 c 128
+ 235 247 235 247 219.5 351.5 c 128
+ 204 456 204 456 228 582 c 257
+ 348 1263 l 257
+ 356 1494 l 257
+ 727 1526 l 257
+ 557 564 l 257
+ 540 492 540 492 544.5 432.5 c 128
+ 549 373 549 373 570 328 c 128
+ 591 283 591 283 628 255.5 c 128
+ 665 228 665 228 714 221 c 257
+ 768 213 768 213 815 230.5 c 128
+ 862 248 862 248 898.5 286.5 c 128
+ 935 325 935 325 959.5 383.5 c 128
+ 984 442 984 442 994 516 c 257
+ 1168 1500 l 257
+ 1499 1500 l 257
+1102 1600 m 257
+ 844 1600 l 257
+ 631 1891 l 257
+ 984 1925 l 257
+ 1102 1600 l 257
+EndSplineSet
+Kerns2: 2 -100 "'kern' Horizontal Kerning lookup 0 subtable" 3 -100 "'kern' Horizontal Kerning lookup 0 subtable" 4 -100 "'kern' Horizontal Kerning lookup 0 subtable" 5 -100 "'kern' Horizontal Kerning lookup 0 subtable" 6 -100 "'kern' Horizontal Kerning lookup 0 subtable" 8 -100 "'kern' Horizontal Kerning lookup 0 subtable" 9 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

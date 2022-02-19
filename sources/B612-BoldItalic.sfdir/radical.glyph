@@ -1,0 +1,25 @@
+StartChar: radical
+Encoding: 448 8730 448
+GlifName: radical
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1500 1300 m 257
+ 1480 1150 l 257
+ 1210 1150 l 257
+ 1010 1170 l 257
+ 676 -20 l 257
+ 418 0 l 257
+ 265 550 l 257
+ 188 750 l 257
+ 373 770 l 257
+ 504 300 l 257
+ 550 60 l 257
+ 596 300 l 257
+ 878 1300 l 257
+ 1500 1300 l 257
+EndSplineSet
+EndChar

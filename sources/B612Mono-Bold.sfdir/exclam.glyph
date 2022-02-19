@@ -1,0 +1,78 @@
+StartChar: exclam
+Encoding: 241 33 241
+GlifName: exclam
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+652 1500 m 257
+NamedP: "mh01"
+ 652 444 l 257
+NamedP: "mh02"
+ 352 409 l 257
+NamedP: "av02"
+ 352 1500 l 257
+NamedP: "mh03"
+ 652 1500 l 257
+NamedP: "mh01"
+338 149 m 257
+NamedP: "ah01"
+ 338 183 338 183 351 212.5 c 128
+ 364 242 364 242 386 264.5 c 128
+ 408 287 408 287 437.5 300 c 128
+ 467 313 467 313 501 313 c 257
+NamedP: "av01"
+ 535 313 535 313 564.5 300 c 128
+ 594 287 594 287 616 264.5 c 128
+ 638 242 638 242 651 212.5 c 128
+ 664 183 664 183 664 149 c 257
+NamedP: "ah02"
+ 664 116 664 116 651.5 85.5 c 128
+ 639 55 639 55 617 32.5 c 128
+ 595 10 595 10 565.5 -3.5 c 128
+ 536 -17 536 -17 502 -17 c 257
+NamedP: "ab01"
+ 468 -17 468 -17 438 -3.5 c 128
+ 408 10 408 10 386 32.5 c 128
+ 364 55 364 55 351 85.5 c 128
+ 338 116 338 116 338 149 c 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"mh01\">\\u000a            <hstem pos=\"-17\" width=\"330\"/>\\u000a            <hstem pos=\"1500\" width=\"-20\"/>\\u000a            <vstem pos=\"352\" width=\"300\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh01\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh02\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"mh03\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"5\" point=\"ah01\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"3\" point=\"ah02\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"mh03\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh03\" point2=\"mh02\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

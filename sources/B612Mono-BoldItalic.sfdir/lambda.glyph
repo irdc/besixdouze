@@ -1,0 +1,81 @@
+StartChar: lambda
+Encoding: 302 955 302
+GlifName: lambda
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+887 0 m 257
+NamedP: "ab02"
+ 799 452 l 257
+NamedP: "sv01"
+ 794 875 l 257
+NamedP: "ih01"
+ 640 454 l 257
+NamedP: "av02"
+ 403 0 l 257
+NamedP: "ih02"
+ 91 0 l 257
+NamedP: "ab01"
+ 719 1148 l 257
+ 717 1192 717 1192 702.5 1231.5 c 128
+ 688 1271 688 1271 667 1300.5 c 128
+ 646 1330 646 1330 623 1347.5 c 128
+ 600 1365 600 1365 583 1365 c 257
+ 569 1365 569 1365 557 1362.5 c 128
+ 545 1360 545 1360 532 1354 c 128
+ 519 1348 519 1348 503.5 1339 c 128
+ 488 1330 488 1330 467 1317 c 257
+ 376 1475 l 257
+ 443 1525 443 1525 513.5 1553 c 128
+ 584 1581 584 1581 651 1581 c 257
+NamedP: "av01"
+ 707 1581 707 1581 751.5 1560 c 128
+ 796 1539 796 1539 830.5 1503 c 128
+ 865 1467 865 1467 891 1419 c 128
+ 917 1371 917 1371 936.5 1317 c 128
+ 956 1263 956 1263 969.5 1205 c 128
+ 983 1147 983 1147 994 1092 c 257
+ 1200 0 l 257
+NamedP: "ih03"
+ 887 0 l 257
+NamedP: "ab02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ab02\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1375\" width=\"145\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"ih02\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab02\" point2=\"ih03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

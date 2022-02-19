@@ -1,0 +1,11 @@
+StartChar: angstrom
+Encoding: 112 8491 112
+GlifName: angstrom
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 461 730 N 1 0 0 1 180 245 2
+EndChar

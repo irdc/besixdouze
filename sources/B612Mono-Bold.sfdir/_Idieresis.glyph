@@ -1,0 +1,88 @@
+StartChar: Idieresis
+Encoding: 33 207 33
+GlifName: I_dieresis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+189 1500 m 257
+NamedP: "mh01"
+ 1067 1500 l 257
+NamedP: "ah02"
+ 1067 1272 l 257
+NamedP: "mh02"
+ 794 1272 l 257
+NamedP: "dh04"
+ 794 228 l 257
+NamedP: "dh02"
+ 1095 228 l 257
+NamedP: "sh01"
+ 1060 0 l 257
+NamedP: "ah03"
+ 182 0 l 257
+NamedP: "ah01"
+ 182 228 l 257
+NamedP: "mh03"
+ 460 228 l 257
+NamedP: "dh01"
+ 460 1272 l 257
+NamedP: "dh03"
+ 154 1272 l 257
+NamedP: "sh02"
+ 189 1500 l 257
+NamedP: "mh01"
+291 1966 m 257
+NamedP: "ah04"
+ 567 1966 l 257
+ 567 1700 l 257
+NamedP: "sv01"
+ 291 1700 l 257
+ 291 1966 l 257
+NamedP: "ah04"
+691 1966 m 257
+NamedP: "ah05"
+ 967 1966 l 257
+ 967 1700 l 257
+NamedP: "sv02"
+ 691 1700 l 257
+ 691 1966 l 257
+NamedP: "ah05"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ah04\">\\u000a            <hstem pos=\"1700\" width=\"266\"/>\\u000a            <vstem pos=\"291\" width=\"276\"/>\\u000a            <vstem pos=\"691\" width=\"276\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh01\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"mh01\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"8\" point=\"ah02\" ppm1=\"23\" ppm2=\"23\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"ah02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-3\" point=\"mh02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"ah01\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-6\" point=\"ah01\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" round=\"true\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh01\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"sh01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"ah03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh03\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-7\" point=\"mh03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh02\" round=\"true\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"sh02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"sh02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"lsb\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"rsb\" stem=\"eq X: 190\"/>\\u000a          <ttc code=\"alignt\" point=\"mh01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ah02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ah01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ah03\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah02\" point2=\"mh02\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah03\" point2=\"sh01\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah01\" point2=\"mh03\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh01\" point2=\"sh02\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"sh02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah05\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ah05\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah04\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah05\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

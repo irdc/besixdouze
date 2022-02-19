@@ -1,0 +1,117 @@
+StartChar: x
+Encoding: 578 120 578
+GlifName: x
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+851 0 m 257
+ 650 382 l 257
+ 626 500 l 257
+ 560 382 l 257
+ 225 0 l 257
+ 26 0 l 257
+NamedP: "ab01"
+ 541 588 l 257
+ 273 1100 l 257
+NamedP: "av01"
+ 487 1121 l 257
+NamedP: "av02"
+ 663 781 l 257
+ 683 670 l 257
+ 740 781 l 257
+ 1021 1100 l 257
+NamedP: "sv01"
+ 1236 1121 l 257
+NamedP: "av03"
+ 767 583 l 257
+ 1076 0 l 257
+NamedP: "sv02"
+ 851 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I0
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I0
+sVy
+p18
+I382
+sa(dp19
+g14
+I0
+sg15
+I00
+sg16
+I5
+sg17
+I0
+sg18
+I583
+sa(dp20
+g14
+I0
+sg15
+I00
+sg16
+I5
+sg17
+I0
+sg18
+I781
+sa(dp21
+g14
+I90
+sg15
+I00
+sg16
+I5
+sg17
+I565
+sg18
+I0
+sa(dp22
+g14
+I90
+sg15
+I00
+sg16
+I5
+sg17
+I538
+sg18
+I0
+sas."
+EndChar

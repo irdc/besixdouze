@@ -1,0 +1,91 @@
+StartChar: slashedzero
+Encoding: 455 57351 455
+GlifName: slashedzero
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+512 -16 m 257
+ 419 -16 419 -16 347 16.5 c 128
+ 275 49 275 49 222.5 105 c 128
+ 170 161 170 161 137 236 c 128
+ 104 311 104 311 87.5 396 c 128
+ 71 481 71 481 71.5 572 c 128
+ 72 663 72 663 88 750 c 257
+NamedP: "sh01"
+ 104 840 104 840 133 931.5 c 128
+ 162 1023 162 1023 205.5 1108.5 c 128
+ 249 1194 249 1194 306.5 1268 c 128
+ 364 1342 364 1342 436 1397.5 c 128
+ 508 1453 508 1453 594.5 1484.5 c 128
+ 681 1516 681 1516 783 1516 c 257
+ 876 1516 876 1516 948 1483.5 c 128
+ 1020 1451 1020 1451 1072.5 1395 c 128
+ 1125 1339 1125 1339 1158.5 1264 c 128
+ 1192 1189 1192 1189 1208 1104 c 128
+ 1224 1019 1224 1019 1223.5 928 c 128
+ 1223 837 1223 837 1208 750 c 257
+NamedP: "sh02"
+ 1192 660 1192 660 1162.5 568.5 c 128
+ 1133 477 1133 477 1089.5 391.5 c 128
+ 1046 306 1046 306 988.5 232 c 128
+ 931 158 931 158 859 102.5 c 128
+ 787 47 787 47 700 15.5 c 128
+ 613 -16 613 -16 512 -16 c 257
+423 791 m 257
+NamedP: "sh03"
+ 414 739 414 739 407 676 c 128
+ 400 613 400 613 400 549 c 257
+ 360 384 l 257
+NamedP: "ah01"
+ 845 1203 l 257
+NamedP: "ah02"
+ 826 1235 826 1235 798.5 1254 c 128
+ 771 1273 771 1273 732 1273 c 257
+ 690 1273 690 1273 653 1252.5 c 128
+ 616 1232 616 1232 585 1196.5 c 128
+ 554 1161 554 1161 528.5 1113.5 c 128
+ 503 1066 503 1066 482.5 1012.5 c 128
+ 462 959 462 959 447.5 902 c 128
+ 433 845 433 845 423 791 c 257
+NamedP: "sh03"
+872 709 m 257
+NamedP: "ah03"
+ 887 791 887 791 892 889 c 257
+ 940 1071 l 257
+NamedP: "sh04"
+ 470 266 l 257
+NamedP: "sh05"
+ 487 247 487 247 510 236.5 c 128
+ 533 226 533 226 562 226 c 257
+ 604 226 604 226 641 246.5 c 128
+ 678 267 678 267 709 302.5 c 128
+ 740 338 740 338 766 385.5 c 128
+ 792 433 792 433 812.5 487 c 128
+ 833 541 833 541 847.5 597.5 c 128
+ 862 654 862 654 872 709 c 257
+NamedP: "ah03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"singleh\" point1=\"lsb\" point2=\"sh01\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh03\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh04\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh05\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"rsb\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

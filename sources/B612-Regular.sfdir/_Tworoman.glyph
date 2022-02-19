@@ -1,0 +1,11 @@
+StartChar: Tworoman
+Encoding: 84 8545 84
+GlifName: T_woroman
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 34 73 N 1 0 0 1 0 0 2
+Refer: 34 73 N 1 0 0 1 600 0 2
+EndChar

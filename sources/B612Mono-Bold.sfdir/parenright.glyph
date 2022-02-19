@@ -1,0 +1,81 @@
+StartChar: parenright
+Encoding: 366 41 366
+GlifName: parenright
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1020 38 m 257
+NamedP: "hr00"
+ 1020 -55 1020 -55 1010 -138 c 128
+ 1000 -221 1000 -221 964.5 -284 c 128
+ 929 -347 929 -347 861.5 -383.5 c 128
+ 794 -420 794 -420 680 -420 c 257
+NamedP: "av02"
+ 654 -420 654 -420 626 -416.5 c 128
+ 598 -413 598 -413 569.5 -406 c 128
+ 541 -399 541 -399 515 -388.5 c 128
+ 489 -378 489 -378 468 -365 c 257
+NamedP: "ah02"
+ 566 -245 l 257
+ 581 -245 581 -245 603.5 -241.5 c 128
+ 626 -238 626 -238 647 -219 c 128
+ 668 -200 668 -200 683.5 -160 c 128
+ 699 -120 699 -120 699 -46 c 257
+ 699 1227 l 257
+ 699 1298 699 1298 684 1339 c 128
+ 669 1380 669 1380 647 1400.5 c 128
+ 625 1421 625 1421 600.5 1426 c 128
+ 576 1431 576 1431 558 1431 c 257
+ 468 1545 l 257
+NamedP: "ah01"
+ 489 1558 489 1558 515 1568.5 c 128
+ 541 1579 541 1579 569.5 1586 c 128
+ 598 1593 598 1593 626 1596.5 c 128
+ 654 1600 654 1600 680 1600 c 257
+NamedP: "av01"
+ 794 1600 794 1600 861.5 1566 c 128
+ 929 1532 929 1532 964.5 1472 c 128
+ 1000 1412 1000 1412 1010 1331.5 c 128
+ 1020 1251 1020 1251 1020 1158 c 257
+ 1020 38 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-399\" width=\"-21\"/>\\u000a            <hstem pos=\"1600\" width=\"-20\"/>\\u000a            <vstem pos=\"699\" width=\"321\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

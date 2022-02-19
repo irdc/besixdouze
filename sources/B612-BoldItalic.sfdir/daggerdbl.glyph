@@ -1,0 +1,32 @@
+StartChar: daggerdbl
+Encoding: 216 8225 216
+GlifName: daggerdbl
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+384 82 m 257
+ 128 82 l 257
+ 166 300 l 257
+ 422 300 l 257
+ 528 900 l 257
+ 272 900 l 257
+ 311 1118 l 257
+ 567 1118 l 257
+ 633 1493 l 257
+ 908 1527 l 257
+ 836 1118 l 257
+ 1125 1118 l 257
+ 1058 900 l 257
+ 797 900 l 257
+ 691 300 l 257
+ 980 300 l 257
+ 914 82 l 257
+ 653 82 l 257
+ 568 -400 l 257
+ 299 -400 l 257
+ 384 82 l 257
+EndSplineSet
+EndChar

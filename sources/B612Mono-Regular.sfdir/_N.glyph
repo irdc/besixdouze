@@ -1,0 +1,79 @@
+StartChar: N
+Encoding: 44 78 44
+GlifName: N_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+945 0 m 257
+NamedP: "ah01"
+ 450 948 l 257
+NamedP: "ih03"
+ 291 1361 l 257
+NamedP: "ih01"
+ 285 1360 l 257
+NamedP: "fv01"
+ 350 920 l 257
+NamedP: "fv02"
+ 350 0 l 257
+NamedP: "sh02"
+ 170 0 l 257
+NamedP: "sh01"
+ 170 1290 l 257
+ 140 1500 l 257
+NamedP: "ih02"
+ 341 1520 l 257
+NamedP: "at01"
+ 837 557 l 257
+NamedP: "ih05"
+ 1003 140 l 257
+NamedP: "ih04"
+ 1009 141 l 257
+ 930 580 l 257
+NamedP: "sh04"
+ 930 1500 l 257
+ 1110 1520 l 257
+NamedP: "at02"
+ 1110 0 l 257
+NamedP: "sh03"
+ 945 0 l 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ah01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a            <vstem pos=\"100\" width=\"200\"/>\\u000a            <vstem pos=\"1000\" width=\"195\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"lsb\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: 199\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\" stem=\"X: 199\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih04\" point1=\"sh03\" point2=\"ih05\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh04\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ah01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"sh02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"ah01\" ppm1=\"43\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ah01\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ah01\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"ah01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"ih03\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ih03\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ih03\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"ih03\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"ih03\" ppm1=\"40\" ppm2=\"40\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"ih01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"at01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"at01\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"at01\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"at01\" ppm1=\"41\" ppm2=\"41\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"at01\" ppm1=\"43\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-6\" point=\"ih05\" ppm1=\"37\" ppm2=\"37\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"ih05\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"ih05\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"ih05\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"ih05\" ppm1=\"41\" ppm2=\"41\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"ih05\" ppm1=\"43\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"ih03\" ppm1=\"40\" ppm2=\"40\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-6\" point=\"ih03\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-4\" point=\"ih03\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-2\" point=\"ih03\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"5\" point=\"ih03\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"ih01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"fv01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"fv02\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"fv02\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-4\" point=\"fv02\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"ih05\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"3\" point=\"ih05\" ppm1=\"41\" ppm2=\"41\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"4\" point=\"ih05\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"5\" point=\"ih05\" ppm1=\"43\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"7\" point=\"ih05\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"7\" point=\"ih05\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"8\" point=\"ih05\" ppm1=\"37\" ppm2=\"37\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"4\" point=\"sh04\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"8\" point=\"sh04\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"8\" point=\"sh04\" ppm1=\"28\" ppm2=\"28\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

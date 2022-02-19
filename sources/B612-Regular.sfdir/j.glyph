@@ -1,0 +1,77 @@
+StartChar: j
+Encoding: 325 106 325
+GlifName: j
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+194 1500 m 257
+NamedP: "sh01"
+ 396 1500 l 257
+NamedP: "sh02"
+ 396 1300 l 257
+NamedP: "sv01"
+ 194 1300 l 257
+ 194 1500 l 257
+NamedP: "sh01"
+-22 -345 m 257
+ -11 -349 -11 -349 14 -353 c 128
+ 39 -357 39 -357 70 -357 c 257
+NamedP: "sv02"
+ 107 -357 107 -357 132 -337.5 c 128
+ 157 -318 157 -318 172 -284 c 128
+ 187 -250 187 -250 193.5 -204.5 c 128
+ 200 -159 200 -159 200 -107 c 257
+NamedP: "dh01"
+ 200 1055 l 257
+ 390 1075 l 257
+NamedP: "av01"
+ 390 -97 l 257
+NamedP: "dh02"
+ 390 -186 390 -186 378.5 -263 c 128
+ 367 -340 367 -340 333 -396.5 c 128
+ 299 -453 299 -453 238.5 -485 c 128
+ 178 -517 178 -517 80 -517 c 257
+NamedP: "ab01"
+ 19 -517 19 -517 -15.5 -506 c 128
+ -50 -495 -50 -495 -61 -489 c 257
+ -22 -345 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh01\">\\u000a            <hstem pos=\"-517\" width=\"160\"/>\\u000a            <hstem pos=\"1300\" width=\"200\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 190\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"dh01\" point2=\"sh01\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"dh02\" point2=\"sh02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"sh01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: -500\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh01\" point2=\"sv01\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"av01\" ppm1=\"10\" ppm2=\"10\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

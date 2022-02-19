@@ -1,0 +1,87 @@
+StartChar: blackcircledone
+Encoding: 141 10122 141
+GlifName: blackcircledone
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 750 m 257
+NamedP: "hr00"
+ 66 840 66 840 100.5 927 c 128
+ 135 1014 135 1014 185.5 1092 c 128
+ 236 1170 236 1170 300 1236 c 128
+ 364 1302 364 1302 439.5 1350 c 128
+ 515 1398 515 1398 599 1425 c 128
+ 683 1452 683 1452 773 1452 c 257
+NamedP: "av01"
+ 863 1452 863 1452 937.5 1425 c 128
+ 1012 1398 1012 1398 1070.5 1350 c 128
+ 1129 1302 1129 1302 1170 1236 c 128
+ 1211 1170 1211 1170 1234 1092 c 128
+ 1257 1014 1257 1014 1261.5 927 c 128
+ 1266 840 1266 840 1250 750 c 257
+ 1234 660 1234 660 1199 573 c 128
+ 1164 486 1164 486 1113.5 408 c 128
+ 1063 330 1063 330 999 264 c 128
+ 935 198 935 198 859.5 150 c 128
+ 784 102 784 102 700 75 c 128
+ 616 48 616 48 526 48 c 257
+NamedP: "av02"
+ 391 48 391 48 291 107 c 128
+ 191 166 191 166 129.5 264 c 128
+ 68 362 68 362 47 488.5 c 128
+ 26 615 26 615 50 750 c 257
+NamedP: "hr00"
+522 440 m 257
+ 376 440 l 257
+ 354 320 l 257
+ 844 320 l 257
+ 866 440 l 257
+ 720 440 l 257
+ 858 1220 l 257
+ 714 1232 l 257
+ 379 970 l 257
+ 453 859 l 257
+ 511 903 l 257
+ 676 1066 l 257
+ 594 848 l 257
+ 522 440 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"320\" width=\"96\"/>\\u000a            <hstem pos=\"1232\" width=\"-12\"/>\\u000a            <vstem pos=\"634\" width=\"126\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

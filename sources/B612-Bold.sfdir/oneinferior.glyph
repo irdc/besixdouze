@@ -1,0 +1,25 @@
+StartChar: oneinferior
+Encoding: 387 8321 387
+GlifName: oneinferior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+265 -60 m 257
+ 302 121 l 257
+ 188 -14 l 257
+ 146 -51 l 257
+ 69 41 l 257
+ 309 262 l 257
+ 430 246 l 257
+ 430 -400 l 257
+ 552 -400 l 257
+ 552 -500 l 257
+ 143 -500 l 257
+ 143 -400 l 257
+ 265 -400 l 257
+ 265 -60 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,46 @@
+StartChar: d
+Encoding: 214 100 214
+GlifName: d
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+904 900 m 257
+ 835 900 l 257
+ 761 900 761 900 703.5 868 c 128
+ 646 836 646 836 605.5 782.5 c 128
+ 565 729 565 729 540.5 659.5 c 128
+ 516 590 516 590 509 515 c 257
+ 494 366 494 366 519 288.5 c 128
+ 544 211 544 211 614 200 c 257
+ 650 195 650 195 679 203 c 128
+ 708 211 708 211 731 228 c 128
+ 754 245 754 245 771.5 268 c 128
+ 789 291 789 291 801 316 c 257
+ 904 900 l 257
+746 0 m 257
+ 774 162 l 257
+ 619 -10 l 257
+ 611 -12 611 -12 603.5 -13.5 c 128
+ 596 -15 596 -15 586.5 -16.5 c 128
+ 577 -18 577 -18 563.5 -18.5 c 128
+ 550 -19 550 -19 529 -17 c 257
+ 439 -11 439 -11 370.5 29.5 c 128
+ 302 70 302 70 258.5 140 c 128
+ 215 210 215 210 199.5 308 c 128
+ 184 406 184 406 200 528 c 257
+ 215 645 215 645 266 749 c 128
+ 317 853 317 853 401.5 931 c 128
+ 486 1009 486 1009 603 1054.5 c 128
+ 720 1100 720 1100 869 1100 c 257
+ 939 1100 l 257
+ 1033 1632 l 257
+ 1341 1600 l 257
+ 1095 209 l 257
+ 1081 0 l 257
+ 746 0 l 257
+EndSplineSet
+Kerns2: 12 100 "'kern' Horizontal Kerning lookup 0 subtable" 13 100 "'kern' Horizontal Kerning lookup 0 subtable" 41 100 "'kern' Horizontal Kerning lookup 0 subtable" 73 100 "'kern' Horizontal Kerning lookup 0 subtable" 92 100 "'kern' Horizontal Kerning lookup 0 subtable" 94 100 "'kern' Horizontal Kerning lookup 0 subtable" 97 100 "'kern' Horizontal Kerning lookup 0 subtable" 98 100 "'kern' Horizontal Kerning lookup 0 subtable" 99 100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

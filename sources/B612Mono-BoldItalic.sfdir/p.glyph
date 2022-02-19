@@ -1,0 +1,88 @@
+StartChar: p
+Encoding: 360 112 360
+GlifName: p
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+486 200 m 257
+NamedP: "hr00"
+ 564 200 l 257
+ 631 200 631 200 695.5 229.5 c 128
+ 760 259 760 259 813.5 310 c 128
+ 867 361 867 361 904.5 429.5 c 128
+ 942 498 942 498 956 576 c 257
+ 971 657 971 657 965 718 c 128
+ 959 779 959 779 936.5 819.5 c 128
+ 914 860 914 860 878 880 c 128
+ 842 900 842 900 797 900 c 257
+ 770 900 770 900 742 892 c 128
+ 714 884 714 884 687.5 871.5 c 128
+ 661 859 661 859 637 843 c 128
+ 613 827 613 827 594 811 c 257
+ 486 200 l 257
+NamedP: "hr00"
+37 -500 m 257
+NamedP: "ab01"
+ 319 1100 l 257
+ 648 1120 l 257
+NamedP: "at02"
+ 617 944 l 257
+ 771 1110 l 257
+ 792 1113 792 1113 815 1115 c 128
+ 838 1117 838 1117 862 1117 c 257
+NamedP: "at01"
+ 955 1117 955 1117 1036 1078 c 128
+ 1117 1039 1117 1039 1172.5 966.5 c 128
+ 1228 894 1228 894 1251 792 c 128
+ 1274 690 1274 690 1252 564 c 257
+ 1231 441 1231 441 1164 337.5 c 128
+ 1097 234 1097 234 998 159 c 128
+ 899 84 899 84 774 42 c 128
+ 649 0 649 0 512 0 c 257
+NamedP: "sv01"
+ 451 0 l 257
+NamedP: "ab02"
+ 363 -500 l 257
+NamedP: "sv02"
+ 37 -500 l 257
+NamedP: "ab01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-479\" width=\"-21\"/>\\u000a            <hstem pos=\"0\" width=\"160\"/>\\u000a            <hstem pos=\"957\" width=\"160\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a            <vstem pos=\"910\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: -500\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,50 @@
+StartChar: periodcentered
+Encoding: 372 183 372
+GlifName: periodcentered
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+307 650 m 257
+ 313 684 313 684 331 714 c 128
+ 349 744 349 744 375.5 766.5 c 128
+ 402 789 402 789 434 802 c 128
+ 466 815 466 815 500 815 c 257
+NamedP: "av01"
+ 534 815 534 815 561.5 802 c 128
+ 589 789 589 789 607.5 766.5 c 128
+ 626 744 626 744 634 714 c 128
+ 642 684 642 684 636 650 c 257
+ 630 616 630 616 611.5 585.5 c 128
+ 593 555 593 555 567 532.5 c 128
+ 541 510 541 510 509 496.5 c 128
+ 477 483 477 483 443 483 c 257
+NamedP: "av02"
+ 409 483 409 483 381 496.5 c 128
+ 353 510 353 510 334.5 532.5 c 128
+ 316 555 316 555 308.5 585.5 c 128
+ 301 616 301 616 307 650 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

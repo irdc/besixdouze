@@ -1,0 +1,47 @@
+StartChar: subscriptone
+Encoding: 490 8321 490
+GlifName: subscriptone
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+231 -500 m 257
+NamedP: "hr00"
+ 231 -420 l 257
+ 403 -420 l 257
+ 403 63 l 257
+ 432 176 l 257
+ 364 83 l 257
+ 258 -11 l 257
+ 204 50 l 257
+ 433 260 l 257
+ 508 250 l 257
+ 508 -420 l 257
+ 681 -420 l 257
+ 681 -500 l 257
+ 231 -500 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-500\" width=\"80\"/>\\u000a            <hstem pos=\"260\" width=\"-10\"/>\\u000a            <vstem pos=\"453\" width=\"105\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

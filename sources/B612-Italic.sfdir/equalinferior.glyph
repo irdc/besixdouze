@@ -1,0 +1,21 @@
+StartChar: equalinferior
+Encoding: 250 8332 250
+GlifName: equalinferior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+170 -100 m 257
+ 520 -100 l 257
+ 506 -178 l 257
+ 156 -178 l 257
+ 170 -100 l 257
+135 -300 m 257
+ 485 -300 l 257
+ 471 -378 l 257
+ 121 -378 l 257
+ 135 -300 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: K
+Encoding: 42 75 42
+GlifName: K_
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 257
+ 427 1290 l 257
+ 434 1500 l 257
+ 668 1520 l 257
+ 550 856 l 257
+ 1205 1500 l 257
+ 1427 1500 l 257
+ 784 865 l 257
+ 604 802 l 257
+ 768 744 l 257
+ 1190 0 l 257
+ 953 0 l 257
+ 531 746 l 257
+ 400 0 l 257
+ 200 0 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,43 @@
+StartChar: smallromannumeraltwo
+Encoding: 468 8561 468
+GlifName: smallromannumeraltwo
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+490 0 m 257
+ 300 0 l 257
+ 300 1100 l 257
+ 490 1120 l 257
+ 490 0 l 257
+990 0 m 257
+NamedP: "hr01"
+ 800 0 l 257
+ 800 1100 l 257
+ 990 1120 l 257
+ 990 0 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1300\" width=\"200\"/>\\u000a            <vstem pos=\"500\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

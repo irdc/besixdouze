@@ -1,0 +1,22 @@
+StartChar: quotesingle
+Encoding: 446 39 446
+GlifName: quotesingle
+Width: 400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 1500 m 257
+ 370 1500 l 257
+ 370 1367 l 257
+ 370 1331 370 1331 363 1298.5 c 128
+ 356 1266 356 1266 339.5 1231.5 c 128
+ 323 1197 323 1197 296 1157.5 c 128
+ 269 1118 269 1118 229 1068 c 257
+ 90 1068 l 257
+ 92 1148 92 1148 96 1224.5 c 128
+ 100 1301 100 1301 100 1367 c 257
+ 100 1500 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,29 @@
+StartChar: E
+Encoding: 17 69 17
+GlifName: E_
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1086 228 m 257
+ 1059 0 l 257
+ 102 0 l 257
+ 119 231 l 257
+ 119 1263 l 257
+ 84 1500 l 257
+ 1049 1500 l 257
+ 1049 1272 l 257
+ 455 1272 l 257
+ 470 1134 l 257
+ 470 916 l 257
+ 983 916 l 257
+ 983 703 l 257
+ 470 703 l 257
+ 470 360 l 257
+ 462 228 l 257
+ 1086 228 l 257
+EndSplineSet
+Kerns2: 54 -100 "'kern' Horizontal Kerning lookup 0 subtable" 55 -100 "'kern' Horizontal Kerning lookup 0 subtable" 56 -100 "'kern' Horizontal Kerning lookup 0 subtable" 57 -100 "'kern' Horizontal Kerning lookup 0 subtable" 58 -100 "'kern' Horizontal Kerning lookup 0 subtable" 63 -100 "'kern' Horizontal Kerning lookup 0 subtable" 64 -100 "'kern' Horizontal Kerning lookup 0 subtable" 92 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

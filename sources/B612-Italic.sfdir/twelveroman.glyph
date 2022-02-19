@@ -1,0 +1,12 @@
+StartChar: twelveroman
+Encoding: 534 8571 534
+GlifName: twelveroman
+Width: 2000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 580 120 N 1 0 0 1 0 0 2
+Refer: 389 8560 N 1 0 0 1 1000 0 2
+Refer: 389 8560 N 1 0 0 1 1400 0 2
+EndChar

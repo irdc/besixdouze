@@ -1,0 +1,51 @@
+StartChar: R
+Encoding: 69 82 69
+GlifName: R_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+474 1130 m 257
+ 474 802 l 257
+ 538 802 l 257
+ 605 802 605 802 654.5 823.5 c 128
+ 704 845 704 845 736.5 881 c 128
+ 769 917 769 917 785 965 c 128
+ 801 1013 801 1013 801 1066 c 257
+ 801 1136 801 1136 777.5 1182 c 128
+ 754 1228 754 1228 717 1255.5 c 128
+ 680 1283 680 1283 633.5 1294 c 128
+ 587 1305 587 1305 542 1305 c 257
+ 522 1305 522 1305 510 1305 c 128
+ 498 1305 498 1305 489.5 1305 c 128
+ 481 1305 481 1305 473.5 1304.5 c 128
+ 466 1304 466 1304 457 1303 c 257
+ 474 1130 l 257
+521 564 m 257
+ 510 578 510 578 496 580.5 c 128
+ 482 583 482 583 474 583 c 257
+ 474 0 l 257
+ 122 0 l 257
+ 122 1262 l 257
+ 84 1482 l 257
+ 129 1487 129 1487 186 1492.5 c 128
+ 243 1498 243 1498 302 1502 c 128
+ 361 1506 361 1506 417.5 1508.5 c 128
+ 474 1511 474 1511 518 1511 c 257
+ 655 1511 655 1511 767.5 1483.5 c 128
+ 880 1456 880 1456 960.5 1401.5 c 128
+ 1041 1347 1041 1347 1085.5 1266.5 c 128
+ 1130 1186 1130 1186 1130 1081 c 257
+ 1130 973 1130 973 1096.5 895.5 c 128
+ 1063 818 1063 818 1006 763.5 c 128
+ 949 709 949 709 874.5 674 c 128
+ 800 639 800 639 719 617 c 257
+ 859 584 l 257
+ 1295 0 l 257
+ 927 0 l 257
+ 521 564 l 257
+EndSplineSet
+Kerns2: 54 -100 "'kern' Horizontal Kerning lookup 0 subtable" 55 -100 "'kern' Horizontal Kerning lookup 0 subtable" 56 -100 "'kern' Horizontal Kerning lookup 0 subtable" 57 -100 "'kern' Horizontal Kerning lookup 0 subtable" 58 -100 "'kern' Horizontal Kerning lookup 0 subtable" 63 -100 "'kern' Horizontal Kerning lookup 0 subtable" 64 -100 "'kern' Horizontal Kerning lookup 0 subtable" 77 -100 "'kern' Horizontal Kerning lookup 0 subtable" 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 93 -100 "'kern' Horizontal Kerning lookup 0 subtable" 214 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

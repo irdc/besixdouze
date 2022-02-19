@@ -1,0 +1,75 @@
+StartChar: l
+Encoding: 328 108 328
+GlifName: l
+Width: 700
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+390 376 m 257
+NamedP: "dh02"
+ 390 310 390 310 397.5 265.5 c 128
+ 405 221 405 221 419.5 193.5 c 128
+ 434 166 434 166 455.5 154.5 c 128
+ 477 143 477 143 505 143 c 257
+NamedP: "sv01"
+ 527 143 527 143 545 145.5 c 128
+ 563 148 563 148 576 152 c 257
+ 591 156 591 156 603 161 c 257
+ 672 40 l 257
+NamedP: "fh01"
+ 664 32 664 32 646.5 22.5 c 128
+ 629 13 629 13 605 4 c 128
+ 581 -5 581 -5 550.5 -11 c 128
+ 520 -17 520 -17 485 -17 c 257
+NamedP: "ab01"
+ 395 -17 395 -17 339 16 c 128
+ 283 49 283 49 252 106 c 128
+ 221 163 221 163 210.5 238.5 c 128
+ 200 314 200 314 200 400 c 257
+NamedP: "dh01"
+ 200 1400 l 257
+ 180 1600 l 257
+ 390 1620 l 257
+NamedP: "av01"
+ 390 376 l 257
+NamedP: "dh02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dh02\">\\u000a            <hstem pos=\"-17\" width=\"160\"/>\\u000a            <hstem pos=\"1620\" width=\"-20\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 190\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"fh01\" ppm1=\"39\" ppm2=\"39\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+Kerns2: 328 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,35 @@
+StartChar: leftwardsdashedarrow
+Encoding: 307 8672 307
+GlifName: leftwardsdashedarrow
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+447 500 m 257
+ 343 512 l 257
+ 400 437 l 257
+ 400 200 l 257
+ 99 500 l 257
+ -20 600 l 257
+ 100 700 l 257
+ 400 1000 l 257
+ 400 765 l 257
+ 343 690 l 257
+ 447 700 l 257
+ 550 700 l 257
+ 550 500 l 257
+ 447 500 l 257
+700 700 m 257
+ 950 700 l 257
+ 950 500 l 257
+ 700 500 l 257
+ 700 700 l 257
+1100 700 m 257
+ 1350 700 l 257
+ 1350 500 l 257
+ 1100 500 l 257
+ 1100 700 l 257
+EndSplineSet
+EndChar

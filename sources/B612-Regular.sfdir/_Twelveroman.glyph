@@ -1,0 +1,12 @@
+StartChar: Twelveroman
+Encoding: 83 8555 83
+GlifName: T_welveroman
+Width: 2300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 94 88 N 1 0 0 1 0 0 2
+Refer: 34 73 N 1 0 0 1 1200 0 2
+Refer: 34 73 N 1 0 0 1 1700 0 2
+EndChar

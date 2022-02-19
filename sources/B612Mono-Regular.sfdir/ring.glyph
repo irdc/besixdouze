@@ -1,0 +1,75 @@
+StartChar: ring
+Encoding: 419 730 419
+GlifName: ring
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+600 1634 m 257
+NamedP: "av01"
+ 649 1634 649 1634 692 1615.5 c 128
+ 735 1597 735 1597 767.5 1564.5 c 128
+ 800 1532 800 1532 818.5 1489 c 128
+ 837 1446 837 1446 837 1397 c 257
+NamedP: "ah02"
+ 837 1348 837 1348 818.5 1304 c 128
+ 800 1260 800 1260 768.5 1227 c 128
+ 737 1194 737 1194 694 1175 c 128
+ 651 1156 651 1156 602 1156 c 257
+NamedP: "av02"
+ 553 1156 553 1156 509.5 1175 c 128
+ 466 1194 466 1194 433 1227 c 128
+ 400 1260 400 1260 381 1304 c 128
+ 362 1348 362 1348 362 1397 c 257
+NamedP: "ah01"
+ 362 1446 362 1446 381 1489 c 128
+ 400 1532 400 1532 432 1564.5 c 128
+ 464 1597 464 1597 507.5 1615.5 c 128
+ 551 1634 551 1634 600 1634 c 257
+NamedP: "av01"
+601 1273 m 257
+NamedP: "sv01"
+ 626 1273 626 1273 648 1283 c 128
+ 670 1293 670 1293 686 1309.5 c 128
+ 702 1326 702 1326 711.5 1348.5 c 128
+ 721 1371 721 1371 721 1396 c 257
+NamedP: "sh01"
+ 721 1421 721 1421 711.5 1443 c 128
+ 702 1465 702 1465 685.5 1481.5 c 128
+ 669 1498 669 1498 647 1507.5 c 128
+ 625 1517 625 1517 600 1517 c 257
+NamedP: "sv02"
+ 575 1517 575 1517 553 1507.5 c 128
+ 531 1498 531 1498 514.5 1481.5 c 128
+ 498 1465 498 1465 488.5 1443 c 128
+ 479 1421 479 1421 479 1396 c 257
+NamedP: "sh02"
+ 479 1371 479 1371 488.5 1348.5 c 128
+ 498 1326 498 1326 514.5 1309.5 c 128
+ 531 1293 531 1293 553.5 1283 c 128
+ 576 1273 576 1273 601 1273 c 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv01\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

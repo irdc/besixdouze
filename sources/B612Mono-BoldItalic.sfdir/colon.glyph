@@ -1,0 +1,86 @@
+StartChar: colon
+Encoding: 190 58 190
+GlifName: colon
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+137 183 m 257
+NamedP: "hr00"
+ 144 224 144 224 166 260 c 128
+ 188 296 188 296 220 323 c 128
+ 252 350 252 350 290 365.5 c 128
+ 328 381 328 381 369 381 c 257
+NamedP: "av03"
+ 410 381 410 381 443.5 365.5 c 128
+ 477 350 477 350 499 323 c 128
+ 521 296 521 296 530 260 c 128
+ 539 224 539 224 532 183 c 257
+ 525 142 525 142 503 105.5 c 128
+ 481 69 481 69 449.5 42 c 128
+ 418 15 418 15 380 -1 c 128
+ 342 -17 342 -17 301 -17 c 257
+NamedP: "ab01"
+ 260 -17 260 -17 226 -1 c 128
+ 192 15 192 15 170 42 c 128
+ 148 69 148 69 139 105.5 c 128
+ 130 142 130 142 137 183 c 257
+NamedP: "hr00"
+228 700 m 257
+ 235 741 235 741 257 777 c 128
+ 279 813 279 813 311 840 c 128
+ 343 867 343 867 381 882.5 c 128
+ 419 898 419 898 460 898 c 257
+NamedP: "av01"
+ 501 898 501 898 534.5 882.5 c 128
+ 568 867 568 867 590 840 c 128
+ 612 813 612 813 621 777 c 128
+ 630 741 630 741 623 700 c 257
+ 616 659 616 659 594 622.5 c 128
+ 572 586 572 586 541 559 c 128
+ 510 532 510 532 471.5 516 c 128
+ 433 500 433 500 392 500 c 257
+NamedP: "av02"
+ 351 500 351 500 317.5 516 c 128
+ 284 532 284 532 261.5 559 c 128
+ 239 586 239 586 230 622.5 c 128
+ 221 659 221 659 228 700 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-17\" width=\"218\"/>\\u000a            <hstem pos=\"480\" width=\"218\"/>\\u000a            <vstem pos=\"191\" width=\"216\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

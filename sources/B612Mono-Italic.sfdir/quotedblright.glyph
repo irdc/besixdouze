@@ -1,0 +1,73 @@
+StartChar: quotedblright
+Encoding: 399 8221 399
+GlifName: quotedblright
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+194 1305 m 257
+NamedP: "mh01"
+ 195 1331 195 1331 207 1354.5 c 128
+ 219 1378 219 1378 238.5 1395.5 c 128
+ 258 1413 258 1413 284 1421.5 c 128
+ 310 1430 310 1430 339 1426 c 257
+ 383 1420 383 1420 413 1387.5 c 128
+ 443 1355 443 1355 442 1291 c 257
+ 442 1261 442 1261 432 1220.5 c 128
+ 422 1180 422 1180 397 1133.5 c 128
+ 372 1087 372 1087 328.5 1037.5 c 128
+ 285 988 285 988 218 940 c 257
+ 177 960 l 257
+ 204 993 204 993 226 1030 c 257
+NamedP: "mh02"
+ 245 1062 245 1062 262.5 1102 c 128
+ 280 1142 280 1142 285 1184 c 257
+NamedP: "mh03"
+ 243 1186 243 1186 217.5 1216.5 c 128
+ 192 1247 192 1247 194 1305 c 257
+NamedP: "mh01"
+594 1305 m 257
+NamedP: "mh04"
+ 595 1331 595 1331 607 1354.5 c 128
+ 619 1378 619 1378 638.5 1395.5 c 128
+ 658 1413 658 1413 684 1421.5 c 128
+ 710 1430 710 1430 739 1426 c 257
+ 783 1420 783 1420 813 1387.5 c 128
+ 843 1355 843 1355 842 1291 c 257
+ 842 1261 842 1261 832 1220.5 c 128
+ 822 1180 822 1180 797 1133.5 c 128
+ 772 1087 772 1087 728.5 1037.5 c 128
+ 685 988 685 988 618 940 c 257
+ 577 960 l 257
+ 604 993 604 993 626 1030 c 257
+NamedP: "mh05"
+ 645 1062 645 1062 662.5 1102 c 128
+ 680 1142 680 1142 685 1184 c 257
+NamedP: "mh06"
+ 643 1186 643 1186 617.5 1216.5 c 128
+ 592 1247 592 1247 594 1305 c 257
+NamedP: "mh04"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh02\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh03\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh04\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh05\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh06\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh06\" ppm1=\"13\" ppm2=\"13\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

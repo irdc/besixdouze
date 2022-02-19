@@ -1,0 +1,99 @@
+StartChar: thorn
+Encoding: 521 254 521
+GlifName: thorn
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+669 -17 m 257
+NamedP: "ab01"
+ 558 -17 558 -17 465.5 26.5 c 128
+ 373 70 373 70 306 146.5 c 128
+ 239 223 239 223 201.5 327 c 128
+ 164 431 164 431 164 553 c 257
+NamedP: "sh01"
+ 164 674 164 674 200 777.5 c 128
+ 236 881 236 881 302 956.5 c 128
+ 368 1032 368 1032 461.5 1074.5 c 128
+ 555 1117 555 1117 669 1117 c 257
+NamedP: "av01"
+ 780 1117 780 1117 871 1074.5 c 128
+ 962 1032 962 1032 1027.5 956.5 c 128
+ 1093 881 1093 881 1129 777.5 c 128
+ 1165 674 1165 674 1165 553 c 257
+NamedP: "sh02"
+ 1165 431 1165 431 1130.5 327 c 128
+ 1096 223 1096 223 1031.5 146.5 c 128
+ 967 70 967 70 875 26.5 c 128
+ 783 -17 783 -17 669 -17 c 257
+NamedP: "ab01"
+975 526 m 257
+NamedP: "ah01"
+ 975 607 975 607 958 685 c 128
+ 941 763 941 763 904 824.5 c 128
+ 867 886 867 886 808 924 c 128
+ 749 962 749 962 665 962 c 257
+NamedP: "sv01"
+ 585 962 585 962 526 929 c 128
+ 467 896 467 896 429 841 c 128
+ 391 786 391 786 372.5 716 c 128
+ 354 646 354 646 354 572 c 257
+NamedP: "sh03"
+ 354 491 354 491 372.5 413 c 128
+ 391 335 391 335 429.5 274 c 128
+ 468 213 468 213 528.5 175.5 c 128
+ 589 138 589 138 673 138 c 257
+NamedP: "sv02"
+ 752 138 752 138 809.5 171 c 128
+ 867 204 867 204 903.5 258.5 c 128
+ 940 313 940 313 957.5 382.5 c 128
+ 975 452 975 452 975 526 c 257
+NamedP: "ah01"
+349 1520 m 257
+NamedP: "at01"
+ 349 -400 l 257
+NamedP: "dh02"
+ 149 -400 l 257
+NamedP: "dh01"
+ 149 1500 l 257
+ 349 1520 l 257
+NamedP: "at01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"lsb\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" stem=\"X: 199\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh03\" stem=\"X: 199\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"dh02\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

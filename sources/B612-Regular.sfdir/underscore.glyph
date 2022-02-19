@@ -1,0 +1,16 @@
+StartChar: underscore
+Encoding: 548 95 548
+GlifName: underscore
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 -455 m 257
+ 1100 -455 l 257
+ 1100 -300 l 257
+ 0 -300 l 257
+ 0 -455 l 257
+EndSplineSet
+EndChar

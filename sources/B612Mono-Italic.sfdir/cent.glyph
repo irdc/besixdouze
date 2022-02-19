@@ -1,0 +1,78 @@
+StartChar: cent
+Encoding: 170 162 170
+GlifName: cent
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+905 1320 m 257
+NamedP: "av01"
+ 869 1113 l 257
+ 920 1105 920 1105 961 1088 c 257
+ 1029 1060 1029 1060 1080 991 c 257
+ 961 878 l 257
+ 927 913 927 913 878 935 c 257
+ 866 940 866 940 853.5 944.5 c 128
+ 841 949 841 949 827 951 c 257
+ 686 153 l 257
+ 711 155 711 155 732.5 159 c 128
+ 754 163 754 163 774 170 c 257
+ 831 188 831 188 864 208 c 257
+NamedP: "mv01"
+ 911 67 l 257
+ 848 28 848 28 770 6 c 257
+ 747 -1 747 -1 722 -6 c 128
+ 697 -11 697 -11 670 -13 c 257
+ 637 -200 l 257
+NamedP: "sv01"
+ 491 -200 l 257
+NamedP: "av02"
+ 524 -12 l 257
+NamedP: "mh01"
+ 486 -7 486 -7 451 4 c 128
+ 416 15 416 15 387 32 c 257
+ 322 78 322 78 282 140 c 128
+ 242 202 242 202 222 275.5 c 128
+ 202 349 202 349 199.5 431.5 c 128
+ 197 514 197 514 206 601 c 257
+ 218 716 218 716 265 806 c 128
+ 312 896 312 896 382.5 960 c 128
+ 453 1024 453 1024 541 1062 c 128
+ 629 1100 629 1100 723 1112 c 257
+ 756 1300 l 257
+ 905 1320 l 257
+NamedP: "av01"
+377 574 m 257
+ 367 496 367 496 373.5 427 c 128
+ 380 358 380 358 403 303.5 c 128
+ 426 249 426 249 466.5 211.5 c 128
+ 507 174 507 174 566 158 c 257
+ 706 952 l 257
+ 634 938 634 938 577 904 c 128
+ 520 870 520 870 478.5 820.5 c 128
+ 437 771 437 771 411.5 708 c 128
+ 386 645 386 645 377 574 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"mh01\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-1\" point=\"mv01\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-2\" point=\"mv01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

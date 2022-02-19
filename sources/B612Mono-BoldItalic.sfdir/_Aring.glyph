@@ -1,0 +1,113 @@
+StartChar: Aring
+Encoding: 8 197 8
+GlifName: A_ring
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+35 0 m 257
+NamedP: "ab01"
+ 616 1284 l 257
+ 680 1500 l 257
+ 1072 1520 l 257
+NamedP: "at01"
+ 1234 0 l 257
+NamedP: "sv01"
+ 900 0 l 257
+ 872 427 l 257
+NamedP: "sv02"
+ 530 427 l 257
+NamedP: "av01"
+ 353 0 l 257
+ 35 0 l 257
+NamedP: "ab01"
+862 1331 m 257
+NamedP: "mv01"
+ 763 990 l 257
+NamedP: "mh01"
+ 627 646 l 257
+ 851 646 l 257
+ 840 990 l 257
+NamedP: "mh02"
+ 862 1331 l 257
+NamedP: "mv01"
+974 1927 m 257
+NamedP: "av02"
+ 1033 1927 1033 1927 1081 1904.5 c 128
+ 1129 1882 1129 1882 1160.5 1843.5 c 128
+ 1192 1805 1192 1805 1205 1753 c 128
+ 1218 1701 1218 1701 1208 1642 c 257
+NamedP: "sv03"
+ 1197 1583 1197 1583 1166 1530.5 c 128
+ 1135 1478 1135 1478 1090 1438.5 c 128
+ 1045 1399 1045 1399 989.5 1376 c 128
+ 934 1353 934 1353 875 1353 c 257
+NamedP: "at02"
+ 816 1353 816 1353 767.5 1376 c 128
+ 719 1399 719 1399 687 1438.5 c 128
+ 655 1478 655 1478 641 1530.5 c 128
+ 627 1583 627 1583 638 1642 c 257
+NamedP: "av03"
+ 648 1701 648 1701 680 1753 c 128
+ 712 1805 712 1805 757.5 1843.5 c 128
+ 803 1882 803 1882 859 1904.5 c 128
+ 915 1927 915 1927 974 1927 c 257
+NamedP: "av02"
+907 1542 m 257
+ 927 1542 927 1542 946 1550 c 128
+ 965 1558 965 1558 980.5 1571.5 c 128
+ 996 1585 996 1585 1006.5 1603 c 128
+ 1017 1621 1017 1621 1021 1641 c 257
+NamedP: "sv04"
+ 1024 1661 1024 1661 1019.5 1678.5 c 128
+ 1015 1696 1015 1696 1004.5 1709.5 c 128
+ 994 1723 994 1723 977.5 1730.5 c 128
+ 961 1738 961 1738 941 1738 c 257
+ 921 1738 921 1738 902 1730.5 c 128
+ 883 1723 883 1723 867.5 1709.5 c 128
+ 852 1696 852 1696 841 1678.5 c 128
+ 830 1661 830 1661 827 1641 c 257
+NamedP: "av04"
+ 823 1621 823 1621 827.5 1603 c 128
+ 832 1585 832 1585 843 1571.5 c 128
+ 854 1558 854 1558 870.5 1550 c 128
+ 887 1542 887 1542 907 1542 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ab01\">\\u000a            <hstem pos=\"19\" width=\"-21\"/>\\u000a            <hstem pos=\"407\" width=\"280\"/>\\u000a            <hstem pos=\"1518\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"mh01\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"mh02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-3\" point=\"mv01\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-8\" point=\"mv01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"3\" point=\"mh01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh02\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"7\" point=\"mh02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av04\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"singlev\" point1=\"av03\" point2=\"sv03\"/>\\u000a          <ttc code=\"singlev\" point1=\"av04\" point2=\"sv04\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

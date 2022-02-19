@@ -1,0 +1,35 @@
+StartChar: downwardsdashedarrow
+Encoding: 218 8675 218
+GlifName: downwardsdashedarrow
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+500 550 m 257
+ 700 550 l 257
+ 700 447 l 257
+ 690 343 l 257
+ 765 400 l 257
+ 1000 400 l 257
+ 700 100 l 257
+ 600 -20 l 257
+ 500 99 l 257
+ 200 400 l 257
+ 437 400 l 257
+ 512 343 l 257
+ 500 447 l 257
+ 500 550 l 257
+500 700 m 257
+ 500 950 l 257
+ 700 950 l 257
+ 700 700 l 257
+ 500 700 l 257
+500 1100 m 257
+ 500 1350 l 257
+ 700 1350 l 257
+ 700 1100 l 257
+ 500 1100 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,24 @@
+StartChar: subscriptplussign
+Encoding: 491 8330 491
+GlifName: subscriptplussign
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+211 -150 m 257
+ 398 -150 l 257
+ 435 61 l 257
+ 513 61 l 257
+ 475 -150 l 257
+ 661 -150 l 257
+ 648 -228 l 257
+ 462 -228 l 257
+ 424 -439 l 257
+ 347 -439 l 257
+ 384 -228 l 257
+ 198 -228 l 257
+ 211 -150 l 257
+EndSplineSet
+EndChar

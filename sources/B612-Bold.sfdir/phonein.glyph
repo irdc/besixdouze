@@ -1,0 +1,24 @@
+StartChar: phonein
+Encoding: 420 57440 420
+GlifName: phonein
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+344 849 m 257
+ 421 819 l 257
+ 400 885 l 257
+ 400 1100 l 257
+ 800 749 l 257
+ 400 399 l 257
+ 400 612 l 257
+ 421 677 l 257
+ 344 649 l 257
+ 100 649 l 257
+ 100 849 l 257
+ 344 849 l 257
+EndSplineSet
+Refer: 419 9742 N 1 0 0 1 300 0 2
+EndChar

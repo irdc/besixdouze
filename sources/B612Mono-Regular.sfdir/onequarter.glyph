@@ -1,0 +1,71 @@
+StartChar: onequarter
+Encoding: 352 188 352
+GlifName: onequarter
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+504 0 m 257
+ 379 0 l 257
+ 954 1500 l 257
+ 1070 1500 l 257
+ 504 0 l 257
+131 720 m 257
+NamedP: "hr01"
+ 131 800 l 257
+ 303 800 l 257
+ 303 1283 l 257
+ 332 1396 l 257
+ 264 1303 l 257
+ 158 1209 l 257
+ 104 1270 l 257
+ 333 1480 l 257
+ 408 1470 l 257
+ 408 800 l 257
+ 581 800 l 257
+ 581 720 l 257
+ 131 720 l 257
+NamedP: "hr01"
+1242 150 m 257
+NamedP: "hr02"
+ 1152 150 l 257
+ 1152 0 l 257
+ 1047 0 l 257
+ 1047 150 l 257
+ 749 150 l 257
+ 749 235 l 257
+ 991 760 l 257
+ 1086 750 l 257
+ 878 300 l 257
+ 832 230 l 257
+ 1047 230 l 257
+ 1047 433 l 257
+ 1152 425 l 257
+ 1152 230 l 257
+ 1249 230 l 257
+ 1242 150 l 257
+NamedP: "hr02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"720\" width=\"80\"/>\\u000a            <hstem pos=\"1480\" width=\"-10\"/>\\u000a            <vstem pos=\"353\" width=\"105\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr02\">\\u000a            <hstem pos=\"10\" width=\"-10\"/>\\u000a            <hstem pos=\"150\" width=\"80\"/>\\u000a            <hstem pos=\"760\" width=\"-10\"/>\\u000a            <vstem pos=\"1022\" width=\"105\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

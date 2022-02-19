@@ -1,0 +1,27 @@
+StartChar: downwardsarrowwithtiprightwards
+Encoding: 217 8627 217
+GlifName: downwardsarrowwithtiprightwards
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+359 500 m 257
+ 653 500 l 257
+ 757 490 l 257
+ 700 565 l 257
+ 700 800 l 257
+ 1000 500 l 257
+ 1120 400 l 257
+ 1001 300 l 257
+ 700 0 l 257
+ 700 237 l 257
+ 757 312 l 257
+ 653 300 l 257
+ 200 300 l 257
+ 200 1300 l 257
+ 359 1300 l 257
+ 359 500 l 257
+EndSplineSet
+EndChar

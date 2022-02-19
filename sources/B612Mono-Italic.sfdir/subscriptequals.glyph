@@ -1,0 +1,21 @@
+StartChar: subscriptequals
+Encoding: 484 8332 484
+GlifName: subscriptequals
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+270 -100 m 257
+ 620 -100 l 257
+ 606 -178 l 257
+ 256 -178 l 257
+ 270 -100 l 257
+235 -300 m 257
+ 585 -300 l 257
+ 571 -378 l 257
+ 221 -378 l 257
+ 235 -300 l 257
+EndSplineSet
+EndChar

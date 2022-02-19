@@ -1,0 +1,66 @@
+StartChar: ecircumflex
+Encoding: 233 234 233
+GlifName: ecircumflex
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1000 137 m 257
+ 962 100 962 100 919 70.5 c 128
+ 876 41 876 41 824 20.5 c 128
+ 772 0 772 0 710 -9.5 c 128
+ 648 -19 648 -19 573 -16 c 257
+ 433 -10 433 -10 342.5 39 c 128
+ 252 88 252 88 201.5 165.5 c 128
+ 151 243 151 243 136.5 342 c 128
+ 122 441 122 441 134 547 c 257
+ 142 614 142 614 163.5 684.5 c 128
+ 185 755 185 755 221 820 c 128
+ 257 885 257 885 308 941.5 c 128
+ 359 998 359 998 424.5 1039 c 128
+ 490 1080 490 1080 571 1101 c 128
+ 652 1122 652 1122 749 1116 c 257
+ 863 1109 863 1109 940.5 1065.5 c 128
+ 1018 1022 1018 1022 1061.5 955 c 128
+ 1105 888 1105 888 1116.5 804 c 128
+ 1128 720 1128 720 1110 632 c 257
+ 1103 600 1103 600 1090.5 570 c 128
+ 1078 540 1078 540 1065 517 c 257
+ 1050 490 1050 490 1034 466 c 257
+ 419 466 l 257
+ 412 404 412 404 425.5 354.5 c 128
+ 439 305 439 305 468.5 270.5 c 128
+ 498 236 498 236 540 218 c 128
+ 582 200 582 200 631 200 c 257
+ 674 200 674 200 709 209 c 128
+ 744 218 744 218 771.5 231.5 c 128
+ 799 245 799 245 820 260 c 128
+ 841 275 841 275 857 287 c 257
+ 1000 137 l 257
+853 672 m 257
+ 871 713 871 713 869.5 753 c 128
+ 868 793 868 793 851 824.5 c 128
+ 834 856 834 856 801.5 876.5 c 128
+ 769 897 769 897 725 900 c 257
+ 678 903 678 903 643 891.5 c 128
+ 608 880 608 880 582 859 c 128
+ 556 838 556 838 538 811 c 128
+ 520 784 520 784 507 756 c 257
+ 398 653 l 257
+ 574 671 l 257
+ 853 672 l 257
+1078 1220 m 257
+ 863 1220 l 257
+ 811 1323 l 257
+ 803 1450 l 257
+ 751 1323 l 257
+ 652 1220 l 257
+ 422 1220 l 257
+ 643 1495 l 257
+ 944 1524 l 257
+ 1078 1220 l 257
+EndSplineSet
+Kerns2: 77 -200 "'kern' Horizontal Kerning lookup 0 subtable" 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 93 -100 "'kern' Horizontal Kerning lookup 0 subtable" 97 -100 "'kern' Horizontal Kerning lookup 0 subtable" 98 -100 "'kern' Horizontal Kerning lookup 0 subtable" 142 -100 "'kern' Horizontal Kerning lookup 0 subtable" 214 -100 "'kern' Horizontal Kerning lookup 0 subtable" 261 -100 "'kern' Horizontal Kerning lookup 0 subtable" 289 -100 "'kern' Horizontal Kerning lookup 0 subtable" 397 -100 "'kern' Horizontal Kerning lookup 0 subtable" 447 -50 "'kern' Horizontal Kerning lookup 0 subtable" 555 -50 "'kern' Horizontal Kerning lookup 0 subtable" 557 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

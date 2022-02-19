@@ -1,0 +1,28 @@
+StartChar: fourinferior
+Encoding: 283 8324 283
+GlifName: fourinferior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+595 -350 m 257
+ 506 -350 l 257
+ 480 -500 l 257
+ 326 -500 l 257
+ 352 -350 l 257
+ 57 -350 l 257
+ 75 -250 l 257
+ 413 262 l 257
+ 563 246 l 257
+ 335 -119 l 257
+ 225 -250 l 257
+ 370 -250 l 257
+ 396 -101 l 257
+ 548 -114 l 257
+ 524 -250 l 257
+ 624 -250 l 257
+ 595 -350 l 257
+EndSplineSet
+EndChar

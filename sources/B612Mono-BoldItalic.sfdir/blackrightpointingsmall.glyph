@@ -1,0 +1,16 @@
+StartChar: blackrightpointingsmall
+Encoding: 149 9656 149
+GlifName: blackrightpointingsmall
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+416 700 m 257
+ 399 410 l 257
+ 900 700 l 257
+ 399 991 l 257
+ 416 700 l 257
+EndSplineSet
+EndChar

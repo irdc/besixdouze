@@ -1,0 +1,11 @@
+StartChar: Nineroman
+Encoding: 50 8552 50
+GlifName: N_ineroman
+Width: 1800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 34 73 N 1 0 0 1 0 0 2
+Refer: 94 88 N 1 0 0 1 500 0 2
+EndChar

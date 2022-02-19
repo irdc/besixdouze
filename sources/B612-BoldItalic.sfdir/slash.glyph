@@ -1,0 +1,17 @@
+StartChar: slash
+Encoding: 485 47 485
+GlifName: slash
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+342 -100 m 257
+ -10 -100 l 257
+ 699 1600 l 257
+ 1042 1600 l 257
+ 342 -100 l 257
+EndSplineSet
+Kerns2: 485 -200 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

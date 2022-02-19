@@ -1,0 +1,39 @@
+StartChar: igrave
+Encoding: 316 236 316
+GlifName: igrave
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+390 0 m 257
+NamedP: "hr00"
+ 200 0 l 257
+ 200 1055 l 257
+ 390 1075 l 257
+ 390 0 l 257
+NamedP: "hr00"
+EndSplineSet
+Refer: 293 96 N 1 0 0 1 -200 0 2
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1300\" width=\"200\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

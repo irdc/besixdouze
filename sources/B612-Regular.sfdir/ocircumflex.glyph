@@ -1,0 +1,11 @@
+StartChar: ocircumflex
+Encoding: 375 244 375
+GlifName: ocircumflex
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 373 111 N 1 0 0 1 0 0 2
+Refer: 194 710 N 1 0 0 1 100 0 2
+EndChar

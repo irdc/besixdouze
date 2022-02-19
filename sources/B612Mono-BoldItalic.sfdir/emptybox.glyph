@@ -1,0 +1,21 @@
+StartChar: emptybox
+Encoding: 230 9744 230
+GlifName: emptybox
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1200 0 m 257
+ 100 0 l 257
+ 100 1100 l 257
+ 1200 1100 l 257
+ 1200 0 l 257
+265 165 m 257
+ 1035 165 l 257
+ 1035 935 l 257
+ 265 935 l 257
+ 265 165 l 257
+EndSplineSet
+EndChar

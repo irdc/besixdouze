@@ -1,0 +1,28 @@
+StartChar: multiply
+Encoding: 356 215 356
+GlifName: multiply
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+490 119 m 257
+ 330 269 l 257
+ 760 633 l 257
+ 458 998 l 257
+ 672 1149 l 257
+ 920 847 l 257
+ 969 729 l 257
+ 1012 847 l 257
+ 1365 1149 l 257
+ 1525 998 l 257
+ 1096 633 l 257
+ 1397 269 l 257
+ 1183 119 l 257
+ 936 419 l 257
+ 887 538 l 257
+ 844 419 l 257
+ 490 119 l 257
+EndSplineSet
+EndChar

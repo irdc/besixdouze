@@ -1,0 +1,30 @@
+StartChar: N
+Encoding: 48 78 48
+GlifName: N_
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1577 1527 m 257
+ 1308 0 l 257
+ 1007 0 l 257
+ 712 700 l 257
+ 624 1038 l 257
+ 617 1037 l 257
+ 594 691 l 257
+ 473 0 l 257
+ 146 0 l 257
+ 368 1263 l 257
+ 376 1494 l 257
+ 722 1524 l 257
+ 1021 810 l 257
+ 1107 449 l 257
+ 1113 450 l 257
+ 1129 816 l 257
+ 1249 1493 l 257
+ 1577 1527 l 257
+EndSplineSet
+Kerns2: 214 -100 "'kern' Horizontal Kerning lookup 0 subtable" 543 -100 "'kern' Horizontal Kerning lookup 0 subtable" 544 -100 "'kern' Horizontal Kerning lookup 0 subtable" 545 -100 "'kern' Horizontal Kerning lookup 0 subtable" 546 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

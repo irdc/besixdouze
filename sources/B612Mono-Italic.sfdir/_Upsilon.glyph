@@ -1,0 +1,48 @@
+StartChar: Upsilon
+Encoding: 78 933 78
+GlifName: U_psilon
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+588 935 m 257
+ 976 1500 l 257
+ 1168 1500 l 257
+NamedP: "sv01"
+ 582 646 l 257
+ 469 0 l 257
+NamedP: "sv02"
+ 269 0 l 257
+NamedP: "ab01"
+ 382 645 l 257
+ 97 1500 l 257
+NamedP: "at01"
+ 305 1520 l 257
+NamedP: "at02"
+ 483 954 l 257
+ 518 705 l 257
+ 588 935 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

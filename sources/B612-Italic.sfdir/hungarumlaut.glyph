@@ -1,0 +1,21 @@
+StartChar: hungarumlaut
+Encoding: 308 733 308
+GlifName: hungarumlaut
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+642 1500 m 257
+ 876 1520 l 257
+ 502 1117 l 257
+ 352 1117 l 257
+ 642 1500 l 257
+1005 1500 m 257
+ 1239 1520 l 257
+ 865 1117 l 257
+ 715 1117 l 257
+ 1005 1500 l 257
+EndSplineSet
+EndChar

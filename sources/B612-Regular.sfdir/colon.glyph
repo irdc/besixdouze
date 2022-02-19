@@ -1,0 +1,31 @@
+StartChar: colon
+Encoding: 202 58 202
+GlifName: colon
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 412 46 N 0.9 0 0 0.9 75 -2 2
+Refer: 412 46 N 0.9 0 0 0.9 75 512 2
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"lsb\">\\u000a            <hstem pos=\"-17\" width=\"298\"/>\\u000a            <hstem pos=\"497\" width=\"298\"/>\\u000a            <vstem pos=\"152\" width=\"296\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

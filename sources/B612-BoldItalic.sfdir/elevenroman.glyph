@@ -1,0 +1,33 @@
+StartChar: elevenroman
+Encoding: 241 8570 241
+GlifName: elevenroman
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+644 272 m 257
+ 614 474 l 257
+ 510 272 l 257
+ 295 0 l 257
+ -34 0 l 257
+ 480 585 l 257
+ 213 1093 l 257
+ 550 1120 l 257
+ 652 900 l 257
+ 679 699 l 257
+ 774 900 l 257
+ 948 1096 l 257
+ 1299 1124 l 257
+ 823 581 l 257
+ 1129 0 l 257
+ 778 0 l 257
+ 644 272 l 257
+1500 0 m 257
+ 1200 0 l 257
+ 1396 1114 l 257
+ 1702 1147 l 257
+ 1500 0 l 257
+EndSplineSet
+EndChar

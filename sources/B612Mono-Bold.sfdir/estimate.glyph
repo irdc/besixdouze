@@ -1,0 +1,75 @@
+StartChar: estimate
+Encoding: 238 8793 238
+GlifName: estimate
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 300 m 257
+ 1000 300 l 257
+NamedP: "av02"
+ 1000 116 l 257
+NamedP: "sv01"
+ 200 116 l 257
+NamedP: "sv02"
+ 200 300 l 257
+200 600 m 257
+ 1000 600 l 257
+NamedP: "av01"
+ 1000 416 l 257
+NamedP: "sv03"
+ 200 416 l 257
+NamedP: "sv04"
+ 200 600 l 257
+960 727 m 257
+NamedP: "mh01"
+ 780 727 l 257
+NamedP: "mv01"
+ 600 927 l 257
+ 420 728 l 257
+NamedP: "mv02"
+ 240 728 l 257
+NamedP: "mh02"
+ 530 1107 l 257
+ 656 1119 l 257
+ 960 727 l 257
+NamedP: "mh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"mh01\">\\u000a            <hstem pos=\"739\" width=\"-12\"/>\\u000a            <hstem pos=\"1119\" width=\"-12\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"-6\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"5\" point=\"mh02\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"av02\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-6\" point=\"av02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-7\" point=\"av02\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv01\" stem=\"eq Y: 144\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-4\" point=\"sv01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"sv01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv03\" stem=\"eq Y: 144\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"7\" point=\"sv03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"sv03\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-1\" point=\"sv03\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv03\" point2=\"sv04\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mh01\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"mv01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"mv02\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"mh02\" ppm1=\"12\" ppm2=\"12\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

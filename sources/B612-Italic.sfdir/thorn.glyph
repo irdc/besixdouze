@@ -1,0 +1,11 @@
+StartChar: thorn
+Encoding: 519 254 519
+GlifName: thorn
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 373 111 N 1 0 0 1 10 0 2
+Refer: 145 124 N 1 0 0 1 -1 0 2
+EndChar

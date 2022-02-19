@@ -1,0 +1,21 @@
+StartChar: parallelto
+Encoding: 401 8741 401
+GlifName: parallelto
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+355 1500 m 257
+ 355 0 l 257
+ 200 0 l 257
+ 200 1500 l 257
+ 355 1500 l 257
+755 1500 m 257
+ 755 0 l 257
+ 600 0 l 257
+ 600 1500 l 257
+ 755 1500 l 257
+EndSplineSet
+EndChar

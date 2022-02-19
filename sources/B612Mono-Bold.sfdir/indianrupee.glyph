@@ -1,0 +1,89 @@
+StartChar: indianrupee
+Encoding: 292 8377 292
+GlifName: indianrupee
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+180 1500 m 257
+NamedP: "hr00"
+ 1135 1500 l 257
+ 1022 1292 l 257
+ 934 1292 l 257
+ 790 1340 l 257
+ 881 1251 l 257
+ 891 1231 891 1231 893 1207 c 128
+ 895 1183 895 1183 895 1169 c 257
+ 1136 1169 l 257
+ 1022 959 l 257
+ 930 959 l 257
+ 817 990 l 257
+ 877 925 l 257
+ 855 866 855 866 814.5 815.5 c 128
+NamedP: "mv01"
+ 774 765 774 765 721.5 726 c 128
+NamedP: "mv02"
+ 669 687 669 687 607.5 661.5 c 128
+ 546 636 546 636 482 627 c 257
+ 630 583 l 257
+ 1067 0 l 257
+ 699 0 l 257
+ 272 573 l 257
+ 264 583 264 583 252 583 c 257
+ 160 583 l 257
+ 160 802 l 257
+ 330 802 l 257
+ 377 802 377 802 415 814.5 c 128
+ 453 827 453 827 483 848 c 128
+ 513 869 513 869 534.5 897.5 c 128
+ 556 926 556 926 570 959 c 257
+ 122 959 l 257
+ 180 1169 l 257
+ 576 1169 l 257
+ 570 1185 570 1185 560 1206.5 c 128
+ 550 1228 550 1228 531.5 1247 c 128
+ 513 1266 513 1266 483.5 1279 c 128
+ 454 1292 454 1292 410 1292 c 257
+ 122 1292 l 257
+NamedP: "mh01"
+ 180 1500 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"959\" width=\"210\"/>\\u000a            <hstem pos=\"1292\" width=\"208\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"3\" point=\"mh01\" ppm1=\"23\" ppm2=\"23\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"4\" point=\"mv01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-2\" point=\"mv02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"mh01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

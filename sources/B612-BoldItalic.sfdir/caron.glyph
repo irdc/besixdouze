@@ -1,0 +1,21 @@
+StartChar: caron
+Encoding: 178 711 178
+GlifName: caron
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+842 1215 m 257
+ 551 1244 l 257
+ 426 1519 l 257
+ 656 1519 l 257
+ 715 1426 l 257
+ 729 1299 l 257
+ 785 1426 l 257
+ 877 1519 l 257
+ 1082 1519 l 257
+ 842 1215 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,55 @@
+StartChar: acute
+Encoding: 92 180 92
+GlifName: acute
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+563 1500 m 257
+NamedP: "ah01"
+ 900 1520 l 257
+NamedP: "sh01"
+ 615 1200 l 257
+ 400 1200 l 257
+NamedP: "mh01"
+ 563 1500 l 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh01\">\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"ah01\">\\u000a            <hstem pos=\"1200\" width=\"310\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"eq X: dia Fat\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-7\" point=\"sh01\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-2\" point=\"mh01\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-2\" point=\"mh01\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"mh01\"/>\\u000a          <ttc code=\"alignt\" point=\"sh01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ah01\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

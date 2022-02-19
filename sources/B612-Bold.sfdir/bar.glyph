@@ -1,0 +1,16 @@
+StartChar: bar
+Encoding: 145 124 145
+GlifName: bar
+Width: 400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+366 1527 m 257
+ 366 -380 l 257
+ 24 -380 l 257
+ 24 1493 l 257
+ 366 1527 l 257
+EndSplineSet
+EndChar

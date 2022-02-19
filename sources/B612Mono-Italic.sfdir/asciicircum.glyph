@@ -1,0 +1,44 @@
+StartChar: asciicircum
+Encoding: 123 94 123
+GlifName: asciicircum
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1273 912 m 257
+NamedP: "sv01"
+ 1072 912 l 257
+ 752 1239 l 257
+ 727 1350 l 257
+ 663 1241 l 257
+ 239 914 l 257
+ 23 914 l 257
+NamedP: "av01"
+ 681 1500 l 257
+ 813 1517 l 257
+ 1273 912 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

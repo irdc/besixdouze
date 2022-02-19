@@ -1,0 +1,32 @@
+StartChar: arrowdblnortheast
+Encoding: 107 8663 107
+GlifName: arrowdblnortheast
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1211 1111 m 257
+ 1200 971 l 257
+ 1200 453 l 257
+ 1079 333 l 257
+ 1079 680 l 257
+ 1000 617 l 257
+ 362 -20 l 257
+ 280 62 l 257
+ 812 593 l 257
+ 1079 821 l 257
+ 1093 993 l 257
+ 921 979 l 257
+ 693 712 l 257
+ 162 180 l 257
+ 80 262 l 257
+ 717 900 l 257
+ 779 979 l 257
+ 433 979 l 257
+ 553 1100 l 257
+ 1071 1100 l 257
+ 1211 1111 l 257
+EndSplineSet
+EndChar

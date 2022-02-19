@@ -1,0 +1,18 @@
+StartChar: leftfloor
+Encoding: 305 8970 305
+GlifName: leftfloor
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+500 1500 m 257
+ 300 1500 l 257
+ 300 0 l 257
+ 900 0 l 257
+ 900 150 l 257
+ 500 150 l 257
+ 500 1500 l 257
+EndSplineSet
+EndChar

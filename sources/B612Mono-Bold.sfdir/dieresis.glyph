@@ -1,0 +1,62 @@
+StartChar: dieresis
+Encoding: 210 168 210
+GlifName: dieresis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+262 1566 m 257
+NamedP: "ah01"
+ 538 1566 l 257
+ 538 1300 l 257
+NamedP: "sv01"
+ 262 1300 l 257
+ 262 1566 l 257
+NamedP: "ah01"
+662 1566 m 257
+NamedP: "ah02"
+ 938 1566 l 257
+ 938 1300 l 257
+NamedP: "sv02"
+ 662 1300 l 257
+ 662 1566 l 257
+NamedP: "ah02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ah01\">\\u000a            <hstem pos=\"1300\" width=\"266\"/>\\u000a            <vstem pos=\"262\" width=\"276\"/>\\u000a            <vstem pos=\"662\" width=\"276\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ah02\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah02\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

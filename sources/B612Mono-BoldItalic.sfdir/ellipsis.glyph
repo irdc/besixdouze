@@ -1,0 +1,112 @@
+StartChar: ellipsis
+Encoding: 228 8230 228
+GlifName: ellipsis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+8 183 m 257
+NamedP: "av04"
+ 15 224 15 224 37 260 c 128
+ 59 296 59 296 90.5 323 c 128
+ 122 350 122 350 160.5 365.5 c 128
+ 199 381 199 381 240 381 c 257
+NamedP: "av01"
+ 281 381 281 381 314 365.5 c 128
+ 347 350 347 350 369.5 323 c 128
+ 392 296 392 296 401 260 c 128
+ 410 224 410 224 403 183 c 257
+NamedP: "sv01"
+ 395 142 395 142 373.5 105.5 c 128
+ 352 69 352 69 320.5 42 c 128
+ 289 15 289 15 250.5 -1 c 128
+ 212 -17 212 -17 171 -17 c 257
+NamedP: "ab01"
+ 130 -17 130 -17 96.5 -1 c 128
+ 63 15 63 15 41 42 c 128
+ 19 69 19 69 9.5 105.5 c 128
+ 0 142 0 142 8 183 c 257
+NamedP: "av04"
+498 183 m 257
+NamedP: "av05"
+ 505 224 505 224 527 260 c 128
+ 549 296 549 296 580.5 323 c 128
+ 612 350 612 350 650.5 365.5 c 128
+ 689 381 689 381 730 381 c 257
+NamedP: "av02"
+ 771 381 771 381 804 365.5 c 128
+ 837 350 837 350 859.5 323 c 128
+ 882 296 882 296 891 260 c 128
+ 900 224 900 224 893 183 c 257
+NamedP: "sv02"
+ 885 142 885 142 863.5 105.5 c 128
+ 842 69 842 69 810.5 42 c 128
+ 779 15 779 15 740.5 -1 c 128
+ 702 -17 702 -17 661 -17 c 257
+NamedP: "ab02"
+ 620 -17 620 -17 586.5 -1 c 128
+ 553 15 553 15 531 42 c 128
+ 509 69 509 69 499.5 105.5 c 128
+ 490 142 490 142 498 183 c 257
+NamedP: "av05"
+988 183 m 257
+NamedP: "av06"
+ 995 224 995 224 1017 260 c 128
+ 1039 296 1039 296 1070.5 323 c 128
+ 1102 350 1102 350 1140.5 365.5 c 128
+ 1179 381 1179 381 1220 381 c 257
+NamedP: "av03"
+ 1261 381 1261 381 1294 365.5 c 128
+ 1327 350 1327 350 1349.5 323 c 128
+ 1372 296 1372 296 1381 260 c 128
+ 1390 224 1390 224 1383 183 c 257
+NamedP: "sv03"
+ 1375 142 1375 142 1353.5 105.5 c 128
+ 1332 69 1332 69 1300.5 42 c 128
+ 1269 15 1269 15 1230.5 -1 c 128
+ 1192 -17 1192 -17 1151 -17 c 257
+NamedP: "ab03"
+ 1110 -17 1110 -17 1076.5 -1 c 128
+ 1043 15 1043 15 1021 42 c 128
+ 999 69 999 69 989.5 105.5 c 128
+ 980 142 980 142 988 183 c 257
+NamedP: "av06"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av04\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av05\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av06\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab03\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av04\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av05\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av06\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

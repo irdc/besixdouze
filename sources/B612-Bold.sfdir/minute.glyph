@@ -1,0 +1,18 @@
+StartChar: minute
+Encoding: 353 8242 353
+GlifName: minute
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+380 1230 m 257
+ 219 885 l 257
+ 66 885 l 257
+ 130 1232 l 257
+ 130 1523 l 257
+ 380 1490 l 257
+ 380 1230 l 257
+EndSplineSet
+EndChar

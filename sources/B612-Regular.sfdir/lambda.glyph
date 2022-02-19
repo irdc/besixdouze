@@ -1,0 +1,55 @@
+StartChar: lambda
+Encoding: 329 955 329
+GlifName: lambda
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+550 968 m 257
+NamedP: "hr00"
+ 498 736 l 257
+ 230 0 l 257
+ 34 0 l 257
+ 451 1147 l 257
+ 431 1197 431 1197 406.5 1247 c 128
+ 382 1297 382 1297 353.5 1337 c 128
+ 325 1377 325 1377 294 1402.5 c 128
+ 263 1428 263 1428 230 1428 c 257
+ 206 1428 206 1428 184 1418 c 128
+ 162 1408 162 1408 145 1396 c 257
+ 72 1503 l 257
+ 113 1539 113 1539 162 1559.5 c 128
+ 211 1580 211 1580 262 1580 c 257
+ 330 1580 330 1580 385.5 1539 c 128
+ 441 1498 441 1498 487 1432.5 c 128
+ 533 1367 533 1367 569.5 1284 c 128
+ 606 1201 606 1201 637 1117 c 257
+ 1045 0 l 257
+ 871 0 l 257
+ 602 736 l 257
+ 550 968 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1375\" width=\"145\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

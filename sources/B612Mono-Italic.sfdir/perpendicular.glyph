@@ -1,0 +1,46 @@
+StartChar: perpendicular
+Encoding: 373 8869 373
+GlifName: perpendicular
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+700 1300 m 257
+NamedP: "av01"
+ 700 150 l 257
+NamedP: "dh02"
+ 1100 150 l 257
+ 1080 0 l 257
+NamedP: "ab01"
+ 95 0 l 257
+ 115 150 l 257
+NamedP: "sv01"
+ 500 150 l 257
+NamedP: "dh01"
+ 500 1300 l 257
+ 700 1300 l 257
+NamedP: "av01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"dh02\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"dh02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"dh01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

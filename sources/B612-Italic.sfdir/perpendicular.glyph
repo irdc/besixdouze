@@ -1,0 +1,20 @@
+StartChar: perpendicular
+Encoding: 414 8869 414
+GlifName: perpendicular
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+800 1300 m 257
+ 800 150 l 257
+ 1300 150 l 257
+ 1280 0 l 257
+ 95 0 l 257
+ 115 150 l 257
+ 600 150 l 257
+ 600 1300 l 257
+ 800 1300 l 257
+EndSplineSet
+EndChar

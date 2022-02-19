@@ -1,0 +1,59 @@
+StartChar: cedilla
+Encoding: 169 184 169
+GlifName: cedilla
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+824 0 m 257
+NamedP: "sh01"
+ 847 -27 847 -27 865 -59 c 257
+ 881 -86 881 -86 894 -122 c 128
+ 907 -158 907 -158 907 -198 c 257
+NamedP: "sh02"
+ 907 -242 907 -242 888.5 -280 c 128
+ 870 -318 870 -318 839 -346.5 c 128
+ 808 -375 808 -375 767.5 -391 c 128
+ 727 -407 727 -407 683 -407 c 257
+ 633 -407 633 -407 586.5 -393.5 c 128
+ 540 -380 540 -380 503 -363 c 257
+ 460 -344 460 -344 422 -318 c 257
+NamedP: "ah03"
+ 493 -218 l 257
+NamedP: "av01"
+ 519 -236 519 -236 547 -249 c 257
+ 571 -260 571 -260 600.5 -269.5 c 128
+ 630 -279 630 -279 659 -279 c 257
+ 696 -279 696 -279 725 -255 c 128
+ 754 -231 754 -231 754 -189 c 257
+NamedP: "ah02"
+ 754 -156 754 -156 737.5 -122.5 c 128
+ 721 -89 721 -89 701 -62 c 257
+ 677 -30 677 -30 648 0 c 257
+NamedP: "ah01"
+ 824 0 l 257
+NamedP: "sh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"7\" point=\"ah01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"5\" point=\"ah01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"X: 176\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh02\" stem=\"X: 176\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignb\" point=\"sh01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"ah03\" stem=\"Y: 135\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"av02\" ppm1=\"23\" ppm2=\"23\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

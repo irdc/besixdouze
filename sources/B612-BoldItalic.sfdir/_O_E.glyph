@@ -1,0 +1,56 @@
+StartChar: OE
+Encoding: 54 338 54
+GlifName: O_E_
+Width: 2000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+916 0 m 257
+ 938 70 l 257
+ 797 -17 l 257
+ 641 -17 641 -17 524 39.5 c 128
+ 407 96 407 96 332.5 197.5 c 128
+ 258 299 258 299 227 440 c 128
+ 196 581 196 581 212 750 c 257
+ 228 917 228 917 294 1061.5 c 128
+ 360 1206 360 1206 470 1311 c 128
+ 580 1416 580 1416 730.5 1472 c 128
+ 881 1528 881 1528 1066 1517 c 257
+ 1178 1430 l 257
+ 1180 1500 l 257
+ 2068 1500 l 257
+ 2028 1272 l 257
+ 1434 1272 l 257
+ 1424 1134 l 257
+ 1386 916 l 257
+ 1899 916 l 257
+ 1861 703 l 257
+ 1348 703 l 257
+ 1288 360 l 257
+ 1258 228 l 257
+ 1881 228 l 257
+ 1814 0 l 257
+ 916 0 l 257
+828 221 m 257
+ 840 220 840 220 860.5 220.5 c 128
+ 881 221 881 221 903.5 223 c 128
+ 926 225 926 225 947 228 c 128
+ 968 231 968 231 981 234 c 257
+ 1162 1261 l 257
+ 1152 1265 1152 1265 1132 1268 c 128
+ 1112 1271 1112 1271 1088.5 1273 c 128
+ 1065 1275 1065 1275 1042.5 1276.5 c 128
+ 1020 1278 1020 1278 1004 1279 c 257
+ 904 1287 904 1287 825 1246.5 c 128
+ 746 1206 746 1206 689.5 1134.5 c 128
+ 633 1063 633 1063 598.5 971 c 128
+ 564 879 564 879 554 783 c 257
+ 542 677 542 677 546.5 579.5 c 128
+ 551 482 551 482 580 405.5 c 128
+ 609 329 609 329 669 280 c 128
+ 729 231 729 231 828 221 c 257
+EndSplineSet
+Kerns2: 54 -100 "'kern' Horizontal Kerning lookup 0 subtable" 55 -100 "'kern' Horizontal Kerning lookup 0 subtable" 56 -100 "'kern' Horizontal Kerning lookup 0 subtable" 57 -100 "'kern' Horizontal Kerning lookup 0 subtable" 58 -100 "'kern' Horizontal Kerning lookup 0 subtable" 63 -100 "'kern' Horizontal Kerning lookup 0 subtable" 64 -100 "'kern' Horizontal Kerning lookup 0 subtable" 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 214 -100 "'kern' Horizontal Kerning lookup 0 subtable" 289 -100 "'kern' Horizontal Kerning lookup 0 subtable" 543 -100 "'kern' Horizontal Kerning lookup 0 subtable" 544 -100 "'kern' Horizontal Kerning lookup 0 subtable" 545 -100 "'kern' Horizontal Kerning lookup 0 subtable" 546 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,21 @@
+StartChar: brokenbar
+Encoding: 161 166 161
+GlifName: brokenbar
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+800 1520 m 257
+ 800 700 l 257
+ 600 700 l 257
+ 600 1500 l 257
+ 800 1520 l 257
+800 362 m 257
+ 800 -400 l 257
+ 600 -400 l 257
+ 600 362 l 257
+ 800 362 l 257
+EndSplineSet
+EndChar

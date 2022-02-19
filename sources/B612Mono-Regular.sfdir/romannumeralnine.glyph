@@ -1,0 +1,37 @@
+StartChar: romannumeralnine
+Encoding: 425 8552 425
+GlifName: romannumeralnine
+Width: 2600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1978 0 m 257
+ 1701 519 l 257
+ 1624 700 l 257
+ 1576 540 l 257
+ 1268 0 l 257
+ 386 0 l 257
+ 406 160 l 257
+ 752 160 l 257
+ 752 1360 l 257
+ 406 1360 l 257
+ 386 1500 l 257
+ 1351 1500 l 257
+ 1600 1056 l 257
+ 1680 860 l 257
+ 1715 1020 l 257
+ 1967 1500 l 257
+ 2167 1500 l 257
+ 1768 776 l 257
+ 2198 0 l 257
+ 1978 0 l 257
+962 160 m 257
+ 1162 160 l 257
+ 1533 799 l 257
+ 1208 1360 l 257
+ 962 1360 l 257
+ 962 160 l 257
+EndSplineSet
+EndChar

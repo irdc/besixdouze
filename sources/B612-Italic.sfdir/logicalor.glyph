@@ -1,0 +1,21 @@
+StartChar: logicalor
+Encoding: 342 8744 342
+GlifName: logicalor
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+522 0 m 257
+ 93 1300 l 257
+ 248 1320 l 257
+ 592 320 l 257
+ 657 80 l 257
+ 722 320 l 257
+ 1058 1300 l 257
+ 1229 1320 l 257
+ 787 0 l 257
+ 522 0 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,101 @@
+StartChar: omega
+Encoding: 345 969 345
+GlifName: omega
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+837 744 m 257
+NamedP: "ih03"
+ 791 487 l 257
+NamedP: "sv01"
+ 781 428 781 428 776 375 c 128
+ 771 322 771 322 774 282 c 128
+ 777 242 777 242 788 218.5 c 128
+ 799 195 799 195 822 195 c 257
+ 850 195 850 195 869.5 220 c 128
+ 889 245 889 245 904 289.5 c 128
+ 919 334 919 334 931 395.5 c 128
+ 943 457 943 457 956 531 c 257
+ 977 649 977 649 967 728 c 128
+ 957 807 957 807 932 854 c 128
+ 907 901 907 901 876 920.5 c 128
+ 845 940 845 940 823 940 c 257
+NamedP: "sv03"
+ 854 1117 l 257
+NamedP: "sv02"
+ 962 1117 962 1117 1050.5 1072 c 128
+ 1139 1027 1139 1027 1198 950.5 c 128
+ 1257 874 1257 874 1282 772.5 c 128
+ 1307 671 1307 671 1287 559 c 257
+ 1270 463 l 257
+ 1260 408 1260 408 1246.5 351 c 128
+ 1233 294 1233 294 1210.5 240.5 c 128
+ 1188 187 1188 187 1153.5 140 c 128
+ 1119 93 1119 93 1068.5 58 c 128
+ 1018 23 1018 23 948.5 3 c 128
+ 879 -17 879 -17 785 -17 c 257
+NamedP: "sv04"
+ 704 -17 704 -17 654 0 c 128
+ 604 17 604 17 572 47 c 257
+NamedP: "ih01"
+ 531 19 531 19 473 1 c 128
+ 415 -17 415 -17 338 -17 c 257
+NamedP: "ab01"
+ 245 -17 245 -17 182.5 3.5 c 128
+ 120 24 120 24 82 59 c 128
+ 44 94 44 94 26 140.5 c 128
+ 8 187 8 187 4 240.5 c 128
+ 0 294 0 294 6 351 c 128
+ 12 408 12 408 22 463 c 257
+ 39 559 l 257
+ 52 634 52 634 83 704.5 c 128
+ 114 775 114 775 159 837 c 128
+ 204 899 204 899 260 950.5 c 128
+ 316 1002 316 1002 380.5 1039 c 128
+ 445 1076 445 1076 515.5 1096.5 c 128
+ 586 1117 586 1117 658 1117 c 257
+NamedP: "at01"
+ 627 940 l 257
+NamedP: "sv05"
+ 605 940 605 940 568.5 920.5 c 128
+ 532 901 532 901 492.5 854 c 128
+ 453 807 453 807 417 728 c 128
+ 381 649 381 649 360 531 c 257
+ 347 457 347 457 337.5 395.5 c 128
+ 328 334 328 334 327 289.5 c 128
+ 326 245 326 245 336.5 220 c 128
+ 347 195 347 195 375 195 c 257
+ 397 195 397 195 417 218.5 c 128
+ 437 242 437 242 454 282 c 128
+ 471 322 471 322 484.5 375 c 128
+ 498 428 498 428 508 487 c 257
+NamedP: "av01"
+ 560 778 l 257
+NamedP: "ih02"
+ 837 744 l 257
+NamedP: "ih03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"ih01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"ih01\" ppm1=\"21\" ppm2=\"21\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-2\" point=\"ih01\" ppm1=\"10\" ppm2=\"10\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv02\" point2=\"sv03\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv04\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"4\" point=\"ih01\" ppm1=\"10\" ppm2=\"10\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"ih01\" ppm1=\"21\" ppm2=\"21\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"ih01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"ih01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"4\" point=\"ih01\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"3\" point=\"ih01\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv05\" stem=\"Y: 171\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

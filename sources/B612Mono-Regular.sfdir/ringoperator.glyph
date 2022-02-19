@@ -1,0 +1,75 @@
+StartChar: ringoperator
+Encoding: 420 8728 420
+GlifName: ringoperator
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+600 917 m 257
+NamedP: "at01"
+ 656 917 656 917 705 896 c 128
+ 754 875 754 875 790.5 838 c 128
+ 827 801 827 801 848 752 c 128
+ 869 703 869 703 869 647 c 257
+NamedP: "ah02"
+ 869 591 869 591 848 542 c 128
+ 827 493 827 493 790.5 456.5 c 128
+ 754 420 754 420 705 398.5 c 128
+ 656 377 656 377 600 377 c 257
+NamedP: "av01"
+ 544 377 544 377 495 398.5 c 128
+ 446 420 446 420 409.5 456.5 c 128
+ 373 493 373 493 352 542 c 128
+ 331 591 331 591 331 647 c 257
+NamedP: "ah01"
+ 331 703 331 703 352 752 c 128
+ 373 801 373 801 409.5 838 c 128
+ 446 875 446 875 495 896 c 128
+ 544 917 544 917 600 917 c 257
+NamedP: "at01"
+600 488 m 257
+NamedP: "sv01"
+ 633 488 633 488 662 500.5 c 128
+ 691 513 691 513 712.5 534.5 c 128
+ 734 556 734 556 746.5 585 c 128
+ 759 614 759 614 759 647 c 257
+NamedP: "sh01"
+ 759 680 759 680 746.5 709 c 128
+ 734 738 734 738 712.5 759.5 c 128
+ 691 781 691 781 662 793.5 c 128
+ 633 806 633 806 600 806 c 257
+NamedP: "sv02"
+ 567 806 567 806 538 793.5 c 128
+ 509 781 509 781 487.5 759.5 c 128
+ 466 738 466 738 453.5 709 c 128
+ 441 680 441 680 441 647 c 257
+NamedP: "sh02"
+ 441 614 441 614 453.5 585 c 128
+ 466 556 466 556 487.5 534.5 c 128
+ 509 513 509 513 538 500.5 c 128
+ 567 488 567 488 600 488 c 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" stem=\"X: dia Lite\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 135\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\" stem=\"Y: 135\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

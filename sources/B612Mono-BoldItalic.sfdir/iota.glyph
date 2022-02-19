@@ -1,0 +1,70 @@
+StartChar: iota
+Encoding: 297 953 297
+GlifName: iota
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+489 874 m 257
+NamedP: "hr00"
+ 489 1100 l 257
+ 860 1120 l 257
+NamedP: "at01"
+ 733 400 l 257
+ 726 362 726 362 720.5 325.5 c 128
+ 715 289 715 289 714.5 260 c 128
+ 714 231 714 231 720.5 213 c 128
+ 727 195 727 195 745 195 c 257
+ 768 195 768 195 786.5 198.5 c 128
+ 805 202 805 202 822 209 c 257
+ 887 35 l 257
+ 872 26 872 26 848 16.5 c 128
+ 824 7 824 7 796.5 -0.5 c 128
+ 769 -8 769 -8 740.5 -12.5 c 128
+ 712 -17 712 -17 687 -17 c 257
+NamedP: "ab01"
+ 567 -17 567 -17 502.5 16 c 128
+ 438 49 438 49 411.5 107 c 128
+ 385 165 385 165 388.5 243.5 c 128
+ 392 322 392 322 408 413 c 257
+ 489 874 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-15\" width=\"146\"/>\\u000a            <hstem pos=\"1120\" width=\"-20\"/>\\u000a            <vstem pos=\"200\" width=\"180\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

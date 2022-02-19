@@ -1,0 +1,69 @@
+StartChar: existential
+Encoding: 259 8707 259
+GlifName: existential
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1015 160 m 257
+NamedP: "hr00"
+ 1000 350 l 257
+ 1000 650 l 257
+ 248 650 l 257
+ 230 800 l 257
+ 1000 800 l 257
+ 1000 950 l 257
+ 1020 1150 l 257
+ 175 1150 l 257
+ 175 1300 l 257
+ 1192 1300 l 257
+ 1170 1100 l 257
+ 1170 200 l 257
+ 1187 0 l 257
+ 175 0 l 257
+ 175 160 l 257
+ 1015 160 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"0\" width=\"160\"/>\\u000a            <hstem pos=\"650\" width=\"150\"/>\\u000a            <hstem pos=\"1150\" width=\"150\"/>\\u000a            <vstem pos=\"800\" width=\"180\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I0
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I0
+sVy
+p18
+I900
+sas."
+EndChar

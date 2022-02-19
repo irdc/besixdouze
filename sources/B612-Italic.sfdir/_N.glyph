@@ -1,0 +1,29 @@
+StartChar: N
+Encoding: 48 78 48
+GlifName: N_
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1100 0 m 257
+ 666 1028 l 257
+ 600 1317 l 257
+ 594 1316 l 257
+ 576 1000 l 257
+ 400 0 l 257
+ 208 0 l 257
+ 435 1290 l 257
+ 442 1500 l 257
+ 674 1520 l 257
+ 1107 487 l 257
+ 1172 173 l 257
+ 1178 174 l 257
+ 1189 510 l 257
+ 1364 1500 l 257
+ 1557 1520 l 257
+ 1289 0 l 257
+ 1100 0 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,117 @@
+StartChar: Aring
+Encoding: 8 197 8
+GlifName: A_ring
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 257
+NamedP: "sh02"
+ 405 1284 l 257
+ 441 1500 l 257
+ 819 1520 l 257
+NamedP: "at01"
+ 1250 0 l 257
+NamedP: "sh04"
+ 916 0 l 257
+NamedP: "sh03"
+ 812 427 l 257
+NamedP: "dv01"
+ 470 427 l 257
+ 369 0 l 257
+NamedP: "sh01"
+ 50 0 l 257
+NamedP: "sh02"
+643 1331 m 257
+NamedP: "ah01"
+ 604 990 l 257
+ 529 646 l 257
+NamedP: "ih01"
+ 753 646 l 257
+NamedP: "ih02"
+ 681 990 l 257
+ 643 1331 l 257
+NamedP: "ah01"
+644 1927 m 257
+NamedP: "av01"
+ 703 1927 703 1927 754.5 1904.5 c 128
+ 806 1882 806 1882 844.5 1843.5 c 128
+ 883 1805 883 1805 905.5 1753 c 128
+ 928 1701 928 1701 928 1642 c 257
+NamedP: "ah03"
+ 928 1583 928 1583 906 1530.5 c 128
+ 884 1478 884 1478 846 1438.5 c 128
+ 808 1399 808 1399 756.5 1376 c 128
+ 705 1353 705 1353 646 1353 c 257
+NamedP: "at02"
+ 587 1353 587 1353 534.5 1376 c 128
+ 482 1399 482 1399 443 1438.5 c 128
+ 404 1478 404 1478 381 1530.5 c 128
+ 358 1583 358 1583 358 1642 c 257
+NamedP: "ah02"
+ 358 1701 358 1701 380.5 1753 c 128
+ 403 1805 403 1805 442 1843.5 c 128
+ 481 1882 481 1882 533 1904.5 c 128
+ 585 1927 585 1927 644 1927 c 257
+NamedP: "av01"
+645 1542 m 257
+NamedP: "sv01"
+ 665 1542 665 1542 682.5 1550 c 128
+ 700 1558 700 1558 713 1571.5 c 128
+ 726 1585 726 1585 733.5 1603 c 128
+ 741 1621 741 1621 741 1641 c 257
+NamedP: "sh05"
+ 741 1661 741 1661 733.5 1678.5 c 128
+ 726 1696 726 1696 713 1709.5 c 128
+ 700 1723 700 1723 682 1730.5 c 128
+ 664 1738 664 1738 644 1738 c 257
+NamedP: "sv02"
+ 624 1738 624 1738 606 1730.5 c 128
+ 588 1723 588 1723 575 1709.5 c 128
+ 562 1696 562 1696 554.5 1678.5 c 128
+ 547 1661 547 1661 547 1641 c 257
+NamedP: "sh06"
+ 547 1621 547 1621 554.5 1603 c 128
+ 562 1585 562 1585 575.5 1571.5 c 128
+ 589 1558 589 1558 607 1550 c 128
+ 625 1542 625 1542 645 1542 c 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"av01\">\\u000a            <hstem pos=\"1353\" width=\"189\"/>\\u000a            <hstem pos=\"1738\" width=\"189\"/>\\u000a            <vstem pos=\"358\" width=\"189\"/>\\u000a            <vstem pos=\"741\" width=\"187\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"eq X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" stem=\"eq X: dia Fat\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih02\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"sh02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"sh04\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"ih02\" stem=\"eq Y: 144\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah01\" point1=\"at01\" point2=\"sh02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh05\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh06\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"singlev\" point1=\"at02\" point2=\"sv01\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

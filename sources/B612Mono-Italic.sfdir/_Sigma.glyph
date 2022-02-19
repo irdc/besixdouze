@@ -1,0 +1,56 @@
+StartChar: Sigma
+Encoding: 68 931 68
+GlifName: S_igma
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+953 700 m 257
+ 528 317 l 257
+ 268 125 l 257
+ 524 170 l 257
+ 1130 170 l 257
+ 1101 0 l 257
+NamedP: "sv01"
+ 80 0 l 257
+NamedP: "ab01"
+ 132 183 l 257
+ 723 700 l 257
+ 885 750 l 257
+NamedP: "iv01"
+ 741 800 l 257
+ 332 1317 l 257
+ 344 1500 l 257
+NamedP: "at01"
+ 1330 1500 l 257
+NamedP: "sv02"
+ 1300 1330 l 257
+ 729 1330 l 257
+ 488 1375 l 257
+ 681 1183 l 257
+ 971 800 l 257
+ 953 700 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"at01\" point2=\"ab01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

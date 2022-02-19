@@ -1,0 +1,15 @@
+StartChar: germandbls
+Encoding: 291 223 291
+GlifName: germandbls
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+850 1148 m 257
+ 850 1077 850 1077 821 1027 c 128
+ 792 977 792 977 510 885 c 257
+ 545 807.5 l 129
+EndSplineSet
+EndChar

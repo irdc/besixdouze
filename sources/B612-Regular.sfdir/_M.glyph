@@ -1,0 +1,110 @@
+StartChar: M
+Encoding: 46 77 46
+GlifName: M_
+Width: 1800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1400 0 m 257
+NamedP: "sh01"
+ 1400 1000 l 257
+NamedP: "fh01"
+ 1444 1320 l 257
+NamedP: "fh02"
+ 1439 1321 l 257
+NamedP: "ih01"
+ 1338 1020 l 257
+NamedP: "ih03"
+ 923 130 l 257
+NamedP: "fh03"
+ 854 130 l 257
+NamedP: "fh04"
+ 485 920 l 257
+NamedP: "ih06"
+ 353 1321 l 257
+NamedP: "ih04"
+ 347 1320 l 257
+NamedP: "fh05"
+ 400 901 l 257
+NamedP: "fv01"
+ 400 0 l 257
+NamedP: "dh01"
+ 200 0 l 257
+NamedP: "dh02"
+ 200 1290 l 257
+ 172 1500 l 257
+NamedP: "ih05"
+ 406 1520 l 257
+NamedP: "sh02"
+ 845 580 l 257
+NamedP: "fh06"
+ 900 320 l 257
+NamedP: "ah01"
+ 955 580 l 257
+NamedP: "fh07"
+ 1384 1500 l 257
+NamedP: "sh03"
+ 1610 1520 l 257
+NamedP: "ih02"
+ 1610 0 l 257
+NamedP: "ah02"
+ 1400 0 l 257
+NamedP: "sh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a            <vstem pos=\"200\" width=\"200\"/>\\u000a            <vstem pos=\"1400\" width=\"210\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"center\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"ah02\" ppm1=\"33\" ppm2=\"33\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"ah02\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\" stem=\"X: 208\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih04\" point1=\"ih05\" point2=\"ih06\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"sh02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ih02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"sh01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"dh01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah01\" point1=\"dh01\" point2=\"sh02\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-8\" point=\"sh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-8\" point=\"fh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"fh02\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh02\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh02\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh02\" ppm1=\"33\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"fh02\" ppm1=\"31\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-8\" point=\"ih01\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"ih01\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"ih01\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"ih01\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"ih01\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"ih01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"ih01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-6\" point=\"ih03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"ih03\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"ih03\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"ih03\" ppm1=\"33\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"ih03\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"ih03\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"ih03\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"ih03\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"ih03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"ih03\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"ih03\" ppm1=\"37\" ppm2=\"37\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"ih03\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"fh03\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh03\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh03\" ppm1=\"32\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh03\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh03\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh03\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh03\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh03\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh03\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"fh03\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"fh04\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"fh04\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh04\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"fh04\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"fh04\" ppm1=\"43\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh04\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh04\" ppm1=\"15\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh04\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh04\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh04\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh04\" ppm1=\"38\" ppm2=\"38\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"ih06\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ih06\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ih06\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ih06\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"ih06\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"ih06\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"ih06\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"ih04\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"ih04\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"ih04\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"ih04\" ppm1=\"25\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"ih04\" ppm1=\"30\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"6\" point=\"ih04\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"6\" point=\"ih04\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"6\" point=\"ih04\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"fh05\" ppm1=\"32\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh05\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh05\" ppm1=\"30\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh05\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh05\" ppm1=\"25\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"fh05\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"fh05\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"ih05\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"ih05\" ppm1=\"38\" ppm2=\"38\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"sh02\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh02\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh02\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh02\" ppm1=\"36\" ppm2=\"36\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh02\" ppm1=\"38\" ppm2=\"38\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"sh02\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"sh02\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"sh02\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"sh02\" ppm1=\"41\" ppm2=\"41\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"sh02\" ppm1=\"33\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"sh02\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"sh02\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"sh02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"sh02\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"6\" point=\"sh02\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"8\" point=\"sh02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh06\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh06\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"fh06\" ppm1=\"38\" ppm2=\"38\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh06\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh06\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh06\" ppm1=\"41\" ppm2=\"41\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh06\" ppm1=\"43\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"fh06\" ppm1=\"33\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh06\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh06\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh06\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh06\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"8\" point=\"ah01\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"fh07\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"fh07\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"fh07\" ppm1=\"38\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"fh07\" ppm1=\"43\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh07\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh07\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh07\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh07\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"8\" point=\"fh07\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"sh03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"sh03\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh03\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh03\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh03\" ppm1=\"36\" ppm2=\"36\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"sh03\" ppm1=\"41\" ppm2=\"41\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"sh03\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"sh03\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"1\" point=\"sh03\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"sh03\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"sh03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"sh03\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"sh03\" ppm1=\"34\" ppm2=\"34\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"sh03\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"sh03\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"sh03\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"sh03\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"8\" point=\"sh03\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-8\" point=\"ih02\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-8\" point=\"ah02\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-4\" point=\"fh01\" ppm1=\"30\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"fh01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"fh01\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"fh02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"fh02\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"fh02\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-5\" point=\"fh02\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-4\" point=\"fh02\" ppm1=\"31\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"fh02\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"ih01\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"ih01\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"ih01\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-4\" point=\"ih01\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"ih01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"ih03\" ppm1=\"30\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-5\" point=\"ih03\" ppm1=\"37\" ppm2=\"37\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-2\" point=\"ih03\" ppm1=\"33\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"1\" point=\"ih03\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"6\" point=\"ih03\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"5\" point=\"fh03\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"5\" point=\"fh04\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"1\" point=\"ih06\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"2\" point=\"ih06\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"8\" point=\"ih06\" ppm1=\"27\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"ih04\" ppm1=\"25\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-7\" point=\"ih04\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-7\" point=\"ih04\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-4\" point=\"ih04\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"fh05\" ppm1=\"25\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-7\" point=\"fh05\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-7\" point=\"fh05\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-4\" point=\"fh05\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-8\" point=\"fv01\" ppm1=\"25\" ppm2=\"31\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"fv01\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"fh06\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"3\" point=\"fh06\" ppm1=\"11\" ppm2=\"11\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"fh07\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-1\" point=\"sh03\" ppm1=\"42\" ppm2=\"42\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I0
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I0
+sVy
+p26
+I1287
+sas."
+EndChar

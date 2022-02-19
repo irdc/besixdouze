@@ -1,0 +1,78 @@
+StartChar: element
+Encoding: 240 8712 240
+GlifName: element
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1420 0 m 257
+NamedP: "hr00"
+ 843 0 l 257
+ 672 0 672 0 534.5 40.5 c 128
+ 397 81 397 81 300.5 162.5 c 128
+ 204 244 204 244 152 366 c 128
+ 100 488 100 488 100 650 c 257
+ 100 812 100 812 152 934 c 128
+ 204 1056 204 1056 300.5 1137.5 c 128
+ 397 1219 397 1219 534.5 1259.5 c 128
+ 672 1300 672 1300 843 1300 c 257
+ 1420 1300 l 257
+ 1400 1146 l 257
+ 847 1146 l 257
+ 716 1146 716 1146 611 1116.5 c 128
+ 506 1087 506 1087 432.5 1026 c 128
+ 359 965 359 965 320 871 c 257
+ 292 806 292 806 284 725 c 257
+ 1400 725 l 257
+ 1400 575 l 257
+ 284 575 l 257
+ 292 493 292 493 320 428 c 257
+ 359 334 359 334 432.5 273 c 128
+ 506 212 506 212 611 182.5 c 128
+ 716 153 716 153 847 153 c 257
+ 1400 153 l 257
+ 1420 0 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"0\" width=\"153\"/>\\u000a            <hstem pos=\"575\" width=\"150\"/>\\u000a            <hstem pos=\"1146\" width=\"154\"/>\\u000a            <vstem pos=\"100\" width=\"180\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I0
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I0
+sVy
+p18
+I1300
+sas."
+EndChar

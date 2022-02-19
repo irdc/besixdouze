@@ -1,0 +1,25 @@
+StartChar: Eta
+Encoding: 25 919 25
+GlifName: E_ta
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+904 0 m 257
+ 1025 688 l 257
+ 579 688 l 257
+ 458 0 l 257
+ 126 0 l 257
+ 348 1263 l 257
+ 358 1494 l 257
+ 727 1526 l 257
+ 619 916 l 257
+ 1065 916 l 257
+ 1167 1496 l 257
+ 1504 1527 l 257
+ 1235 0 l 257
+ 904 0 l 257
+EndSplineSet
+EndChar

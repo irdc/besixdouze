@@ -1,0 +1,27 @@
+StartChar: k
+Encoding: 326 107 326
+GlifName: k
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 257
+ 450 1420 l 257
+ 462 1600 l 257
+ 667 1620 l 257
+ 503 690 l 257
+ 945 1100 l 257
+ 1174 1100 l 257
+ 732 690 l 257
+ 553 627 l 257
+ 710 567 l 257
+ 1092 0 l 257
+ 856 0 l 257
+ 480 557 l 257
+ 382 0 l 257
+ 200 0 l 257
+EndSplineSet
+Kerns2: 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 97 -100 "'kern' Horizontal Kerning lookup 0 subtable" 98 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

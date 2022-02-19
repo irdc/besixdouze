@@ -1,0 +1,26 @@
+StartChar: lessequal
+Encoding: 336 8804 336
+GlifName: lessequal
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+223 135 m 257
+ 1123 135 l 257
+ 1080 0 l 257
+ 200 0 l 257
+ 223 135 l 257
+1297 1119 m 257
+ 1272 979 l 257
+ 533 686 l 257
+ 453 670 l 257
+ 527 654 l 257
+ 1164 363 l 257
+ 1139 223 l 257
+ 303 588 l 257
+ 333 756 l 257
+ 1297 1119 l 257
+EndSplineSet
+EndChar

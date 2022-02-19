@@ -1,0 +1,16 @@
+StartChar: minus
+Encoding: 349 8722 349
+GlifName: minus
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+182 700 m 257
+ 1082 700 l 257
+ 1082 545 l 257
+ 182 545 l 257
+ 182 700 l 257
+EndSplineSet
+EndChar

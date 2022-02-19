@@ -1,0 +1,101 @@
+StartChar: blackcircledeight
+Encoding: 137 10129 137
+GlifName: blackcircledeight
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 750 m 257
+NamedP: "ah01"
+ 50 885 50 885 93 1011.5 c 128
+ 136 1138 136 1138 215 1236 c 128
+ 294 1334 294 1334 404.5 1393 c 128
+ 515 1452 515 1452 650 1452 c 257
+NamedP: "av01"
+ 785 1452 785 1452 895.5 1393 c 128
+ 1006 1334 1006 1334 1085 1236 c 128
+ 1164 1138 1164 1138 1207 1011.5 c 128
+ 1250 885 1250 885 1250 750 c 257
+NamedP: "ah02"
+ 1250 615 1250 615 1207 488.5 c 128
+ 1164 362 1164 362 1085 264 c 128
+ 1006 166 1006 166 895.5 107 c 128
+ 785 48 785 48 650 48 c 257
+NamedP: "av02"
+ 515 48 515 48 404.5 107 c 128
+ 294 166 294 166 215 264 c 128
+ 136 362 136 362 93 488.5 c 128
+ 50 615 50 615 50 750 c 257
+NamedP: "ah01"
+630 1210 m 256
+ 583 1210 583 1210 536 1195.5 c 0
+ 489 1181 489 1181 447 1154 c 0
+ 405 1127 405 1127 379 1080 c 0
+ 353 1033 353 1033 353 974 c 256
+ 353 885 353 885 482 809 c 257
+ 403 771 403 771 356 709 c 0
+ 309 647 309 647 309 565 c 256
+ 309 437 309 437 404.5 363.5 c 0
+ 500 290 500 290 633 290 c 256
+ 723 290 723 290 797.5 317 c 0
+ 872 344 872 344 922 406 c 0
+ 972 468 972 468 972 556 c 256
+ 972 637 972 637 919.5 701 c 0
+ 867 765 867 765 782 806 c 257
+ 916 884 916 884 916 980 c 256
+ 916 1085 916 1085 836 1147.5 c 0
+ 756 1210 756 1210 630 1210 c 256
+777 553 m 256
+ 777 493 777 493 734 456.5 c 0
+ 691 420 691 420 634 420 c 256
+ 584 420 584 420 544 458.5 c 0
+ 504 497 504 497 504 553 c 256
+ 504 669 504 669 624 727 c 257
+ 777 655 777 655 777 553 c 256
+545 994 m 256
+ 545 1029 545 1029 575 1054.5 c 0
+ 605 1080 605 1080 640 1080 c 256
+ 669 1080 669 1080 696.5 1056.5 c 0
+ 724 1033 724 1033 724 991 c 256
+NamedP: "0+BFAA-T+AMgA"
+ 724 922 724 922 646 878 c 257
+ 545 925 545 925 545 994 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"290\" width=\"130\"/>\\u000a            <hstem pos=\"290\" width=\"130\"/>\\u000a            <hstem pos=\"290\" width=\"130\"/>\\u000a            <hstem pos=\"290\" width=\"130\"/>\\u000a            <hstem pos=\"290\" width=\"130\"/>\\u000a            <hstem pos=\"1080\" width=\"130\"/>\\u000a            <hstem pos=\"1080\" width=\"130\"/>\\u000a            <hstem pos=\"1080\" width=\"130\"/>\\u000a            <hstem pos=\"1080\" width=\"130\"/>\\u000a            <hstem pos=\"1080\" width=\"130\"/>\\u000a            <vstem pos=\"309\" width=\"195\"/>\\u000a            <vstem pos=\"309\" width=\"195\"/>\\u000a            <vstem pos=\"309\" width=\"195\"/>\\u000a            <vstem pos=\"353\" width=\"192\"/>\\u000a            <vstem pos=\"353\" width=\"192\"/>\\u000a            <vstem pos=\"724\" width=\"192\"/>\\u000a            <vstem pos=\"724\" width=\"192\"/>\\u000a            <vstem pos=\"724\" width=\"192\"/>\\u000a            <vstem pos=\"777\" width=\"195\"/>\\u000a            <vstem pos=\"777\" width=\"195\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

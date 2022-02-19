@@ -1,0 +1,116 @@
+StartChar: angstrom
+Encoding: 100 8491 100
+GlifName: angstrom
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+32 0 m 257
+NamedP: "sh02"
+ 504 1300 l 257
+ 539 1500 l 257
+ 717 1520 l 257
+NamedP: "at01"
+ 1265 0 l 257
+NamedP: "sh04"
+ 1065 0 l 257
+NamedP: "sh03"
+ 917 450 l 257
+NamedP: "dv01"
+ 382 450 l 257
+ 216 0 l 257
+NamedP: "sh01"
+ 32 0 l 257
+NamedP: "sh02"
+645 1400 m 257
+NamedP: "ah01"
+ 600 1080 l 257
+ 431 600 l 257
+ 868 600 l 257
+NamedP: "ih01"
+ 690 1080 l 257
+ 645 1400 l 257
+NamedP: "ah01"
+640 1878 m 257
+NamedP: "av01"
+ 689 1878 689 1878 732 1859.5 c 128
+ 775 1841 775 1841 807.5 1808.5 c 128
+ 840 1776 840 1776 858.5 1733 c 128
+ 877 1690 877 1690 877 1641 c 257
+NamedP: "ah03"
+ 877 1592 877 1592 858.5 1548 c 128
+ 840 1504 840 1504 808.5 1471 c 128
+ 777 1438 777 1438 734 1419 c 128
+ 691 1400 691 1400 642 1400 c 257
+NamedP: "av02"
+ 593 1400 593 1400 549.5 1419 c 128
+ 506 1438 506 1438 473 1471 c 128
+ 440 1504 440 1504 421 1548 c 128
+ 402 1592 402 1592 402 1641 c 257
+NamedP: "ah02"
+ 402 1690 402 1690 421 1733 c 128
+ 440 1776 440 1776 472 1808.5 c 128
+ 504 1841 504 1841 547.5 1859.5 c 128
+ 591 1878 591 1878 640 1878 c 257
+NamedP: "av01"
+641 1517 m 257
+NamedP: "sv01"
+ 666 1517 666 1517 688 1527 c 128
+ 710 1537 710 1537 726 1553.5 c 128
+ 742 1570 742 1570 751.5 1592.5 c 128
+ 761 1615 761 1615 761 1640 c 257
+NamedP: "sh05"
+ 761 1665 761 1665 751.5 1687 c 128
+ 742 1709 742 1709 725.5 1725.5 c 128
+ 709 1742 709 1742 687 1751.5 c 128
+ 665 1761 665 1761 640 1761 c 257
+NamedP: "sv02"
+ 615 1761 615 1761 593 1751.5 c 128
+ 571 1742 571 1742 554.5 1725.5 c 128
+ 538 1709 538 1709 528.5 1687 c 128
+ 519 1665 519 1665 519 1640 c 257
+NamedP: "sh06"
+ 519 1615 519 1615 528.5 1592.5 c 128
+ 538 1570 538 1570 554.5 1553.5 c 128
+ 571 1537 571 1537 593.5 1527 c 128
+ 616 1517 616 1517 641 1517 c 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh02\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"450\" width=\"150\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"center\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" stem=\"X: dia Fat\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"sh03\" point2=\"ah01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"sh02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"sh04\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"ih01\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah01\" point1=\"sh02\" point2=\"at01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh05\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh06\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv01\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

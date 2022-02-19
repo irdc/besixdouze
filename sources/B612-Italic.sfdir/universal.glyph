@@ -1,0 +1,27 @@
+StartChar: universal
+Encoding: 551 8704 551
+GlifName: universal
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1141 1300 m 257
+ 1331 1300 l 257
+ 742 -20 l 257
+ 599 0 l 257
+ 561 160 l 257
+ 72 1300 l 257
+ 249 1300 l 257
+ 379 1000 l 257
+ 1010 1000 l 257
+ 1141 1300 l 257
+640 400 m 257
+ 694 112 l 257
+ 748 400 l 257
+ 944 850 l 257
+ 444 850 l 257
+ 640 400 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,35 @@
+StartChar: M
+Encoding: 46 77 46
+GlifName: M_
+Width: 1800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+922 799 m 257
+ 1250 1495 l 257
+ 1600 1526 l 257
+ 1600 0 l 257
+ 1269 0 l 257
+ 1269 551 l 257
+ 1314 1060 l 257
+ 1309 1061 l 257
+ 1145 581 l 257
+ 928 123 l 257
+ 745 123 l 257
+ 546 536 l 257
+ 377 1060 l 257
+ 371 1059 l 257
+ 422 498 l 257
+ 422 0 l 257
+ 100 0 l 257
+ 100 1263 l 257
+ 70 1494 l 257
+ 429 1524 l 257
+ 773 801 l 257
+ 848 498 l 257
+ 922 799 l 257
+EndSplineSet
+Kerns2: 543 -100 "'kern' Horizontal Kerning lookup 0 subtable" 544 -100 "'kern' Horizontal Kerning lookup 0 subtable" 545 -100 "'kern' Horizontal Kerning lookup 0 subtable" 546 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

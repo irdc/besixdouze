@@ -1,0 +1,112 @@
+StartChar: because
+Encoding: 134 8757 134
+GlifName: because
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-397 1073 m 257
+NamedP: "ah01"
+ -397 1114 -397 1114 -381.5 1150 c 128
+ -366 1186 -366 1186 -339 1213 c 128
+ -312 1240 -312 1240 -276.5 1255.5 c 128
+ -241 1271 -241 1271 -200 1271 c 257
+NamedP: "av01"
+ -159 1271 -159 1271 -123 1255.5 c 128
+ -87 1240 -87 1240 -60 1213 c 128
+ -33 1186 -33 1186 -17.5 1150 c 128
+ -2 1114 -2 1114 -2 1073 c 257
+NamedP: "ah02"
+ -2 1032 -2 1032 -17.5 995.5 c 128
+ -33 959 -33 959 -59.5 932 c 128
+ -86 905 -86 905 -122 889 c 128
+ -158 873 -158 873 -198 873 c 257
+NamedP: "ab01"
+ -239 873 -239 873 -275.5 889 c 128
+ -312 905 -312 905 -339 932 c 128
+ -366 959 -366 959 -381.5 995.5 c 128
+ -397 1032 -397 1032 -397 1073 c 257
+NamedP: "ah01"
+403 1073 m 257
+NamedP: "ah03"
+ 403 1114 403 1114 418.5 1150 c 128
+ 434 1186 434 1186 461 1213 c 128
+ 488 1240 488 1240 523.5 1255.5 c 128
+ 559 1271 559 1271 600 1271 c 257
+NamedP: "av02"
+ 641 1271 641 1271 677 1255.5 c 128
+ 713 1240 713 1240 740 1213 c 128
+ 767 1186 767 1186 782.5 1150 c 128
+ 798 1114 798 1114 798 1073 c 257
+NamedP: "ah04"
+ 798 1032 798 1032 782.5 995.5 c 128
+ 767 959 767 959 740.5 932 c 128
+ 714 905 714 905 678 889 c 128
+ 642 873 642 873 602 873 c 257
+NamedP: "ab02"
+ 561 873 561 873 524.5 889 c 128
+ 488 905 488 905 461 932 c 128
+ 434 959 434 959 418.5 995.5 c 128
+ 403 1032 403 1032 403 1073 c 257
+NamedP: "ah03"
+3 183 m 257
+NamedP: "ah05"
+ 3 224 3 224 18.5 260 c 128
+ 34 296 34 296 61 323 c 128
+ 88 350 88 350 123.5 365.5 c 128
+ 159 381 159 381 200 381 c 257
+NamedP: "av03"
+ 241 381 241 381 277 365.5 c 128
+ 313 350 313 350 340 323 c 128
+ 367 296 367 296 382.5 260 c 128
+ 398 224 398 224 398 183 c 257
+NamedP: "ah06"
+ 398 142 398 142 382.5 105.5 c 128
+ 367 69 367 69 340.5 42 c 128
+ 314 15 314 15 278 -1 c 128
+ 242 -17 242 -17 202 -17 c 257
+NamedP: "ab03"
+ 161 -17 161 -17 124.5 -1 c 128
+ 88 15 88 15 61 42 c 128
+ 34 69 34 69 18.5 105.5 c 128
+ 3 142 3 142 3 183 c 257
+NamedP: "ah05"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah05\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah06\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab03\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

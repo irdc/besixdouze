@@ -1,0 +1,57 @@
+StartChar: estimate
+Encoding: 238 8793 238
+GlifName: estimate
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 600 m 257
+ 1000 600 l 257
+NamedP: "av01"
+ 1000 460 l 257
+NamedP: "sv01"
+ 200 460 l 257
+NamedP: "sv02"
+ 200 600 l 257
+200 300 m 257
+ 1000 300 l 257
+NamedP: "av02"
+ 1000 160 l 257
+NamedP: "sv03"
+ 200 160 l 257
+NamedP: "sv04"
+ 200 300 l 257
+917 754 m 257
+ 797 754 l 257
+ 628 950 l 257
+ 601 1017 l 257
+ 575 952 l 257
+ 413 755 l 257
+ 283 755 l 257
+ 558 1107 l 257
+ 635 1117 l 257
+ 917 754 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv03\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv03\" point2=\"sv04\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

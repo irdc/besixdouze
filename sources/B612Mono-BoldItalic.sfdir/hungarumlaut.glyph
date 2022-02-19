@@ -1,0 +1,51 @@
+StartChar: hungarumlaut
+Encoding: 282 733 282
+GlifName: hungarumlaut
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+369 1500 m 257
+NamedP: "at05"
+ 703 1520 l 257
+NamedP: "at03"
+ 349 1117 l 257
+NamedP: "sv01"
+ 120 1117 l 257
+NamedP: "at01"
+ 369 1500 l 257
+NamedP: "at05"
+782 1500 m 257
+NamedP: "sv02"
+ 1116 1520 l 257
+NamedP: "at04"
+ 762 1117 l 257
+NamedP: "sv03"
+ 533 1117 l 257
+NamedP: "at02"
+ 782 1500 l 257
+NamedP: "sv02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"at03\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at04\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at05\" zone=\"t: 1\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at05\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"at02\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

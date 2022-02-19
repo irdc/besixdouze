@@ -1,0 +1,57 @@
+StartChar: germandbls
+Encoding: 291 223 291
+GlifName: germandbls
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+469 -21 m 257
+ 126 5 l 257
+ 126 1073 l 257
+ 126 1176 126 1176 161.5 1254 c 128
+ 197 1332 197 1332 261.5 1384.5 c 128
+ 326 1437 326 1437 415 1463 c 128
+ 504 1489 504 1489 612 1489 c 257
+ 843 1489 843 1489 953 1373 c 257
+ 978 1346 978 1346 999 1319.5 c 128
+ 1020 1293 1020 1293 1035 1263.5 c 128
+ 1050 1234 1050 1234 1058.5 1200.5 c 128
+ 1067 1167 1067 1167 1067 1127 c 257
+ 1067 1074 1067 1074 1052 1027 c 128
+ 1037 980 1037 980 1009.5 940 c 128
+ 982 900 982 900 943.5 867.5 c 128
+ 905 835 905 835 858 811 c 257
+ 921 790 921 790 976.5 759 c 128
+ 1032 728 1032 728 1073 686 c 128
+ 1114 644 1114 644 1137.5 589.5 c 128
+ 1161 535 1161 535 1161 466 c 257
+ 1161 380 1161 380 1137 312 c 128
+ 1113 244 1113 244 1072 192 c 128
+ 1031 140 1031 140 976.5 103.5 c 128
+ 922 67 922 67 859.5 44 c 128
+ 797 21 797 21 730.5 10.5 c 128
+ 664 0 664 0 600 0 c 257
+ 519 224 l 257
+ 665 227 665 227 745 283 c 128
+ 825 339 825 339 825 457 c 257
+ 825 516 825 516 808 558.5 c 128
+ 791 601 791 601 760 628 c 128
+ 729 655 729 655 687 668 c 128
+ 645 681 645 681 594 681 c 257
+ 499 902 l 257
+ 553 907 553 907 597.5 921.5 c 128
+ 642 936 642 936 673.5 961 c 128
+ 705 986 705 986 722 1022 c 128
+ 739 1058 739 1058 739 1107 c 257
+ 739 1142 739 1142 728 1173 c 128
+ 717 1204 717 1204 699 1227 c 128
+ 681 1250 681 1250 657.5 1263 c 128
+ 634 1276 634 1276 609 1276 c 257
+ 538 1276 538 1276 503.5 1239.5 c 128
+ 469 1203 469 1203 469 1119 c 257
+ 469 -21 l 257
+EndSplineSet
+Kerns2: 54 -100 "'kern' Horizontal Kerning lookup 0 subtable" 55 -100 "'kern' Horizontal Kerning lookup 0 subtable" 56 -100 "'kern' Horizontal Kerning lookup 0 subtable" 57 -100 "'kern' Horizontal Kerning lookup 0 subtable" 58 -100 "'kern' Horizontal Kerning lookup 0 subtable" 63 -100 "'kern' Horizontal Kerning lookup 0 subtable" 64 -100 "'kern' Horizontal Kerning lookup 0 subtable" 77 -100 "'kern' Horizontal Kerning lookup 0 subtable" 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 93 -100 "'kern' Horizontal Kerning lookup 0 subtable" 142 -100 "'kern' Horizontal Kerning lookup 0 subtable" 300 -100 "'kern' Horizontal Kerning lookup 0 subtable" 312 -100 "'kern' Horizontal Kerning lookup 0 subtable" 314 -100 "'kern' Horizontal Kerning lookup 0 subtable" 315 -100 "'kern' Horizontal Kerning lookup 0 subtable" 316 -100 "'kern' Horizontal Kerning lookup 0 subtable" 325 -100 "'kern' Horizontal Kerning lookup 0 subtable" 326 -100 "'kern' Horizontal Kerning lookup 0 subtable" 344 -100 "'kern' Horizontal Kerning lookup 0 subtable" 397 -100 "'kern' Horizontal Kerning lookup 0 subtable" 543 -100 "'kern' Horizontal Kerning lookup 0 subtable" 544 -100 "'kern' Horizontal Kerning lookup 0 subtable" 545 -100 "'kern' Horizontal Kerning lookup 0 subtable" 546 -100 "'kern' Horizontal Kerning lookup 0 subtable" 583 -100 "'kern' Horizontal Kerning lookup 0 subtable" 584 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,90 @@
+StartChar: seveneighths
+Encoding: 441 8542 441
+GlifName: seveneighths
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1140 1500 m 257
+ 964 1500 l 257
+ 189 0 l 257
+ 374 0 l 257
+ 1140 1500 l 257
+1031 758 m 256
+NamedP: " +B5QA-T+AMgA"
+ 977 758 977 758 926.5 738.5 c 0
+ 876 719 876 719 838 672.5 c 0
+ 800 626 800 626 800 562 c 256
+ 800 488 800 488 908 424 c 257
+ 842 392 842 392 803 340 c 0
+ 764 288 764 288 764 220 c 256
+NamedP: "+B1QA-T+AMgA"
+ 764 113 764 113 843.5 52 c 0
+ 923 -9 923 -9 1034 -9 c 256
+ 1151 -9 1151 -9 1233.5 48 c 0
+ 1316 105 1316 105 1316 213 c 256
+ 1316 281 1316 281 1272.5 334 c 0
+ 1229 387 1229 387 1158 422 c 257
+ 1270 486 1270 486 1270 567 c 256
+NamedP: "+DFQA-T+AMgA"
+ 1270 654 1270 654 1203 706 c 0
+ 1136 758 1136 758 1031 758 c 256
+NamedP: " +B5QA-T+AMgA"
+1154 211 m 256
+NamedP: "8+BRQAyAAA"
+ 1154 161 1154 161 1118 130.5 c 0
+ 1082 100 1082 100 1034 100 c 256
+ 993 100 993 100 959.5 132 c 0
+ 926 164 926 164 926 210 c 256
+ 926 308 926 308 1026 355 c 257
+ 1154 295 1154 295 1154 211 c 256
+NamedP: "8+BRQAyAAA"
+960 578 m 256
+NamedP: "@+B5QA-T+AMgA"
+ 960 607 960 607 985 628.5 c 0
+ 1010 650 1010 650 1040 650 c 256
+ 1064 650 1064 650 1087 630 c 0
+ 1110 610 1110 610 1110 576 c 256
+ 1110 519 1110 519 1044 482 c 257
+ 960 521 960 521 960 578 c 256
+NamedP: "@+B5QA-T+AMgA"
+170 1356 m 257
+NamedP: "hr06"
+ 488 1356 l 257
+ 482 1338 482 1338 436 1263 c 256
+ 309 1056 309 1056 282 929 c 256
+ 270 874 270 874 270 720 c 257
+ 438 720 l 257
+ 438 845 438 845 444 893 c 256
+ 450 939 450 939 475.5 1001.5 c 0
+ 501 1064 501 1064 523 1103.5 c 0
+ 545 1143 545 1143 584 1208 c 257
+ 673 1351 673 1351 673 1389 c 258
+ 673 1470 l 257
+ 170 1470 l 257
+ 170 1356 l 257
+NamedP: "hr06"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"-9\" width=\"109\"/>\\u000a            <hstem pos=\"650\" width=\"108\"/>\\u000a            <vstem pos=\"800\" width=\"160\"/>\\u000a            <vstem pos=\"1110\" width=\"160\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr02\">\\u000a            <hstem pos=\"-9\" width=\"109\"/>\\u000a            <hstem pos=\"650\" width=\"108\"/>\\u000a            <vstem pos=\"764\" width=\"162\"/>\\u000a            <vstem pos=\"1154\" width=\"162\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr03\">\\u000a            <hstem pos=\"-9\" width=\"109\"/>\\u000a            <hstem pos=\"650\" width=\"108\"/>\\u000a            <vstem pos=\"764\" width=\"162\"/>\\u000a            <vstem pos=\"1110\" width=\"160\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr04\">\\u000a            <hstem pos=\"-9\" width=\"109\"/>\\u000a            <hstem pos=\"650\" width=\"108\"/>\\u000a            <vstem pos=\"764\" width=\"162\"/>\\u000a            <vstem pos=\"1154\" width=\"162\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr05\">\\u000a            <hstem pos=\"-9\" width=\"109\"/>\\u000a            <hstem pos=\"650\" width=\"108\"/>\\u000a            <vstem pos=\"800\" width=\"160\"/>\\u000a            <vstem pos=\"1110\" width=\"160\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr06\">\\u000a            <hstem pos=\"730\" width=\"-10\"/>\\u000a            <hstem pos=\"1356\" width=\"114\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

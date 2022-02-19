@@ -1,0 +1,32 @@
+StartChar: arrowdblleft
+Encoding: 117 8656 117
+GlifName: arrowdblleft
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 600 m 257
+ 207 509 l 257
+ 573 143 l 257
+ 743 143 l 257
+ 498 388 l 257
+ 598 400 l 257
+ 1500 400 l 257
+ 1500 516 l 257
+ 748 516 l 257
+ 398 488 l 257
+ 267 600 l 257
+ 398 712 l 257
+ 748 684 l 257
+ 1500 684 l 257
+ 1500 800 l 257
+ 598 800 l 257
+ 498 813 l 257
+ 743 1057 l 257
+ 573 1057 l 257
+ 207 691 l 257
+ 100 600 l 257
+EndSplineSet
+EndChar

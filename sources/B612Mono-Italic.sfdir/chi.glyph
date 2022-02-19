@@ -1,0 +1,70 @@
+StartChar: chi
+Encoding: 173 967 173
+GlifName: chi
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+669 49 m 257
+ 624 230 l 257
+NamedP: "ih01"
+ 548 70 l 257
+ 132 -500 l 257
+NamedP: "sv01"
+ -65 -500 l 257
+NamedP: "ih02"
+ 551 329 l 257
+ 341 869 l 257
+ 328 901 328 901 311.5 924 c 128
+ 295 947 295 947 280 961 c 257
+ 262 978 262 978 244 987 c 257
+ 266 1117 l 257
+NamedP: "ih05"
+ 303 1117 303 1117 341 1107.5 c 128
+ 379 1098 379 1098 412.5 1077 c 128
+ 446 1056 446 1056 474.5 1022 c 128
+ 503 988 503 988 522 940 c 257
+ 663 586 l 257
+ 708 390 l 257
+NamedP: "ih04"
+ 771 550 l 257
+ 1166 1100 l 257
+NamedP: "av01"
+ 1366 1100 l 257
+NamedP: "ih06"
+ 781 306 l 257
+ 1003 -269 l 257
+ 1023 -322 1023 -322 1040.5 -346.5 c 128
+ 1058 -371 1058 -371 1072 -380 c 257
+ 1087 -391 1087 -391 1100 -387 c 257
+ 1077 -517 l 257
+NamedP: "ih03"
+ 1045 -522 1045 -522 1012.5 -522 c 128
+ 980 -522 980 -522 947 -506 c 128
+ 914 -490 914 -490 882.5 -451.5 c 128
+ 851 -413 851 -413 822 -340 c 257
+ 669 49 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih04\" point1=\"ih05\" point2=\"ih06\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih05\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih03\"/>\\u000a          <ttc code=\"singlev\" point1=\"ih02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"ih06\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

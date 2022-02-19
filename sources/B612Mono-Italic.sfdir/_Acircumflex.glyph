@@ -1,0 +1,66 @@
+StartChar: Acircumflex
+Encoding: 4 194 4
+GlifName: A_circumflex
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+18 0 m 257
+NamedP: "ab01"
+ 719 1300 l 257
+ 789 1500 l 257
+ 971 1520 l 257
+NamedP: "at01"
+ 1250 0 l 257
+NamedP: "sv01"
+ 1050 0 l 257
+ 982 450 l 257
+NamedP: "sv02"
+ 447 450 l 257
+NamedP: "av01"
+ 201 0 l 257
+ 18 0 l 257
+NamedP: "ab01"
+877 1400 m 257
+ 776 1080 l 257
+ 522 600 l 257
+ 959 600 l 257
+ 866 1080 l 257
+ 877 1400 l 257
+1173 1620 m 257
+NamedP: "sv03"
+ 1023 1620 l 257
+ 949 1772 l 257
+ 935 1860 l 257
+ 890 1773 l 257
+ 762 1620 l 257
+ 612 1620 l 257
+NamedP: "av02"
+ 837 1900 l 257
+ 1041 1920 l 257
+ 1173 1620 l 257
+NamedP: "sv03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

@@ -1,0 +1,21 @@
+StartChar: dieresis
+Encoding: 223 168 223
+GlifName: dieresis
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+564 1500 m 257
+ 764 1500 l 257
+ 729 1300 l 257
+ 529 1300 l 257
+ 564 1500 l 257
+964 1500 m 257
+ 1164 1500 l 257
+ 1129 1300 l 257
+ 929 1300 l 257
+ 964 1500 l 257
+EndSplineSet
+EndChar

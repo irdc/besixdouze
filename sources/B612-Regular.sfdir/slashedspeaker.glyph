@@ -1,0 +1,33 @@
+StartChar: slashedspeaker
+Encoding: 490 57472 490
+GlifName: slashedspeaker
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1350 -20 m 257
+ 1000 379 l 257
+ 1000 1100 l 257
+ 900 1121 l 257
+ 646 900 l 257
+ 734 800 l 257
+ 900 961 l 257
+ 900 493 l 257
+ 350 1121 l 257
+ 150 1121 l 257
+ 343 900 l 257
+ 300 900 l 257
+ 300 200 l 257
+ 649 200 l 257
+ 900 -20 l 257
+ 1000 0 l 257
+ 667 380 l 257
+ 400 380 l 257
+ 400 800 l 257
+ 431 800 l 257
+ 1150 -20 l 257
+ 1350 -20 l 257
+EndSplineSet
+EndChar

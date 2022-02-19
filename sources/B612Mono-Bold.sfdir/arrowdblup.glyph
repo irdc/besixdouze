@@ -1,0 +1,32 @@
+StartChar: arrowdblup
+Encoding: 112 8657 112
+GlifName: arrowdblup
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+600 1500 m 257
+ 509 1393 l 257
+ 143 1027 l 257
+ 143 857 l 257
+ 388 1102 l 257
+ 400 1002 l 257
+ 400 0 l 257
+ 516 0 l 257
+ 516 852 l 257
+ 488 1202 l 257
+ 600 1333 l 257
+ 712 1202 l 257
+ 684 852 l 257
+ 684 0 l 257
+ 800 0 l 257
+ 800 1002 l 257
+ 813 1102 l 257
+ 1057 857 l 257
+ 1057 1027 l 257
+ 691 1393 l 257
+ 600 1500 l 257
+EndSplineSet
+EndChar

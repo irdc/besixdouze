@@ -1,0 +1,24 @@
+StartChar: phoneout
+Encoding: 421 57441 421
+GlifName: phoneout
+Width: 1900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1344 849 m 257
+ 1421 819 l 257
+ 1400 885 l 257
+ 1400 1100 l 257
+ 1800 749 l 257
+ 1400 399 l 257
+ 1400 612 l 257
+ 1421 677 l 257
+ 1344 649 l 257
+ 1100 649 l 257
+ 1100 849 l 257
+ 1344 849 l 257
+EndSplineSet
+Refer: 419 9742 N 1 0 0 1 0 0 2
+EndChar

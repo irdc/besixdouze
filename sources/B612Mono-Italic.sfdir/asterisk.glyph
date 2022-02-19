@@ -1,0 +1,58 @@
+StartChar: asterisk
+Encoding: 125 42 125
+GlifName: asterisk
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+706 994 m 257
+ 812 802 l 257
+ 697 712 l 257
+ 584 918 l 257
+ 573 990 l 257
+ 536 918 l 257
+ 363 726 l 257
+ 258 793 l 257
+ 442 996 l 257
+ 515 1041 l 257
+ 435 1045 l 257
+ 225 1118 l 257
+NamedP: "mh01"
+ 275 1249 l 257
+ 499 1172 l 257
+ 556 1120 l 257
+ 548 1202 l 257
+ 590 1436 l 257
+ 725 1450 l 257
+ 681 1198 l 257
+ 641 1118 l 257
+ 715 1168 l 257
+ 953 1240 l 257
+ 986 1118 l 257
+ 730 1040 l 257
+ 650 1037 l 257
+ 706 994 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"mh01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

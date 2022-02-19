@@ -1,0 +1,26 @@
+StartChar: threeroman
+Encoding: 525 8562 525
+GlifName: threeroman
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 0 m 257
+ 100 0 l 257
+ 296 1114 l 257
+ 602 1147 l 257
+ 400 0 l 257
+900 0 m 257
+ 600 0 l 257
+ 796 1114 l 257
+ 1102 1147 l 257
+ 900 0 l 257
+1400 0 m 257
+ 1100 0 l 257
+ 1296 1114 l 257
+ 1602 1147 l 257
+ 1400 0 l 257
+EndSplineSet
+EndChar

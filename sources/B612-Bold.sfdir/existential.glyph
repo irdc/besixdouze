@@ -1,0 +1,28 @@
+StartChar: existential
+Encoding: 259 8707 259
+GlifName: existential
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1014 160 m 257
+ 999 350 l 257
+ 999 650 l 257
+ 247 650 l 257
+ 229 800 l 257
+ 999 800 l 257
+ 999 950 l 257
+ 1019 1150 l 257
+ 174 1150 l 257
+ 174 1300 l 257
+ 1191 1300 l 257
+ 1169 1100 l 257
+ 1169 200 l 257
+ 1186 0 l 257
+ 174 0 l 257
+ 174 160 l 257
+ 1014 160 l 257
+EndSplineSet
+EndChar

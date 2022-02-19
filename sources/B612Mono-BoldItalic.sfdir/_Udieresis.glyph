@@ -1,0 +1,92 @@
+StartChar: Udieresis
+Encoding: 76 220 76
+GlifName: U_dieresis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1261 1500 m 257
+NamedP: "sv01"
+ 1091 534 l 257
+ 1067 395 1067 395 1011.5 291.5 c 128
+ 956 188 956 188 874 119.5 c 128
+ 792 51 792 51 685.5 17 c 128
+ 579 -17 579 -17 453 -17 c 257
+NamedP: "ab01"
+ 317 -17 317 -17 230.5 26 c 128
+ 144 69 144 69 99.5 148 c 128
+ 55 227 55 227 48.5 337.5 c 128
+ 42 448 42 448 66 582 c 257
+ 186 1263 l 257
+ 186 1500 l 257
+NamedP: "at01"
+ 563 1520 l 257
+NamedP: "at02"
+ 394 564 l 257
+ 380 483 380 483 375 419 c 128
+ 370 355 370 355 381.5 311 c 128
+ 393 267 393 267 425 244 c 128
+ 457 221 457 221 516 221 c 257
+ 607 221 607 221 668.5 294.5 c 128
+ 730 368 730 368 756 516 c 257
+ 929 1500 l 257
+ 1261 1500 l 257
+NamedP: "sv01"
+486 1866 m 257
+NamedP: "av01"
+ 762 1866 l 257
+NamedP: "mh01"
+ 715 1600 l 257
+NamedP: "sv02"
+ 439 1600 l 257
+ 486 1866 l 257
+NamedP: "av01"
+886 1866 m 257
+NamedP: "av02"
+ 1162 1866 l 257
+NamedP: "mh02"
+ 1115 1600 l 257
+NamedP: "sv03"
+ 839 1600 l 257
+NamedP: "mh03"
+ 886 1866 l 257
+NamedP: "av02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sv01\">\\u000a            <hstem pos=\"-16\" width=\"237\"/>\\u000a            <hstem pos=\"1519\" width=\"-20\"/>\\u000a            <vstem pos=\"16\" width=\"347\"/>\\u000a            <vstem pos=\"809\" width=\"346\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-2\" point=\"mh01\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"mh02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"8\" point=\"mh03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh03\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"mh01\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh01\" point2=\"sv02\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"mh02\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh02\" point2=\"sv03\" stem=\"Y: 171\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,61 @@
+StartChar: perpendicular
+Encoding: 414 8869 414
+GlifName: perpendicular
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+800 1300 m 257
+NamedP: "av01"
+ 800 150 l 257
+NamedP: "dh02"
+ 1300 150 l 257
+ 1280 0 l 257
+NamedP: "ab01"
+ 95 0 l 257
+ 115 150 l 257
+NamedP: "sv01"
+ 600 150 l 257
+NamedP: "dh01"
+ 600 1300 l 257
+ 800 1300 l 257
+NamedP: "av01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"av01\">\\u000a            <hstem pos=\"0\" width=\"150\"/>\\u000a            <hstem pos=\"1300\" width=\"-20\"/>\\u000a            <vstem pos=\"600\" width=\"200\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"dh02\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"dh02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"dh01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

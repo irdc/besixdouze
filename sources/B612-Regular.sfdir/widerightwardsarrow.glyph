@@ -1,0 +1,27 @@
+StartChar: widerightwardsarrow
+Encoding: 575 10132 575
+GlifName: widerightwardsarrow
+Width: 1900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1510 820 m 257
+ 1190 1099 l 257
+ 920 1099 l 257
+ 1202 832 l 257
+ 1400 686 l 257
+ 1182 700 l 257
+ 130 700 l 257
+ 100 500 l 257
+ 1182 500 l 257
+ 1400 514 l 257
+ 1202 364 l 257
+ 920 99 l 257
+ 1190 99 l 257
+ 1510 380 l 257
+ 1800 600 l 257
+ 1510 820 l 257
+EndSplineSet
+EndChar

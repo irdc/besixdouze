@@ -1,0 +1,22 @@
+StartChar: Igrave
+Encoding: 39 204 39
+GlifName: I_grave
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+126 0 m 257
+ 348 1263 l 257
+ 356 1494 l 257
+ 731 1525 l 257
+ 463 0 l 257
+ 126 0 l 257
+686 1600 m 257
+ 428 1600 l 257
+ 215 1891 l 257
+ 568 1925 l 257
+ 686 1600 l 257
+EndSplineSet
+EndChar

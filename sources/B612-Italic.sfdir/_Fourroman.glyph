@@ -1,0 +1,11 @@
+StartChar: Fourroman
+Encoding: 30 8547 30
+GlifName: F_ourroman
+Width: 1800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 34 73 N 1 0 0 1 0 0 2
+Refer: 92 86 N 1 0 0 1 500 0 2
+EndChar

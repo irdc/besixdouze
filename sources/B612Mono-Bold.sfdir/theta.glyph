@@ -1,0 +1,110 @@
+StartChar: theta
+Encoding: 519 952 519
+GlifName: theta
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+600 -17 m 257
+NamedP: "sh01"
+ 500 -17 500 -17 421 15.5 c 128
+ 342 48 342 48 282 104.5 c 128
+ 222 161 222 161 179.5 236 c 128
+ 137 311 137 311 110.5 396 c 128
+ 84 481 84 481 71.5 570.5 c 128
+ 59 660 59 660 59 746 c 257
+NamedP: "ah01"
+ 59 832 59 832 71 922.5 c 128
+ 83 1013 83 1013 110 1098.5 c 128
+ 137 1184 137 1184 179 1260.5 c 128
+ 221 1337 221 1337 281.5 1394 c 128
+ 342 1451 342 1451 421 1484 c 128
+ 500 1517 500 1517 600 1517 c 257
+NamedP: "sh02"
+ 700 1517 700 1517 779 1484 c 128
+ 858 1451 858 1451 918 1394 c 128
+ 978 1337 978 1337 1020 1260.5 c 128
+ 1062 1184 1062 1184 1089 1098.5 c 128
+ 1116 1013 1116 1013 1128 922.5 c 128
+ 1140 832 1140 832 1140 746 c 257
+NamedP: "ah02"
+ 1140 660 1140 660 1128 570.5 c 128
+ 1116 481 1116 481 1089 396 c 128
+ 1062 311 1062 311 1020 236 c 128
+ 978 161 978 161 918 105 c 128
+ 858 49 858 49 779 16 c 128
+ 700 -17 700 -17 600 -17 c 257
+NamedP: "sh01"
+829 845 m 257
+NamedP: "sh03"
+ 825 894 825 894 816 946 c 128
+ 807 998 807 998 793.5 1047.5 c 128
+ 780 1097 780 1097 761 1141 c 128
+ 742 1185 742 1185 718 1218 c 128
+ 694 1251 694 1251 664.5 1270.5 c 128
+ 635 1290 635 1290 600 1290 c 257
+NamedP: "ih02"
+ 565 1290 565 1290 535 1270.5 c 128
+ 505 1251 505 1251 481 1218 c 128
+ 457 1185 457 1185 438 1141 c 128
+ 419 1097 419 1097 405.5 1047.5 c 128
+ 392 998 392 998 383.5 946 c 128
+ 375 894 375 894 371 845 c 257
+NamedP: "sh04"
+ 829 845 l 257
+NamedP: "sh03"
+371 651 m 257
+NamedP: "sh05"
+ 375 602 375 602 384 550.5 c 128
+ 393 499 393 499 407 450 c 128
+ 421 401 421 401 439.5 357.5 c 128
+ 458 314 458 314 482 281 c 128
+ 506 248 506 248 535.5 229 c 128
+ 565 210 565 210 600 210 c 257
+NamedP: "ih01"
+ 647 210 647 210 684.5 247.5 c 128
+ 722 285 722 285 750.5 346.5 c 128
+ 779 408 779 408 797.5 487.5 c 128
+ 816 567 816 567 826 651 c 257
+NamedP: "sh06"
+ 371 651 l 257
+NamedP: "sh05"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh01\">\\u000a            <hstem pos=\"-17\" width=\"227\"/>\\u000a            <hstem pos=\"651\" width=\"194\"/>\\u000a            <hstem pos=\"1290\" width=\"227\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ah02\" point2=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ih01\" point2=\"sh01\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih02\" point1=\"ah01\" point2=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ih02\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh03\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh04\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh05\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh06\" stem=\"eq X: 208\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh04\"/>\\u000a          <ttc code=\"alignt\" point=\"sh02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"sh01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh04\" point2=\"sh03\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh02\" point2=\"ih02\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh04\" point2=\"sh05\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh01\" point2=\"ih01\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh03\" point2=\"sh06\" stem=\"eq Y: 171\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

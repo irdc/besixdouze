@@ -1,0 +1,28 @@
+StartChar: E
+Encoding: 17 69 17
+GlifName: E_
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1127 228 m 257
+ 1060 0 l 257
+ 118 0 l 257
+ 175 231 l 257
+ 357 1263 l 257
+ 364 1500 l 257
+ 1314 1500 l 257
+ 1274 1272 l 257
+ 680 1272 l 257
+ 670 1134 l 257
+ 632 916 l 257
+ 1145 916 l 257
+ 1107 703 l 257
+ 594 703 l 257
+ 534 360 l 257
+ 503 228 l 257
+ 1127 228 l 257
+EndSplineSet
+EndChar

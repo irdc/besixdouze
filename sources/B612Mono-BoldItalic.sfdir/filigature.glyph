@@ -1,0 +1,70 @@
+StartChar: filigature
+Encoding: 250 64257 250
+GlifName: filigature
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+155 1100 m 257
+NamedP: "sv01"
+ 295 1100 l 257
+ 320 1242 l 257
+ 335 1330 335 1330 372 1399.5 c 128
+ 409 1469 409 1469 467.5 1517.5 c 128
+ 526 1566 526 1566 606 1591.5 c 128
+ 686 1617 686 1617 788 1617 c 257
+NamedP: "av02"
+ 858 1617 858 1617 923 1607.5 c 128
+ 988 1598 988 1598 1042 1581.5 c 128
+ 1096 1565 1096 1565 1137.5 1544 c 128
+ 1179 1523 1179 1523 1203 1500 c 257
+ 1163 1269 l 257
+NamedP: "sv02"
+ 855 1269 l 257
+NamedP: "av01"
+ 879 1407 l 257
+ 868 1409 868 1409 843.5 1411 c 128
+ 819 1413 819 1413 784 1413 c 257
+ 724 1413 724 1413 685 1366.5 c 128
+ 646 1320 646 1320 630 1233 c 257
+ 607 1100 l 257
+NamedP: "at01"
+ 1127 1100 l 257
+NamedP: "sv03"
+ 933 0 l 257
+NamedP: "sv05"
+ 617 0 l 257
+ 771 876 l 257
+ 581 876 l 257
+ 427 0 l 257
+NamedP: "sv04"
+ 101 0 l 257
+NamedP: "ab01"
+ 255 876 l 257
+ 115 876 l 257
+ 155 1100 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv03\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv04\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv04\" point2=\"sv05\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

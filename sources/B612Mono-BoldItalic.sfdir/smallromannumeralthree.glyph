@@ -1,0 +1,50 @@
+StartChar: smallromannumeralthree
+Encoding: 466 8562 466
+GlifName: smallromannumeralthree
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+151 0 m 257
+ -149 0 l 257
+ 45 1100 l 257
+ 348 1120 l 257
+ 151 0 l 257
+651 0 m 257
+NamedP: "hr01"
+ 351 0 l 257
+ 545 1100 l 257
+ 848 1120 l 257
+ 651 0 l 257
+NamedP: "hr01"
+1151 0 m 257
+NamedP: "hr02"
+ 851 0 l 257
+ 1045 1100 l 257
+ 1348 1120 l 257
+ 1151 0 l 257
+NamedP: "hr02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1300\" width=\"200\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr02\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1300\" width=\"200\"/>\\u000a            <vstem pos=\"700\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

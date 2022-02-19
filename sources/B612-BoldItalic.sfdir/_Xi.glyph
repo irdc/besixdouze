@@ -1,0 +1,26 @@
+StartChar: Xi
+Encoding: 95 926 95
+GlifName: X_i
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+310 916 m 257
+ 1182 916 l 257
+ 1140 675 l 257
+ 268 675 l 257
+ 310 916 l 257
+96 241 m 257
+ 1157 241 l 257
+ 1115 0 l 257
+ 54 0 l 257
+ 96 241 l 257
+318 1500 m 257
+ 1379 1500 l 257
+ 1336 1259 l 257
+ 275 1259 l 257
+ 318 1500 l 257
+EndSplineSet
+EndChar

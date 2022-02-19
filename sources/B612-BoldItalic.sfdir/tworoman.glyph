@@ -1,0 +1,21 @@
+StartChar: tworoman
+Encoding: 539 8561 539
+GlifName: tworoman
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 0 m 257
+ 100 0 l 257
+ 296 1114 l 257
+ 602 1147 l 257
+ 400 0 l 257
+900 0 m 257
+ 600 0 l 257
+ 796 1114 l 257
+ 1102 1147 l 257
+ 900 0 l 257
+EndSplineSet
+EndChar

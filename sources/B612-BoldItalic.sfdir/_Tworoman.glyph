@@ -1,0 +1,23 @@
+StartChar: Tworoman
+Encoding: 84 8545 84
+GlifName: T_woroman
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+115 0 m 257
+ 337 1263 l 257
+ 345 1494 l 257
+ 720 1525 l 257
+ 452 0 l 257
+ 115 0 l 257
+715 0 m 257
+ 937 1263 l 257
+ 945 1494 l 257
+ 1320 1525 l 257
+ 1052 0 l 257
+ 715 0 l 257
+EndSplineSet
+EndChar

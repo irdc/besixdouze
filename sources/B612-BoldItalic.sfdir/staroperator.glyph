@@ -1,0 +1,24 @@
+StartChar: staroperator
+Encoding: 504 8902 504
+GlifName: staroperator
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+739 697 m 257
+ 848 360 l 257
+ 617 519 l 257
+ 549 585 l 257
+ 481 519 l 257
+ 248 360 l 257
+ 356 697 l 257
+ 98 900 l 257
+ 428 900 l 257
+ 549 1206 l 257
+ 668 900 l 257
+ 998 900 l 257
+ 739 697 l 257
+EndSplineSet
+EndChar

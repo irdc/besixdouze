@@ -1,0 +1,50 @@
+StartChar: dieresis
+Encoding: 210 168 210
+GlifName: dieresis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+485 1566 m 257
+NamedP: "av01"
+ 761 1566 l 257
+NamedP: "mh01"
+ 714 1300 l 257
+NamedP: "sv01"
+ 438 1300 l 257
+ 485 1566 l 257
+NamedP: "av01"
+885 1566 m 257
+NamedP: "av02"
+ 1161 1566 l 257
+NamedP: "mh02"
+ 1114 1300 l 257
+NamedP: "sv02"
+ 838 1300 l 257
+NamedP: "mh03"
+ 885 1566 l 257
+NamedP: "av02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"-2\" point=\"mh01\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"1\" point=\"mh02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"8\" point=\"mh03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh03\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"mh01\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh01\" point2=\"sv01\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"mh02\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh02\" point2=\"sv02\" stem=\"Y: 171\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

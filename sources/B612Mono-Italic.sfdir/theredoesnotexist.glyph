@@ -1,0 +1,33 @@
+StartChar: theredoesnotexist
+Encoding: 517 8708 517
+GlifName: theredoesnotexist
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+320 -200 m 257
+ 165 -200 l 257
+ 774 1500 l 257
+ 920 1500 l 257
+ 320 -200 l 257
+915 160 m 257
+ 900 350 l 257
+ 900 650 l 257
+ 148 650 l 257
+ 130 800 l 257
+ 900 800 l 257
+ 900 950 l 257
+ 920 1150 l 257
+ 75 1150 l 257
+ 75 1300 l 257
+ 1092 1300 l 257
+ 1070 1100 l 257
+ 1070 200 l 257
+ 1087 0 l 257
+ 75 0 l 257
+ 75 160 l 257
+ 915 160 l 257
+EndSplineSet
+EndChar

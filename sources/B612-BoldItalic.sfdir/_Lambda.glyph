@@ -1,0 +1,22 @@
+StartChar: Lambda
+Encoding: 45 923 45
+GlifName: L_ambda
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-4 1 m 257
+ 618 1267 l 257
+ 698 1500 l 257
+ 1063 1526 l 257
+ 1290 0 l 257
+ 961 0 l 257
+ 857 801 l 257
+ 840 1241 l 257
+ 694 801 l 257
+ 305 1 l 257
+ -4 1 l 257
+EndSplineSet
+EndChar

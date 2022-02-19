@@ -1,0 +1,47 @@
+StartChar: oneinferior
+Encoding: 387 8321 387
+GlifName: oneinferior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+175 -500 m 257
+NamedP: "hr00"
+ 175 -420 l 257
+ 297 -420 l 257
+ 297 63 l 257
+ 326 176 l 257
+ 258 83 l 257
+ 152 -11 l 257
+ 98 50 l 257
+ 327 260 l 257
+ 402 250 l 257
+ 402 -420 l 257
+ 525 -420 l 257
+ 525 -500 l 257
+ 175 -500 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-500\" width=\"80\"/>\\u000a            <hstem pos=\"260\" width=\"-10\"/>\\u000a            <vstem pos=\"297\" width=\"105\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

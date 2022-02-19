@@ -1,0 +1,47 @@
+StartChar: onesuperior
+Encoding: 391 185 391
+GlifName: onesuperior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+177 720 m 257
+NamedP: "hr00"
+ 177 800 l 257
+ 299 800 l 257
+ 299 1283 l 257
+ 328 1396 l 257
+ 260 1303 l 257
+ 154 1209 l 257
+ 100 1270 l 257
+ 329 1480 l 257
+ 404 1470 l 257
+ 404 800 l 257
+ 527 800 l 257
+ 527 720 l 257
+ 177 720 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"720\" width=\"80\"/>\\u000a            <hstem pos=\"1480\" width=\"-10\"/>\\u000a            <vstem pos=\"299\" width=\"105\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

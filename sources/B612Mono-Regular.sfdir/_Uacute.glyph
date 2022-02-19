@@ -1,0 +1,86 @@
+StartChar: Uacute
+Encoding: 74 218 74
+GlifName: U_acute
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1115 1500 m 257
+NamedP: "at02"
+ 1115 523 l 257
+NamedP: "sh01"
+ 1115 387 1115 387 1082.5 285.5 c 128
+ 1050 184 1050 184 988.5 117 c 128
+ 927 50 927 50 838 16.5 c 128
+ 749 -17 749 -17 635 -17 c 257
+NamedP: "ih01"
+ 513 -17 513 -17 427.5 25.5 c 128
+ 342 68 342 68 288 145.5 c 128
+ 234 223 234 223 209.5 332 c 128
+ 185 441 185 441 185 573 c 257
+NamedP: "sh02"
+ 185 1290 l 257
+ 155 1500 l 257
+ 375 1520 l 257
+NamedP: "at01"
+ 375 554 l 257
+NamedP: "sh03"
+ 375 459 375 459 393.5 384.5 c 128
+ 412 310 412 310 447 258.5 c 128
+ 482 207 482 207 532 180 c 128
+ 582 153 582 153 645 153 c 257
+NamedP: "ih02"
+ 792 153 792 153 858.5 240.5 c 128
+ 925 328 925 328 925 504 c 257
+NamedP: "ah01"
+ 925 1500 l 257
+ 1115 1500 l 257
+NamedP: "at02"
+700 1900 m 257
+NamedP: "ah02"
+ 930 1920 l 257
+NamedP: "sh04"
+ 690 1600 l 257
+NamedP: "av01"
+ 540 1600 l 257
+ 700 1900 l 257
+NamedP: "ah02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"X: 208\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"lsb\" point2=\"sh02\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"sh02\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"sh03\" stem=\"X: 208\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih02\" point1=\"sh03\" point2=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ih01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ih01\" point2=\"ih02\" stem=\"Y: 171\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh04\" stem=\"X: 208\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"sh04\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ah02\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

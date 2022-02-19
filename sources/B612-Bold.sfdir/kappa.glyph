@@ -1,0 +1,26 @@
+StartChar: kappa
+Encoding: 327 954 327
+GlifName: kappa
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+132 0 m 257
+ 132 890 l 257
+ 110 1093 l 257
+ 429 1125 l 257
+ 429 774 l 257
+ 669 1095 l 257
+ 991 1133 l 257
+ 620 670 l 257
+ 446 600 l 257
+ 620 530 l 257
+ 1027 0 l 257
+ 718 0 l 257
+ 429 405 l 257
+ 429 0 l 257
+ 132 0 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,21 @@
+StartChar: superscriptequalssign
+Encoding: 501 8316 501
+GlifName: superscriptequalssign
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+270 1120 m 257
+ 620 1120 l 257
+ 606 1042 l 257
+ 256 1042 l 257
+ 270 1120 l 257
+235 920 m 257
+ 585 920 l 257
+ 571 842 l 257
+ 221 842 l 257
+ 235 920 l 257
+EndSplineSet
+EndChar

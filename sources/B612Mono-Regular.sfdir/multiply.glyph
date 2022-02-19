@@ -1,0 +1,61 @@
+StartChar: multiply
+Encoding: 325 215 325
+GlifName: multiply
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+750 627 m 257
+NamedP: "iv01"
+ 1175 203 l 257
+NamedP: "ih02"
+ 1051 102 l 257
+NamedP: "av02"
+ 676 477 l 257
+ 618 576 l 257
+NamedP: "ih01"
+ 600 477 l 257
+ 225 102 l 257
+NamedP: "sh01"
+ 100 203 l 257
+NamedP: "ah01"
+ 526 627 l 257
+NamedP: "iv02"
+ 100 1052 l 257
+NamedP: "ih04"
+ 225 1153 l 257
+NamedP: "av01"
+ 600 777 l 257
+ 658 679 l 257
+NamedP: "ih03"
+ 676 777 l 257
+ 1051 1153 l 257
+NamedP: "sh02"
+ 1175 1052 l 257
+NamedP: "ah02"
+ 750 627 l 257
+NamedP: "iv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ah01\" point2=\"ih02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih03\" point1=\"ih04\" point2=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh02\" stem=\"X: dia Lite\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"av02\" point2=\"sh02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"ih02\" stem=\"Y: 135\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv02\" point1=\"av01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"ih04\" stem=\"Y: 135\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

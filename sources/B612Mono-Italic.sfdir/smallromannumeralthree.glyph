@@ -1,0 +1,26 @@
+StartChar: smallromannumeralthree
+Encoding: 466 8562 466
+GlifName: smallromannumeralthree
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+290 0 m 257
+ 100 0 l 257
+ 293 1100 l 257
+ 487 1121 l 257
+ 290 0 l 257
+690 0 m 257
+ 500 0 l 257
+ 693 1100 l 257
+ 887 1121 l 257
+ 690 0 l 257
+1090 0 m 257
+ 900 0 l 257
+ 1093 1100 l 257
+ 1287 1121 l 257
+ 1090 0 l 257
+EndSplineSet
+EndChar

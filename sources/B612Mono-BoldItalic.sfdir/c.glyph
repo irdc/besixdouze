@@ -1,0 +1,83 @@
+StartChar: c
+Encoding: 164 99 164
+GlifName: c
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1007 772 m 257
+NamedP: "hr00"
+ 970 833 970 833 916 859 c 128
+ 862 885 862 885 785 885 c 257
+ 724 885 724 885 663.5 861.5 c 128
+ 603 838 603 838 552.5 795 c 128
+ 502 752 502 752 465.5 690.5 c 128
+ 429 629 429 629 416 553 c 257
+ 404 484 404 484 420.5 425.5 c 128
+ 437 367 437 367 473.5 325 c 128
+ 510 283 510 283 561.5 259.5 c 128
+ 613 236 613 236 671 236 c 257
+ 723 236 723 236 767 245.5 c 128
+ 811 255 811 255 848 271.5 c 128
+ 885 288 885 288 914 309 c 128
+ 943 330 943 330 965 353 c 257
+ 1051 137 l 257
+ 1030 121 1030 121 990 95 c 128
+ 950 69 950 69 892.5 44 c 128
+ 835 19 835 19 760 1 c 128
+ 685 -17 685 -17 594 -17 c 257
+NamedP: "ab01"
+ 461 -17 461 -17 360.5 29 c 128
+ 260 75 260 75 196.5 153.5 c 128
+ 133 232 133 232 109.5 336 c 128
+ 86 440 86 440 106 555 c 257
+ 118 624 118 624 142.5 693 c 128
+ 167 762 167 762 206 824.5 c 128
+ 245 887 245 887 300 940.5 c 128
+ 355 994 355 994 427.5 1033 c 128
+ 500 1072 500 1072 592 1094.5 c 128
+ 684 1117 684 1117 797 1117 c 257
+NamedP: "at01"
+ 931 1117 931 1117 1034.5 1079.5 c 128
+ 1138 1042 1138 1042 1201 957 c 257
+ 1007 772 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-16\" width=\"232\"/>\\u000a            <hstem pos=\"892\" width=\"224\"/>\\u000a            <vstem pos=\"36\" width=\"331\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

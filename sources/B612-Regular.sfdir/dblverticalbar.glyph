@@ -1,0 +1,21 @@
+StartChar: dblverticalbar
+Encoding: 218 8214 218
+GlifName: dblverticalbar
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+355 1500 m 257
+ 355 0 l 257
+ 200 0 l 257
+ 200 1500 l 257
+ 355 1500 l 257
+655 1500 m 257
+ 655 0 l 257
+ 500 0 l 257
+ 500 1500 l 257
+ 655 1500 l 257
+EndSplineSet
+EndChar

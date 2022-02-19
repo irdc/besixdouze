@@ -1,0 +1,79 @@
+StartChar: thorn
+Encoding: 521 254 521
+GlifName: thorn
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+935 528 m 257
+NamedP: "ah01"
+ 947 596 947 596 946.5 662 c 128
+ 946 728 946 728 929 780.5 c 128
+ 912 833 912 833 876.5 865 c 128
+ 841 897 841 897 782 897 c 257
+ 727 897 727 897 682 869.5 c 128
+ 637 842 637 842 603.5 796 c 128
+ 570 750 570 750 547.5 691.5 c 128
+ 525 633 525 633 514 571 c 257
+ 502 502 502 502 502.5 436 c 128
+ 503 370 503 370 520 318.5 c 128
+ 537 267 537 267 572.5 235 c 128
+ 608 203 608 203 666 203 c 257
+ 721 203 721 203 766 230.5 c 128
+ 811 258 811 258 845 304 c 128
+ 879 350 879 350 901.5 408 c 128
+ 924 466 924 466 935 528 c 257
+NamedP: "ah01"
+697 1520 m 257
+NamedP: "at01"
+ 641 1201 l 257
+ 529 1030 l 257
+ 724 1109 l 257
+ 749 1113 749 1113 773.5 1115 c 128
+ 798 1117 798 1117 824 1117 c 257
+NamedP: "at02"
+ 944 1117 944 1117 1036 1074.5 c 128
+ 1128 1032 1128 1032 1186 956.5 c 128
+ 1244 881 1244 881 1265.5 777.5 c 128
+ 1287 674 1287 674 1266 553 c 257
+NamedP: "sh01"
+ 1245 431 1245 431 1188 327 c 128
+ 1131 223 1131 223 1047 146.5 c 128
+ 963 70 963 70 855.5 26.5 c 128
+ 748 -17 748 -17 624 -17 c 257
+NamedP: "ab01"
+ 598 -17 598 -17 574 -15 c 128
+ 550 -13 550 -13 527 -9 c 257
+ 361 75 l 257
+ 412 -99 l 257
+ 362 -380 l 257
+NamedP: "sv01"
+ 21 -380 l 257
+NamedP: "av01"
+ 353 1500 l 257
+ 697 1520 l 257
+NamedP: "at01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"X: 208\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

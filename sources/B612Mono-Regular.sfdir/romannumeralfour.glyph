@@ -1,0 +1,32 @@
+StartChar: romannumeralfour
+Encoding: 424 8547 424
+GlifName: romannumeralfour
+Width: 2600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1605 500 m 257
+ 1663 140 l 257
+ 1701 454 l 257
+ 2011 1500 l 257
+ 2195 1500 l 257
+ 1808 180 l 257
+ 1782 -20 l 257
+ 1554 0 l 257
+ 1153 1360 l 257
+ 862 1360 l 257
+ 862 160 l 257
+ 1206 160 l 257
+ 1206 0 l 257
+ 286 0 l 257
+ 306 160 l 257
+ 652 160 l 257
+ 652 1360 l 257
+ 306 1360 l 257
+ 286 1500 l 257
+ 1307 1500 l 257
+ 1605 500 l 257
+EndSplineSet
+EndChar

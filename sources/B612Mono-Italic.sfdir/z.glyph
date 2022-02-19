@@ -1,0 +1,50 @@
+StartChar: z
+Encoding: 584 122 584
+GlifName: z
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1008 160 m 257
+ 1000 0 l 257
+NamedP: "sv01"
+ 181 0 l 257
+NamedP: "ab01"
+ 169 50 l 257
+ 769 826 l 257
+ 948 980 l 257
+ 736 940 l 257
+ 313 940 l 257
+ 321 1100 l 257
+NamedP: "av01"
+ 1125 1100 l 257
+NamedP: "sv02"
+ 1137 1051 l 257
+ 552 280 l 257
+ 373 120 l 257
+ 585 160 l 257
+ 1008 160 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

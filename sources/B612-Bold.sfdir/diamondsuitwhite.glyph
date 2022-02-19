@@ -1,0 +1,29 @@
+StartChar: diamondsuitwhite
+Encoding: 222 9826 222
+GlifName: diamondsuitwhite
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1140 651 m 257
+ 600 -100 l 257
+ 58 649 l 257
+ 600 1400 l 257
+ 1140 651 l 257
+1044 650 m 257
+ 924 680 l 257
+ 630 1128 l 257
+ 600 1238 l 257
+ 570 1128 l 257
+ 275 680 l 257
+ 155 650 l 257
+ 275 620 l 257
+ 569 173 l 257
+ 599 63 l 257
+ 629 173 l 257
+ 924 620 l 257
+ 1044 650 l 257
+EndSplineSet
+EndChar

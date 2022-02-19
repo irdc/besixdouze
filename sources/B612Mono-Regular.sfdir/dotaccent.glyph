@@ -1,0 +1,40 @@
+StartChar: dotaccent
+Encoding: 214 729 214
+GlifName: dotaccent
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+494 1500 m 257
+NamedP: "ah01"
+ 696 1500 l 257
+ 696 1300 l 257
+NamedP: "ah02"
+ 494 1300 l 257
+NamedP: "av01"
+ 494 1500 l 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"ah01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah01\" point2=\"ah02\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

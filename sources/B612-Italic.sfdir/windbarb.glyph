@@ -1,0 +1,26 @@
+StartChar: windbarb
+Encoding: 579 57385 579
+GlifName: windbarb
+Width: 1800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1700 100 m 257
+ 1720 0 l 257
+ 200 0 l 257
+ 200 100 l 257
+ 100 900 l 257
+ 600 100 l 257
+ 820 100 l 257
+ 500 600 l 257
+ 600 600 l 257
+ 920 100 l 257
+ 1110 100 l 257
+ 870 500 l 257
+ 970 500 l 257
+ 1210 100 l 257
+ 1700 100 l 257
+EndSplineSet
+EndChar

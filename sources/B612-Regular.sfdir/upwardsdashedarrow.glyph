@@ -1,0 +1,35 @@
+StartChar: upwardsdashedarrow
+Encoding: 554 8673 554
+GlifName: upwardsdashedarrow
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 1053 m 257
+ 412 1157 l 257
+ 337 1100 l 257
+ 100 1100 l 257
+ 400 1401 l 257
+ 500 1520 l 257
+ 600 1400 l 257
+ 900 1100 l 257
+ 665 1100 l 257
+ 590 1157 l 257
+ 600 1053 l 257
+ 600 950 l 257
+ 400 950 l 257
+ 400 1053 l 257
+600 800 m 257
+ 600 550 l 257
+ 400 550 l 257
+ 400 800 l 257
+ 600 800 l 257
+600 400 m 257
+ 600 150 l 257
+ 400 150 l 257
+ 400 400 l 257
+ 600 400 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,28 @@
+StartChar: subscriptfour
+Encoding: 486 8324 486
+GlifName: subscriptfour
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+653 -350 m 257
+ 563 -350 l 257
+ 537 -500 l 257
+ 437 -500 l 257
+ 463 -350 l 257
+ 166 -350 l 257
+ 181 -265 l 257
+ 516 260 l 257
+ 608 250 l 257
+ 321 -200 l 257
+ 263 -270 l 257
+ 478 -270 l 257
+ 513 -67 l 257
+ 612 -75 l 257
+ 578 -270 l 257
+ 675 -270 l 257
+ 653 -350 l 257
+EndSplineSet
+EndChar

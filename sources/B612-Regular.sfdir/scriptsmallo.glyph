@@ -1,0 +1,56 @@
+StartChar: scriptsmallo
+Encoding: 466 8500 466
+GlifName: scriptsmallo
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+367 -17 m 256
+NamedP: "T+BNz3QQAA @+A4EA"
+ 230 -17 230 -17 154 65.5 c 0
+ 78 148 78 148 78 284 c 256
+ 78 395 78 395 118.5 503 c 0
+ 159 611 159 611 229.5 695.5 c 0
+ 300 780 300 780 404 832.5 c 0
+ 508 885 508 885 626 885 c 256
+ 763 885 763 885 840.5 805 c 0
+ 918 725 918 725 918 590 c 256
+ 918 480 918 480 876.5 371 c 0
+ 835 262 835 262 764 176 c 0
+ 693 90 693 90 588.5 36.5 c 0
+ 484 -17 484 -17 367 -17 c 256
+NamedP: "T+BNz3QQAA @+A4EA"
+748 558 m 256
+ 748 746 748 746 593 746 c 256
+ 491 746 491 746 409 675.5 c 0
+ 327 605 327 605 286.5 506.5 c 0
+ 246 408 246 408 246 310 c 256
+ 246 123 246 123 401 123 c 256
+ 479 123 479 123 545.5 162 c 0
+ 612 201 612 201 655.5 263.5 c 0
+ 699 326 699 326 723.5 403 c 0
+ 748 480 748 480 748 558 c 256
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-17\" width=\"124\"/>\\u000a            <hstem pos=\"762\" width=\"123\"/>\\u000a            <vstem pos=\"100\" width=\"152\"/>\\u000a            <vstem pos=\"744\" width=\"151\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

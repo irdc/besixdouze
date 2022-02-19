@@ -1,0 +1,65 @@
+StartChar: Upsilon
+Encoding: 78 933 78
+GlifName: U_psilon
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+547 1143 m 257
+NamedP: "hr00"
+ 589 773 l 257
+ 712 1143 l 257
+ 957 1500 l 257
+ 1292 1500 l 257
+NamedP: "sv01"
+ 709 650 l 257
+ 594 0 l 257
+NamedP: "sv02"
+ 243 0 l 257
+NamedP: "ab01"
+ 358 650 l 257
+ 79 1500 l 257
+NamedP: "at01"
+ 422 1520 l 257
+NamedP: "at02"
+ 547 1143 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"20\" width=\"-21\"/>\\u000a            <hstem pos=\"1519\" width=\"-20\"/>\\u000a            <vstem pos=\"468\" width=\"352\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,19 @@
+StartChar: whitedownpointingsmalltriangle
+Encoding: 571 9663 571
+GlifName: whitedownpointingsmalltriangle
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+449 617 m 257
+ 680 1016 l 257
+ 218 1016 l 257
+ 449 617 l 257
+64 1100 m 257
+ 834 1100 l 257
+ 449 470 l 257
+ 64 1100 l 257
+EndSplineSet
+EndChar

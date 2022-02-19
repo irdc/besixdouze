@@ -1,0 +1,73 @@
+StartChar: ydieresis
+Encoding: 582 255 582
+GlifName: ydieresis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+666 364 m 257
+ 1064 1100 l 257
+NamedP: "sv01"
+ 1257 1121 l 257
+NamedP: "av02"
+ 644 -17 l 257
+ 580 -136 580 -136 529.5 -223 c 128
+ 479 -310 479 -310 430 -367 c 128
+ 381 -424 381 -424 327.5 -452 c 128
+ 274 -480 274 -480 204 -480 c 257
+NamedP: "av03"
+ 200 -480 l 257
+ 135 -480 135 -480 89 -459.5 c 128
+ 43 -439 43 -439 8 -403 c 257
+ 100 -296 l 257
+ 114 -308 114 -308 141 -317.5 c 128
+ 168 -327 168 -327 192 -328 c 257
+ 196 -328 l 257
+ 232 -328 232 -328 260 -314 c 128
+ 288 -300 288 -300 317 -267.5 c 128
+ 346 -235 346 -235 380 -181 c 128
+ 414 -127 414 -127 462 -47 c 257
+ 247 1100 l 257
+NamedP: "av04"
+ 420 1121 l 257
+NamedP: "av01"
+ 431 1064 431 1064 442 1002 c 257
+ 452 948 452 948 464.5 880.5 c 128
+ 477 813 477 813 491 742 c 257
+ 522 576 522 576 562 364 c 257
+ 573 132 l 257
+ 666 364 l 257
+535 1500 m 257
+ 735 1500 l 257
+ 700 1300 l 257
+ 500 1300 l 257
+ 535 1500 l 257
+935 1500 m 257
+ 1135 1500 l 257
+ 1100 1300 l 257
+ 900 1300 l 257
+ 935 1500 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av04\"/>\\u000a          <ttc code=\"singlev\" point1=\"av04\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

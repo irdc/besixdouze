@@ -1,0 +1,17 @@
+StartChar: Oslash
+Encoding: 63 216 63
+GlifName: O_slash
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+331 -100 m 257
+ 121 -100 l 257
+ 1278 1600 l 257
+ 1478 1600 l 257
+ 331 -100 l 257
+EndSplineSet
+Refer: 53 79 N 1 0 0 1 0 0 2
+EndChar

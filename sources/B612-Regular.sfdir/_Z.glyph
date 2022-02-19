@@ -1,0 +1,69 @@
+StartChar: Z
+Encoding: 99 90 99
+GlifName: Z_
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1090 160 m 257
+NamedP: "sv01"
+ 1110 0 l 257
+NamedP: "ab01"
+ 81 0 l 257
+ 61 50 l 257
+ 716 1200 l 257
+ 900 1380 l 257
+NamedP: "iv01"
+ 635 1340 l 257
+NamedP: "sv02"
+ 150 1340 l 257
+NamedP: "iv02"
+ 130 1500 l 257
+NamedP: "at01"
+ 1076 1500 l 257
+ 1091 1478 l 257
+ 430 300 l 257
+ 252 120 l 257
+NamedP: "iv03"
+ 517 160 l 257
+ 1090 160 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sv01\">\\u000a            <hstem pos=\"0\" width=\"160\"/>\\u000a            <hstem pos=\"1340\" width=\"160\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"at01\" point2=\"iv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv03\" point1=\"ab01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,100 @@
+StartChar: three
+Encoding: 522 51 522
+GlifName: three
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+227 1340 m 257
+NamedP: "sv01"
+ 242 1500 l 257
+NamedP: "at01"
+ 1022 1500 l 257
+ 1022 1360 l 257
+ 1010 1320 1010 1320 981.5 1276.5 c 128
+ 953 1233 953 1233 914.5 1188.5 c 128
+ 876 1144 876 1144 830.5 1101 c 128
+ 785 1058 785 1058 739 1019 c 257
+ 607 945 l 257
+ 617 947 617 947 632.5 947.5 c 128
+ 648 948 648 948 662 948 c 257
+NamedP: "dv02"
+ 759 948 759 948 842.5 924 c 128
+ 926 900 926 900 987.5 851.5 c 128
+ 1049 803 1049 803 1084.5 728.5 c 128
+ 1120 654 1120 654 1120 553 c 257
+NamedP: "dh04"
+ 1120 456 1120 456 1084 377 c 128
+ 1048 298 1048 298 985.5 236.5 c 128
+ 923 175 923 175 839 130.5 c 128
+ 755 86 755 86 659.5 57 c 128
+ 564 28 564 28 462 14 c 128
+ 360 0 360 0 262 0 c 257
+NamedP: "ab01"
+ 262 160 l 257
+NamedP: "dh01"
+ 345 163 345 163 425 175 c 128
+ 505 187 505 187 577 208.5 c 128
+ 649 230 649 230 710 261 c 128
+ 771 292 771 292 815.5 333.5 c 128
+ 860 375 860 375 885 427.5 c 128
+ 910 480 910 480 910 543 c 257
+NamedP: "dh03"
+ 910 615 910 615 879.5 663 c 128
+ 849 711 849 711 796 739 c 128
+ 743 767 743 767 671.5 778.5 c 128
+ 600 790 600 790 518 790 c 257
+NamedP: "dv01"
+ 486 790 486 790 448.5 788.5 c 128
+ 411 787 411 787 381 785 c 257
+NamedP: "dh02"
+ 381 940 l 257
+ 422 970 422 970 470 1008 c 128
+ 518 1046 518 1046 567 1087.5 c 128
+ 616 1129 616 1129 662.5 1171.5 c 128
+ 709 1214 709 1214 747 1252.5 c 128
+ 785 1291 785 1291 811 1324.5 c 128
+ 837 1358 837 1358 845 1380 c 257
+NamedP: "iv01"
+ 693 1340 l 257
+ 227 1340 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sv01\">\\u000a            <hstem pos=\"0\" width=\"160\"/>\\u000a            <hstem pos=\"790\" width=\"158\"/>\\u000a            <hstem pos=\"1340\" width=\"160\"/>\\u000a            <vstem pos=\"849\" width=\"210\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: ecart du B\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh04\" point2=\"rsb\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"dh01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"at01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

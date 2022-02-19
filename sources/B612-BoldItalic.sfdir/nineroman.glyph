@@ -1,0 +1,33 @@
+StartChar: nineroman
+Encoding: 363 8568 363
+GlifName: nineroman
+Width: 1700
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1244 272 m 257
+ 1214 474 l 257
+ 1110 272 l 257
+ 895 0 l 257
+ 566 0 l 257
+ 1080 585 l 257
+ 813 1093 l 257
+ 1150 1120 l 257
+ 1252 900 l 257
+ 1279 699 l 257
+ 1374 900 l 257
+ 1548 1096 l 257
+ 1899 1124 l 257
+ 1423 581 l 257
+ 1729 0 l 257
+ 1378 0 l 257
+ 1244 272 l 257
+400 0 m 257
+ 100 0 l 257
+ 296 1114 l 257
+ 602 1147 l 257
+ 400 0 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,66 @@
+StartChar: less
+Encoding: 308 60 308
+GlifName: less
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1107 1187 m 257
+NamedP: "av01"
+ 1076 1012 l 257
+NamedP: "sv01"
+ 324 646 l 257
+ 243 626 l 257
+NamedP: "iv01"
+ 316 606 l 257
+ 940 242 l 257
+NamedP: "sv02"
+ 909 67 l 257
+NamedP: "av02"
+ 92 524 l 257
+ 129 733 l 257
+ 1107 1187 l 257
+NamedP: "av01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"av01\" point2=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv02\" stem=\"Y: 153\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.typemytype.robofont.guides
+p11
+(lp12
+(dp13
+Vangle
+p14
+I0
+sVisGlobal
+p15
+I00
+sVmagnetic
+p16
+I5
+sVx
+p17
+I0
+sVy
+p18
+I1298
+sas."
+EndChar

@@ -1,0 +1,21 @@
+StartChar: ismallsuperior
+Encoding: 324 8305 324
+GlifName: ismallsuperior
+Width: 300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+195 720 m 257
+ 104 720 l 257
+ 197 1247 l 257
+ 289 1257 l 257
+ 195 720 l 257
+234 1470 m 257
+ 330 1470 l 257
+ 312 1370 l 257
+ 216 1370 l 257
+ 234 1470 l 257
+EndSplineSet
+EndChar

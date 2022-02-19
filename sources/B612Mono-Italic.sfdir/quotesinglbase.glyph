@@ -1,0 +1,53 @@
+StartChar: quotesinglbase
+Encoding: 402 8218 402
+GlifName: quotesinglbase
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+194 105 m 257
+NamedP: "mh01"
+ 195 131 195 131 207 154.5 c 128
+ 219 178 219 178 238.5 195.5 c 128
+ 258 213 258 213 284 221.5 c 128
+ 310 230 310 230 339 226 c 257
+NamedP: "av01"
+ 383 220 383 220 413 187.5 c 128
+ 443 155 443 155 442 91 c 257
+ 442 61 442 61 432 20.5 c 128
+ 422 -20 422 -20 397 -66.5 c 128
+ 372 -113 372 -113 328.5 -162.5 c 128
+ 285 -212 285 -212 218 -260 c 257
+ 177 -240 l 257
+ 204 -207 204 -207 226 -170 c 257
+NamedP: "mh02"
+ 245 -138 245 -138 262.5 -98 c 128
+ 280 -58 280 -58 285 -16 c 257
+NamedP: "mh03"
+ 243 -14 243 -14 217.5 16.5 c 128
+ 192 47 192 47 194 105 c 257
+NamedP: "mh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh02\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"6\" point=\"mh03\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"mh03\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

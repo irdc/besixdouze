@@ -1,0 +1,99 @@
+StartChar: M
+Encoding: 42 77 42
+GlifName: M_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+717 0 m 257
+NamedP: "hr00"
+ 797 449 l 257
+ 1036 1200 l 257
+ 1026 1200 l 257
+ 801 700 l 257
+ 693 475 l 257
+ 502 475 l 257
+ 477 700 l 257
+NamedP: "mh01"
+ 426 1200 l 257
+NamedP: "mv01"
+ 416 1200 l 257
+ 396 449 l 257
+NamedP: "mh02"
+ 316 0 l 257
+ 5 0 l 257
+NamedP: "ab01"
+ 227 1263 l 257
+ 227 1500 l 257
+NamedP: "at01"
+ 552 1520 l 257
+NamedP: "at02"
+ 645 1079 l 257
+ 642 800 l 257
+ 725 1082 l 257
+ 969 1500 l 257
+NamedP: "sv01"
+ 1299 1520 l 257
+NamedP: "at03"
+ 1030 0 l 257
+NamedP: "sv02"
+ 717 0 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"20\" width=\"-21\"/>\\u000a            <hstem pos=\"1519\" width=\"-20\"/>\\u000a            <vstem pos=\"35\" width=\"342\"/>\\u000a            <vstem pos=\"1174\" width=\"352\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh01\" ppm1=\"13\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"mh02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at03\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"4\" point=\"mv01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I0
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I0
+sVy
+p26
+I1327
+sas."
+EndChar

@@ -1,0 +1,88 @@
+StartChar: t
+Encoding: 511 116 511
+GlifName: t
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+390 376 m 257
+NamedP: "dh02"
+ 390 310 390 310 397.5 265.5 c 128
+ 405 221 405 221 419.5 193.5 c 128
+ 434 166 434 166 455.5 154.5 c 128
+ 477 143 477 143 505 143 c 257
+NamedP: "sv01"
+ 527 143 527 143 545 145.5 c 128
+ 563 148 563 148 576 152 c 257
+ 591 156 591 156 603 161 c 257
+ 672 40 l 257
+NamedP: "fh01"
+ 664 32 664 32 646.5 22.5 c 128
+ 629 13 629 13 605 4 c 128
+ 581 -5 581 -5 550.5 -11 c 128
+ 520 -17 520 -17 485 -17 c 257
+NamedP: "ab01"
+ 395 -17 395 -17 339 16 c 128
+ 283 49 283 49 252 106 c 128
+ 221 163 221 163 210.5 238.5 c 128
+ 200 314 200 314 200 400 c 257
+NamedP: "dh01"
+ 200 940 l 257
+NamedP: "sv02"
+ 50 940 l 257
+ 50 1100 l 257
+ 200 1100 l 257
+NamedP: "sh01"
+ 200 1309 l 257
+NamedP: "mv01"
+ 385 1420 l 257
+NamedP: "sh02"
+ 385 1100 l 257
+NamedP: "sv03"
+ 725 1100 l 257
+NamedP: "av01"
+ 705 940 l 257
+NamedP: "sv04"
+ 390 940 l 257
+ 390 376 l 257
+NamedP: "dh02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dh02\">\\u000a            <hstem pos=\"-17\" width=\"160\"/>\\u000a            <hstem pos=\"940\" width=\"160\"/>\\u000a            <hstem pos=\"1420\" width=\"-20\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh01\" point2=\"sh01\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"dh02\" point2=\"sh02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"sh01\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"sh01\" ppm1=\"37\" ppm2=\"37\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"sh01\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"sh01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh01\" point2=\"sv02\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"mv01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"mv01\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"sh02\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"sh02\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh01\" point2=\"sv03\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"av01\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"av01\" ppm1=\"37\" ppm2=\"37\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"av01\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"av01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv02\" point2=\"sv04\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-1\" point=\"fh01\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"2\" point=\"fh01\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"4\" point=\"fh01\" ppm1=\"40\" ppm2=\"40\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"5\" point=\"fh01\" ppm1=\"32\" ppm2=\"33\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+Kerns2: 77 -100 "'kern' Horizontal Kerning lookup 0 subtable" 511 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

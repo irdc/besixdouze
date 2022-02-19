@@ -1,0 +1,18 @@
+StartChar: rightfloor
+Encoding: 416 8971 416
+GlifName: rightfloor
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+800 150 m 257
+ 400 150 l 257
+ 400 0 l 257
+ 1000 0 l 257
+ 1000 1500 l 257
+ 800 1500 l 257
+ 800 150 l 257
+EndSplineSet
+EndChar

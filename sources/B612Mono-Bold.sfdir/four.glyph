@@ -1,0 +1,50 @@
+StartChar: four
+Encoding: 260 52 260
+GlifName: four
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1200 500 m 257
+NamedP: "hr00"
+ 1001 500 l 257
+ 1001 800 l 257
+ 680 780 l 257
+ 680 500 l 257
+ 389 500 l 257
+ 563 763 l 257
+ 894 1500 l 257
+ 613 1520 l 257
+ 120 500 l 257
+ 120 300 l 257
+ 680 300 l 257
+ 680 0 l 257
+ 1001 0 l 257
+ 1001 300 l 257
+ 1179 300 l 257
+ 1200 500 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"300\" width=\"200\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a            <vstem pos=\"680\" width=\"321\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

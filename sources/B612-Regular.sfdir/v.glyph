@@ -1,0 +1,83 @@
+StartChar: v
+Encoding: 555 118 555
+GlifName: v
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1005 1120 m 257
+NamedP: "sh02"
+ 634 -20 l 257
+NamedP: "ab01"
+ 428 0 l 257
+ 71 1100 l 257
+NamedP: "sh04"
+ 254 1120 l 257
+NamedP: "sh03"
+ 493 381 l 257
+ 546 149 l 257
+NamedP: "ah01"
+ 596 381 l 257
+ 830 1100 l 257
+NamedP: "sh01"
+ 1005 1120 l 257
+NamedP: "sh02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh02\">\\u000a            <hstem pos=\"1\" width=\"-21\"/>\\u000a            <hstem pos=\"1120\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"center\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: dia Fat\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" stem=\"X: dia Fat\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"sh02\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"sh03\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah01\" point1=\"ab01\" point2=\"sh02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I0
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I0
+sVy
+p26
+I381
+sas."
+Kerns2: 77 -100 "'kern' Horizontal Kerning lookup 0 subtable" 214 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,11 @@
+StartChar: quotedblleft
+Encoding: 441 8220 441
+GlifName: quotedblleft
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 445 8218 N -0.999939 0 0 -0.999939 600 1200 2
+Refer: 445 8218 N -0.999939 0 0 -0.999939 1000 1200 2
+EndChar

@@ -1,0 +1,11 @@
+StartChar: nineroman
+Encoding: 363 8568 363
+GlifName: nineroman
+Width: 1700
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 580 120 N 1 0 0 1 600 0 2
+Refer: 389 8560 N 1 0 0 1 0 0 2
+EndChar

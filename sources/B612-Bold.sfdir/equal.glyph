@@ -1,0 +1,21 @@
+StartChar: equal
+Encoding: 249 61 249
+GlifName: equal
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 800 m 257
+ 900 800 l 257
+ 900 581 l 257
+ 100 581 l 257
+ 100 800 l 257
+100 400 m 257
+ 900 400 l 257
+ 900 181 l 257
+ 100 181 l 257
+ 100 400 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,16 @@
+StartChar: minussuperior
+Encoding: 352 8315 352
+GlifName: minussuperior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+111 1070 m 257
+ 561 1070 l 257
+ 548 992 l 257
+ 98 992 l 257
+ 111 1070 l 257
+EndSplineSet
+EndChar

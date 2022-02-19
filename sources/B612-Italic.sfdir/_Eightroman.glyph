@@ -1,0 +1,13 @@
+StartChar: Eightroman
+Encoding: 22 8551 22
+GlifName: E_ightroman
+Width: 2800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 92 86 N 1 0 0 1 0 0 2
+Refer: 34 73 N 1 0 0 1 1200 0 2
+Refer: 34 73 N 1 0 0 1 1700 0 2
+Refer: 34 73 N 1 0 0 1 2200 0 2
+EndChar

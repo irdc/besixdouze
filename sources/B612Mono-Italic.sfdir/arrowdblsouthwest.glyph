@@ -1,0 +1,32 @@
+StartChar: arrowdblsouthwest
+Encoding: 111 8665 111
+GlifName: arrowdblsouthwest
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+89 -11 m 257
+ 100 129 l 257
+ 100 647 l 257
+ 221 767 l 257
+ 221 420 l 257
+ 300 483 l 257
+ 938 1120 l 257
+ 1020 1038 l 257
+ 488 507 l 257
+ 221 279 l 257
+ 207 107 l 257
+ 379 121 l 257
+ 607 388 l 257
+ 1138 920 l 257
+ 1220 838 l 257
+ 583 200 l 257
+ 521 121 l 257
+ 867 121 l 257
+ 747 0 l 257
+ 229 0 l 257
+ 89 -11 l 257
+EndSplineSet
+EndChar

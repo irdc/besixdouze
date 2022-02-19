@@ -1,0 +1,12 @@
+StartChar: sevenroman
+Encoding: 474 8566 474
+GlifName: sevenroman
+Width: 1900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 555 118 N 1 0 0 1 0 0 2
+Refer: 389 8560 N 1 0 0 1 1000 0 2
+Refer: 389 8560 N 1 0 0 1 1400 0 2
+EndChar

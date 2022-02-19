@@ -1,0 +1,21 @@
+StartChar: logicaland
+Encoding: 340 8743 340
+GlifName: logicaland
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+779 1320 m 257
+ 1221 0 l 257
+ 1057 0 l 257
+ 721 980 l 257
+ 656 1220 l 257
+ 591 980 l 257
+ 254 0 l 257
+ 92 0 l 257
+ 521 1300 l 257
+ 779 1320 l 257
+EndSplineSet
+EndChar

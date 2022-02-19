@@ -1,0 +1,98 @@
+StartChar: Beta
+Encoding: 11 914 11
+GlifName: B_eta
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+395 1147 m 257
+NamedP: "sh01"
+ 395 885 l 257
+ 500 885 l 257
+NamedP: "ih02"
+ 561 888 561 888 620.5 904 c 128
+ 680 920 680 920 726.5 951.5 c 128
+ 773 983 773 983 801.5 1031.5 c 128
+ 830 1080 830 1080 830 1148 c 257
+NamedP: "dh03"
+ 830 1214 830 1214 799.5 1257.5 c 128
+ 769 1301 769 1301 721 1326 c 128
+ 673 1351 673 1351 613.5 1361 c 128
+ 554 1371 554 1371 497 1371 c 257
+NamedP: "sv01"
+ 463 1371 463 1371 426.5 1368.5 c 128
+ 390 1366 390 1366 359 1360 c 257
+ 395 1147 l 257
+NamedP: "sh01"
+210 0 m 257
+NamedP: "dh01"
+ 210 1290 l 257
+ 180 1490 l 257
+ 240 1498 240 1498 303.5 1504 c 128
+ 367 1510 367 1510 432 1510 c 257
+NamedP: "at01"
+ 548 1510 548 1510 653 1495.5 c 128
+ 758 1481 758 1481 837.5 1443 c 128
+ 917 1405 917 1405 964 1338.5 c 128
+ 1011 1272 1011 1272 1011 1169 c 257
+NamedP: "dh04"
+ 1011 1060 1011 1060 964 981 c 128
+ 917 902 917 902 830 860 c 257
+ 676 816 l 257
+NamedP: "ih01"
+ 823 802 l 257
+ 884 784 884 784 938 755.5 c 128
+ 992 727 992 727 1031.5 686 c 128
+ 1071 645 1071 645 1094 589 c 128
+ 1117 533 1117 533 1117 460 c 257
+NamedP: "sh03"
+ 1117 375 1117 375 1094.5 308 c 128
+ 1072 241 1072 241 1033 190 c 128
+ 994 139 994 139 942 102.5 c 128
+ 890 66 890 66 830.5 43.5 c 128
+ 771 21 771 21 707 10.5 c 128
+ 643 0 643 0 580 0 c 257
+ 210 0 l 257
+NamedP: "dh01"
+395 160 m 257
+NamedP: "dh02"
+ 505 160 l 257
+ 604 160 604 160 681.5 174.5 c 128
+ 759 189 759 189 812.5 222.5 c 128
+ 866 256 866 256 894 311.5 c 128
+ 922 367 922 367 922 450 c 257
+NamedP: "sh02"
+ 922 525 922 525 896 578 c 128
+ 870 631 870 631 822.5 665 c 128
+ 775 699 775 699 708 714.5 c 128
+ 641 730 641 730 560 730 c 257
+NamedP: "dv01"
+ 500 730 l 257
+NamedP: "ih03"
+ 395 730 l 257
+ 395 160 l 257
+NamedP: "dh02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"X: 199\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"sh01\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh04\" point2=\"sh02\" stem=\"X: ecart du B\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"sh03\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh01\" point2=\"lsb\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh04\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"dh01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"ih02\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ih01\" point1=\"ih02\" point2=\"dv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"dh01\" point2=\"dh02\" stem=\"Y: 162\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

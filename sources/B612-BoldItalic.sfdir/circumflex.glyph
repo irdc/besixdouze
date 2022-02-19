@@ -1,0 +1,21 @@
+StartChar: circumflex
+Encoding: 194 710 194
+GlifName: circumflex
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1030 1220 m 257
+ 815 1220 l 257
+ 763 1323 l 257
+ 755 1450 l 257
+ 703 1323 l 257
+ 604 1220 l 257
+ 374 1220 l 257
+ 595 1495 l 257
+ 896 1524 l 257
+ 1030 1220 l 257
+EndSplineSet
+EndChar

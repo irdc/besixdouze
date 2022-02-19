@@ -1,0 +1,24 @@
+StartChar: plussuperior
+Encoding: 428 8314 428
+GlifName: plussuperior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 1070 m 257
+ 220 1070 l 257
+ 220 1285 l 257
+ 330 1285 l 257
+ 330 1070 l 257
+ 510 1070 l 257
+ 510 970 l 257
+ 330 970 l 257
+ 330 770 l 257
+ 220 770 l 257
+ 220 970 l 257
+ 40 970 l 257
+ 40 1070 l 257
+EndSplineSet
+EndChar

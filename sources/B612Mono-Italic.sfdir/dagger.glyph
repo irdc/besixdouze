@@ -1,0 +1,50 @@
+StartChar: dagger
+Encoding: 203 8224 203
+GlifName: dagger
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+255 1049 m 257
+NamedP: "at02"
+ 555 1049 l 257
+ 635 1500 l 257
+ 839 1520 l 257
+NamedP: "at01"
+ 755 1049 l 257
+ 1075 1049 l 257
+NamedP: "sv01"
+ 1029 900 l 257
+ 729 900 l 257
+ 500 -400 l 257
+NamedP: "sv02"
+ 300 -400 l 257
+NamedP: "av01"
+ 529 900 l 257
+ 229 900 l 257
+ 255 1049 l 257
+NamedP: "at02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"singlev\" point1=\"at02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

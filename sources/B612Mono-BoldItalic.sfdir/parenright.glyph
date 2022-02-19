@@ -1,0 +1,80 @@
+StartChar: parenright
+Encoding: 366 41 366
+GlifName: parenright
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+824 38 m 257
+NamedP: "hr00"
+ 807 -55 807 -55 782.5 -138 c 128
+ 758 -221 758 -221 711.5 -284 c 128
+ 665 -347 665 -347 591 -383.5 c 128
+ 517 -420 517 -420 403 -420 c 257
+NamedP: "av02"
+ 378 -420 378 -420 350.5 -416.5 c 128
+ 323 -413 323 -413 296 -406 c 128
+ 269 -399 269 -399 244 -388.5 c 128
+ 219 -378 219 -378 201 -365 c 257
+ 320 -245 l 257
+ 335 -245 335 -245 358 -241.5 c 128
+ 381 -238 381 -238 406 -219 c 128
+ 431 -200 431 -200 453 -159.5 c 128
+ 475 -119 475 -119 488 -46 c 257
+NamedP: "ah01"
+ 713 1227 l 257
+ 725 1298 725 1298 717 1339 c 128
+ 709 1380 709 1380 691 1400.5 c 128
+ 673 1421 673 1421 649.5 1426 c 128
+ 626 1431 626 1431 608 1431 c 257
+ 538 1545 l 257
+ 561 1558 561 1558 589 1568.5 c 128
+ 617 1579 617 1579 647 1586 c 128
+ 677 1593 677 1593 706 1596.5 c 128
+ 735 1600 735 1600 760 1600 c 257
+NamedP: "av01"
+ 874 1600 874 1600 935.5 1566 c 128
+ 997 1532 997 1532 1021.5 1472 c 128
+ 1046 1412 1046 1412 1042 1331.5 c 128
+ 1038 1251 1038 1251 1022 1158 c 257
+ 824 38 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-420\" width=\"146\"/>\\u000a            <hstem pos=\"1374\" width=\"146\"/>\\u000a            <vstem pos=\"499\" width=\"200\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,19 @@
+StartChar: whitedownpointingtriangle
+Encoding: 572 9661 572
+GlifName: whitedownpointingtriangle
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+320 980 m 257
+ 980 980 l 257
+ 650 410 l 257
+ 320 980 l 257
+650 200 m 257
+ 1200 1100 l 257
+ 100 1100 l 257
+ 650 200 l 257
+EndSplineSet
+EndChar

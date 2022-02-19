@@ -1,0 +1,66 @@
+StartChar: asymptoticallyequal
+Encoding: 127 8771 127
+GlifName: asymptoticallyequal
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 400 m 257
+ 1000 400 l 257
+NamedP: "av01"
+ 1000 260 l 257
+NamedP: "sv01"
+ 200 260 l 257
+NamedP: "sv02"
+ 200 400 l 257
+760 500 m 257
+ 725 500 725 500 694 512.5 c 128
+ 663 525 663 525 634.5 544 c 128
+ 606 563 606 563 579.5 585 c 128
+ 553 607 553 607 527.5 626 c 128
+ 502 645 502 645 476.5 657.5 c 128
+ 451 670 451 670 425 670 c 257
+ 394 670 394 670 366.5 662.5 c 128
+ 339 655 339 655 312 641 c 128
+ 285 627 285 627 257.5 606.5 c 128
+ 230 586 230 586 200 560 c 257
+ 200 660 l 257
+ 220 688 220 688 243 713 c 128
+ 266 738 266 738 295 757.5 c 128
+ 324 777 324 777 359.5 788.5 c 128
+ 395 800 395 800 440 800 c 257
+ 492 800 492 800 536.5 773.5 c 128
+ 581 747 581 747 621 715 c 128
+ 661 683 661 683 698.5 656.5 c 128
+ 736 630 736 630 775 630 c 257
+ 836 630 836 630 888 658.5 c 128
+ 940 687 940 687 1000 740 c 257
+ 1000 640 l 257
+ 980 612 980 612 957 587 c 128
+ 934 562 934 562 905 542.5 c 128
+ 876 523 876 523 840.5 511.5 c 128
+ 805 500 805 500 760 500 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

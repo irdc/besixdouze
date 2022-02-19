@@ -1,0 +1,16 @@
+StartChar: oneroman
+Encoding: 389 8560 389
+GlifName: oneroman
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+390 0 m 257
+ 200 0 l 257
+ 393 1100 l 257
+ 587 1120 l 257
+ 390 0 l 257
+EndSplineSet
+EndChar

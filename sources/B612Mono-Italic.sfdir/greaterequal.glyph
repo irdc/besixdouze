@@ -1,0 +1,64 @@
+StartChar: greaterequal
+Encoding: 270 8805 270
+GlifName: greaterequal
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 135 m 257
+NamedP: "mh01"
+ 1100 135 l 257
+ 1080 0 l 257
+ 200 0 l 257
+ 200 135 l 257
+NamedP: "mh01"
+1102 756 m 257
+ 1102 588 l 257
+ 202 223 l 257
+NamedP: "mv01"
+ 202 363 l 257
+ 890 654 l 257
+ 967 670 l 257
+ 889 686 l 257
+ 202 979 l 257
+ 202 1119 l 257
+ 1102 756 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"mh01\">\\u000a            <hstem pos=\"88\" width=\"-21\"/>\\u000a            <hstem pos=\"440\" width=\"155\"/>\\u000a            <hstem pos=\"968\" width=\"-20\"/>\\u000a            <vstem pos=\"272\" width=\"155\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"3\" point=\"mh01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mv01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

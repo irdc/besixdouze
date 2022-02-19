@@ -1,0 +1,11 @@
+StartChar: quotedblbase
+Encoding: 440 8222 440
+GlifName: quotedblbase
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 445 8218 N 1 0 0 1 0 0 2
+Refer: 445 8218 N 1 0 0 1 400 0 2
+EndChar

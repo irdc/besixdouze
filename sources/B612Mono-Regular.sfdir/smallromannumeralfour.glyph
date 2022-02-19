@@ -1,0 +1,70 @@
+StartChar: smallromannumeralfour
+Encoding: 460 8563 460
+GlifName: smallromannumeralfour
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1208 1120 m 257
+NamedP: "sh02"
+ 837 -20 l 257
+NamedP: "ab01"
+ 631 0 l 257
+ 274 1100 l 257
+NamedP: "sh04"
+ 457 1120 l 257
+NamedP: "sh03"
+ 696 381 l 257
+ 749 149 l 257
+NamedP: "ah01"
+ 799 381 l 257
+ 1033 1100 l 257
+NamedP: "sh01"
+ 1208 1120 l 257
+NamedP: "sh02"
+190 0 m 257
+NamedP: "hr01"
+ 0 0 l 257
+ 0 1100 l 257
+ 190 1120 l 257
+ 190 0 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1300\" width=\"200\"/>\\u000a            <vstem pos=\"-300\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"center\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: dia Fat\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" stem=\"X: dia Fat\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"sh02\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"sh03\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah01\" point1=\"ab01\" point2=\"sh02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

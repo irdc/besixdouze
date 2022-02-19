@@ -1,0 +1,26 @@
+StartChar: notequal
+Encoding: 368 8800 368
+GlifName: notequal
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+391 0 m 257
+ 236 0 l 257
+ 773 1000 l 257
+ 919 1000 l 257
+ 391 0 l 257
+241 800 m 257
+ 1041 800 l 257
+ 1016 660 l 257
+ 216 660 l 257
+ 241 800 l 257
+170 399 m 257
+ 970 399 l 257
+ 945 259 l 257
+ 145 259 l 257
+ 170 399 l 257
+EndSplineSet
+EndChar

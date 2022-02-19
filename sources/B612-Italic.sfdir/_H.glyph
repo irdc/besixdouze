@@ -1,0 +1,25 @@
+StartChar: H
+Encoding: 33 72 33
+GlifName: H_
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1015 0 m 257
+ 1142 725 l 257
+ 512 725 l 257
+ 385 0 l 257
+ 190 0 l 257
+ 417 1290 l 257
+ 425 1500 l 257
+ 653 1520 l 257
+ 541 885 l 257
+ 1171 885 l 257
+ 1279 1502 l 257
+ 1478 1520 l 257
+ 1210 0 l 257
+ 1015 0 l 257
+EndSplineSet
+EndChar

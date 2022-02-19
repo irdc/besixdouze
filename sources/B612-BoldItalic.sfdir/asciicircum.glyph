@@ -1,0 +1,19 @@
+StartChar: asciicircum
+Encoding: 135 94 135
+GlifName: asciicircum
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1610 866 m 257
+ 1267 866 l 257
+ 958 1180 l 257
+ 554 868 l 257
+ 192 868 l 257
+ 897 1495 l 257
+ 1111 1522 l 257
+ 1610 866 l 257
+EndSplineSet
+EndChar

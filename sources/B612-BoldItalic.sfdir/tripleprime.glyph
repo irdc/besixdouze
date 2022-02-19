@@ -1,0 +1,32 @@
+StartChar: tripleprime
+Encoding: 533 8244 533
+GlifName: tripleprime
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+596 1230 m 257
+ 375 885 l 257
+ 222 885 l 257
+ 347 1232 l 257
+ 398 1523 l 257
+ 642 1490 l 257
+ 596 1230 l 257
+896 1230 m 257
+ 675 885 l 257
+ 522 885 l 257
+ 647 1232 l 257
+ 698 1523 l 257
+ 942 1490 l 257
+ 896 1230 l 257
+1196 1230 m 257
+ 975 885 l 257
+ 822 885 l 257
+ 947 1232 l 257
+ 998 1523 l 257
+ 1242 1490 l 257
+ 1196 1230 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,16 @@
+StartChar: hyphen
+Encoding: 309 45 309
+GlifName: hyphen
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+124 624 m 257
+ 751 624 l 257
+ 751 400 l 257
+ 124 400 l 257
+ 124 624 l 257
+EndSplineSet
+EndChar

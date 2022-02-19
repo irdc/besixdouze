@@ -1,0 +1,12 @@
+StartChar: Acircumflex
+Encoding: 4 194 4
+GlifName: A_circumflex
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 194 710 N 1 0 0 1 178 400 2
+Kerns2: 41 100 "'kern' Horizontal Kerning lookup 0 subtable" 77 -100 "'kern' Horizontal Kerning lookup 0 subtable" 86 -100 "'kern' Horizontal Kerning lookup 0 subtable" 87 -100 "'kern' Horizontal Kerning lookup 0 subtable" 88 -100 "'kern' Horizontal Kerning lookup 0 subtable" 89 -100 "'kern' Horizontal Kerning lookup 0 subtable" 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 93 -100 "'kern' Horizontal Kerning lookup 0 subtable" 97 -100 "'kern' Horizontal Kerning lookup 0 subtable" 98 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,68 @@
+StartChar: smallromannumeralfour
+Encoding: 460 8563 460
+GlifName: smallromannumeralfour
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+728 700 m 257
+ 731 300 l 257
+ 874 700 l 257
+ 1075 1100 l 257
+NamedP: "sv01"
+ 1392 1120 l 257
+NamedP: "at02"
+ 818 -17 l 257
+NamedP: "ab01"
+ 505 0 l 257
+ 348 1100 l 257
+NamedP: "at03"
+ 666 1120 l 257
+NamedP: "at01"
+ 728 700 l 257
+191 0 m 257
+NamedP: "hr01"
+ -109 0 l 257
+ 85 1100 l 257
+ 388 1120 l 257
+ 191 0 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1300\" width=\"200\"/>\\u000a            <vstem pos=\"-260\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"at03\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at03\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

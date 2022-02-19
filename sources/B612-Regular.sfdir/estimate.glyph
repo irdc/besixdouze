@@ -1,0 +1,22 @@
+StartChar: estimate
+Encoding: 254 8793 254
+GlifName: estimate
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 600 m 257
+ 900 600 l 257
+ 900 460 l 257
+ 100 460 l 257
+ 100 600 l 257
+100 300 m 257
+ 900 300 l 257
+ 900 160 l 257
+ 100 160 l 257
+ 100 300 l 257
+EndSplineSet
+Refer: 135 94 N 0.6 0 0 0.6 50 207 2
+EndChar

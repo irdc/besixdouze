@@ -1,0 +1,72 @@
+StartChar: sterling
+Encoding: 480 163 480
+GlifName: sterling
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+379 850 m 257
+NamedP: "av01"
+ 540 850 l 257
+ 641 1165 l 257
+ 674 1267 674 1267 706.5 1334.5 c 128
+ 739 1402 739 1402 781.5 1442 c 128
+ 824 1482 824 1482 881 1499 c 128
+ 938 1516 938 1516 1020 1517 c 257
+NamedP: "at01"
+ 1071 1518 1071 1518 1112 1509.5 c 128
+ 1153 1501 1153 1501 1186 1484 c 257
+ 1253 1451 1253 1451 1276 1425 c 257
+ 1168 1324 l 257
+ 1160 1329 1160 1329 1145.5 1336.5 c 128
+ 1131 1344 1131 1344 1113 1351 c 128
+ 1095 1358 1095 1358 1076 1363 c 128
+ 1057 1368 1057 1368 1040 1369 c 257
+ 995 1371 995 1371 963 1363.5 c 128
+ 931 1356 931 1356 906 1331.5 c 128
+ 881 1307 881 1307 860 1261.5 c 128
+ 839 1216 839 1216 815 1141 c 257
+ 722 850 l 257
+ 929 850 l 257
+NamedP: "sv01"
+ 883 700 l 257
+ 675 700 l 257
+ 543 263 543 263 507 224 c 257
+ 398 104 l 257
+ 567 147 l 257
+ 1005 147 l 257
+ 980 0 l 257
+NamedP: "sv02"
+ 34 0 l 257
+NamedP: "ab01"
+ 79 147 l 257
+ 217 147 l 257
+ 252 147 252 147 300 197 c 257
+ 347 245 347 245 493 700 c 257
+ 353 700 l 257
+ 379 850 l 257
+NamedP: "av01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

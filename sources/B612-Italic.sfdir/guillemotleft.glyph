@@ -1,0 +1,11 @@
+StartChar: guillemotleft
+Encoding: 296 171 296
+GlifName: guillemotleft
+Width: 1400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 298 8249 N 1 0 0 1 0 0 2
+Refer: 298 8249 N 1 0 0 1 500 0 2
+EndChar

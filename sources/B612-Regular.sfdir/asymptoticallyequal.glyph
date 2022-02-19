@@ -1,0 +1,17 @@
+StartChar: asymptoticallyequal
+Encoding: 139 8771 139
+GlifName: asymptoticallyequal
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 400 m 257
+ 900 400 l 257
+ 900 260 l 257
+ 100 260 l 257
+ 100 400 l 257
+EndSplineSet
+Refer: 480 8764 N 1 0 0 1 0 100 2
+EndChar

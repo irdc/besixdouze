@@ -1,0 +1,104 @@
+StartChar: f
+Encoding: 261 102 261
+GlifName: f
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 1100 m 257
+NamedP: "dv03"
+ 200 1100 l 257
+NamedP: "sh01"
+ 200 1255 l 257
+ 200 1340 200 1340 218.5 1407 c 128
+ 237 1474 237 1474 277 1520.5 c 128
+ 317 1567 317 1567 379.5 1592 c 128
+ 442 1617 442 1617 530 1617 c 257
+NamedP: "av01"
+ 575 1617 575 1617 612.5 1609.5 c 128
+ 650 1602 650 1602 681.5 1590 c 128
+ 713 1578 713 1578 739.5 1562 c 128
+ 766 1546 766 1546 787 1529 c 257
+NamedP: "mh01"
+ 702 1411 l 257
+ 681 1426 681 1426 644 1441.5 c 128
+ 607 1457 607 1457 562 1457 c 257
+NamedP: "sv01"
+ 476 1457 476 1457 430.5 1408.5 c 128
+ 385 1360 385 1360 385 1245 c 257
+NamedP: "sh02"
+ 385 1100 l 257
+ 675 1100 l 257
+NamedP: "dv02"
+ 655 940 l 257
+NamedP: "dv01"
+ 390 940 l 257
+NamedP: "dh02"
+ 390 0 l 257
+NamedP: "ab01"
+ 200 0 l 257
+ 200 940 l 257
+NamedP: "dh01"
+ 50 940 l 257
+NamedP: "dv04"
+ 50 1100 l 257
+NamedP: "dv03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dv03\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"940\" width=\"160\"/>\\u000a            <hstem pos=\"1457\" width=\"160\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh01\" point2=\"sh01\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh01\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"dh02\" point2=\"sh02\"/>\\u000a          <ttc align=\"left\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv03\" point2=\"dv04\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I0
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I0
+sVy
+p26
+I3258
+sas."
+Kerns2: 142 -100 "'kern' Horizontal Kerning lookup 0 subtable" 214 -100 "'kern' Horizontal Kerning lookup 0 subtable" 261 -100 "'kern' Horizontal Kerning lookup 0 subtable" 289 -100 "'kern' Horizontal Kerning lookup 0 subtable" 328 -100 "'kern' Horizontal Kerning lookup 0 subtable" 344 -100 "'kern' Horizontal Kerning lookup 0 subtable" 397 -100 "'kern' Horizontal Kerning lookup 0 subtable" 435 -100 "'kern' Horizontal Kerning lookup 0 subtable" 557 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

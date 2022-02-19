@@ -1,0 +1,93 @@
+StartChar: yacute
+Encoding: 581 253 581
+GlifName: yacute
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+721 364 m 257
+NamedP: "dh02"
+ 990 1100 l 257
+NamedP: "sh01"
+ 1170 1120 l 257
+NamedP: "sh02"
+ 766 -17 l 257
+NamedP: "ih01"
+ 736 -101 736 -101 701.5 -184 c 128
+ 667 -267 667 -267 623.5 -333 c 128
+ 580 -399 580 -399 525.5 -439.5 c 128
+ 471 -480 471 -480 401 -480 c 257
+NamedP: "av02"
+ 345 -480 345 -480 298 -458 c 128
+ 251 -436 251 -436 209 -400 c 257
+NamedP: "ah01"
+ 282 -283 l 257
+NamedP: "sh03"
+ 288 -289 288 -289 297.5 -297 c 128
+ 307 -305 307 -305 318.5 -312.5 c 128
+ 330 -320 330 -320 343.5 -325 c 128
+ 357 -330 357 -330 371 -330 c 257
+NamedP: "av01"
+ 407 -330 407 -330 436.5 -304.5 c 128
+ 466 -279 466 -279 491.5 -238 c 128
+ 517 -197 517 -197 538.5 -147 c 128
+ 560 -97 560 -97 580 -47 c 257
+NamedP: "ab01"
+ 173 1100 l 257
+NamedP: "sh05"
+ 363 1120 l 257
+NamedP: "sh04"
+ 627 364 l 257
+NamedP: "dh01"
+ 679 132 l 257
+NamedP: "ah02"
+ 721 364 l 257
+NamedP: "dh02"
+715 1500 m 257
+NamedP: "ah03"
+ 945 1520 l 257
+NamedP: "sh06"
+ 705 1200 l 257
+NamedP: "av03"
+ 555 1200 l 257
+ 715 1500 l 257
+NamedP: "ah03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 176\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"lsb\" point2=\"sh03\" stem=\"X: 208\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"sh03\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh04\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh04\" point2=\"sh05\" stem=\"X: dia Fat\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"sh04\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"sh02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh06\" stem=\"X: 208\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc code=\"alignt\" point=\"sh06\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ah03\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

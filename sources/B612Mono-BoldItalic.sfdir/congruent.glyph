@@ -1,0 +1,74 @@
+StartChar: congruent
+Encoding: 195 8773 195
+GlifName: congruent
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+189 300 m 257
+NamedP: "av02"
+ 989 300 l 257
+NamedP: "sv01"
+ 957 116 l 257
+ 157 116 l 257
+NamedP: "mv01"
+ 189 300 l 257
+NamedP: "av02"
+242 600 m 257
+NamedP: "av01"
+ 1042 600 l 257
+NamedP: "sv02"
+ 1010 416 l 257
+NamedP: "mv02"
+ 210 416 l 257
+ 242 600 l 257
+NamedP: "av01"
+1079 800 m 257
+ 1016 740 1016 740 953 710 c 128
+ 890 680 890 680 818 680 c 257
+ 771 680 771 680 730.5 703.5 c 128
+ 690 727 690 727 653 755.5 c 128
+ 616 784 616 784 579.5 807.5 c 128
+ 543 831 543 831 504 831 c 257
+ 474 831 474 831 443 822 c 128
+ 412 813 412 813 381 798.5 c 128
+ 350 784 350 784 321 765 c 128
+ 292 746 292 746 266 726 c 257
+ 297 902 l 257
+ 328 931 328 931 360 956.5 c 128
+ 392 982 392 982 424.5 1000.5 c 128
+ 457 1019 457 1019 491 1030 c 128
+ 525 1041 525 1041 561 1041 c 257
+ 592 1041 592 1041 619 1029.5 c 128
+ 646 1018 646 1018 670.5 1001.5 c 128
+ 695 985 695 985 718 965 c 128
+ 741 945 741 945 765.5 928.5 c 128
+ 790 912 790 912 817 900.5 c 128
+ 844 889 844 889 875 889 c 257
+ 935 889 935 889 996 911 c 128
+ 1057 933 1057 933 1109 972 c 257
+ 1079 800 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-6\" point=\"av02\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv01\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-4\" point=\"sv01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mv01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"4\" point=\"mv02\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mv02\" ppm1=\"17\" ppm2=\"17\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

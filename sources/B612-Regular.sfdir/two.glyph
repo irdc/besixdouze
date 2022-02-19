@@ -1,0 +1,92 @@
+StartChar: two
+Encoding: 535 50 535
+GlifName: two
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+152 0 m 257
+NamedP: "sh01"
+ 152 168 l 257
+ 200 244 200 244 255.5 317.5 c 128
+ 311 391 311 391 367.5 459.5 c 128
+ 424 528 424 528 479 589.5 c 128
+ 534 651 534 651 580 702 c 257
+NamedP: "mh01"
+ 631 758 631 758 677 807.5 c 128
+ 723 857 723 857 758 906 c 128
+ 793 955 793 955 814 1005.5 c 128
+ 835 1056 835 1056 835 1115 c 257
+NamedP: "dh01"
+ 835 1163 835 1163 817 1205.5 c 128
+ 799 1248 799 1248 766.5 1279.5 c 128
+ 734 1311 734 1311 689 1329.5 c 128
+ 644 1348 644 1348 590 1348 c 257
+NamedP: "sv01"
+ 529 1348 529 1348 484.5 1331.5 c 128
+ 440 1315 440 1315 406.5 1288 c 128
+ 373 1261 373 1261 348.5 1227.5 c 128
+ 324 1194 324 1194 303 1160 c 257
+ 162 1220 l 257
+ 188 1285 188 1285 228.5 1339.5 c 128
+ 269 1394 269 1394 324 1433.5 c 128
+ 379 1473 379 1473 449 1495 c 128
+ 519 1517 519 1517 605 1517 c 257
+NamedP: "at01"
+ 706 1517 706 1517 785 1481 c 128
+ 864 1445 864 1445 918.5 1386.5 c 128
+ 973 1328 973 1328 1001.5 1254 c 128
+ 1030 1180 1030 1180 1030 1104 c 257
+NamedP: "dh02"
+ 1030 1027 1030 1027 1001.5 957.5 c 128
+ 973 888 973 888 930.5 825.5 c 128
+ 888 763 888 763 839 708 c 128
+ 790 653 790 653 749 605 c 257
+ 697 544 697 544 645 485 c 128
+ 593 426 593 426 545.5 369.5 c 128
+ 498 313 498 313 457 260.5 c 128
+ 416 208 416 208 386 160 c 257
+NamedP: "mh02"
+ 1056 160 l 257
+ 1056 0 l 257
+ 152 0 l 257
+NamedP: "sh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh01\">\\u000a            <hstem pos=\"0\" width=\"160\"/>\\u000a            <hstem pos=\"1348\" width=\"169\"/>\\u000a            <vstem pos=\"835\" width=\"195\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 199\"/>\\u000a          <ttc code=\"singleh\" point1=\"lsb\" point2=\"sh01\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"mh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-3\" point=\"mh02\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"sh01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh01\" point2=\"mh02\" stem=\"Y: 162\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

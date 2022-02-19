@@ -1,0 +1,21 @@
+StartChar: greater
+Encoding: 294 62 294
+GlifName: greater
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1227 733 m 257
+ 1190 524 l 257
+ 211 67 l 257
+ 242 242 l 257
+ 994 606 l 257
+ 1075 626 l 257
+ 1000 646 l 257
+ 378 1012 l 257
+ 409 1187 l 257
+ 1227 733 l 257
+EndSplineSet
+EndChar

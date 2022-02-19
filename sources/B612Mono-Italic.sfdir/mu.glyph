@@ -1,0 +1,81 @@
+StartChar: mu
+Encoding: 324 181 324
+GlifName: mu
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1237 36 m 257
+ 1226 27 1226 27 1206 18 c 128
+ 1186 9 1186 9 1160.5 1 c 128
+ 1135 -7 1135 -7 1107 -12 c 128
+ 1079 -17 1079 -17 1054 -17 c 257
+NamedP: "ab02"
+ 1021 -17 1021 -17 987 -5.5 c 128
+ 953 6 953 6 923.5 28 c 128
+ 894 50 894 50 872 82 c 128
+ 850 114 850 114 841 155 c 257
+ 804 86 l 257
+ 783 61 783 61 751 39.5 c 128
+ 719 18 719 18 679.5 4 c 128
+ 640 -10 640 -10 595 -16 c 128
+ 550 -22 550 -22 504 -17 c 257
+NamedP: "ab01"
+ 485 -15 485 -15 460 -13 c 128
+ 435 -11 435 -11 410 -7 c 128
+ 385 -3 385 -3 363 4.5 c 128
+ 341 12 341 12 328 25 c 257
+ 339 -166 l 257
+ 280 -500 l 257
+NamedP: "sv01"
+ 100 -500 l 257
+NamedP: "av04"
+ 382 1100 l 257
+NamedP: "av01"
+ 567 1121 l 257
+NamedP: "av02"
+ 430 348 l 257
+ 421 298 421 298 423.5 256.5 c 128
+ 426 215 426 215 443.5 186 c 128
+ 461 157 461 157 494.5 143 c 128
+ 528 129 528 129 581 133 c 257
+ 613 136 613 136 642.5 144.5 c 128
+ 672 153 672 153 701.5 166.5 c 128
+ 731 180 731 180 762.5 199 c 128
+ 794 218 794 218 831 241 c 257
+ 982 1100 l 257
+NamedP: "sv02"
+ 1165 1121 l 257
+NamedP: "av03"
+ 1029 352 l 257
+ 1015 276 1015 276 1014 232.5 c 128
+ 1013 189 1013 189 1022 166.5 c 128
+ 1031 144 1031 144 1050.5 138.5 c 128
+ 1070 133 1070 133 1098 133 c 257
+ 1122 133 1122 133 1145.5 137.5 c 128
+ 1169 142 1169 142 1192 150 c 257
+ 1237 36 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av04\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av04\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

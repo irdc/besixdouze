@@ -1,0 +1,27 @@
+StartChar: Idieresis
+Encoding: 37 207 37
+GlifName: I_dieresis
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+126 0 m 257
+ 348 1263 l 257
+ 356 1494 l 257
+ 731 1525 l 257
+ 463 0 l 257
+ 126 0 l 257
+237 1634 m 257
+ 513 1634 l 257
+ 560 1900 l 257
+ 284 1900 l 257
+ 237 1634 l 257
+637 1634 m 257
+ 913 1634 l 257
+ 960 1900 l 257
+ 684 1900 l 257
+ 637 1634 l 257
+EndSplineSet
+EndChar

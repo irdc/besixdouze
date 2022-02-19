@@ -1,0 +1,11 @@
+StartChar: Ocircumflex
+Encoding: 56 212 56
+GlifName: O_circumflex
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 53 79 N 1 0 0 1 0 0 2
+Refer: 194 710 N 1 0 0 1 300 400 2
+EndChar

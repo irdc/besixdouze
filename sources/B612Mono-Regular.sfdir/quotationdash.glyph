@@ -1,0 +1,16 @@
+StartChar: quotationdash
+Encoding: 395 8213 395
+GlifName: quotationdash
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 600 m 257
+ 1200 600 l 257
+ 1200 445 l 257
+ 0 445 l 257
+ 0 600 l 257
+EndSplineSet
+EndChar

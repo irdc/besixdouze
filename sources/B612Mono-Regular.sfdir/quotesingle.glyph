@@ -1,0 +1,63 @@
+StartChar: quotesingle
+Encoding: 403 39 403
+GlifName: quotesingle
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+225 1500 m 257
+NamedP: "dh01"
+ 400 1500 l 257
+NamedP: "dh02"
+ 400 1400 l 257
+ 400 1325 400 1325 364.5 1240 c 128
+ 329 1155 329 1155 259 1067 c 257
+NamedP: "av01"
+ 200 1067 l 257
+NamedP: "sh01"
+ 209 1117 209 1117 214.5 1161 c 128
+ 220 1205 220 1205 222 1245.5 c 128
+NamedP: "sh02"
+ 224 1286 224 1286 224.5 1324 c 128
+ 225 1362 225 1362 225 1400 c 257
+ 225 1500 l 257
+NamedP: "dh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dh01\">\\u000a            <hstem pos=\"1088\" width=\"-21\"/>\\u000a            <hstem pos=\"1500\" width=\"-20\"/>\\u000a            <vstem pos=\"150\" width=\"175\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: ecart du B\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh01\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"dh01\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,162 @@
+StartChar: aring
+Encoding: 102 229 102
+GlifName: aring
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1110 0 m 257
+NamedP: "ab02"
+ 910 0 l 257
+ 910 162 l 257
+NamedP: "ah01"
+ 816 50 l 257
+NamedP: "ah02"
+ 799 37 799 37 772.5 25 c 128
+ 746 13 746 13 716 3.5 c 128
+ 686 -6 686 -6 655 -11.5 c 128
+ 624 -17 624 -17 596 -17 c 257
+NamedP: "ab01"
+ 521 -17 521 -17 445 6.5 c 128
+ 369 30 369 30 308 75.5 c 128
+ 247 121 247 121 208.5 188.5 c 128
+ 170 256 170 256 170 344 c 257
+NamedP: "sh01"
+ 170 437 170 437 209.5 504.5 c 128
+ 249 572 249 572 313 616 c 128
+ 377 660 377 660 459 681 c 128
+ 541 702 541 702 625 702 c 257
+NamedP: "dv02"
+ 720 702 720 702 790 691.5 c 128
+ 860 681 860 681 910 662 c 257
+NamedP: "sh02"
+ 910 705 l 257
+ 910 764 910 764 895.5 811 c 128
+ 881 858 881 858 850 890.5 c 128
+ 819 923 819 923 770.5 940 c 128
+ 722 957 722 957 655 957 c 257
+NamedP: "sv01"
+ 592 957 592 957 546.5 949.5 c 128
+ 501 942 501 942 462 933 c 257
+ 439 928 439 928 418 922 c 128
+ 397 916 397 916 377 910 c 257
+NamedP: "ih01"
+ 305 1044 l 257
+ 347 1063 347 1063 405 1080 c 257
+NamedP: "sh04"
+ 453 1094 453 1094 514.5 1105.5 c 128
+ 576 1117 576 1117 665 1117 c 257
+NamedP: "at01"
+ 780 1117 780 1117 861 1086 c 128
+ 942 1055 942 1055 993 999 c 128
+ 1044 943 1044 943 1067 864.5 c 128
+ 1090 786 1090 786 1090 690 c 257
+ 1090 180 l 257
+NamedP: "sh05"
+ 1110 0 l 257
+NamedP: "ab02"
+910 525 m 257
+NamedP: "sh06"
+ 850 533 l 257
+ 836 534 836 534 813 536 c 128
+ 790 538 790 538 763.5 539 c 128
+ 737 540 737 540 710.5 541 c 128
+ 684 542 684 542 665 542 c 257
+NamedP: "dv01"
+ 609 542 609 542 555 532 c 128
+ 501 522 501 522 458.5 499 c 128
+ 416 476 416 476 389.5 438.5 c 128
+ 363 401 363 401 363 345 c 257
+NamedP: "sh03"
+ 363 300 363 300 383 263 c 128
+ 403 226 403 226 436.5 199 c 128
+ 470 172 470 172 513.5 157.5 c 128
+ 557 143 557 143 604 143 c 257
+NamedP: "sv02"
+ 697 143 697 143 771 178.5 c 128
+ 845 214 845 214 910 274 c 257
+ 910 525 l 257
+NamedP: "sh06"
+700 1634 m 257
+NamedP: "av01"
+ 749 1634 749 1634 792 1615.5 c 128
+ 835 1597 835 1597 867.5 1564.5 c 128
+ 900 1532 900 1532 918.5 1489 c 128
+ 937 1446 937 1446 937 1397 c 257
+NamedP: "ah04"
+ 937 1348 937 1348 918.5 1304 c 128
+ 900 1260 900 1260 868.5 1227 c 128
+ 837 1194 837 1194 794 1175 c 128
+ 751 1156 751 1156 702 1156 c 257
+NamedP: "av02"
+ 653 1156 653 1156 609.5 1175 c 128
+ 566 1194 566 1194 533 1227 c 128
+ 500 1260 500 1260 481 1304 c 128
+ 462 1348 462 1348 462 1397 c 257
+NamedP: "ah03"
+ 462 1446 462 1446 481 1489 c 128
+ 500 1532 500 1532 532 1564.5 c 128
+ 564 1597 564 1597 607.5 1615.5 c 128
+ 651 1634 651 1634 700 1634 c 257
+NamedP: "av01"
+701 1273 m 257
+NamedP: "sv03"
+ 726 1273 726 1273 748 1283 c 128
+ 770 1293 770 1293 786 1309.5 c 128
+ 802 1326 802 1326 811.5 1348.5 c 128
+ 821 1371 821 1371 821 1396 c 257
+NamedP: "sh07"
+ 821 1421 821 1421 811.5 1443 c 128
+ 802 1465 802 1465 785.5 1481.5 c 128
+ 769 1498 769 1498 747 1507.5 c 128
+ 725 1517 725 1517 700 1517 c 257
+NamedP: "sv04"
+ 675 1517 675 1517 653 1507.5 c 128
+ 631 1498 631 1498 614.5 1481.5 c 128
+ 598 1465 598 1465 588.5 1443 c 128
+ 579 1421 579 1421 579 1396 c 257
+NamedP: "sh08"
+ 579 1371 579 1371 588.5 1348.5 c 128
+ 598 1326 598 1326 614.5 1309.5 c 128
+ 631 1293 631 1293 653.5 1283 c 128
+ 676 1273 676 1273 701 1273 c 257
+NamedP: "sv03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ab02\">\\u000a            <hstem pos=\"-17\" width=\"160\"/>\\u000a            <hstem pos=\"550\" width=\"160\"/>\\u000a            <hstem pos=\"957\" width=\"160\"/>\\u000a            <vstem pos=\"70\" width=\"190\"/>\\u000a            <vstem pos=\"710\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"lsb\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"sh01\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh03\" stem=\"X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh05\" stem=\"X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh06\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh05\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"interpolatev\" point=\"sh02\" point1=\"dv02\" point2=\"dv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\" stem=\"Y: 162\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah04\" point2=\"sh07\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh08\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv03\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv04\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

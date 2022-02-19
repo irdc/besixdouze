@@ -1,0 +1,17 @@
+StartChar: doesnotcontainasmember
+Encoding: 225 8716 225
+GlifName: doesnotcontainasmember
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+420 -200 m 257
+ 265 -200 l 257
+ 874 1500 l 257
+ 1020 1500 l 257
+ 420 -200 l 257
+EndSplineSet
+Refer: 508 8715 N 1 0 0 1 0 0 2
+EndChar

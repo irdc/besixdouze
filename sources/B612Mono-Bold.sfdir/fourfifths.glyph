@@ -1,0 +1,78 @@
+StartChar: fourfifths
+Encoding: 261 8536 261
+GlifName: fourfifths
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1170 1500 m 257
+ 994 1500 l 257
+ 219 0 l 257
+ 404 0 l 257
+ 1170 1500 l 257
+995 650 m 257
+NamedP: "hr01"
+ 1254 650 l 257
+ 1254 750 l 257
+ 821 750 l 257
+ 821 379 l 257
+ 933 379 l 257
+ 982 411 982 411 1040 411 c 256
+ 1081 411 1081 411 1108.5 378 c 0
+ 1136 345 1136 345 1136 303 c 256
+ 1136 252 1136 252 1086.5 207.5 c 0
+ 1037 163 1037 163 965.5 139 c 0
+ 894 115 894 115 821 113 c 257
+ 821 0 l 257
+ 904 0 904 0 987.5 20.5 c 0
+ 1071 41 1071 41 1141.5 79 c 0
+ 1212 117 1212 117 1256 178 c 0
+ 1300 239 1300 239 1300 313 c 256
+ 1300 405 1300 405 1233 467 c 0
+ 1166 529 1166 529 1053 529 c 256
+ 1019 529 1019 529 995 523 c 257
+ 995 650 l 257
+NamedP: "hr01"
+649 970 m 257
+NamedP: "hr02"
+ 549 970 l 257
+ 549 1120 l 257
+ 389 1110 l 257
+ 389 970 l 257
+ 243 970 l 257
+ 330 1101 l 257
+ 496 1470 l 257
+ 355 1480 l 257
+ 109 970 l 257
+ 109 870 l 257
+ 389 870 l 257
+ 389 720 l 257
+ 549 720 l 257
+ 549 870 l 257
+ 638 870 l 257
+ 649 970 l 257
+NamedP: "hr02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"0\" width=\"113\"/>\\u000a            <hstem pos=\"411\" width=\"118\"/>\\u000a            <hstem pos=\"650\" width=\"100\"/>\\u000a            <vstem pos=\"821\" width=\"174\"/>\\u000a            <vstem pos=\"1136\" width=\"164\"/>\\u000a          </hintset>\\u000a          <hintset pointTag=\"hr02\">\\u000a            <hstem pos=\"730\" width=\"-10\"/>\\u000a            <hstem pos=\"870\" width=\"100\"/>\\u000a            <hstem pos=\"1480\" width=\"-10\"/>\\u000a            <vstem pos=\"389\" width=\"160\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

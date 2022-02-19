@@ -1,0 +1,11 @@
+StartChar: Otilde
+Encoding: 64 213 64
+GlifName: O_tilde
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 53 79 N 1 0 0 1 0 0 2
+Refer: 527 732 N 1 0 0 1 300 320 2
+EndChar

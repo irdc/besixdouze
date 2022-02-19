@@ -1,0 +1,17 @@
+StartChar: Oneroman
+Encoding: 62 8544 62
+GlifName: O_neroman
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+115 0 m 257
+ 337 1263 l 257
+ 345 1494 l 257
+ 720 1525 l 257
+ 452 0 l 257
+ 115 0 l 257
+EndSplineSet
+EndChar

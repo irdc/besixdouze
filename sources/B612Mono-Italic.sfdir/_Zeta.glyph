@@ -1,0 +1,50 @@
+StartChar: Zeta
+Encoding: 88 918 88
+GlifName: Z_eta
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1058 160 m 257
+ 1050 0 l 257
+NamedP: "sv01"
+ 21 0 l 257
+NamedP: "ab01"
+ 9 50 l 257
+ 867 1200 l 257
+ 1083 1380 l 257
+ 811 1340 l 257
+ 326 1340 l 257
+ 334 1500 l 257
+NamedP: "at01"
+ 1280 1500 l 257
+NamedP: "sv02"
+ 1291 1478 l 257
+ 422 300 l 257
+ 213 120 l 257
+ 485 160 l 257
+ 1058 160 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

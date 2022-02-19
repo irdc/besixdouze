@@ -1,0 +1,74 @@
+StartChar: congruent
+Encoding: 195 8773 195
+GlifName: congruent
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 600 m 257
+ 1000 600 l 257
+NamedP: "av01"
+ 1000 460 l 257
+NamedP: "sv01"
+ 200 460 l 257
+NamedP: "sv02"
+ 200 600 l 257
+200 300 m 257
+ 1000 300 l 257
+NamedP: "av02"
+ 1000 160 l 257
+NamedP: "sv03"
+ 200 160 l 257
+NamedP: "sv04"
+ 200 300 l 257
+760 700 m 257
+ 725 700 725 700 694 712.5 c 128
+ 663 725 663 725 634.5 744 c 128
+ 606 763 606 763 579.5 785 c 128
+ 553 807 553 807 527.5 826 c 128
+ 502 845 502 845 476.5 857.5 c 128
+ 451 870 451 870 425 870 c 257
+ 394 870 394 870 366.5 862.5 c 128
+ 339 855 339 855 312 841 c 128
+ 285 827 285 827 257.5 806.5 c 128
+ 230 786 230 786 200 760 c 257
+ 200 860 l 257
+ 220 888 220 888 243 913 c 128
+ 266 938 266 938 295 957.5 c 128
+ 324 977 324 977 359.5 988.5 c 128
+ 395 1000 395 1000 440 1000 c 257
+ 492 1000 492 1000 536.5 973.5 c 128
+ 581 947 581 947 621 915 c 128
+ 661 883 661 883 698.5 856.5 c 128
+ 736 830 736 830 775 830 c 257
+ 836 830 836 830 888 858.5 c 128
+ 940 887 940 887 1000 940 c 257
+ 1000 840 l 257
+ 980 812 980 812 957 787 c 128
+ 934 762 934 762 905 742.5 c 128
+ 876 723 876 723 840.5 711.5 c 128
+ 805 700 805 700 760 700 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av02\" point2=\"sv03\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv03\" point2=\"sv04\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

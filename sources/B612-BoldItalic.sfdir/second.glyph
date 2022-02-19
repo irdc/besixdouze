@@ -1,0 +1,25 @@
+StartChar: second
+Encoding: 467 8243 467
+GlifName: second
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+596 1230 m 257
+ 375 885 l 257
+ 222 885 l 257
+ 347 1232 l 257
+ 398 1523 l 257
+ 642 1490 l 257
+ 596 1230 l 257
+896 1230 m 257
+ 675 885 l 257
+ 522 885 l 257
+ 647 1232 l 257
+ 698 1523 l 257
+ 942 1490 l 257
+ 896 1230 l 257
+EndSplineSet
+EndChar

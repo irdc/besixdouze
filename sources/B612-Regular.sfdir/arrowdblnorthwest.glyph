@@ -1,0 +1,32 @@
+StartChar: arrowdblnorthwest
+Encoding: 120 8662 120
+GlifName: arrowdblnorthwest
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+89 1111 m 257
+ 100 971 l 257
+ 100 453 l 257
+ 221 333 l 257
+ 221 680 l 257
+ 300 617 l 257
+ 938 -20 l 257
+ 1020 62 l 257
+ 488 593 l 257
+ 221 821 l 257
+ 207 993 l 257
+ 379 979 l 257
+ 607 712 l 257
+ 1138 180 l 257
+ 1220 262 l 257
+ 583 900 l 257
+ 521 979 l 257
+ 867 979 l 257
+ 747 1100 l 257
+ 229 1100 l 257
+ 89 1111 l 257
+EndSplineSet
+EndChar

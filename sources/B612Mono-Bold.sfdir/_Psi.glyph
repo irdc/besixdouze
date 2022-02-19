@@ -1,0 +1,92 @@
+StartChar: Psi
+Encoding: 61 936 61
+GlifName: P_si
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+822 1520 m 257
+NamedP: "sh03"
+ 822 671 l 257
+NamedP: "sv01"
+ 837 680 837 680 851.5 694.5 c 128
+ 866 709 866 709 877.5 730.5 c 128
+ 889 752 889 752 896.5 781 c 128
+ 904 810 904 810 904 849 c 257
+ 904 1500 l 257
+NamedP: "sh04"
+ 1221 1500 l 257
+NamedP: "sh05"
+ 1221 867 l 257
+NamedP: "sv02"
+ 1221 754 1221 754 1194.5 675.5 c 128
+ 1168 597 1168 597 1117 545 c 128
+ 1066 493 1066 493 991.5 464 c 128
+ 917 435 917 435 822 422 c 257
+NamedP: "sh08"
+ 822 1 l 257
+NamedP: "sh07"
+ 480 1 l 257
+NamedP: "sh06"
+ 480 422 l 257
+NamedP: "sv03"
+ 381 438 381 438 306 474.5 c 128
+ 231 511 231 511 181.5 571 c 128
+ 132 631 132 631 107 716 c 128
+ 82 801 82 801 82 914 c 257
+ 82 1263 l 257
+ 49 1500 l 257
+NamedP: "ah01"
+ 398 1520 l 257
+NamedP: "sh01"
+ 398 896 l 257
+NamedP: "sv04"
+ 398 854 398 854 405.5 821.5 c 128
+ 413 789 413 789 425 763.5 c 128
+ 437 738 437 738 451.5 719.5 c 128
+NamedP: "av01"
+ 466 701 466 701 480 688 c 257
+NamedP: "sv05"
+ 480 1500 l 257
+NamedP: "sh02"
+ 822 1520 l 257
+NamedP: "sh03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh02\">\\u000a            <hstem pos=\"22\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a            <vstem pos=\"82\" width=\"316\"/>\\u000a            <vstem pos=\"480\" width=\"342\"/>\\u000a            <vstem pos=\"904\" width=\"317\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"sh03\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh04\" point2=\"sh05\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"sh06\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh06\" point2=\"sh07\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh07\" point2=\"sh08\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"ah01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"sh01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"sh03\" zone=\"t: 1\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh03\" point2=\"sv01\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"ah01\" point2=\"sh02\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh02\" point2=\"sh05\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh05\" point2=\"sv02\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"sh08\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh08\" point2=\"sh07\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv03\" stem=\"eq Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv03\" point2=\"sh06\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh01\" point2=\"sv04\" round=\"true\"/>\\u000a          <ttc code=\"singlev\" point1=\"sh02\" point2=\"sv05\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

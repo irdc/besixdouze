@@ -1,0 +1,49 @@
+StartChar: asciicircum
+Encoding: 123 94 123
+GlifName: asciicircum
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1179 912 m 257
+NamedP: "ah02"
+ 978 912 l 257
+NamedP: "sh01"
+ 697 1239 l 257
+ 652 1350 l 257
+NamedP: "ih01"
+ 608 1241 l 257
+ 338 914 l 257
+NamedP: "sh02"
+ 122 914 l 257
+NamedP: "ah01"
+ 580 1500 l 257
+NamedP: "ih02"
+ 709 1517 l 257
+NamedP: "ih03"
+ 1179 912 l 257
+NamedP: "ah02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\" stem=\"X: 199\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ah01\" point2=\"ah02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih02\" point1=\"sh02\" point2=\"ah02\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih03\" point1=\"sh01\" point2=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh01\"/>\\u000a          <ttc code=\"alignt\" point=\"ih02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ih03\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

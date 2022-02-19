@@ -1,0 +1,51 @@
+StartChar: plusminus
+Encoding: 385 177 385
+GlifName: plusminus
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+223 862 m 257
+NamedP: "hr00"
+ 596 862 l 257
+ 671 1200 l 257
+ 826 1200 l 257
+ 751 862 l 257
+ 1123 862 l 257
+ 1096 738 l 257
+ 724 738 l 257
+ 649 400 l 257
+ 494 400 l 257
+ 569 738 l 257
+ 196 738 l 257
+ 223 862 l 257
+NamedP: "hr00"
+98 290 m 257
+ 998 290 l 257
+ 998 150 l 257
+ 98 150 l 257
+ 98 290 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-261\" width=\"-19\"/>\\u000a            <hstem pos=\"56\" width=\"139\"/>\\u000a            <hstem pos=\"531\" width=\"-18\"/>\\u000a            <vstem pos=\"370\" width=\"155\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

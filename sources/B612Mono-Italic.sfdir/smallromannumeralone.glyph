@@ -1,0 +1,16 @@
+StartChar: smallromannumeralone
+Encoding: 462 8560 462
+GlifName: smallromannumeralone
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+290 0 m 257
+ 100 0 l 257
+ 293 1100 l 257
+ 487 1121 l 257
+ 290 0 l 257
+EndSplineSet
+EndChar

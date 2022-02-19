@@ -1,0 +1,61 @@
+StartChar: superscriptsmalli
+Encoding: 511 8305 511
+GlifName: superscriptsmalli
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+332 1470 m 257
+NamedP: "hr00"
+ 501 1470 l 257
+ 501 1340 l 257
+ 332 1340 l 257
+ 332 1470 l 257
+NamedP: "hr00"
+372 1178 m 257
+ 287 1158 l 257
+ 199 1158 l 257
+ 185 1270 l 257
+ 500 1270 l 257
+ 500 931 l 257
+ 500 911 500 911 505 893.5 c 128
+ 510 876 510 876 519 864 c 128
+ 528 852 528 852 540.5 845 c 128
+ 553 838 553 838 568 838 c 257
+ 601 838 601 838 626 849 c 128
+ 651 860 651 860 677 885 c 257
+ 707 769 l 257
+ 700 763 700 763 689.5 753.5 c 128
+ 679 744 679 744 661.5 734.5 c 128
+ 644 725 644 725 619 718 c 128
+ 594 711 594 711 559 711 c 257
+ 501 711 501 711 459.5 729 c 128
+ 418 747 418 747 390.5 778 c 128
+ 363 809 363 809 350 849.5 c 128
+ 337 890 337 890 337 936 c 257
+ 337 1133 l 257
+ 372 1178 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"711\" width=\"127\"/>\\u000a            <hstem pos=\"1158\" width=\"112\"/>\\u000a            <hstem pos=\"1340\" width=\"130\"/>\\u000a            <vstem pos=\"337\" width=\"163\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

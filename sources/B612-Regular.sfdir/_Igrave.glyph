@@ -1,0 +1,11 @@
+StartChar: Igrave
+Encoding: 39 204 39
+GlifName: I_grave
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 34 73 N 1 0 0 1 0 0 2
+Refer: 293 96 N 1 0 0 1 -259 400 2
+EndChar

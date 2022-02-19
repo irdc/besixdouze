@@ -1,0 +1,15 @@
+StartChar: triangularbullet
+Encoding: 532 8227 532
+GlifName: triangularbullet
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 350 m 257
+ 900 650 l 257
+ 400 956 l 257
+ 400 350 l 257
+EndSplineSet
+EndChar

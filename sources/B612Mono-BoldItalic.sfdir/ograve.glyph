@@ -1,0 +1,92 @@
+StartChar: ograve
+Encoding: 344 242 344
+GlifName: ograve
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+556 -17 m 257
+NamedP: "ab01"
+ 436 -17 436 -17 343.5 26.5 c 128
+ 251 70 251 70 192.5 146.5 c 128
+ 134 223 134 223 112 327 c 128
+ 90 431 90 431 111 553 c 257
+ 132 674 132 674 189.5 777.5 c 128
+ 247 881 247 881 332 956.5 c 128
+ 417 1032 417 1032 525.5 1074.5 c 128
+ 634 1117 634 1117 757 1117 c 257
+NamedP: "at01"
+ 877 1117 877 1117 968.5 1074.5 c 128
+ 1060 1032 1060 1032 1117 956.5 c 128
+ 1174 881 1174 881 1194.5 777.5 c 128
+ 1215 674 1215 674 1194 553 c 257
+ 1173 431 1173 431 1117 327 c 128
+ 1061 223 1061 223 977.5 146.5 c 128
+ 894 70 894 70 787 26.5 c 128
+ 680 -17 680 -17 556 -17 c 257
+NamedP: "ab01"
+863 528 m 257
+ 875 596 875 596 875 662 c 128
+ 875 728 875 728 858.5 780.5 c 128
+ 842 833 842 833 806.5 865 c 128
+ 771 897 771 897 713 897 c 257
+ 657 897 657 897 612 869.5 c 128
+ 567 842 567 842 532.5 796 c 128
+ 498 750 498 750 475 691.5 c 128
+ 452 633 452 633 441 571 c 257
+ 429 502 429 502 430 436 c 128
+ 431 370 431 370 449 318.5 c 128
+ 467 267 467 267 503.5 235 c 128
+ 540 203 540 203 599 203 c 257
+ 653 203 653 203 697 230.5 c 128
+ 741 258 741 258 774.5 304 c 128
+ 808 350 808 350 830 408 c 128
+ 852 466 852 466 863 528 c 257
+901 1200 m 257
+NamedP: "ah01"
+ 686 1200 l 257
+NamedP: "sh01"
+ 458 1520 l 257
+ 791 1500 l 257
+NamedP: "at02"
+ 901 1200 l 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"X: 190\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ah01\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

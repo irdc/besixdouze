@@ -1,0 +1,112 @@
+StartChar: braceright
+Encoding: 157 125 157
+GlifName: braceright
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1072 625 m 257
+NamedP: "iv01"
+ 1072 475 l 257
+NamedP: "ah05"
+ 950 475 l 257
+ 901 468 901 468 871.5 448 c 128
+ 842 428 842 428 826 396 c 128
+ 810 364 810 364 805 319.5 c 128
+ 800 275 800 275 800 220 c 257
+ 800 -20 l 257
+ 800 -105 800 -105 784.5 -178 c 128
+ 769 -251 769 -251 731 -305 c 128
+ 693 -359 693 -359 629.5 -389.5 c 128
+ 566 -420 566 -420 470 -420 c 257
+NamedP: "av01"
+ 424 -420 424 -420 391.5 -416.5 c 128
+ 359 -413 359 -413 333.5 -406.5 c 128
+ 308 -400 308 -400 287.5 -391.5 c 128
+ 267 -383 267 -383 246 -373 c 257
+NamedP: "ah04"
+ 309 -250 l 257
+NamedP: "sh01"
+ 328 -261 328 -261 360.5 -269 c 128
+ 393 -277 393 -277 418 -277 c 257
+ 431 -277 l 257
+NamedP: "ah03"
+ 485 -273 485 -273 518.5 -254.5 c 128
+ 552 -236 552 -236 570 -203.5 c 128
+ 588 -171 588 -171 594 -125 c 128
+ 600 -79 600 -79 600 -20 c 257
+ 600 220 l 257
+ 600 271 600 271 605.5 319 c 128
+ 611 367 611 367 624 409.5 c 128
+ 637 452 637 452 657 487.5 c 128
+ 677 523 677 523 707 550 c 257
+NamedP: "ah06"
+ 648 604 648 604 624 690 c 128
+ 600 776 600 776 600 880 c 257
+ 600 1119 l 257
+ 600 1177 600 1177 594 1223.5 c 128
+ 588 1270 588 1270 570 1302.5 c 128
+ 552 1335 552 1335 518.5 1353.5 c 128
+ 485 1372 485 1372 431 1376 c 257
+NamedP: "ah02"
+ 418 1376 l 257
+ 393 1376 393 1376 360.5 1368 c 128
+ 328 1360 328 1360 309 1349 c 257
+NamedP: "sh02"
+ 246 1472 l 257
+NamedP: "ah01"
+ 267 1482 267 1482 287.5 1490.5 c 128
+ 308 1499 308 1499 333.5 1505 c 128
+ 359 1511 359 1511 391.5 1514 c 128
+ 424 1517 424 1517 470 1517 c 257
+NamedP: "at01"
+ 566 1517 566 1517 629.5 1486.5 c 128
+ 693 1456 693 1456 731 1403 c 128
+ 769 1350 769 1350 784.5 1277 c 128
+ 800 1204 800 1204 800 1119 c 257
+ 800 880 l 257
+ 800 824 800 824 805 780 c 128
+ 810 736 810 736 826 704 c 128
+ 842 672 842 672 871.5 652 c 128
+ 901 632 901 632 950 625 c 257
+ 1072 625 l 257
+NamedP: "iv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"iv01\">\\u000a            <hstem pos=\"-399\" width=\"-21\"/>\\u000a            <hstem pos=\"475\" width=\"150\"/>\\u000a            <hstem pos=\"1519\" width=\"-20\"/>\\u000a            <vstem pos=\"500\" width=\"200\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah04\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah05\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah06\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah04\" point2=\"sh01\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" stem=\"X: dia Lite\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah05\" point1=\"sh02\" point2=\"ah04\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

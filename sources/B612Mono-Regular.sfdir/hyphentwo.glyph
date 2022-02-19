@@ -1,0 +1,16 @@
+StartChar: hyphentwo
+Encoding: 284 8208 284
+GlifName: hyphentwo
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 600 m 257
+ 900 600 l 257
+ 900 445 l 257
+ 400 445 l 257
+ 400 600 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,81 @@
+StartChar: j
+Encoding: 298 106 298
+GlifName: j
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+855 1501 m 257
+NamedP: "at02"
+ 1192 1501 l 257
+NamedP: "sv01"
+ 1146 1240 l 257
+NamedP: "mv01"
+ 809 1240 l 257
+ 855 1501 l 257
+NamedP: "at02"
+834 920 m 257
+ 670 876 l 257
+ 475 876 l 257
+ 476 1100 l 257
+NamedP: "at01"
+ 1117 1100 l 257
+NamedP: "sv02"
+ 911 -68 l 257
+ 895 -159 895 -159 854 -240.5 c 128
+ 813 -322 813 -322 748 -383.5 c 128
+ 683 -445 683 -445 593 -481 c 128
+ 503 -517 503 -517 388 -517 c 257
+NamedP: "ab01"
+ 317 -517 317 -517 269 -503 c 128
+ 221 -489 221 -489 190 -470 c 128
+ 159 -451 159 -451 141.5 -432 c 128
+ 124 -413 124 -413 112 -402 c 257
+ 212 -170 l 257
+ 255 -220 255 -220 301 -242 c 128
+ 347 -264 347 -264 413 -264 c 257
+ 443 -264 443 -264 470 -250 c 128
+ 497 -236 497 -236 519.5 -211.5 c 128
+ 542 -187 542 -187 558.5 -152.5 c 128
+ 575 -118 575 -118 582 -77 c 257
+ 737 800 l 257
+ 834 920 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"at02\">\\u000a            <hstem pos=\"-482\" width=\"224\"/>\\u000a            <hstem pos=\"1212\" width=\"261\"/>\\u000a            <vstem pos=\"39\" width=\"326\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: -500\"/>\\u000a          <ttc code=\"singlev\" point1=\"at02\" point2=\"sv01\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mv01\" ppm1=\"12\" ppm2=\"12\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

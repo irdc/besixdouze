@@ -1,0 +1,29 @@
+StartChar: plusminus
+Encoding: 427 177 427
+GlifName: plusminus
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+303 863 m 257
+ 648 863 l 257
+ 721 1212 l 257
+ 922 1212 l 257
+ 849 863 l 257
+ 1194 863 l 257
+ 1160 700 l 257
+ 815 700 l 257
+ 747 374 l 257
+ 546 374 l 257
+ 614 700 l 257
+ 270 700 l 257
+ 303 863 l 257
+264 299 m 257
+ 1164 299 l 257
+ 1164 159 l 257
+ 264 159 l 257
+ 264 299 l 257
+EndSplineSet
+EndChar

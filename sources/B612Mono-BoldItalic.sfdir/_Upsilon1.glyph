@@ -1,0 +1,100 @@
+StartChar: Upsilon1
+Encoding: 79 978 79
+GlifName: U_psilon1
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1188 1336 m 257
+NamedP: "hr00"
+ 1174 1334 1174 1334 1156 1324 c 257
+ 1141 1315 1141 1315 1121.5 1297 c 128
+ 1102 1279 1102 1279 1079 1245 c 257
+ 690 662 l 257
+ 574 0 l 257
+NamedP: "sv01"
+ 240 0 l 257
+NamedP: "ab01"
+ 356 662 l 257
+ 172 1245 l 257
+ 164 1271 164 1271 145.5 1285.5 c 128
+ 127 1300 127 1300 107 1308 c 257
+ 84 1317 84 1317 57 1320 c 257
+ 91 1517 l 257
+NamedP: "ih02"
+ 155 1517 155 1517 210.5 1512 c 128
+ 266 1507 266 1507 312 1488 c 128
+ 358 1469 358 1469 393.5 1431.5 c 128
+ 429 1394 429 1394 454 1328 c 257
+ 521 1157 l 257
+NamedP: "av01"
+ 548 799 l 257
+NamedP: "ih01"
+ 702 1157 l 257
+NamedP: "sv02"
+ 828 1328 l 257
+ 876 1394 876 1394 924.5 1431.5 c 128
+ 973 1469 973 1469 1025.5 1488 c 128
+ 1078 1507 1078 1507 1135 1512 c 128
+ 1192 1517 1192 1517 1257 1517 c 257
+NamedP: "ih03"
+ 1188 1336 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a            <vstem pos=\"651\" width=\"210\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"ih02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"ih03\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I90
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I743
+sVy
+p26
+I0
+sas."
+EndChar

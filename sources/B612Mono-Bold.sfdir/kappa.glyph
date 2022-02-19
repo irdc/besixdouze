@@ -1,0 +1,48 @@
+StartChar: kappa
+Encoding: 300 954 300
+GlifName: kappa
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+529 0 m 257
+NamedP: "hr00"
+ 529 405 l 257
+ 818 0 l 257
+ 1127 0 l 257
+ 720 530 l 257
+ 546 600 l 257
+ 720 670 l 257
+ 1081 1120 l 257
+ 769 1100 l 257
+ 529 774 l 257
+ 529 1120 l 257
+ 210 1100 l 257
+ 232 890 l 257
+ 232 0 l 257
+ 529 0 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1121\" width=\"-20\"/>\\u000a            <vstem pos=\"232\" width=\"297\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

@@ -1,0 +1,59 @@
+StartChar: asterisk
+Encoding: 125 42 125
+GlifName: asterisk
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+744 1037 m 257
+NamedP: "hr00"
+ 967 1037 l 257
+ 1105 1083 l 257
+ 1011 1294 l 257
+ 867 1247 l 257
+ 720 1117 l 257
+ 797 1309 l 257
+ 797 1470 l 257
+ 568 1446 l 257
+ 568 1315 l 257
+ 635 1120 l 257
+ 476 1259 l 257
+ 291 1309 l 257
+ 247 1090 l 257
+ 398 1041 l 257
+ 608 1041 l 257
+ 447 950 l 257
+ 325 781 l 257
+ 524 656 l 257
+ 625 800 l 257
+ 675 990 l 257
+ 730 800 l 257
+ 842 654 l 257
+ 1010 805 l 257
+ 918 926 l 257
+ 744 1037 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"675\" width=\"-21\"/>\\u000a            <hstem pos=\"1470\" width=\"-20\"/>\\u000a            <vstem pos=\"568\" width=\"229\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

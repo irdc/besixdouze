@@ -1,0 +1,31 @@
+StartChar: Sigma
+Encoding: 75 931 75
+GlifName: S_igma
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1002 699 m 257
+ 552 300 l 257
+ 405 200 l 257
+ 568 217 l 257
+ 1174 217 l 257
+ 1136 0 l 257
+ 24 0 l 257
+ 85 216 l 257
+ 624 690 l 257
+ 845 750 l 257
+ 645 810 l 257
+ 273 1284 l 257
+ 288 1500 l 257
+ 1400 1500 l 257
+ 1362 1283 l 257
+ 756 1283 l 257
+ 599 1300 l 257
+ 711 1200 l 257
+ 1020 801 l 257
+ 1002 699 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,119 @@
+StartChar: g
+Encoding: 289 103 289
+GlifName: g
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+810 135 m 257
+NamedP: "iv01"
+ 723 25 l 257
+ 714 19 714 19 697.5 12 c 128
+ 681 5 681 5 657 -1.5 c 128
+ 633 -8 633 -8 601 -12.5 c 128
+ 569 -17 569 -17 530 -17 c 257
+NamedP: "ab01"
+ 439 -17 439 -17 360.5 27.5 c 128
+ 282 72 282 72 224 148.5 c 128
+ 166 225 166 225 133 327.5 c 128
+ 100 430 100 430 100 545 c 257
+NamedP: "sh01"
+ 100 662 100 662 130 766 c 128
+ 160 870 160 870 220 948 c 128
+ 280 1026 280 1026 369 1071.5 c 128
+ 458 1117 458 1117 576 1117 c 257
+NamedP: "av01"
+ 613 1117 613 1117 648.5 1114 c 128
+ 684 1111 684 1111 715 1100 c 257
+ 810 958 l 257
+NamedP: "sh02"
+ 810 1120 l 257
+NamedP: "av02"
+ 1000 1100 l 257
+ 1000 -46 l 257
+NamedP: "sh03"
+ 1000 -144 1000 -144 966.5 -230 c 128
+ 933 -316 933 -316 870 -379.5 c 128
+ 807 -443 807 -443 716.5 -480 c 128
+ 626 -517 626 -517 512 -517 c 257
+NamedP: "ab02"
+ 433 -517 433 -517 373.5 -497 c 128
+ 314 -477 314 -477 272 -453 c 257
+ 224 -425 224 -425 189 -388 c 257
+ 287 -278 l 257
+NamedP: "sh05"
+ 316 -300 316 -300 352 -318 c 257
+ 383 -333 383 -333 424 -345 c 128
+ 465 -357 465 -357 513 -357 c 257
+NamedP: "sv03"
+ 575 -357 575 -357 629 -331.5 c 128
+ 683 -306 683 -306 723.5 -262 c 128
+ 764 -218 764 -218 787 -158.5 c 128
+ 810 -99 810 -99 810 -31 c 257
+NamedP: "ah01"
+ 810 135 l 257
+NamedP: "iv01"
+810 834 m 257
+NamedP: "sh06"
+ 783 868 783 868 747 895 c 257
+ 716 918 716 918 672 937.5 c 128
+ 628 957 628 957 571 957 c 257
+NamedP: "sv02"
+ 511 957 511 957 467 938 c 128
+ 423 919 423 919 391.5 887 c 128
+ 360 855 360 855 340.5 812.5 c 128
+ 321 770 321 770 309.5 722.5 c 128
+ 298 675 298 675 294 626.5 c 128
+ 290 578 290 578 290 533 c 257
+NamedP: "sh04"
+ 290 448 290 448 308.5 376.5 c 128
+ 327 305 327 305 360.5 253.5 c 128
+ 394 202 394 202 441.5 173 c 128
+ 489 144 489 144 546 144 c 257
+NamedP: "sv01"
+ 597 144 597 144 637 155 c 128
+ 677 166 677 166 709 184.5 c 128
+ 741 203 741 203 765.5 226.5 c 128
+ 790 250 790 250 810 275 c 257
+ 810 834 l 257
+NamedP: "sh06"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"iv01\">\\u000a            <hstem pos=\"-517\" width=\"160\"/>\\u000a            <hstem pos=\"-17\" width=\"161\"/>\\u000a            <hstem pos=\"957\" width=\"160\"/>\\u000a            <vstem pos=\"100\" width=\"190\"/>\\u000a            <vstem pos=\"810\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"lsb\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\" stem=\"X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh04\" stem=\"X: 190\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"sh04\" point2=\"sh05\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"sh05\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh06\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: -500\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"interpolatev\" point=\"sh02\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-4\" point=\"av02\" ppm1=\"42\" ppm2=\"42\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"sh05\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"6\" point=\"sh05\" ppm1=\"25\" ppm2=\"25\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"5\" point=\"sh05\" ppm1=\"23\" ppm2=\"23\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"4\" point=\"sh05\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab02\" point2=\"sv03\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"-3\" point=\"av02\" ppm1=\"42\" ppm2=\"42\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+Kerns2: 142 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

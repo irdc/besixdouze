@@ -1,0 +1,26 @@
+StartChar: Deltagreek
+Encoding: 16 916 16
+GlifName: D_eltagreek
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1510 0 m 257
+ -52 0 l 257
+ 832 1494 l 257
+ 1146 1528 l 257
+ 1510 0 l 257
+1077 230 m 257
+ 1211 178 l 257
+ 1132 330 l 257
+ 963 1061 l 257
+ 950 1265 l 257
+ 867 1061 l 257
+ 438 330 l 257
+ 302 178 l 257
+ 477 230 l 257
+ 1077 230 l 257
+EndSplineSet
+EndChar

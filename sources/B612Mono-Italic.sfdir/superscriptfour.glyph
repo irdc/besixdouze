@@ -1,0 +1,28 @@
+StartChar: superscriptfour
+Encoding: 503 8308 503
+GlifName: superscriptfour
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+653 870 m 257
+ 563 870 l 257
+ 537 720 l 257
+ 437 720 l 257
+ 463 870 l 257
+ 166 870 l 257
+ 181 955 l 257
+ 516 1480 l 257
+ 608 1470 l 257
+ 321 1020 l 257
+ 263 950 l 257
+ 478 950 l 257
+ 513 1153 l 257
+ 612 1145 l 257
+ 578 950 l 257
+ 675 950 l 257
+ 653 870 l 257
+EndSplineSet
+EndChar

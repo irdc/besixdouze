@@ -1,0 +1,21 @@
+StartChar: iacute
+Encoding: 312 237 312
+GlifName: iacute
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+442 0 m 257
+ 136 0 l 257
+ 320 1049 l 257
+ 632 1081 l 257
+ 442 0 l 257
+601 1533 m 257
+ 988 1565 l 257
+ 638 1237 l 257
+ 389 1237 l 257
+ 601 1533 l 257
+EndSplineSet
+EndChar

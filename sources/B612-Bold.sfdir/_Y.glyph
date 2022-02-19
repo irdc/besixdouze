@@ -1,0 +1,23 @@
+StartChar: Y
+Encoding: 96 89 96
+GlifName: Y_
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+511 1143 m 257
+ 618 773 l 257
+ 676 1143 l 257
+ 858 1500 l 257
+ 1193 1500 l 257
+ 760 650 l 257
+ 760 0 l 257
+ 409 0 l 257
+ 409 650 l 257
+ -20 1492 l 257
+ 319 1525 l 257
+ 511 1143 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,26 @@
+StartChar: greaterequal
+Encoding: 295 8805 295
+GlifName: greaterequal
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+223 135 m 257
+ 1123 135 l 257
+ 1080 0 l 257
+ 200 0 l 257
+ 223 135 l 257
+1235 756 m 257
+ 1205 588 l 257
+ 241 223 l 257
+ 266 363 l 257
+ 1005 654 l 257
+ 1085 670 l 257
+ 1009 686 l 257
+ 374 979 l 257
+ 399 1119 l 257
+ 1235 756 l 257
+EndSplineSet
+EndChar

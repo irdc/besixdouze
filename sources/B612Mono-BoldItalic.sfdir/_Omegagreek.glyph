@@ -1,0 +1,97 @@
+StartChar: Omegagreek
+Encoding: 55 937 55
+GlifName: O_megagreek
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1 228 m 257
+NamedP: "sv01"
+ 181 228 l 257
+ 173 237 l 257
+ 145 270 145 270 127 324.5 c 128
+ 109 379 109 379 101.5 449.5 c 128
+ 94 520 94 520 98 603 c 128
+ 102 686 102 686 117 774 c 257
+ 146 939 146 939 194 1075.5 c 128
+ 242 1212 242 1212 323.5 1310.5 c 128
+ 405 1409 405 1409 526.5 1463 c 128
+ 648 1517 648 1517 824 1517 c 257
+NamedP: "at01"
+ 996 1517 996 1517 1098 1463 c 128
+ 1200 1409 1200 1409 1247.5 1310.5 c 128
+ 1295 1212 1295 1212 1296 1075.5 c 128
+ 1297 939 1297 939 1268 774 c 257
+ 1253 687 1253 687 1227 605 c 128
+ 1201 523 1201 523 1169.5 453 c 128
+ 1138 383 1138 383 1102 328 c 128
+ 1066 273 1066 273 1031 241 c 257
+ 1014 228 l 257
+ 1192 228 l 257
+NamedP: "sv03"
+ 1152 0 l 257
+NamedP: "sv02"
+ 615 0 l 257
+ 656 236 l 257
+NamedP: "sv04"
+ 731 283 731 283 775 334.5 c 128
+ 819 386 819 386 844.5 447 c 128
+ 870 508 870 508 884 581 c 128
+ 898 654 898 654 914 744 c 257
+ 933 850 933 850 940 947 c 128
+ 947 1044 947 1044 934.5 1117.5 c 128
+ 922 1191 922 1191 884.5 1235 c 128
+ 847 1279 847 1279 776 1279 c 257
+ 710 1279 710 1279 661 1240.5 c 128
+ 612 1202 612 1202 575.5 1137 c 128
+ 539 1072 539 1072 514 986.5 c 128
+ 489 901 489 901 473 807 c 257
+ 455 703 455 703 440.5 619.5 c 128
+ 426 536 426 536 428.5 467 c 128
+ 431 398 431 398 455.5 341.5 c 128
+ 480 285 480 285 539 235 c 257
+NamedP: "av01"
+ 498 0 l 257
+ -39 0 l 257
+NamedP: "ab01"
+ 1 228 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sv01\">\\u000a            <hstem pos=\"0\" width=\"228\"/>\\u000a            <hstem pos=\"703\" width=\"213\"/>\\u000a            <hstem pos=\"1272\" width=\"228\"/>\\u000a            <vstem pos=\"-1148\" width=\"351\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv02\" point2=\"sv03\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv04\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

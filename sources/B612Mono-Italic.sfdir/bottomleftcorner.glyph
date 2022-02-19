@@ -1,0 +1,18 @@
+StartChar: bottomleftcorner
+Encoding: 152 8990 152
+GlifName: bottomleftcorner
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 750 m 257
+ 200 750 l 257
+ 200 0 l 257
+ 950 0 l 257
+ 950 150 l 257
+ 400 150 l 257
+ 400 750 l 257
+EndSplineSet
+EndChar

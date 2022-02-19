@@ -1,0 +1,11 @@
+StartChar: sixroman
+Encoding: 483 8565 483
+GlifName: sixroman
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 555 118 N 1 0 0 1 0 0 2
+Refer: 389 8560 N 1 0 0 1 900 0 2
+EndChar

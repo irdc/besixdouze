@@ -1,0 +1,54 @@
+StartChar: tau
+Encoding: 516 964 516
+GlifName: tau
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+725 942 m 257
+ 605 265 l 257
+ 597 219 597 219 594.5 183.5 c 128
+ 592 148 592 148 597 116.5 c 128
+ 602 85 602 85 616 53.5 c 128
+ 630 22 630 22 655 -17 c 257
+NamedP: "sv01"
+ 444 -17 l 257
+NamedP: "ab01"
+ 425 2 425 2 416.5 39.5 c 128
+ 408 77 408 77 406.5 122.5 c 128
+ 405 168 405 168 409 216 c 128
+ 413 264 413 264 420 303 c 257
+ 533 942 l 257
+ 166 942 l 257
+NamedP: "sv04"
+ 213 1100 l 257
+NamedP: "av01"
+ 1093 1100 l 257
+NamedP: "sv02"
+ 1046 942 l 257
+NamedP: "sv03"
+ 725 942 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv02\" point2=\"sv03\" stem=\"Y: 153\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv03\" point2=\"sv04\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

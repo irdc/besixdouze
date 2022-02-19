@@ -1,0 +1,103 @@
+StartChar: y
+Encoding: 580 121 580
+GlifName: y
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+712 364 m 257
+NamedP: "dh02"
+ 981 1100 l 257
+NamedP: "sh01"
+ 1161 1120 l 257
+NamedP: "sh02"
+ 757 -17 l 257
+NamedP: "ih01"
+ 727 -101 727 -101 692.5 -184 c 128
+ 658 -267 658 -267 614.5 -333 c 128
+ 571 -399 571 -399 516.5 -439.5 c 128
+ 462 -480 462 -480 392 -480 c 257
+NamedP: "av02"
+ 336 -480 336 -480 289 -458 c 128
+ 242 -436 242 -436 200 -400 c 257
+NamedP: "ah01"
+ 273 -283 l 257
+NamedP: "sh03"
+ 279 -289 279 -289 288.5 -297 c 128
+ 298 -305 298 -305 309.5 -312.5 c 128
+ 321 -320 321 -320 334.5 -325 c 128
+ 348 -330 348 -330 362 -330 c 257
+NamedP: "av01"
+ 398 -330 398 -330 427.5 -304.5 c 128
+ 457 -279 457 -279 482.5 -238 c 128
+ 508 -197 508 -197 529.5 -147 c 128
+ 551 -97 551 -97 571 -47 c 257
+NamedP: "ab01"
+ 164 1100 l 257
+NamedP: "sh05"
+ 354 1120 l 257
+NamedP: "sh04"
+ 618 364 l 257
+NamedP: "dh01"
+ 670 132 l 257
+NamedP: "ah02"
+ 712 364 l 257
+NamedP: "dh02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dh02\">\\u000a            <hstem pos=\"-480\" width=\"152\"/>\\u000a            <hstem pos=\"1117\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 176\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"lsb\" point2=\"sh03\" stem=\"X: 208\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"sh03\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh04\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh04\" point2=\"sh05\" stem=\"X: dia Fat\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"sh04\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"sh02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+sVcom.typemytype.robofont.guides
+p19
+(lp20
+(dp21
+Vangle
+p22
+I90
+sVisGlobal
+p23
+I00
+sVmagnetic
+p24
+I5
+sVx
+p25
+I550
+sVy
+p26
+I0
+sas."
+EndChar

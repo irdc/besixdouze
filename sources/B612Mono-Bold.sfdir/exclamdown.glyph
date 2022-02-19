@@ -1,0 +1,55 @@
+StartChar: exclamdown
+Encoding: 242 161 242
+GlifName: exclamdown
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+652 -400 m 257
+NamedP: "hr00"
+ 652 656 l 257
+ 352 691 l 257
+ 352 -400 l 257
+ 652 -400 l 257
+NamedP: "hr00"
+338 951 m 257
+ 338 917 338 917 351 887.5 c 128
+ 364 858 364 858 386 835.5 c 128
+ 408 813 408 813 437.5 800 c 128
+ 467 787 467 787 501 787 c 257
+ 535 787 535 787 564.5 800 c 128
+ 594 813 594 813 616 835.5 c 128
+ 638 858 638 858 651 887.5 c 128
+ 664 917 664 917 664 951 c 257
+ 664 984 664 984 651.5 1014.5 c 128
+ 639 1045 639 1045 617 1067.5 c 128
+ 595 1090 595 1090 565.5 1103.5 c 128
+ 536 1117 536 1117 502 1117 c 257
+ 468 1117 468 1117 438 1103.5 c 128
+ 408 1090 408 1090 386 1067.5 c 128
+ 364 1045 364 1045 351 1014.5 c 128
+ 338 984 338 984 338 951 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-400\" width=\"20\"/>\\u000a            <hstem pos=\"1117\" width=\"-330\"/>\\u000a            <vstem pos=\"352\" width=\"300\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

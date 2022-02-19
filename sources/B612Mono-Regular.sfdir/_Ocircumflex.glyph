@@ -1,0 +1,121 @@
+StartChar: Ocircumflex
+Encoding: 51 212 51
+GlifName: O_circumflex
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+623 -17 m 257
+NamedP: "ab01"
+ 533 -17 533 -17 457.5 10.5 c 128
+ 382 38 382 38 320.5 88.5 c 128
+ 259 139 259 139 213 209 c 128
+ 167 279 167 279 135.5 364.5 c 128
+ 104 450 104 450 88.5 547.5 c 128
+ 73 645 73 645 73 750 c 257
+NamedP: "sh01"
+ 73 855 73 855 88 952.5 c 128
+ 103 1050 103 1050 133.5 1135.5 c 128
+ 164 1221 164 1221 209.5 1291 c 128
+ 255 1361 255 1361 316 1411.5 c 128
+ 377 1462 377 1462 454 1489.5 c 128
+ 531 1517 531 1517 623 1517 c 257
+NamedP: "at01"
+ 713 1517 713 1517 788.5 1489.5 c 128
+ 864 1462 864 1462 925.5 1411.5 c 128
+ 987 1361 987 1361 1033 1291 c 128
+ 1079 1221 1079 1221 1110.5 1135.5 c 128
+ 1142 1050 1142 1050 1157.5 952.5 c 128
+ 1173 855 1173 855 1173 750 c 257
+NamedP: "sh02"
+ 1173 645 1173 645 1158 547.5 c 128
+ 1143 450 1143 450 1112.5 364.5 c 128
+ 1082 279 1082 279 1036.5 209 c 128
+ 991 139 991 139 930 88.5 c 128
+ 869 38 869 38 792 10.5 c 128
+ 715 -17 715 -17 623 -17 c 257
+NamedP: "ab01"
+965 719 m 257
+NamedP: "ah01"
+ 965 789 965 789 960.5 862 c 128
+ 956 935 956 935 942.5 1004.5 c 128
+ 929 1074 929 1074 905 1135.5 c 128
+ 881 1197 881 1197 842.5 1242.5 c 128
+ 804 1288 804 1288 748.5 1315 c 128
+ 693 1342 693 1342 617 1342 c 257
+NamedP: "sv01"
+ 545 1342 545 1342 492 1318 c 128
+ 439 1294 439 1294 402 1252.5 c 128
+ 365 1211 365 1211 341 1155.5 c 128
+ 317 1100 317 1100 304 1038 c 128
+ 291 976 291 976 286 911 c 128
+ 281 846 281 846 281 785 c 257
+NamedP: "sh03"
+ 281 714 281 714 285.5 640 c 128
+ 290 566 290 566 303.5 496.5 c 128
+ 317 427 317 427 341 365.5 c 128
+ 365 304 365 304 404 258 c 128
+ 443 212 443 212 498 185 c 128
+ 553 158 553 158 629 158 c 257
+NamedP: "sv02"
+ 700 158 700 158 752.5 182.5 c 128
+ 805 207 805 207 842.5 249.5 c 128
+ 880 292 880 292 904 347.5 c 128
+ 928 403 928 403 941.5 465.5 c 128
+ 955 528 955 528 960 593 c 128
+ 965 658 965 658 965 719 c 257
+NamedP: "ah01"
+880 1620 m 257
+NamedP: "av01"
+ 730 1620 l 257
+ 630 1772 l 257
+ 600 1860 l 257
+NamedP: "iv01"
+ 570 1773 l 257
+ 469 1620 l 257
+NamedP: "av02"
+ 319 1620 l 257
+ 495 1900 l 257
+ 695 1920 l 257
+NamedP: "at02"
+ 880 1620 l 257
+NamedP: "av01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"lsb\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh03\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\" stem=\"Y: 171\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"av01\" point2=\"at02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

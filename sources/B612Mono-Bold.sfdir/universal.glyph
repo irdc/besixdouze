@@ -1,0 +1,70 @@
+StartChar: universal
+Encoding: 549 8704 549
+GlifName: universal
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+866 1000 m 257
+ 335 1000 l 257
+ 205 1300 l 257
+ 28 1300 l 257
+ 467 160 l 257
+ 505 0 l 257
+ 648 -20 l 257
+ 1187 1300 l 257
+ 997 1300 l 257
+ 866 1000 l 257
+390 850 m 257
+ 810 850 l 257
+ 654 400 l 257
+ 600 112 l 257
+ 546 400 l 257
+ 390 850 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.typemytype.robofont.guides
+p1
+(lp2
+(dp3
+Vangle
+p4
+I0
+sVisGlobal
+p5
+I00
+sVmagnetic
+p6
+I5
+sVx
+p7
+I0
+sVy
+p8
+I1299
+sa(dp9
+g4
+I0
+sg5
+I00
+sg6
+I5
+sg7
+I0
+sg8
+I850
+sa(dp10
+g4
+I0
+sg5
+I00
+sg6
+I5
+sg7
+I0
+sg8
+I1000
+sas."
+EndChar

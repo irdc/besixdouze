@@ -1,0 +1,57 @@
+StartChar: romannumeralsix
+Encoding: 428 8549 428
+GlifName: romannumeralsix
+Width: 2600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1036 1500 m 257
+ 1906 1500 l 257
+ 1906 1360 l 257
+ 1562 1360 l 257
+ 1562 160 l 257
+ 1906 160 l 257
+ 1906 0 l 257
+ 986 0 l 257
+ 1006 160 l 257
+ 1352 160 l 257
+ 1352 1360 l 257
+ 1006 1360 l 257
+ 1036 1500 l 257
+605 500 m 257
+NamedP: "hr01"
+ 663 140 l 257
+ 701 454 l 257
+ 1011 1500 l 257
+ 1195 1500 l 257
+ 808 180 l 257
+ 782 -20 l 257
+ 554 0 l 257
+ 112 1500 l 257
+ 302 1520 l 257
+ 605 500 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"1\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

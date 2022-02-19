@@ -1,0 +1,79 @@
+StartChar: h
+Encoding: 300 104 300
+GlifName: h
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+390 0 m 257
+NamedP: "sh02"
+ 200 0 l 257
+NamedP: "sh01"
+ 200 1400 l 257
+ 180 1600 l 257
+ 390 1620 l 257
+NamedP: "sh03"
+ 390 950 l 257
+NamedP: "iv01"
+ 479 1065 l 257
+ 518 1087 518 1087 572 1102 c 128
+ 626 1117 626 1117 690 1117 c 257
+NamedP: "av01"
+ 840 1117 840 1117 920 1017 c 128
+ 1000 917 1000 917 1000 730 c 257
+ 1000 0 l 257
+NamedP: "sh04"
+ 810 0 l 257
+NamedP: "ah01"
+ 810 709 l 257
+ 810 776 810 776 798.5 823 c 128
+ 787 870 787 870 766 900 c 128
+ 745 930 745 930 714 943.5 c 128
+ 683 957 683 957 644 957 c 257
+NamedP: "ih01"
+ 605 957 605 957 568 947.5 c 128
+ 531 938 531 938 498 921.5 c 128
+ 465 905 465 905 437.5 882.5 c 128
+ 410 860 410 860 390 833 c 257
+ 390 0 l 257
+NamedP: "sh02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh02\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"957\" width=\"160\"/>\\u000a            <hstem pos=\"1620\" width=\"-20\"/>\\u000a            <vstem pos=\"200\" width=\"190\"/>\\u000a            <vstem pos=\"810\" width=\"190\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"right\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"singleh\" point1=\"lsb\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: 190\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh04\" stem=\"X: 190\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"sh02\" point2=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh04\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"sh03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"sh02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"sh04\" zone=\"b: 0\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"sh02\" point2=\"sh03\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"ih01\" stem=\"Y: 162\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+Kerns2: 77 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

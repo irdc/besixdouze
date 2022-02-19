@@ -1,0 +1,69 @@
+StartChar: z
+Encoding: 586 122 586
+GlifName: z
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+880 160 m 257
+NamedP: "sv01"
+ 900 0 l 257
+NamedP: "ab01"
+ 81 0 l 257
+ 61 50 l 257
+ 524 826 l 257
+ 676 980 l 257
+ 471 940 l 257
+ 148 940 l 257
+NamedP: "sv03"
+ 128 1100 l 257
+NamedP: "sv02"
+ 832 1100 l 257
+NamedP: "mh01"
+ 852 1051 l 257
+ 403 280 l 257
+ 252 120 l 257
+NamedP: "iv01"
+ 457 160 l 257
+ 880 160 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sv01\">\\u000a            <hstem pos=\"0\" width=\"160\"/>\\u000a            <hstem pos=\"940\" width=\"160\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"-1\" point=\"mh01\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"mh01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"39\" ppm2=\"39\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"37\" ppm2=\"37\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"26\" ppm2=\"26\"/>\\u000a          <ttc code=\"singlev\" point1=\"mh01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv02\" point2=\"sv03\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"mh01\" ppm1=\"10\" ppm2=\"10\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+Kerns2: 77 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,95 @@
+StartChar: slashedzero
+Encoding: 455 57351 455
+GlifName: slashedzero
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+513 -17 m 257
+NamedP: "ab01"
+ 428 -17 428 -17 363 15.5 c 128
+ 298 48 298 48 251 104 c 128
+ 204 160 204 160 175 235 c 128
+ 146 310 146 310 133 395.5 c 128
+ 120 481 120 481 121.5 572 c 128
+ 123 663 123 663 139 750 c 257
+NamedP: "sh01"
+ 155 840 155 840 183 932 c 128
+ 211 1024 211 1024 252 1109 c 128
+ 293 1194 293 1194 346.5 1268.5 c 128
+ 400 1343 400 1343 466.5 1398 c 128
+ 533 1453 533 1453 612 1485 c 128
+ 691 1517 691 1517 784 1517 c 257
+NamedP: "at01"
+ 869 1517 869 1517 934 1484.5 c 128
+ 999 1452 999 1452 1046 1396 c 128
+ 1093 1340 1093 1340 1122 1265 c 128
+ 1151 1190 1151 1190 1164.5 1104.5 c 128
+ 1178 1019 1178 1019 1176 928 c 128
+ 1174 837 1174 837 1159 750 c 257
+NamedP: "sh02"
+ 1143 660 1143 660 1114.5 568 c 128
+ 1086 476 1086 476 1045 391 c 128
+ 1004 306 1004 306 950.5 231.5 c 128
+ 897 157 897 157 830.5 102 c 128
+ 764 47 764 47 684.5 15 c 128
+ 605 -17 605 -17 513 -17 c 257
+NamedP: "ab01"
+552 157 m 257
+ 614 157 614 157 664 180.5 c 128
+ 714 204 714 204 754.5 244 c 128
+ 795 284 795 284 826 338 c 128
+ 857 392 857 392 880 453 c 128
+ 903 514 903 514 919.5 579 c 128
+ 936 644 936 644 947 707 c 257
+NamedP: "ah01"
+ 953 741 953 741 957.5 771.5 c 128
+ 962 802 962 802 965.5 833 c 128
+ 969 864 969 864 971 896 c 128
+ 973 928 973 928 974 965 c 257
+ 1043 1182 l 257
+NamedP: "sh03"
+ 362 277 l 257
+NamedP: "sh04"
+ 388 220 388 220 433 188.5 c 128
+ 478 157 478 157 552 157 c 257
+745 1341 m 257
+ 683 1341 683 1341 633 1318 c 128
+ 583 1295 583 1295 542.5 1255 c 128
+ 502 1215 502 1215 471 1161.5 c 128
+ 440 1108 440 1108 417 1047 c 128
+ 394 986 394 986 377.5 921 c 128
+ 361 856 361 856 350 793 c 257
+NamedP: "sh05"
+ 338 725 338 725 331.5 665.5 c 128
+ 325 606 325 606 323 532 c 257
+ 256 320 l 257
+NamedP: "ah02"
+ 934 1221 l 257
+NamedP: "ah03"
+ 908 1278 908 1278 862.5 1309.5 c 128
+ 817 1341 817 1341 745 1341 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"lsb\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"singleh\" point1=\"lsb\" point2=\"sh01\" round=\"true\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh02\" stem=\"X: 199\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh03\" stem=\"X: ecart du B\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh04\" stem=\"X: ecart du B\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh05\" stem=\"X: 199\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh02\" point2=\"rsb\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

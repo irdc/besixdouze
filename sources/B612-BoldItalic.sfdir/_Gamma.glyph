@@ -1,0 +1,20 @@
+StartChar: Gamma
+Encoding: 32 915 32
+GlifName: G_amma
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+670 1131 m 257
+ 471 0 l 257
+ 142 0 l 257
+ 365 1269 l 257
+ 387 1500 l 257
+ 1323 1500 l 257
+ 1285 1282 l 257
+ 685 1282 l 257
+ 670 1131 l 257
+EndSplineSet
+EndChar

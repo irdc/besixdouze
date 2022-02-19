@@ -1,0 +1,15 @@
+StartChar: blackdownpointingsmalltriangle
+Encoding: 159 9662 159
+GlifName: blackdownpointingsmalltriangle
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+64 1100 m 257
+ 834 1100 l 257
+ 449 470 l 257
+ 64 1100 l 257
+EndSplineSet
+EndChar

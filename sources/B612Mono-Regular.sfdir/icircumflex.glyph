@@ -1,0 +1,68 @@
+StartChar: icircumflex
+Encoding: 288 238 288
+GlifName: icircumflex
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+711 393 m 257
+ 711 153 711 153 841 153 c 256
+ 868 153 868 153 896.5 156 c 0
+ 925 159 925 159 950 163.5 c 0
+ 975 168 975 168 998 173.5 c 0
+ 1021 179 1021 179 1041 185.5 c 0
+ 1061 192 1061 192 1074.5 196.5 c 0
+ 1088 201 1088 201 1099.5 205.5 c 0
+ 1111 210 1111 210 1112 210 c 257
+ 1151 56 l 257
+ 1131 45 1131 45 1100 32 c 0
+ 1069 19 1069 19 989.5 1 c 0
+ 910 -17 910 -17 831 -17 c 256
+ 755 -17 755 -17 699 4.5 c 0
+ 643 26 643 26 609 61.5 c 0
+ 575 97 575 97 555 153 c 0
+ 535 209 535 209 528 267.5 c 0
+ 521 326 521 326 521 403 c 258
+ 521 970 l 257
+ 421 940 l 257
+ 220 940 l 257
+ 200 1100 l 257
+ 711 1100 l 257
+ 711 501 l 257
+ 711 393 l 257
+881 1220 m 257
+NamedP: "hr01"
+ 731 1220 l 257
+ 631 1372 l 257
+ 601 1460 l 257
+ 571 1373 l 257
+ 470 1220 l 257
+ 320 1220 l 257
+ 496 1500 l 257
+ 696 1520 l 257
+ 881 1220 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"1241\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

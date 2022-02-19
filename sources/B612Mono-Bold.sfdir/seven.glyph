@@ -1,0 +1,49 @@
+StartChar: seven
+Encoding: 440 55 440
+GlifName: seven
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+140 1272 m 257
+NamedP: "hr00"
+ 776 1272 l 257
+ 760 1229 760 1229 672 1086 c 256
+ 419 678 419 678 364 418 c 256
+ 340 309 340 309 340 0 c 257
+ 677 0 l 257
+ 677 250 677 250 688 346 c 256
+ 697 417 697 417 724 497.5 c 0
+ 751 578 751 578 798.5 671 c 0
+ 846 764 846 764 879 822 c 0
+ 912 880 912 880 969 976 c 257
+ 1057 1118 1057 1118 1102 1205 c 0
+ 1147 1292 1147 1292 1147 1339 c 258
+ 1147 1500 l 257
+ 140 1500 l 257
+ 140 1272 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1272\" width=\"228\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

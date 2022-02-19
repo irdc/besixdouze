@@ -1,0 +1,27 @@
+StartChar: carriagereturn
+Encoding: 179 8629 179
+GlifName: carriagereturn
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+841 1300 m 257
+ 1000 1300 l 257
+ 1000 300 l 257
+ 547 300 l 257
+ 443 312 l 257
+ 500 237 l 257
+ 500 0 l 257
+ 199 300 l 257
+ 80 400 l 257
+ 200 500 l 257
+ 500 800 l 257
+ 500 565 l 257
+ 443 490 l 257
+ 547 500 l 257
+ 841 500 l 257
+ 841 1300 l 257
+EndSplineSet
+EndChar

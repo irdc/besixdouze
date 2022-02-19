@@ -1,0 +1,28 @@
+StartChar: Sixroman
+Encoding: 76 8549 76
+GlifName: S_ixroman
+Width: 1900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1545 1500 m 257
+ 906 204 l 257
+ 837 -25 l 257
+ 472 5 l 257
+ 258 1492 l 257
+ 576 1526 l 257
+ 683 700 l 257
+ 699 260 l 257
+ 846 700 l 257
+ 1235 1500 l 257
+ 1545 1500 l 257
+1415 0 m 257
+ 1637 1263 l 257
+ 1645 1494 l 257
+ 2020 1525 l 257
+ 1752 0 l 257
+ 1415 0 l 257
+EndSplineSet
+EndChar

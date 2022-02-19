@@ -1,0 +1,48 @@
+StartChar: Deltagreek
+Encoding: 16 916 16
+GlifName: D_eltagreek
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 257
+NamedP: "hr00"
+ 1221 0 l 257
+ 738 1520 l 257
+ 521 1500 l 257
+ 49 0 l 257
+NamedP: "hr00"
+336 160 m 257
+ 213 108 l 257
+ 295 200 l 257
+ 606 1258 l 257
+ 636 1425 l 257
+ 666 1258 l 257
+ 977 200 l 257
+ 1062 108 l 257
+ 936 160 l 257
+ 336 160 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1523\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

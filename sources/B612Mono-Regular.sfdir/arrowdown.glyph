@@ -1,0 +1,25 @@
+StartChar: arrowdown
+Encoding: 114 8595 114
+GlifName: arrowdown
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+500 447 m 257
+ 512 343 l 257
+ 437 400 l 257
+ 200 400 l 257
+ 500 99 l 257
+ 600 -20 l 257
+ 700 100 l 257
+ 1000 400 l 257
+ 765 400 l 257
+ 690 343 l 257
+ 700 447 l 257
+ 700 1500 l 257
+ 500 1500 l 257
+ 500 447 l 257
+EndSplineSet
+EndChar

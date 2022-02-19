@@ -1,0 +1,25 @@
+StartChar: arrowup
+Encoding: 131 8593 131
+GlifName: arrowup
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+400 1053 m 257
+ 412 1157 l 257
+ 337 1100 l 257
+ 100 1100 l 257
+ 400 1401 l 257
+ 500 1520 l 257
+ 600 1400 l 257
+ 900 1100 l 257
+ 665 1100 l 257
+ 590 1157 l 257
+ 600 1053 l 257
+ 600 0 l 257
+ 400 0 l 257
+ 400 1053 l 257
+EndSplineSet
+EndChar

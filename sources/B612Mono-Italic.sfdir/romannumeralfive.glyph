@@ -1,0 +1,46 @@
+StartChar: romannumeralfive
+Encoding: 423 8548 423
+GlifName: romannumeralfive
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+469 500 m 257
+ 493 140 l 257
+ 597 454 l 257
+ 1111 1500 l 257
+ 1300 1500 l 257
+NamedP: "sv01"
+ 648 180 l 257
+ 587 -20 l 257
+NamedP: "ab01"
+ 355 0 l 257
+ 137 1500 l 257
+NamedP: "at01"
+ 326 1520 l 257
+NamedP: "at02"
+ 469 500 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

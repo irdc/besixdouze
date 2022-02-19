@@ -1,0 +1,56 @@
+StartChar: breve
+Encoding: 160 728 160
+GlifName: breve
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+440 1519 m 257
+NamedP: "sv01"
+ 436 1488 436 1488 445 1464 c 257
+ 453 1444 453 1444 473.5 1427 c 128
+ 494 1410 494 1410 538 1410 c 257
+NamedP: "ih01"
+ 582 1410 582 1410 611 1427 c 128
+ 640 1444 640 1444 658 1464 c 257
+ 679 1488 679 1488 691 1519 c 257
+ 912 1519 l 257
+NamedP: "ih03"
+ 903 1469 l 257
+ 899 1446 899 1446 873.5 1410 c 128
+ 848 1374 848 1374 800.5 1339 c 128
+ 753 1304 753 1304 683 1279 c 128
+ 613 1254 613 1254 520 1254 c 257
+NamedP: "av01"
+ 427 1254 427 1254 366.5 1279 c 128
+ 306 1304 306 1304 272 1338.5 c 128
+ 238 1373 238 1373 226.5 1409 c 128
+ 215 1445 215 1445 219 1468 c 257
+ 228 1519 l 257
+NamedP: "ih02"
+ 440 1519 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"ih02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"singlev\" point1=\"ih02\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"sv01\" point2=\"ih03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

@@ -1,0 +1,17 @@
+StartChar: oslash
+Encoding: 395 248 395
+GlifName: oslash
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+311 -100 m 257
+ 101 -100 l 257
+ 901 1209 l 257
+ 1101 1209 l 257
+ 311 -100 l 257
+EndSplineSet
+Refer: 373 111 N 1 0 0 1 0 0 2
+EndChar

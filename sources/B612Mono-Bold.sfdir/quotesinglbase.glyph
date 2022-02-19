@@ -1,0 +1,74 @@
+StartChar: quotesinglbase
+Encoding: 402 8218 402
+GlifName: quotesinglbase
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+142 121 m 257
+NamedP: "ah01"
+ 142 152 142 152 153.5 180 c 128
+ 165 208 165 208 186 229 c 128
+ 207 250 207 250 236 262.5 c 128
+ 265 275 265 275 300 275 c 257
+NamedP: "av01"
+ 334 275 334 275 364 262.5 c 128
+ 394 250 394 250 416.5 229 c 128
+ 439 208 439 208 451.5 180 c 128
+ 464 152 464 152 464 121 c 257
+NamedP: "ah02"
+ 464 85 464 85 457 40.5 c 128
+ 450 -4 450 -4 430 -53.5 c 128
+ 410 -103 410 -103 373.5 -156.5 c 128
+ 337 -210 337 -210 277 -266 c 257
+NamedP: "av02"
+ 175 -208 l 257
+ 186 -190 186 -190 197.5 -167 c 128
+ 209 -144 209 -144 218.5 -118.5 c 128
+ 228 -93 228 -93 235 -67 c 128
+ 242 -41 242 -41 245 -17 c 257
+NamedP: "ab01"
+ 225 -9 225 -9 206.5 2 c 128
+ 188 13 188 13 174 29 c 128
+ 160 45 160 45 151 67.5 c 128
+ 142 90 142 90 142 121 c 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ah01\">\\u000a            <hstem pos=\"-245\" width=\"-21\"/>\\u000a            <hstem pos=\"275\" width=\"-20\"/>\\u000a            <vstem pos=\"142\" width=\"322\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

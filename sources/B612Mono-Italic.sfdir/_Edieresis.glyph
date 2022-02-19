@@ -1,0 +1,64 @@
+StartChar: Edieresis
+Encoding: 20 203 20
+GlifName: E_dieresis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1040 160 m 257
+ 992 0 l 257
+NamedP: "sv01"
+ 72 0 l 257
+NamedP: "ab01"
+ 123 200 l 257
+ 315 1290 l 257
+ 322 1500 l 257
+NamedP: "at01"
+ 1242 1500 l 257
+NamedP: "sv02"
+ 1214 1340 l 257
+ 489 1340 l 257
+ 475 1150 l 257
+ 428 885 l 257
+ 1063 885 l 257
+ 1038 740 l 257
+NamedP: "sv03"
+ 403 740 l 257
+NamedP: "av01"
+ 332 340 l 257
+ 290 160 l 257
+ 1040 160 l 257
+714 1800 m 257
+ 914 1800 l 257
+ 879 1600 l 257
+ 679 1600 l 257
+ 714 1800 l 257
+1114 1800 m 257
+ 1314 1800 l 257
+ 1279 1600 l 257
+ 1079 1600 l 257
+ 1114 1800 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

@@ -1,0 +1,27 @@
+StartChar: Z
+Encoding: 99 90 99
+GlifName: Z_
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1160 228 m 257
+ 1147 0 l 257
+ 39 0 l 257
+ 20 86 l 257
+ 840 1187 l 257
+ 1039 1310 l 257
+ 822 1272 l 257
+ 319 1272 l 257
+ 332 1500 l 257
+ 1350 1500 l 257
+ 1381 1441 l 257
+ 549 314 l 257
+ 332 190 l 257
+ 553 228 l 257
+ 1160 228 l 257
+EndSplineSet
+Kerns2: 54 -100 "'kern' Horizontal Kerning lookup 0 subtable" 55 -100 "'kern' Horizontal Kerning lookup 0 subtable" 56 -100 "'kern' Horizontal Kerning lookup 0 subtable" 57 -100 "'kern' Horizontal Kerning lookup 0 subtable" 58 -100 "'kern' Horizontal Kerning lookup 0 subtable" 63 -100 "'kern' Horizontal Kerning lookup 0 subtable" 64 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

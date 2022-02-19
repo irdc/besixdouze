@@ -1,0 +1,50 @@
+StartChar: Deltagreek
+Encoding: 16 916 16
+GlifName: D_eltagreek
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+851 1500 m 257
+ 1072 1520 l 257
+NamedP: "at01"
+ 1286 0 l 257
+NamedP: "ih03"
+ 115 0 l 257
+NamedP: "ih02"
+ 851 1500 l 257
+1030 160 m 257
+ 1147 108 l 257
+ 1078 200 l 257
+ 953 1258 l 257
+ 953 1425 l 257
+NamedP: "ih01"
+ 893 1258 l 257
+ 396 200 l 257
+ 298 108 l 257
+ 430 160 l 257
+ 1030 160 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ih02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ih02\" point2=\"ih03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

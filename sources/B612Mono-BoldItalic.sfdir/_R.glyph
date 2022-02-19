@@ -1,0 +1,86 @@
+StartChar: R
+Encoding: 63 82 63
+GlifName: R_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+491 600 m 257
+NamedP: "hr00"
+ 385 0 l 257
+ 61 0 l 257
+NamedP: "ab01"
+ 282 1262 l 257
+ 282 1488 l 257
+ 327 1493 327 1493 376.5 1498.5 c 128
+ 426 1504 426 1504 476 1508 c 128
+ 526 1512 526 1512 575 1514.5 c 128
+ 624 1517 624 1517 668 1517 c 257
+NamedP: "at01"
+ 795 1517 795 1517 903 1485.5 c 128
+ 1011 1454 1011 1454 1086 1394.5 c 128
+ 1161 1335 1161 1335 1196 1250.5 c 128
+ 1231 1166 1231 1166 1212 1061 c 257
+ 1197 972 1197 972 1157 901.5 c 128
+ 1117 831 1117 831 1057 777 c 128
+ 997 723 997 723 918.5 685 c 128
+ 840 647 840 647 746 624 c 257
+ 834 600 l 257
+ 1136 0 l 257
+NamedP: "sv01"
+ 771 0 l 257
+ 491 600 l 257
+NamedP: "hr00"
+582 1121 m 257
+ 526 800 l 257
+ 562 800 l 257
+ 630 800 630 800 686.5 821.5 c 128
+ 743 843 743 843 785.5 879.5 c 128
+ 828 916 828 916 855 964.5 c 128
+ 882 1013 882 1013 891 1066 c 257
+ 903 1136 903 1136 885 1181 c 128
+ 867 1226 867 1226 830.5 1251.5 c 128
+ 794 1277 794 1277 746.5 1286.5 c 128
+ 699 1296 699 1296 653 1296 c 257
+ 637 1296 637 1296 623 1295.5 c 128
+ 609 1295 609 1295 597 1294 c 257
+ 582 1121 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"20\" width=\"-21\"/>\\u000a            <hstem pos=\"583\" width=\"219\"/>\\u000a            <hstem pos=\"1305\" width=\"206\"/>\\u000a            <vstem pos=\"27\" width=\"351\"/>\\u000a            <vstem pos=\"705\" width=\"329\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

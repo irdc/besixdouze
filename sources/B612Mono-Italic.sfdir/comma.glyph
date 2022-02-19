@@ -1,0 +1,53 @@
+StartChar: comma
+Encoding: 191 44 191
+GlifName: comma
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+127 127 m 257
+ 132 156 132 156 148.5 182.5 c 128
+ 165 209 165 209 188.5 228 c 128
+ 212 247 212 247 241 259 c 128
+ 270 271 270 271 300 271 c 257
+NamedP: "av01"
+ 329 271 329 271 354 260.5 c 128
+ 379 250 379 250 396 230 c 128
+ 413 210 413 210 420 179.5 c 128
+ 427 149 427 149 420 110 c 257
+ 411 57 411 57 395.5 7.5 c 128
+ 380 -42 380 -42 350.5 -93 c 128
+ 321 -144 321 -144 274 -197 c 128
+ 227 -250 227 -250 155 -307 c 257
+ 107 -284 l 257
+ 137 -240 137 -240 164 -193 c 257
+ 186 -154 186 -154 206.5 -107.5 c 128
+ 227 -61 227 -61 235 -17 c 257
+ 210 -16 210 -16 187.5 -6 c 128
+ 165 4 165 4 149.5 21.5 c 128
+ 134 39 134 39 127.5 66 c 128
+ 121 93 121 93 127 127 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

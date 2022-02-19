@@ -1,0 +1,51 @@
+StartChar: minusplus
+Encoding: 323 8723 323
+GlifName: minusplus
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 612 m 257
+ 573 612 l 257
+ 573 949 l 257
+ 728 949 l 257
+ 728 612 l 257
+ 1100 612 l 257
+ 1100 488 l 257
+ 728 488 l 257
+ 728 150 l 257
+ 573 150 l 257
+ 573 488 l 257
+ 200 488 l 257
+ 200 612 l 257
+200 1200 m 257
+NamedP: "hr01"
+ 1100 1200 l 257
+ 1100 1060 l 257
+ 200 1060 l 257
+ 200 1200 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"649\" width=\"-19\"/>\\u000a            <hstem pos=\"966\" width=\"139\"/>\\u000a            <hstem pos=\"1441\" width=\"-18\"/>\\u000a            <vstem pos=\"472\" width=\"155\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

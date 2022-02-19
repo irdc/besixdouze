@@ -1,0 +1,11 @@
+StartChar: Aring
+Encoding: 8 197 8
+GlifName: A_ring
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 461 730 N 1 0 0 1 142 245 2
+EndChar

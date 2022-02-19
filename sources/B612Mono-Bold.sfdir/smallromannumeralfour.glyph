@@ -1,0 +1,73 @@
+StartChar: smallromannumeralfour
+Encoding: 460 8563 460
+GlifName: smallromannumeralfour
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+722 700 m 257
+NamedP: "iv01"
+ 796 300 l 257
+NamedP: "ah01"
+ 868 700 l 257
+NamedP: "iv03"
+ 999 1100 l 257
+NamedP: "sh01"
+ 1312 1120 l 257
+NamedP: "sh02"
+ 939 -17 l 257
+NamedP: "ab01"
+ 623 0 l 257
+NamedP: "iv02"
+ 272 1100 l 257
+NamedP: "sh04"
+ 586 1120 l 257
+NamedP: "sh03"
+ 722 700 l 257
+NamedP: "iv01"
+290 1120 m 257
+NamedP: "hr01"
+ -10 1100 l 257
+ -10 0 l 257
+ 290 0 l 257
+ 290 1120 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1120\" width=\"-20\"/>\\u000a            <vstem pos=\"-10\" width=\"300\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"eq X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" stem=\"eq X: dia Fat\"/>\\u000a          <ttc code=\"alignt\" point=\"sh03\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignt\" point=\"sh02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"sh03\" point2=\"iv02\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah01\" point1=\"ab01\" point2=\"sh02\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv03\" point1=\"iv02\" point2=\"sh01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

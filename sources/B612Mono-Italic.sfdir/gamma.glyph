@@ -1,0 +1,56 @@
+StartChar: gamma
+Encoding: 265 947 265
+GlifName: gamma
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+146 1117 m 257
+NamedP: "ih02"
+ 181 1120 181 1120 220.5 1118 c 128
+ 260 1116 260 1116 296 1098.5 c 128
+ 332 1081 332 1081 360.5 1043.5 c 128
+ 389 1006 389 1006 402 940 c 257
+ 512 364 l 257
+ 523 132 l 257
+NamedP: "ih01"
+ 616 364 l 257
+ 1014 1100 l 257
+ 1200 1121 l 257
+NamedP: "ih03"
+ 590 -17 l 257
+ 504 -500 l 257
+NamedP: "sv01"
+ 312 -500 l 257
+NamedP: "av01"
+ 392 -47 l 257
+ 221 869 l 257
+ 211 919 211 919 195 943.5 c 128
+ 179 968 179 968 163 978 c 257
+ 145 989 145 989 124 987 c 257
+ 146 1117 l 257
+NamedP: "ih02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih03\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ih02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

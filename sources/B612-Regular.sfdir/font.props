@@ -1,0 +1,2065 @@
+SplineFontDB: 3.2
+FontName: B612-Regular
+FullName: B612 Regular
+FamilyName: B612
+Weight: Normal
+Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com)
+Version: 1.8
+StyleMapFamilyName: B612
+FONDName: B612
+ItalicAngle: 0
+UnderlinePosition: -250
+UnderlineWidth: 100
+Ascent: 1600
+Descent: 400
+InvalidEm: 1
+UFOAscent: 1600
+UFODescent: -500
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+PreferredKerning: 1
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1645275594
+ModificationTime: 1645275594
+PfmFamily: 16
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 11 6 6 5 0 0 2 0 4
+OS2TypoAscent: 1600
+OS2TypoAOffset: 0
+OS2TypoDescent: -500
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1934
+OS2WinAOffset: 0
+OS2WinDescent: 712
+OS2WinDOffset: 0
+HheadAscent: 1930
+HheadAOffset: 0
+HheadDescent: -500
+HheadDOffset: 0
+OS2SubXSize: 1300
+OS2SubYSize: 1399
+OS2SubXOff: 0
+OS2SubYOff: 279
+OS2SupXSize: 1300
+OS2SupYSize: 1399
+OS2SupXOff: 0
+OS2SupYOff: 960
+OS2StrikeYSize: 100
+OS2StrikeYPos: 500
+OS2CapHeight: 1500
+OS2XHeight: 1100
+OS2FamilyClass: 2053
+OS2Vendor: '    '
+OS2CodePages: 20000011.81d40000
+OS2UnicodeRanges: 800000af.5000e0fb.00000000.00000000
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
+DEI: 91125
+KernClass3: 20 19 "'kern' Horizontal Kerning lookup 0 subtable"
+ 10 "@MMK_L_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring"
+ 10 "@MMK_L_B" "B germandbls"
+ 10 "@MMK_L_C" "C Ccedilla"
+ 10 "@MMK_L_E" "E AE Egrave Eacute Ecircumflex Edieresis OE"
+ 10 "@MMK_L_I" "I Igrave Iacute Icircumflex Idieresis"
+ 10 "@MMK_L_N" "N Ntilde"
+ 10 "@MMK_L_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash"
+ 10 "@MMK_L_S" "S Scaron"
+ 10 "@MMK_L_U" "U Ugrave Uacute Ucircumflex Udieresis"
+ 10 "@MMK_L_Y" "Y Yacute Ydieresis"
+ 10 "@MMK_L_a" "a agrave aacute acircumflex atilde adieresis aring"
+ 10 "@MMK_L_c" "c ccedilla"
+ 10 "@MMK_L_e" "e ae egrave eacute ecircumflex edieresis oe"
+ 10 "@MMK_L_i" "i igrave iacute icircumflex idieresis"
+ 10 "@MMK_L_n" "n ntilde"
+ 10 "@MMK_L_o" "o ograve oacute ocircumflex otilde odieresis oslash"
+ 10 "@MMK_L_s" "s scaron"
+ 10 "@MMK_L_u" "u ugrave uacute ucircumflex udieresis"
+ 10 "@MMK_L_y" "y yacute ydieresis"
+ 10 "@MMK_R_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring AE"
+ 10 "@MMK_R_C" "C Ccedilla"
+ 10 "@MMK_R_E" "E Egrave Eacute Ecircumflex Edieresis"
+ 10 "@MMK_R_I" "I Igrave Iacute Icircumflex Idieresis"
+ 10 "@MMK_R_N" "N Ntilde"
+ 10 "@MMK_R_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE"
+ 10 "@MMK_R_S" "S Scaron"
+ 10 "@MMK_R_U" "U Ugrave Uacute Ucircumflex Udieresis"
+ 10 "@MMK_R_Y" "Y Yacute Ydieresis"
+ 10 "@MMK_R_a" "a agrave aacute acircumflex atilde adieresis aring"
+ 10 "@MMK_R_c" "c ccedilla"
+ 10 "@MMK_R_e" "e egrave eacute ecircumflex edieresis"
+ 10 "@MMK_R_i" "i igrave iacute icircumflex idieresis"
+ 10 "@MMK_R_n" "n ntilde"
+ 10 "@MMK_R_o" "o ograve oacute ocircumflex otilde odieresis oslash oe"
+ 10 "@MMK_R_s" "s scaron"
+ 10 "@MMK_R_u" "u ugrave uacute ucircumflex udieresis"
+ 10 "@MMK_R_y" "y yacute ydieresis"
+ 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {}
+Group: "@MMK_L_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring"
+Group: "@MMK_L_B" "B germandbls"
+Group: "@MMK_L_C" "C Ccedilla"
+Group: "@MMK_L_E" "E AE Egrave Eacute Ecircumflex Edieresis OE"
+Group: "@MMK_L_I" "I Igrave Iacute Icircumflex Idieresis"
+Group: "@MMK_L_N" "N Ntilde"
+Group: "@MMK_L_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash"
+Group: "@MMK_L_S" "S Scaron"
+Group: "@MMK_L_U" "U Ugrave Uacute Ucircumflex Udieresis"
+Group: "@MMK_L_Y" "Y Yacute Ydieresis"
+Group: "@MMK_L_a" "a agrave aacute acircumflex atilde adieresis aring"
+Group: "@MMK_L_c" "c ccedilla"
+Group: "@MMK_L_e" "e ae egrave eacute ecircumflex edieresis oe"
+Group: "@MMK_L_i" "i igrave iacute icircumflex idieresis"
+Group: "@MMK_L_n" "n ntilde"
+Group: "@MMK_L_o" "o ograve oacute ocircumflex otilde odieresis oslash"
+Group: "@MMK_L_s" "s scaron"
+Group: "@MMK_L_u" "u ugrave uacute ucircumflex udieresis"
+Group: "@MMK_L_y" "y yacute ydieresis"
+Group: "@MMK_R_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring AE"
+Group: "@MMK_R_C" "C Ccedilla"
+Group: "@MMK_R_E" "E Egrave Eacute Ecircumflex Edieresis"
+Group: "@MMK_R_I" "I Igrave Iacute Icircumflex Idieresis"
+Group: "@MMK_R_N" "N Ntilde"
+Group: "@MMK_R_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE"
+Group: "@MMK_R_S" "S Scaron"
+Group: "@MMK_R_U" "U Ugrave Uacute Ucircumflex Udieresis"
+Group: "@MMK_R_Y" "Y Yacute Ydieresis"
+Group: "@MMK_R_a" "a agrave aacute acircumflex atilde adieresis aring"
+Group: "@MMK_R_c" "c ccedilla"
+Group: "@MMK_R_e" "e egrave eacute ecircumflex edieresis"
+Group: "@MMK_R_i" "i igrave iacute icircumflex idieresis"
+Group: "@MMK_R_n" "n ntilde"
+Group: "@MMK_R_o" "o ograve oacute ocircumflex otilde odieresis oslash oe"
+Group: "@MMK_R_s" "s scaron"
+Group: "@MMK_R_u" "u ugrave uacute ucircumflex udieresis"
+Group: "@MMK_R_y" "y yacute ydieresis"
+GroupKern: "@MMK_L_B" "@MMK_R_O" -100
+GroupKern: "@MMK_L_B" "@MMK_R_i" -100
+GroupKern: "@MMK_L_B" "@MMK_R_u" -100
+GroupKern: "@MMK_L_B" "@MMK_R_y" -100
+GroupKern: "@MMK_L_B" "T" -100
+GroupKern: "@MMK_L_B" "V" -100
+GroupKern: "@MMK_L_B" "W" -100
+GroupKern: "@MMK_L_B" "b" -100
+GroupKern: "@MMK_L_B" "h" -100
+GroupKern: "@MMK_L_B" "j" -100
+GroupKern: "@MMK_L_B" "k" -100
+GroupKern: "@MMK_L_B" "m" -100
+GroupKern: "@MMK_L_B" "p" -100
+GroupKern: "@MMK_L_C" "@MMK_R_O" -100
+GroupKern: "@MMK_L_E" "@MMK_R_O" -100
+GroupKern: "@MMK_L_E" "V" -100
+GroupKern: "@MMK_L_O" "@MMK_R_Y" -100
+GroupKern: "@MMK_L_O" "@MMK_R_i" -100
+GroupKern: "@MMK_L_O" "D" -100
+GroupKern: "@MMK_L_O" "T" -100
+GroupKern: "@MMK_L_O" "V" -100
+GroupKern: "@MMK_L_O" "W" -100
+GroupKern: "@MMK_L_O" "X" -100
+GroupKern: "@MMK_L_O" "b" -100
+GroupKern: "@MMK_L_O" "h" -100
+GroupKern: "@MMK_L_O" "j" -100
+GroupKern: "@MMK_L_S" "V" -100
+GroupKern: "@MMK_L_U" "@MMK_R_A" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_A" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_O" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_a" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_c" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_e" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_i" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_n" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_u" -100
+GroupKern: "@MMK_L_Y" "@MMK_R_y" -100
+GroupKern: "@MMK_L_Y" "b" -100
+GroupKern: "@MMK_L_Y" "d" -100
+GroupKern: "@MMK_L_Y" "g" -100
+GroupKern: "@MMK_L_Y" "j" -100
+GroupKern: "@MMK_L_Y" "k" -100
+GroupKern: "@MMK_L_Y" "m" -100
+GroupKern: "@MMK_L_Y" "p" -100
+GroupKern: "@MMK_L_Y" "q" -100
+GroupKern: "@MMK_L_Y" "r" -100
+GroupKern: "@MMK_L_Y" "v" -100
+GroupKern: "@MMK_L_Y" "w" -100
+GroupKern: "@MMK_L_Y" "x" -100
+GroupKern: "@MMK_L_Y" "z" -100
+GroupKern: "@MMK_L_a" "@MMK_R_Y" -100
+GroupKern: "@MMK_L_a" "@MMK_R_s" 100
+GroupKern: "@MMK_L_a" "T" -100
+GroupKern: "@MMK_L_c" "@MMK_R_i" -100
+GroupKern: "@MMK_L_c" "T" -100
+GroupKern: "@MMK_L_e" "T" -100
+GroupKern: "@MMK_L_n" "@MMK_R_n" -100
+GroupKern: "@MMK_L_n" "j" -100
+GroupKern: "@MMK_L_n" "m" -100
+GroupKern: "@MMK_L_o" "@MMK_R_Y" -100
+GroupKern: "@MMK_L_o" "T" -200
+GroupKern: "@MMK_L_o" "V" -100
+GroupKern: "@MMK_L_s" "T" -100
+GroupKern: "@MMK_L_u" "@MMK_R_Y" -100
+GroupKern: "@MMK_L_u" "T" -100
+GroupKern: "@MMK_L_u" "j" -100
+GroupKern: "@MMK_L_y" "T" -100
+GroupKern: "D" "@MMK_R_C" 100
+GroupKern: "D" "t" 100
+GroupKern: "F" "@MMK_R_A" -100
+GroupKern: "F" "@MMK_R_a" -100
+GroupKern: "F" "@MMK_R_c" -100
+GroupKern: "F" "@MMK_R_e" -100
+GroupKern: "F" "@MMK_R_i" -100
+GroupKern: "F" "@MMK_R_n" -100
+GroupKern: "F" "@MMK_R_o" -100
+GroupKern: "F" "@MMK_R_s" -100
+GroupKern: "F" "@MMK_R_u" -100
+GroupKern: "F" "@MMK_R_y" -100
+GroupKern: "F" "b" -100
+GroupKern: "F" "d" -100
+GroupKern: "F" "g" -100
+GroupKern: "F" "h" -100
+GroupKern: "F" "j" -100
+GroupKern: "F" "k" -100
+GroupKern: "F" "m" -100
+GroupKern: "F" "p" -100
+GroupKern: "F" "q" -100
+GroupKern: "F" "r" -100
+GroupKern: "F" "t" -100
+GroupKern: "F" "v" -100
+GroupKern: "F" "w" -100
+GroupKern: "G" "@MMK_R_o" 100
+GroupKern: "G" "Z" 100
+GroupKern: "G" "q" 100
+GroupKern: "L" "@MMK_R_O" -100
+GroupKern: "L" "@MMK_R_Y" -100
+GroupKern: "L" "Q" -100
+GroupKern: "L" "T" -100
+GroupKern: "L" "V" -150
+GroupKern: "L" "W" -100
+GroupKern: "L" "v" -100
+GroupKern: "P" "@MMK_R_A" -100
+GroupKern: "P" "@MMK_R_Y" -100
+GroupKern: "P" "@MMK_R_a" -100
+GroupKern: "P" "@MMK_R_c" -100
+GroupKern: "P" "@MMK_R_e" -100
+GroupKern: "P" "@MMK_R_i" -100
+GroupKern: "P" "@MMK_R_n" -100
+GroupKern: "P" "@MMK_R_o" -100
+GroupKern: "P" "@MMK_R_u" -100
+GroupKern: "P" "L" -100
+GroupKern: "P" "V" -100
+GroupKern: "P" "X" -100
+GroupKern: "P" "d" -100
+GroupKern: "P" "g" -100
+GroupKern: "P" "h" -100
+GroupKern: "P" "j" -100
+GroupKern: "P" "m" -100
+GroupKern: "P" "p" -100
+GroupKern: "P" "r" -100
+GroupKern: "P" "x" -100
+GroupKern: "Q" "V" -100
+GroupKern: "Q" "W" -100
+GroupKern: "R" "@MMK_R_O" -100
+GroupKern: "R" "T" -100
+GroupKern: "R" "V" -100
+GroupKern: "R" "W" -100
+GroupKern: "R" "d" -100
+GroupKern: "T" "@MMK_R_A" -100
+GroupKern: "T" "@MMK_R_O" -100
+GroupKern: "T" "@MMK_R_a" -100
+GroupKern: "T" "@MMK_R_c" -100
+GroupKern: "T" "@MMK_R_e" -100
+GroupKern: "T" "@MMK_R_n" -100
+GroupKern: "T" "@MMK_R_o" -100
+GroupKern: "T" "@MMK_R_s" -100
+GroupKern: "T" "@MMK_R_u" -100
+GroupKern: "T" "@MMK_R_y" -100
+GroupKern: "T" "d" -100
+GroupKern: "T" "g" -100
+GroupKern: "T" "k" -100
+GroupKern: "T" "m" -100
+GroupKern: "T" "p" -100
+GroupKern: "T" "q" -100
+GroupKern: "T" "r" -100
+GroupKern: "T" "v" -100
+GroupKern: "T" "w" -100
+GroupKern: "T" "x" -100
+GroupKern: "V" "@MMK_R_O" -100
+GroupKern: "V" "@MMK_R_a" -100
+GroupKern: "V" "@MMK_R_e" -100
+GroupKern: "V" "@MMK_R_i" -100
+GroupKern: "V" "@MMK_R_n" -100
+GroupKern: "V" "@MMK_R_o" -100
+GroupKern: "V" "@MMK_R_u" -100
+GroupKern: "V" "@MMK_R_y" -100
+GroupKern: "V" "d" -100
+GroupKern: "V" "g" -100
+GroupKern: "V" "j" -100
+GroupKern: "V" "k" -100
+GroupKern: "V" "m" -100
+GroupKern: "V" "p" -100
+GroupKern: "V" "q" -100
+GroupKern: "V" "r" -100
+GroupKern: "V" "v" -100
+GroupKern: "V" "w" -100
+GroupKern: "V" "x" -100
+GroupKern: "V" "z" -100
+GroupKern: "W" "@MMK_R_A" -100
+GroupKern: "W" "@MMK_R_O" -100
+GroupKern: "W" "@MMK_R_e" -100
+GroupKern: "W" "@MMK_R_i" -100
+GroupKern: "W" "@MMK_R_n" -100
+GroupKern: "W" "@MMK_R_u" -100
+GroupKern: "W" "@MMK_R_y" -100
+GroupKern: "W" "Q" -100
+GroupKern: "W" "d" -100
+GroupKern: "W" "g" -100
+GroupKern: "W" "h" -100
+GroupKern: "W" "j" -100
+GroupKern: "W" "k" -100
+GroupKern: "W" "m" -100
+GroupKern: "W" "p" -100
+GroupKern: "W" "q" -100
+GroupKern: "W" "r" -100
+GroupKern: "W" "v" -100
+GroupKern: "W" "w" -100
+GroupKern: "W" "x" -100
+GroupKern: "W" "z" -100
+GroupKern: "X" "@MMK_R_O" -100
+GroupKern: "Z" "@MMK_R_O" -100
+GroupKern: "d" "@MMK_R_n" -100
+GroupKern: "d" "d" -100
+GroupKern: "f" "@MMK_R_c" -100
+GroupKern: "f" "@MMK_R_e" -100
+GroupKern: "f" "@MMK_R_n" -100
+GroupKern: "f" "@MMK_R_o" -100
+GroupKern: "f" "@MMK_R_u" -100
+GroupKern: "f" "b" -100
+GroupKern: "f" "d" -100
+GroupKern: "f" "f" -100
+GroupKern: "f" "g" -100
+GroupKern: "f" "l" -100
+GroupKern: "f" "m" -100
+GroupKern: "f" "p" -100
+GroupKern: "f" "q" -100
+GroupKern: "f" "w" -100
+GroupKern: "g" "b" -100
+GroupKern: "h" "@MMK_R_Y" -100
+GroupKern: "h" "T" -100
+GroupKern: "l" "@MMK_R_s" 100
+GroupKern: "l" "l" -100
+GroupKern: "p" "T" -100
+GroupKern: "p" "l" -100
+GroupKern: "q" "@MMK_R_Y" -100
+GroupKern: "q" "T" -100
+GroupKern: "q" "l" -100
+GroupKern: "r" "@MMK_R_S" 100
+GroupKern: "r" "@MMK_R_s" 100
+GroupKern: "r" "@MMK_R_y" 100
+GroupKern: "r" "f" 100
+GroupKern: "r" "t" 100
+GroupKern: "slash" "slash" -200
+GroupKern: "t" "T" -100
+GroupKern: "t" "t" -100
+GroupKern: "v" "T" -100
+GroupKern: "v" "d" -100
+GroupKern: "w" "d" -100
+GroupKern: "z" "@MMK_R_O" -100
+GroupKern: "z" "@MMK_R_Y" -100
+GroupKern: "z" "T" -100
+LangName: 1033 "Copyright (c) 2012, AIRBUS (airbus-group.com)" "" "" "Airbus: B612 Regular: Version1.008" "" "Version 1.008" "" "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation" "AIRBUS" "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot" "" "" "http://intactile.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+PickledDataWithLists: "(dp0
+Vcom.fontlab.v2.tth
+p1
+(dp2
+Vcodeppm
+p3
+I80
+sVstems
+p4
+(dp5
+VX: 176
+p6
+(dp7
+Vhorizontal
+p8
+I00
+sVround
+p9
+(dp10
+V0
+p11
+I1
+sV18
+p12
+I2
+sV26
+p13
+I3
+sV36
+p14
+I4
+sV47
+p15
+I5
+sV64
+p16
+I6
+ssVwidth
+p17
+I176
+ssVX: 190
+p18
+(dp19
+g8
+I00
+sg9
+(dp20
+g11
+I1
+sg12
+I2
+sg13
+I3
+sg14
+I4
+sg15
+I5
+sV60
+p21
+I6
+ssg17
+I190
+ssVX: 199
+p22
+(dp23
+g8
+I00
+sg9
+(dp24
+g11
+I1
+sg12
+I2
+sg13
+I3
+sg14
+I4
+sg15
+I5
+sV56
+p25
+I6
+ssg17
+I199
+ssVX: 208
+p26
+(dp27
+g8
+I00
+sg9
+(dp28
+g11
+I1
+sg12
+I2
+sg13
+I3
+sg14
+I4
+sg15
+I5
+sV52
+p29
+I6
+ssg17
+I208
+ssVX: dia Fat
+p30
+(dp31
+g8
+I00
+sg9
+(dp32
+g11
+I1
+sg12
+I2
+sg13
+I3
+sg14
+I4
+sg15
+I5
+sg16
+I6
+ssg17
+I180
+ssVX: dia Lite
+p33
+(dp34
+g8
+I00
+sg9
+(dp35
+g11
+I1
+sV20
+p36
+I2
+sV28
+p37
+I3
+sV38
+p38
+I4
+sV49
+p39
+I5
+sV66
+p40
+I6
+ssg17
+I100
+ssVX: ecart du B
+p41
+(dp42
+g8
+I00
+sg9
+(dp43
+g12
+I1
+sg13
+I2
+sg14
+I3
+sg15
+I4
+sg21
+I5
+sg16
+I6
+ssg17
+I180
+ssVY: 135
+p44
+(dp45
+g8
+I01
+sg9
+(dp46
+g11
+I1
+sg36
+I2
+sg38
+I3
+sg25
+I4
+sV70
+p47
+I5
+sV86
+p48
+I6
+ssg17
+I135
+ssVY: 144
+p49
+(dp50
+g8
+I01
+sg9
+(dp51
+g11
+I1
+sg36
+I2
+sV32
+p52
+I3
+sV54
+p53
+I4
+sV68
+p54
+I5
+sV84
+p55
+I6
+ssg17
+I144
+ssVY: 153
+p56
+(dp57
+g8
+I01
+sg9
+(dp58
+g11
+I1
+sg36
+I2
+sV34
+p59
+I3
+sg29
+I4
+sg40
+I5
+sV82
+p60
+I6
+ssg17
+I153
+ssVY: 162
+p61
+(dp62
+g8
+I01
+sg9
+(dp63
+g11
+I1
+sg36
+I2
+sg52
+I3
+sg25
+I4
+sg47
+I5
+sg48
+I6
+ssg17
+I162
+ssVY: 171
+p64
+(dp65
+g8
+I01
+sg9
+(dp66
+g11
+I1
+sg36
+I2
+sV30
+p67
+I3
+sg25
+I4
+sg47
+I5
+sg48
+I6
+ssg17
+I171
+sssVzones
+p68
+(dp69
+Vb: -500
+p70
+(dp71
+Vposition
+p72
+I-500
+sVtop
+p73
+I00
+sg17
+I17
+ssVb: 0
+p74
+(dp75
+g72
+I0
+sg73
+I00
+sg17
+I46
+ssVt: 1
+p76
+(dp77
+g72
+I1500
+sg73
+I01
+sg17
+I30
+ssVt: x
+p78
+(dp79
+g72
+I1100
+sg73
+I01
+sg17
+I20
+ssssVcom.typemytype.robofont.guides
+p80
+(lp81
+(dp82
+Vangle
+p83
+I0
+sVisGlobal
+p84
+I01
+sVmagnetic
+p85
+I5
+sVname
+p86
+VroundBDC
+p87
+sVx
+p88
+I0
+sVy
+p89
+I1117
+sa(dp90
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg86
+VroundDescender
+p91
+sg88
+I0
+sg89
+I-517
+sa(dp92
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg86
+VmedianeCAPS
+p93
+sg88
+I0
+sg89
+I885
+sa(dp94
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg86
+VroundCAPS
+p95
+sg88
+I0
+sg89
+I1517
+sa(dp96
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg88
+I0
+sg89
+I13850
+sa(dp97
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg88
+I0
+sg89
+I1900
+sa(dp98
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg88
+I0
+sg89
+I12700
+sa(dp99
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg88
+I0
+sg89
+I12700
+sa(dp100
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg88
+I0
+sg89
+I12700
+sa(dp101
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg88
+I0
+sg89
+I12700
+sa(dp102
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg88
+I0
+sg89
+I12700
+sa(dp103
+g83
+I0
+sg84
+I01
+sg85
+I5
+sg86
+VroundBDCDottom
+p104
+sg88
+I0
+sg89
+I-17
+sasVpublic.glyphOrder
+p105
+(lp106
+V.notdef
+p107
+aVspace
+p108
+aVexclam
+p109
+aVquotedbl
+p110
+aVnumbersign
+p111
+aVdollar
+p112
+aVpercent
+p113
+aVampersand
+p114
+aVquotesingle
+p115
+aVparenleft
+p116
+aVparenright
+p117
+aVasterisk
+p118
+aVplus
+p119
+aVcomma
+p120
+aVhyphen
+p121
+aVperiod
+p122
+aVslash
+p123
+aVzero
+p124
+aVone
+p125
+aVtwo
+p126
+aVthree
+p127
+aVfour
+p128
+aVfive
+p129
+aVsix
+p130
+aVseven
+p131
+aVeight
+p132
+aVnine
+p133
+aVcolon
+p134
+aVsemicolon
+p135
+aVless
+p136
+aVequal
+p137
+aVgreater
+p138
+aVquestion
+p139
+aVat
+p140
+aVA
+p141
+aVB
+p142
+aVC
+p143
+aVD
+p144
+aVE
+p145
+aVF
+p146
+aVG
+p147
+aVH
+p148
+aVI
+p149
+aVJ
+p150
+aVK
+p151
+aVL
+p152
+aVM
+p153
+aVN
+p154
+aVO
+p155
+aVP
+p156
+aVQ
+p157
+aVR
+p158
+aVS
+p159
+aVT
+p160
+aVU
+p161
+aVV
+p162
+aVW
+p163
+aVX
+p164
+aVY
+p165
+aVZ
+p166
+aVbracketleft
+p167
+aVbackslash
+p168
+aVbracketright
+p169
+aVasciicircum
+p170
+aVunderscore
+p171
+aVgrave
+p172
+aVa
+p173
+aVb
+p174
+aVc
+p175
+aVd
+p176
+aVe
+p177
+aVf
+p178
+aVg
+p179
+aVh
+p180
+aVi
+p181
+aVj
+p182
+aVk
+p183
+aVl
+p184
+aVm
+p185
+aVn
+p186
+aVo
+p187
+aVp
+p188
+aVq
+p189
+aVr
+p190
+aVs
+p191
+aVt
+p192
+aVu
+p193
+aVv
+p194
+aVw
+p195
+ag88
+ag89
+aVz
+p196
+aVbraceleft
+p197
+aVbar
+p198
+aVbraceright
+p199
+aVasciitilde
+p200
+aVnbspace
+p201
+aVexclamdown
+p202
+aVcent
+p203
+aVsterling
+p204
+aVcurrency
+p205
+aVyen
+p206
+aVbrokenbar
+p207
+aVsection
+p208
+aVdieresis
+p209
+aVcopyright
+p210
+aVordfeminine
+p211
+aVguillemotleft
+p212
+aVlogicalnot
+p213
+aVsfthyphen
+p214
+aVregistered
+p215
+aVmacron
+p216
+aVdegree
+p217
+aVplusminus
+p218
+aVtwosuperior
+p219
+aVthreesuperior
+p220
+aVacute
+p221
+aVmu
+p222
+aVparagraph
+p223
+aVperiodcentered
+p224
+aVcedilla
+p225
+aVonesuperior
+p226
+aVordmasculine
+p227
+aVguillemotright
+p228
+aVonequarter
+p229
+aVonehalf
+p230
+aVthreequarters
+p231
+aVquestiondown
+p232
+aVAgrave
+p233
+aVAacute
+p234
+aVAcircumflex
+p235
+aVAtilde
+p236
+aVAdieresis
+p237
+aVAring
+p238
+aVAE
+p239
+aVCcedilla
+p240
+aVEgrave
+p241
+aVEacute
+p242
+aVEcircumflex
+p243
+aVEdieresis
+p244
+aVIgrave
+p245
+aVIacute
+p246
+aVIcircumflex
+p247
+aVIdieresis
+p248
+aVEth
+p249
+aVNtilde
+p250
+aVOgrave
+p251
+aVOacute
+p252
+aVOcircumflex
+p253
+aVOtilde
+p254
+aVOdieresis
+p255
+aVmultiply
+p256
+aVOslash
+p257
+aVUgrave
+p258
+aVUacute
+p259
+aVUcircumflex
+p260
+aVUdieresis
+p261
+aVYacute
+p262
+aVThorn
+p263
+aVgermandbls
+p264
+aVagrave
+p265
+aVaacute
+p266
+aVacircumflex
+p267
+aVatilde
+p268
+aVadieresis
+p269
+aVaring
+p270
+aVae
+p271
+aVccedilla
+p272
+aVegrave
+p273
+aVeacute
+p274
+aVecircumflex
+p275
+aVedieresis
+p276
+aVigrave
+p277
+aViacute
+p278
+aVicircumflex
+p279
+aVidieresis
+p280
+aVeth
+p281
+aVntilde
+p282
+aVograve
+p283
+aVoacute
+p284
+aVocircumflex
+p285
+aVotilde
+p286
+aVodieresis
+p287
+aVdivide
+p288
+aVoslash
+p289
+aVugrave
+p290
+aVuacute
+p291
+aVucircumflex
+p292
+aVudieresis
+p293
+aVyacute
+p294
+aVthorn
+p295
+aVydieresis
+p296
+aVOE
+p297
+aVoe
+p298
+aVScaron
+p299
+aVscaron
+p300
+aVYdieresis
+p301
+aVflorin
+p302
+aVcircumflex
+p303
+aVcaron
+p304
+aVbreve
+p305
+aVdotaccent
+p306
+aVring
+p307
+aVogonek
+p308
+aVtilde
+p309
+aVhungarumlaut
+p310
+aVAlpha
+p311
+aVBeta
+p312
+aVGamma
+p313
+aVDeltagreek
+p314
+aVEpsilon
+p315
+aVZeta
+p316
+aVEta
+p317
+aVTheta
+p318
+aVIota
+p319
+aVKappa
+p320
+aVLambda
+p321
+aVMu
+p322
+aVNu
+p323
+aVXi
+p324
+aVOmicron
+p325
+aVRho
+p326
+aVSigma
+p327
+aVTau
+p328
+aVUpsilon
+p329
+aVPhi
+p330
+aVChi
+p331
+aVPsi
+p332
+aVOmegagreek
+p333
+aValpha
+p334
+aVbeta
+p335
+aVgamma
+p336
+aVdelta
+p337
+aVepsilon
+p338
+aVzeta
+p339
+aVeta
+p340
+aVtheta
+p341
+aViota
+p342
+aVkappa
+p343
+aVlambda
+p344
+aVmugreek
+p345
+aVnu
+p346
+aVxi
+p347
+aVomicron
+p348
+aVpi
+p349
+aVsigma1
+p350
+aVsigma
+p351
+aVtau
+p352
+aVupsilon
+p353
+aVphi
+p354
+aVchi
+p355
+aVpsi
+p356
+aVomega
+p357
+aVtheta1
+p358
+aVUpsilon1
+p359
+aVphi1
+p360
+aVomega1
+p361
+aVhyphentwo
+p362
+aVendash
+p363
+aVemdash
+p364
+aVquotationdash
+p365
+aVdblverticalbar
+p366
+aVquoteleft
+p367
+aVquoteright
+p368
+aVquotesinglbase
+p369
+aVquotedblleft
+p370
+aVquotedblright
+p371
+aVquotedblbase
+p372
+aVdagger
+p373
+aVdaggerdbl
+p374
+aVbullet
+p375
+aVtriangularbullet
+p376
+aVellipsis
+p377
+aVperthousand
+p378
+aVpertenthousandsign
+p379
+aVminute
+p380
+aVsecond
+p381
+aVtripleprime
+p382
+aVprimereversed
+p383
+aVguilsinglleft
+p384
+aVguilsinglright
+p385
+aVasterism
+p386
+aVtwoasterisksvertical
+p387
+aVzerosuperior
+p388
+aVismallsuperior
+p389
+aVfoursuperior
+p390
+aVfivesuperior
+p391
+aVsixsuperior
+p392
+aVsevensuperior
+p393
+aVeightsuperior
+p394
+aVninesuperior
+p395
+aVplussuperior
+p396
+aVminussuperior
+p397
+aVequalsuperior
+p398
+aVparenleftsuperior
+p399
+aVparenrightsuperior
+p400
+aVnsuperior
+p401
+aVzeroinferior
+p402
+aVoneinferior
+p403
+aVtwoinferior
+p404
+aVthreeinferior
+p405
+aVfourinferior
+p406
+aVfiveinferior
+p407
+aVsixinferior
+p408
+aVseveninferior
+p409
+aVheightinferior
+p410
+aVnineinferior
+p411
+aVplusinferior
+p412
+aVminusinferior
+p413
+aVequalinferior
+p414
+aVparenleftinferior
+p415
+aVparenrightinferior
+p416
+aVEuro
+p417
+aVindianrupee
+p418
+aVcentigrade
+p419
+aVfahrenheit
+p420
+aVIfraktur
+p421
+aVlsquare
+p422
+aVweierstrass
+p423
+aVRfraktur
+p424
+aVtrademark
+p425
+aVOhm
+p426
+aVangstrom
+p427
+aVscriptsmallo
+p428
+aValeph
+p429
+aVonethirds
+p430
+aVtwothirds
+p431
+aVonefifth
+p432
+aVtwofifths
+p433
+aVthreefifths
+p434
+aVfourfifths
+p435
+aVonesixth
+p436
+aVfivesixths
+p437
+aVoneeighth
+p438
+aVthreeeighths
+p439
+aVfiveeighths
+p440
+aVseveneighths
+p441
+aVfractionnumeratorone
+p442
+aVOneroman
+p443
+aVTworoman
+p444
+aVThreeroman
+p445
+aVFourroman
+p446
+aVFiveroman
+p447
+aVSixroman
+p448
+aVSevenroman
+p449
+aVEightroman
+p450
+aVNineroman
+p451
+aVTenroman
+p452
+aVElevenroman
+p453
+aVTwelveroman
+p454
+aVoneroman
+p455
+aVtworoman
+p456
+aVthreeroman
+p457
+aVfourroman
+p458
+aVfiveroman
+p459
+aVsixroman
+p460
+aVsevenroman
+p461
+aVeightroman
+p462
+aVnineroman
+p463
+aVtenroman
+p464
+aVelevenroman
+p465
+aVtwelveroman
+p466
+aVarrowleft
+p467
+aVarrowup
+p468
+aVarrowright
+p469
+aVarrowdown
+p470
+aVarrowboth
+p471
+aVarrowupdn
+p472
+aVarrowupleft
+p473
+aVarrowupright
+p474
+aVarrowdownright
+p475
+aVarrowdownleft
+p476
+aVleftwardsarrowwithhook
+p477
+aVrightwardsarrowwithhook
+p478
+aVdownwardsarrowwithtiprightwards
+p479
+aVcarriagereturn
+p480
+aVundo
+p481
+aVredo
+p482
+aVarrowdblleft
+p483
+aVarrowdblup
+p484
+aVarrowdblright
+p485
+aVarrowdbldown
+p486
+aVarrowdblleftright
+p487
+aVarrowdblupdown
+p488
+aVarrowdblnorthwest
+p489
+aVarrowdblnortheast
+p490
+aVarrowdblsoutheast
+p491
+aVarrowdblsouthwest
+p492
+aVpageup
+p493
+aVpagedown
+p494
+aVleftwardsdashedarrow
+p495
+aVupwardsdashedarrow
+p496
+aVrightwardsdashedarrow
+p497
+aVdownwardsdashedarrow
+p498
+aVshift
+p499
+aVcapslock
+p500
+aVuniversal
+p501
+aVcomplement
+p502
+aVpartialdiff
+p503
+aVexistential
+p504
+aVtheredoesnotexist
+p505
+aVemptyset
+p506
+aVgradient
+p507
+aVelement
+p508
+aVnotelement
+p509
+aVsuchthat
+p510
+aVdoesnotcontainasmember
+p511
+aVminus
+p512
+aVminusplus
+p513
+aVringoperator
+p514
+aVradical
+p515
+aVproportional
+p516
+aVinfinity
+p517
+aVsphericalangle
+p518
+aVparallelto
+p519
+aVlogicaland
+p520
+aVlogicalor
+p521
+aVintersection
+p522
+aVunion
+p523
+aVintegral
+p524
+aVcontourintegral
+p525
+aVtherefore
+p526
+aVbecause
+p527
+aVsimilar
+p528
+aVasymptoticallyequal
+p529
+aVcongruent
+p530
+aVapproxequal
+p531
+aVestimate
+p532
+aVnotequal
+p533
+aVequivalence
+p534
+aVlessequal
+p535
+aVgreaterequal
+p536
+aVpropersubset
+p537
+aVpropersuperset
+p538
+aVreflexsubset
+p539
+aVreflexsuperset
+p540
+aVcircleplus
+p541
+aVcircleminus
+p542
+aVcirclemultiply
+p543
+aVcircledivide
+p544
+aVperpendicular
+p545
+aVstaroperator
+p546
+aVverticalellipsis
+p547
+aVhouse
+p548
+aVleftceiling
+p549
+aVrightceiling
+p550
+aVleftfloor
+p551
+aVrightfloor
+p552
+aVtopleftcorner
+p553
+aVtoprightcorner
+p554
+aVbottomleftcorner
+p555
+aVbottomrightcorner
+p556
+aVblackrightpointingtriangle
+p557
+aVwhiterightpointingtriangle
+p558
+aVblackrightpointingsmall
+p559
+aVwhiterightpointingsmall
+p560
+aVblackdownpointingtriangle
+p561
+aVwhitedownpointingtriangle
+p562
+aVblackdownpointingsmalltriangle
+p563
+aVwhitedownpointingsmalltriangle
+p564
+aVfisheye
+p565
+aVbullseye
+p566
+aVblackcircle
+p567
+aVcirclewithlefthalfblack
+p568
+aVcirclewithrighthalfblack
+p569
+aVcirclewithlowerhalfblack
+p570
+aVcirclewithupperhalfblack
+p571
+aVday
+p572
+aVcloud
+p573
+aVumbrella
+p574
+aVsnowman
+p575
+aVblackstar
+p576
+aVphone
+p577
+aVemptybox
+p578
+aVboxwithacheck
+p579
+aVboxwithaX
+p580
+aVfrowningface
+p581
+aVsmileface
+p582
+aVsun
+p583
+aVnight
+p584
+aVspade
+p585
+aVheartsuitwhite
+p586
+aVdiamondsuitwhite
+p587
+aVclub
+p588
+aVflag1
+p589
+aVflag2
+p590
+aVwarning
+p591
+aVhighvoltage
+p592
+aVplane
+p593
+aVmail
+p594
+aVcheckmark
+p595
+aVwhitecircledone
+p596
+aVwhitecircledtwo
+p597
+aVwhitecircledthree
+p598
+aVwhitecircledfour
+p599
+aVwhitecircledfive
+p600
+aVwhitecircledsix
+p601
+aVwhitecircledseven
+p602
+aVwhitecircledeight
+p603
+aVwhitecirclednine
+p604
+aVwhitecircledzero
+p605
+aVblackcircledone
+p606
+aVblackcircledtwo
+p607
+aVblackcircledthree
+p608
+aVblackcircledfour
+p609
+aVblackcircledfive
+p610
+aVblackcircledsix
+p611
+aVblackcircledseven
+p612
+aVblackcircledeight
+p613
+aVblackcirclednine
+p614
+aVblackcircledzero
+p615
+aVwiderightwardsarrow
+p616
+aVff
+p617
+aVfi
+p618
+aVfl
+p619
+aVst
+p620
+aVffi
+p621
+aVffl
+p622
+aVft
+p623
+aVtakeoff
+p624
+aVclimb
+p625
+aVcruise
+p626
+aVdescent
+p627
+aVlanding
+p628
+aVlevelup
+p629
+aVleveldown
+p630
+aVslashedzero
+p631
+aVhot
+p632
+aVcold
+p633
+aVdry
+p634
+aVwet
+p635
+aVslush
+p636
+aVice
+p637
+aVlightning
+p638
+aVfog
+p639
+aVwind
+p640
+aVwindbarb
+p641
+aVhourglass
+p642
+aVclock
+p643
+aVclockwiseclock
+p644
+aVcounterclockwiseclock
+p645
+aVphonein
+p646
+aVphoneout
+p647
+aVslashedphone
+p648
+aVmailin
+p649
+aVmailout
+p650
+aVslashedmail
+p651
+aVwifiin
+p652
+aVwifiout
+p653
+aVslashedwifi
+p654
+aVcomsatin
+p655
+aVcomsatout
+p656
+aVslashedcomsat
+p657
+aVradioin
+p658
+aVradioout
+p659
+aVslashedradio
+p660
+aVslashedspeaker
+p661
+aVspeakerlow
+p662
+aVspeakerhigh
+p663
+aVeject
+p664
+aVplay
+p665
+aVrewind
+p666
+aVpause
+p667
+aVstop
+p668
+aVstart
+p669
+aVend
+p670
+aVfastrewind
+p671
+aVfastforward
+p672
+aVback
+p673
+aVnext
+p674
+aVstandby
+p675
+aVzoomin
+p676
+aVzoomout
+p677
+aVsave
+p678
+aVerase
+p679
+aVprint
+p680
+aVtrash
+p681
+aVimport
+p682
+aVexport
+p683
+aVsend
+p684
+aVreturn
+p685
+aVcopy
+p686
+aVpaste
+p687
+aVclose
+p688
+aVsuppr
+p689
+aVadd
+p690
+aVhelp
+p691
+aVinfo
+p692
+aVsmileyneutral
+p693
+aVupdate
+p694
+aVnoentry
+p695
+aVnoparking
+p696
+aVNULL
+p697
+as."
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 231 21 11
+BeginPrivate: 8
+BlueFuzz 1 1
+BlueScale 8 0.039625
+BlueShift 1 7
+BlueValues 27 [-20 0 1121 1121 1520 1520]
+ForceBold 5 false
+OtherBlues 11 [-517 -500]
+StemSnapH 5 [160]
+StemSnapV 9 [190 210]
+EndPrivate
+EndSplineFont

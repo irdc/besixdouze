@@ -1,0 +1,128 @@
+StartChar: Q
+Encoding: 68 81 68
+GlifName: Q_
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1404 -145 m 257
+NamedP: "dv01"
+ 1348 -145 1348 -145 1292.5 -137.5 c 128
+ 1237 -130 1237 -130 1184 -104 c 128
+ 1131 -78 1131 -78 1081 -29.5 c 128
+ 1031 19 1031 19 987 102 c 257
+ 982 111 982 111 977 120 c 128
+ 972 129 972 129 967 137 c 257
+ 957 -1 l 257
+NamedP: "fh01"
+ 920 -9 920 -9 881 -13 c 128
+ 842 -17 842 -17 800 -17 c 257
+NamedP: "ab01"
+ 642 -17 642 -17 517 41 c 128
+ 392 99 392 99 304.5 201.5 c 128
+ 217 304 217 304 170.5 444.5 c 128
+ 124 585 124 585 124 750 c 257
+NamedP: "dh01"
+ 124 915 124 915 169 1055.5 c 128
+ 214 1196 214 1196 300.5 1298.5 c 128
+ 387 1401 387 1401 513 1459 c 128
+ 639 1517 639 1517 800 1517 c 257
+NamedP: "at01"
+ 957 1517 957 1517 1082.5 1459 c 128
+ 1208 1401 1208 1401 1295.5 1298.5 c 128
+ 1383 1196 1383 1196 1429.5 1055.5 c 128
+ 1476 915 1476 915 1476 750 c 257
+NamedP: "dh04"
+ 1476 645 1476 645 1457.5 549.5 c 128
+ 1439 454 1439 454 1403 371.5 c 128
+ 1367 289 1367 289 1314.5 221 c 128
+ 1262 153 1262 153 1194 103 c 257
+ 1223 66 1223 66 1250.5 45.5 c 128
+ 1278 25 1278 25 1309.5 14.5 c 128
+ 1341 4 1341 4 1377.5 1.5 c 128
+ 1414 -1 1414 -1 1461 -1 c 257
+NamedP: "dv02"
+ 1404 -145 l 257
+NamedP: "dv01"
+1268 719 m 257
+NamedP: "dh03"
+ 1268 799 1268 799 1257 876.5 c 128
+ 1246 954 1246 954 1222 1023.5 c 128
+ 1198 1093 1198 1093 1160 1152.5 c 128
+ 1122 1212 1122 1212 1069.5 1255 c 128
+ 1017 1298 1017 1298 948.5 1322.5 c 128
+ 880 1347 880 1347 794 1347 c 257
+NamedP: "sv01"
+ 671 1347 671 1347 583.5 1299.5 c 128
+ 496 1252 496 1252 440 1173 c 128
+ 384 1094 384 1094 358 993 c 128
+ 332 892 332 892 332 785 c 257
+NamedP: "dh02"
+ 332 704 332 704 343.5 626 c 128
+ 355 548 355 548 379 477.5 c 128
+ 403 407 403 407 440.5 347.5 c 128
+ 478 288 478 288 530.5 245 c 128
+ 583 202 583 202 651.5 177.5 c 128
+ 720 153 720 153 806 153 c 257
+NamedP: "sv02"
+ 844 153 844 153 879 158 c 128
+ 914 163 914 163 945 172 c 257
+NamedP: "iv01"
+ 916 217 916 217 888.5 243 c 128
+NamedP: "fh03"
+ 861 269 861 269 831 282 c 128
+ 801 295 801 295 765 298 c 128
+ 729 301 729 301 682 301 c 257
+NamedP: "dv03"
+ 739 445 l 257
+NamedP: "dv04"
+ 794 445 794 445 846 433 c 128
+ 898 421 898 421 948.5 391 c 128
+ 999 361 999 361 1048 309 c 128
+ 1097 257 1097 257 1145 177 c 257
+NamedP: "iv02"
+ 1145 314 l 257
+NamedP: "fh04"
+ 1209 395 1209 395 1238.5 501 c 128
+ 1268 607 1268 607 1268 719 c 257
+NamedP: "dh03"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dv01\">\\u000a            <hstem pos=\"-17\" width=\"170\"/>\\u000a            <hstem pos=\"301\" width=\"144\"/>\\u000a            <hstem pos=\"1347\" width=\"170\"/>\\u000a            <vstem pos=\"124\" width=\"208\"/>\\u000a            <vstem pos=\"1268\" width=\"208\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh04\" point2=\"rsb\" round=\"true\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv03\" point2=\"dv04\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"dv01\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\" stem=\"Y: 171\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"dv03\" ppm1=\"32\" ppm2=\"32\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"ab01\" point2=\"dv03\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv02\" point1=\"ab01\" point2=\"at01\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"fh01\" ppm1=\"20\" ppm2=\"20\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"fh01\" ppm1=\"21\" ppm2=\"22\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh02\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"fh02\" ppm1=\"23\" ppm2=\"23\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"fh03\" ppm1=\"24\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"6\" point=\"fh03\" ppm1=\"23\" ppm2=\"23\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-8\" point=\"dv03\" ppm1=\"33\" ppm2=\"33\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-7\" point=\"dv03\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-6\" point=\"dv03\" ppm1=\"29\" ppm2=\"29\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-5\" point=\"dv03\" ppm1=\"34\" ppm2=\"34\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"dv03\" ppm1=\"31\" ppm2=\"32\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"dv03\" ppm1=\"35\" ppm2=\"35\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"dv03\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"dv03\" ppm1=\"19\" ppm2=\"19\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"dv03\" ppm1=\"25\" ppm2=\"25\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-3\" point=\"dv03\" ppm1=\"42\" ppm2=\"43\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"dv03\" ppm1=\"26\" ppm2=\"27\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"dv03\" ppm1=\"36\" ppm2=\"37\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-7\" point=\"dv04\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"3\" point=\"fh04\" ppm1=\"26\" ppm2=\"27\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"fh04\" ppm1=\"25\" ppm2=\"25\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"4\" point=\"fh04\" ppm1=\"28\" ppm2=\"30\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"1\" point=\"fh03\" ppm1=\"23\" ppm2=\"24\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"1\" point=\"dv03\" ppm1=\"34\" ppm2=\"34\"/>\\u000a          <ttc code=\"fdeltav\" delta=\"4\" point=\"iv02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+Kerns2: 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 93 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

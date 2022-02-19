@@ -1,0 +1,34 @@
+StartChar: arrowupdn
+Encoding: 132 8597 132
+GlifName: arrowupdn
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+600 467 m 257
+ 588 363 l 257
+ 663 420 l 257
+ 900 420 l 257
+ 600 119 l 257
+ 500 0 l 257
+ 400 120 l 257
+ 100 420 l 257
+ 335 420 l 257
+ 410 363 l 257
+ 400 467 l 257
+ 400 1053 l 257
+ 410 1157 l 257
+ 335 1100 l 257
+ 100 1100 l 257
+ 400 1400 l 257
+ 500 1520 l 257
+ 600 1401 l 257
+ 900 1100 l 257
+ 663 1100 l 257
+ 588 1157 l 257
+ 600 1053 l 257
+ 600 467 l 257
+EndSplineSet
+EndChar

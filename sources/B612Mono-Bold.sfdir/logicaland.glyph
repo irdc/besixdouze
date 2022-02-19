@@ -1,0 +1,42 @@
+StartChar: logicaland
+Encoding: 313 8743 313
+GlifName: logicaland
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+522 1300 m 257
+ 93 0 l 257
+ 255 0 l 257
+ 592 980 l 257
+ 657 1220 l 257
+ 722 980 l 257
+ 1058 0 l 257
+ 1222 0 l 257
+ 780 1320 l 257
+ 522 1300 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.typemytype.robofont.guides
+p1
+(lp2
+(dp3
+Vangle
+p4
+I0
+sVisGlobal
+p5
+I00
+sVmagnetic
+p6
+I5
+sVx
+p7
+I0
+sVy
+p8
+I1302
+sas."
+EndChar

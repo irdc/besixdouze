@@ -1,0 +1,61 @@
+StartChar: igrave
+Encoding: 290 236 290
+GlifName: igrave
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+515 834 m 257
+ 606 896 l 257
+ 510 876 l 257
+ 247 876 l 257
+ 247 1100 l 257
+ 889 1100 l 257
+ 770 423 l 258
+ 755 341 755 341 784.5 288.5 c 0
+ 814 236 814 236 873 236 c 256
+ 939 236 939 236 992.5 257.5 c 0
+ 1046 279 1046 279 1107 330 c 257
+ 1125 98 l 257
+ 1124 97 1124 97 1096.5 76 c 0
+ 1069 55 1069 55 1049 44.5 c 0
+ 1029 34 1029 34 992 16.5 c 0
+ 955 -1 955 -1 909 -9 c 0
+ 863 -17 863 -17 809 -17 c 256
+ 719 -17 719 -17 649 6.5 c 0
+ 579 30 579 30 536 71 c 0
+ 493 112 493 112 466 169 c 0
+ 439 226 439 226 436 292 c 0
+ 433 358 433 358 444 432 c 257
+ 515 834 l 257
+891 1200 m 257
+NamedP: "hr01"
+ 676 1200 l 257
+ 448 1520 l 257
+ 781 1500 l 257
+ 891 1200 l 257
+NamedP: "hr01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr01\">\\u000a            <hstem pos=\"1221\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

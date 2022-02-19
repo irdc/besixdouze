@@ -1,0 +1,28 @@
+StartChar: four
+Encoding: 260 52 260
+GlifName: four
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1107 300 m 257
+ 927 300 l 257
+ 875 0 l 257
+ 675 0 l 257
+ 727 300 l 257
+ 132 300 l 257
+ 163 471 l 257
+ 832 1520 l 257
+ 1017 1500 l 257
+ 443 600 l 257
+ 326 460 l 257
+ 756 460 l 257
+ 827 867 l 257
+ 1024 850 l 257
+ 956 460 l 257
+ 1151 460 l 257
+ 1107 300 l 257
+EndSplineSet
+EndChar

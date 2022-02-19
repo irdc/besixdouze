@@ -1,0 +1,25 @@
+StartChar: subscriptone
+Encoding: 490 8321 490
+GlifName: subscriptone
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+146 -500 m 257
+ 160 -420 l 257
+ 282 -420 l 257
+ 367 63 l 257
+ 416 176 l 257
+ 332 83 l 257
+ 209 -11 l 257
+ 166 50 l 257
+ 432 260 l 257
+ 500 250 l 257
+ 382 -420 l 257
+ 505 -420 l 257
+ 491 -500 l 257
+ 146 -500 l 257
+EndSplineSet
+EndChar

@@ -1,0 +1,25 @@
+StartChar: onesuperior
+Encoding: 391 185 391
+GlifName: onesuperior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+266 1160 m 257
+ 303 1341 l 257
+ 189 1206 l 257
+ 147 1169 l 257
+ 70 1261 l 257
+ 310 1482 l 257
+ 431 1466 l 257
+ 431 820 l 257
+ 553 820 l 257
+ 553 720 l 257
+ 144 720 l 257
+ 144 820 l 257
+ 266 820 l 257
+ 266 1160 l 257
+EndSplineSet
+EndChar

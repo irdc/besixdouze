@@ -1,0 +1,12 @@
+StartChar: Threeroman
+Encoding: 82 8546 82
+GlifName: T_hreeroman
+Width: 1800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 34 73 N 1 0 0 1 0 0 2
+Refer: 34 73 N 1 0 0 1 600 0 2
+Refer: 34 73 N 1 0 0 1 1200 0 2
+EndChar

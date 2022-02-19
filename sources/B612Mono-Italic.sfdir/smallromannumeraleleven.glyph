@@ -1,0 +1,59 @@
+StartChar: smallromannumeraleleven
+Encoding: 458 8570 458
+GlifName: smallromannumeraleleven
+Width: 2600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+851 0 m 257
+ 650 382 l 257
+ 626 500 l 257
+ 560 382 l 257
+ 225 0 l 257
+ 26 0 l 257
+NamedP: "ab01"
+ 541 588 l 257
+ 273 1100 l 257
+NamedP: "av01"
+ 487 1121 l 257
+NamedP: "av02"
+ 663 781 l 257
+ 683 670 l 257
+ 740 781 l 257
+ 1021 1100 l 257
+NamedP: "sv01"
+ 1236 1121 l 257
+NamedP: "av03"
+ 767 583 l 257
+ 1076 0 l 257
+NamedP: "sv02"
+ 851 0 l 257
+1390 0 m 257
+ 1200 0 l 257
+ 1393 1100 l 257
+ 1587 1121 l 257
+ 1390 0 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av03\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

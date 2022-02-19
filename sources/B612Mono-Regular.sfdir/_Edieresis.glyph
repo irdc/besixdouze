@@ -1,0 +1,85 @@
+StartChar: Edieresis
+Encoding: 20 203 20
+GlifName: E_dieresis
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1135 160 m 257
+NamedP: "dh04"
+ 1115 0 l 257
+NamedP: "ab01"
+ 195 0 l 257
+NamedP: "ab02"
+ 210 200 l 257
+NamedP: "dh01"
+ 210 1290 l 257
+ 180 1500 l 257
+NamedP: "at01"
+ 1100 1500 l 257
+NamedP: "at02"
+ 1100 1340 l 257
+ 375 1340 l 257
+NamedP: "sv01"
+ 395 1150 l 257
+NamedP: "sh01"
+ 395 885 l 257
+ 1030 885 l 257
+NamedP: "dv01"
+ 1030 740 l 257
+NamedP: "dh03"
+ 395 740 l 257
+ 395 340 l 257
+NamedP: "dh02"
+ 385 160 l 257
+ 1135 160 l 257
+NamedP: "dh04"
+350 1800 m 257
+ 550 1800 l 257
+ 550 1600 l 257
+ 350 1600 l 257
+ 350 1800 l 257
+750 1800 m 257
+ 950 1800 l 257
+ 950 1600 l 257
+ 750 1600 l 257
+ 750 1800 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"dh04\">\\u000a            <hstem pos=\"0\" width=\"160\"/>\\u000a            <hstem pos=\"740\" width=\"145\"/>\\u000a            <hstem pos=\"1340\" width=\"160\"/>\\u000a            <vstem pos=\"190\" width=\"210\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"doubleh\" point1=\"dh03\" point2=\"dh04\" stem=\"X: ecart du B\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"sh01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dh03\" point2=\"dv01\" stem=\"Y: 144\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab02\" point2=\"dh04\" stem=\"Y: 162\"/>\\u000a          <ttc code=\"singlev\" point1=\"at02\" point2=\"sv01\" stem=\"Y: 162\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

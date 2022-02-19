@@ -1,0 +1,11 @@
+StartChar: Oacute
+Encoding: 55 211 55
+GlifName: O_acute
+Width: 1600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 53 79 N 1 0 0 1 0 0 2
+Refer: 104 180 N 1 0 0 1 200 400 2
+EndChar

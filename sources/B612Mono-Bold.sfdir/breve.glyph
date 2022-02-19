@@ -1,0 +1,69 @@
+StartChar: breve
+Encoding: 160 728 160
+GlifName: breve
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+467 1519 m 257
+NamedP: "dh01"
+ 469 1488 469 1488 482 1464 c 257
+ 493 1444 493 1444 516.5 1427 c 128
+ 540 1410 540 1410 584 1410 c 257
+ 628 1410 628 1410 652 1427 c 128
+ 676 1444 676 1444 689 1464 c 257
+ 703 1488 703 1488 708 1519 c 257
+NamedP: "dh02"
+ 929 1519 l 257
+ 929 1469 l 257
+ 929 1446 929 1446 910 1410 c 128
+ 891 1374 891 1374 850 1339 c 128
+ 809 1304 809 1304 743 1279 c 128
+ 677 1254 677 1254 584 1254 c 257
+ 491 1254 491 1254 426 1279 c 128
+ 361 1304 361 1304 321 1338.5 c 128
+ 281 1373 281 1373 263 1409 c 128
+ 245 1445 245 1445 245 1468 c 257
+ 245 1519 l 257
+NamedP: "mv01"
+ 467 1519 l 257
+NamedP: "dh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList/>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"eq X: 208\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"3\" point=\"mv01\" ppm1=\"15\" ppm2=\"15\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

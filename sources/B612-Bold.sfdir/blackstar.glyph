@@ -1,0 +1,24 @@
+StartChar: blackstar
+Encoding: 163 9733 163
+GlifName: blackstar
+Width: 1700
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1169 561 m 257
+ 1350 0 l 257
+ 965 265 l 257
+ 852 375 l 257
+ 739 265 l 257
+ 350 0 l 257
+ 530 561 l 257
+ 100 900 l 257
+ 650 900 l 257
+ 852 1410 l 257
+ 1050 900 l 257
+ 1600 900 l 257
+ 1169 561 l 257
+EndSplineSet
+EndChar

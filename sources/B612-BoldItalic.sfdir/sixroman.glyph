@@ -1,0 +1,26 @@
+StartChar: sixroman
+Encoding: 483 8565 483
+GlifName: sixroman
+Width: 1500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+585 700 m 257
+ 588 300 l 257
+ 731 700 l 257
+ 929 1093 l 257
+ 1243 1129 l 257
+ 664 -24 l 257
+ 372 5 l 257
+ 212 1093 l 257
+ 523 1125 l 257
+ 585 700 l 257
+1400 0 m 257
+ 1100 0 l 257
+ 1296 1114 l 257
+ 1602 1147 l 257
+ 1400 0 l 257
+EndSplineSet
+EndChar

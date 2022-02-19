@@ -1,0 +1,45 @@
+StartChar: guilsinglleft
+Encoding: 273 8249 273
+GlifName: guilsinglleft
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+850 1026 m 257
+NamedP: "at01"
+ 878 901 l 257
+ 502 610 l 257
+ 353 550 l 257
+NamedP: "iv01"
+ 480 490 l 257
+ 757 201 l 257
+ 679 66 l 257
+NamedP: "av01"
+ 284 478 l 257
+ 308 617 l 257
+ 850 1026 l 257
+NamedP: "at01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"at01\" point2=\"av01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

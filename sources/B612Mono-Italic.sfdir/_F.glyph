@@ -1,0 +1,51 @@
+StartChar: F
+Encoding: 26 70 26
+GlifName: F_
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+300 0 m 257
+NamedP: "sv01"
+ 100 0 l 257
+NamedP: "ab01"
+ 327 1290 l 257
+ 334 1500 l 257
+NamedP: "at01"
+ 1209 1500 l 257
+NamedP: "sv02"
+ 1161 1340 l 257
+ 516 1340 l 257
+ 502 1150 l 257
+ 456 885 l 257
+ 996 885 l 257
+ 970 740 l 257
+NamedP: "sv03"
+ 430 740 l 257
+NamedP: "av01"
+ 300 0 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv02\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv03\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

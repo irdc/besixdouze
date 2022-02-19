@@ -1,0 +1,79 @@
+StartChar: indianrupee
+Encoding: 292 8377 292
+GlifName: indianrupee
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+170 1350 m 257
+NamedP: "mv01"
+ 210 1500 l 257
+NamedP: "mh01"
+ 1078 1500 l 257
+NamedP: "mh02"
+ 1000 1350 l 257
+NamedP: "mv02"
+ 790 1350 l 257
+ 686 1375 l 257
+ 761 1309 l 257
+ 790 1276 790 1276 803 1236 c 128
+ 816 1196 816 1196 818 1151 c 257
+ 1079 1151 l 257
+ 1000 1000 l 257
+ 846 1000 l 257
+ 746 1016 l 257
+ 807 955 l 257
+ 781 878 781 878 739.5 823 c 128
+ 698 768 698 768 643 730 c 128
+ 588 692 588 692 521 669 c 128
+ 454 646 454 646 378 633 c 257
+ 520 593 l 257
+ 963 0 l 257
+ 740 0 l 257
+ 297 595 l 257
+ 286 609 286 609 272 611.5 c 128
+ 258 614 258 614 250 614 c 257
+ 200 614 l 257
+ 200 765 l 257
+ 278 765 l 257
+ 354 765 354 765 413 783 c 128
+ 472 801 472 801 515 832.5 c 128
+ 558 864 558 864 585.5 907 c 128
+ 613 950 613 950 625 1000 c 257
+ 170 1000 l 257
+ 210 1151 l 257
+NamedP: "mv03"
+ 628 1151 l 257
+ 617 1208 617 1208 588.5 1248 c 128
+ 560 1288 560 1288 520 1314 c 257
+ 511 1320 511 1320 499.5 1326 c 128
+ 488 1332 488 1332 470 1337.5 c 128
+ 452 1343 452 1343 426 1346.5 c 128
+ 400 1350 400 1350 362 1350 c 257
+NamedP: "mv04"
+ 170 1350 l 257
+NamedP: "mv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"-4\" point=\"mh01\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"4\" point=\"mh02\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-3\" point=\"mv01\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mh01\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mh02\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-4\" point=\"mv02\" ppm1=\"16\" ppm2=\"16\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-1\" point=\"mv03\" ppm1=\"15\" ppm2=\"15\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"2\" point=\"mv04\" ppm1=\"14\" ppm2=\"14\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-3\" point=\"mv04\" ppm1=\"16\" ppm2=\"16\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

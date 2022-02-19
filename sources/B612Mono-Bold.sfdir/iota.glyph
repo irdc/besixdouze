@@ -1,0 +1,52 @@
+StartChar: iota
+Encoding: 297 953 297
+GlifName: iota
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+433 413 m 257
+NamedP: "hr00"
+ 433 322 433 322 443.5 243.5 c 128
+ 454 165 454 165 490.5 107 c 128
+ 527 49 527 49 597.5 16 c 128
+ 668 -17 668 -17 788 -17 c 257
+ 813 -17 813 -17 841 -12.5 c 128
+ 869 -8 869 -8 895 -0.5 c 128
+ 921 7 921 7 943 16.5 c 128
+ 965 26 965 26 979 35 c 257
+ 883 209 l 257
+ 852 195 852 195 808 195 c 257
+ 790 195 790 195 780 213 c 128
+ 770 231 770 231 765.5 260 c 128
+ 761 289 761 289 760.5 325.5 c 128
+ 760 362 760 362 760 400 c 257
+ 760 1120 l 257
+ 412 1100 l 257
+ 433 874 l 257
+ 433 413 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-17\" width=\"212\"/>\\u000a            <hstem pos=\"1121\" width=\"-20\"/>\\u000a            <vstem pos=\"433\" width=\"327\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

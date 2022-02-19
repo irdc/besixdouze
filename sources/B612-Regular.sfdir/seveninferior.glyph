@@ -1,0 +1,59 @@
+StartChar: seveninferior
+Encoding: 473 8327 473
+GlifName: seveninferior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 250 m 257
+NamedP: "hr00"
+ 550 250 l 257
+ 550 185 l 257
+ 550 163 550 163 533.5 129.5 c 128
+ 517 96 517 96 492 54 c 128
+ 467 12 467 12 437.5 -36.5 c 128
+ 408 -85 408 -85 381 -135.5 c 128
+ 354 -186 354 -186 334 -237 c 128
+ 314 -288 314 -288 309 -336 c 257
+ 306 -356 306 -356 305 -378 c 128
+ 304 -400 304 -400 303 -421.5 c 128
+ 302 -443 302 -443 302 -463 c 128
+ 302 -483 302 -483 302 -500 c 257
+ 200 -500 l 257
+ 200 -485 200 -485 200 -460 c 128
+ 200 -435 200 -435 201 -407 c 128
+ 202 -379 202 -379 204.5 -351.5 c 128
+ 207 -324 207 -324 211 -304 c 257
+ 222 -251 222 -251 243.5 -199 c 128
+ 265 -147 265 -147 290.5 -99.5 c 128
+ 316 -52 316 -52 342.5 -9.5 c 128
+ 369 33 369 33 390.5 68 c 128
+ 412 103 412 103 425.5 129 c 128
+ 439 155 439 155 439 170 c 257
+ 100 170 l 257
+ 100 250 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"-490\" width=\"-10\"/>\\u000a            <hstem pos=\"170\" width=\"80\"/>\\u000a            <vstem pos=\"200\" width=\"102\"/>\\u000a            <vstem pos=\"439\" width=\"111\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

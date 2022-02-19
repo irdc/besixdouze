@@ -1,0 +1,67 @@
+StartChar: Ugrave
+Encoding: 77 217 77
+GlifName: U_grave
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1226 1500 m 257
+NamedP: "sv01"
+ 1054 523 l 257
+ 1030 387 1030 387 980 285.5 c 128
+ 930 184 930 184 856.5 117 c 128
+ 783 50 783 50 688 16.5 c 128
+ 593 -17 593 -17 479 -17 c 257
+NamedP: "ab01"
+ 357 -17 357 -17 279.5 25.5 c 128
+ 202 68 202 68 161.5 145.5 c 128
+ 121 223 121 223 115.5 332 c 128
+ 110 441 110 441 133 573 c 257
+ 259 1290 l 257
+ 266 1500 l 257
+NamedP: "at01"
+ 490 1520 l 257
+NamedP: "at02"
+ 320 554 l 257
+ 303 459 303 459 308.5 384.5 c 128
+ 314 310 314 310 340 258.5 c 128
+ 366 207 366 207 411 180 c 128
+ 456 153 456 153 519 153 c 257
+ 666 153 666 153 748 240.5 c 128
+ 830 328 830 328 861 504 c 257
+ 1036 1500 l 257
+ 1226 1500 l 257
+NamedP: "sv01"
+955 1600 m 257
+NamedP: "ah01"
+ 805 1600 l 257
+NamedP: "sh01"
+ 633 1900 l 257
+ 841 1920 l 257
+NamedP: "at03"
+ 955 1600 l 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"at01\" point2=\"sv01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh01\" stem=\"X: ecart du B\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ah01\"/>\\u000a          <ttc code=\"alignt\" point=\"at03\" zone=\"t: 1\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

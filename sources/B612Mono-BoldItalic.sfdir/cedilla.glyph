@@ -1,0 +1,57 @@
+StartChar: cedilla
+Encoding: 169 184 169
+GlifName: cedilla
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+719 0 m 257
+NamedP: "sv01"
+ 743 -20 743 -20 761 -46 c 257
+ 776 -69 776 -69 785.5 -100.5 c 128
+ 795 -132 795 -132 788 -171 c 257
+ 779 -221 779 -221 748 -264 c 128
+ 717 -307 717 -307 672 -338.5 c 128
+ 627 -370 627 -370 571.5 -388.5 c 128
+ 516 -407 516 -407 459 -407 c 257
+NamedP: "av01"
+ 399 -407 399 -407 344.5 -389 c 128
+ 290 -371 290 -371 246 -349 c 257
+ 195 -323 195 -323 150 -290 c 257
+ 293 -131 l 257
+ 322 -151 322 -151 351 -166 c 257
+ 375 -179 375 -179 402.5 -189.5 c 128
+ 430 -200 430 -200 452 -200 c 257
+ 475 -200 475 -200 497.5 -187.5 c 128
+ 520 -175 520 -175 525 -147 c 257
+ 529 -126 529 -126 521 -102.5 c 128
+ 513 -79 513 -79 501 -58 c 128
+ 489 -37 489 -37 476 -21.5 c 128
+NamedP: "ab01"
+ 463 -6 463 -6 457 0 c 257
+ 719 0 l 257
+NamedP: "sv01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"singlev\" point1=\"ab01\" point2=\"sv01\" round=\"true\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

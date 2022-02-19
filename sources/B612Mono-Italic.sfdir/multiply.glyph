@@ -1,0 +1,55 @@
+StartChar: multiply
+Encoding: 325 215 325
+GlifName: multiply
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+760 627 m 257
+ 1110 203 l 257
+ 968 102 l 257
+NamedP: "ih03"
+ 659 477 l 257
+ 660 477 l 257
+ 619 576 l 257
+NamedP: "ih01"
+ 584 477 l 257
+ 142 102 l 257
+NamedP: "ih02"
+ 35 203 l 257
+ 536 627 l 257
+ 185 1052 l 257
+ 328 1153 l 257
+NamedP: "ih05"
+ 637 777 l 257
+ 677 679 l 257
+NamedP: "ih04"
+ 713 777 l 257
+ 1154 1153 l 257
+NamedP: "ih06"
+ 1260 1052 l 257
+ 760 627 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"ih02\" point2=\"ih03\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih04\" point1=\"ih05\" point2=\"ih06\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

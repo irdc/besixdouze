@@ -1,0 +1,28 @@
+StartChar: foursuperior
+Encoding: 285 8308 285
+GlifName: foursuperior
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+595 870 m 257
+ 506 870 l 257
+ 480 720 l 257
+ 326 720 l 257
+ 352 870 l 257
+ 57 870 l 257
+ 75 970 l 257
+ 413 1482 l 257
+ 563 1466 l 257
+ 335 1101 l 257
+ 225 970 l 257
+ 370 970 l 257
+ 396 1119 l 257
+ 548 1106 l 257
+ 524 970 l 257
+ 624 970 l 257
+ 595 870 l 257
+EndSplineSet
+EndChar

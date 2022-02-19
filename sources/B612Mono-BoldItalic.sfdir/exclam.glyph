@@ -1,0 +1,58 @@
+StartChar: exclam
+Encoding: 241 33 241
+GlifName: exclam
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+785 1500 m 257
+NamedP: "at01"
+ 599 444 l 257
+NamedP: "av02"
+ 293 409 l 257
+ 485 1500 l 257
+ 785 1500 l 257
+NamedP: "at01"
+233 149 m 257
+ 239 183 239 183 256.5 212.5 c 128
+ 274 242 274 242 300.5 264.5 c 128
+ 327 287 327 287 359 300 c 128
+ 391 313 391 313 425 313 c 257
+NamedP: "av01"
+ 459 313 459 313 486 300 c 128
+ 513 287 513 287 531.5 264.5 c 128
+ 550 242 550 242 557.5 212.5 c 128
+ 565 183 565 183 559 149 c 257
+ 553 116 553 116 535 85.5 c 128
+ 517 55 517 55 491.5 32.5 c 128
+ 466 10 466 10 434 -3.5 c 128
+ 402 -17 402 -17 368 -17 c 257
+NamedP: "ab01"
+ 335 -17 335 -17 307 -3.5 c 128
+ 279 10 279 10 260 32.5 c 128
+ 241 55 241 55 234 85.5 c 128
+ 227 116 227 116 233 149 c 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av02\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

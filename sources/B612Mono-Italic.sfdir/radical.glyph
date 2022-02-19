@@ -1,0 +1,49 @@
+StartChar: radical
+Encoding: 405 8730 405
+GlifName: radical
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1220 1300 m 257
+NamedP: "dv02"
+ 1200 1150 l 257
+NamedP: "dv01"
+ 1030 1150 l 257
+ 830 1170 l 257
+ 516 -20 l 257
+NamedP: "ab01"
+ 278 0 l 257
+ 145 550 l 257
+ 68 750 l 257
+ 253 770 l 257
+ 364 300 l 257
+ 400 60 l 257
+ 436 300 l 257
+ 698 1300 l 257
+ 1220 1300 l 257
+NamedP: "dv02"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"doublev\" point1=\"dv01\" point2=\"dv02\" stem=\"Y: 153\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

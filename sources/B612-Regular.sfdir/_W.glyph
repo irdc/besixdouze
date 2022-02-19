@@ -1,0 +1,87 @@
+StartChar: W
+Encoding: 93 87 93
+GlifName: W_
+Width: 1900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+872 1500 m 257
+NamedP: "sh01"
+ 1029 1500 l 257
+NamedP: "sh02"
+ 1288 460 l 257
+ 1352 100 l 257
+NamedP: "ah03"
+ 1356 100 l 257
+NamedP: "iv01"
+ 1379 460 l 257
+ 1639 1500 l 257
+NamedP: "sh03"
+ 1814 1500 l 257
+NamedP: "sh04"
+ 1440 0 l 257
+NamedP: "ab01"
+ 1208 0 l 257
+NamedP: "sh05"
+ 987 885 l 257
+ 958 1243 l 257
+NamedP: "ah01"
+ 894 885 l 257
+NamedP: "fh01"
+ 673 0 l 257
+NamedP: "sh06"
+ 441 0 l 257
+NamedP: "fh02"
+ 67 1500 l 257
+NamedP: "sh08"
+ 258 1520 l 257
+NamedP: "sh07"
+ 522 460 l 257
+ 586 100 l 257
+NamedP: "ah02"
+ 590 100 l 257
+NamedP: "iv02"
+ 612 460 l 257
+NamedP: "fh03"
+ 872 1500 l 257
+NamedP: "sh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh01\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1520\" width=\"-20\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"center\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"center\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"center\" code=\"alignh\" point=\"ah03\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh02\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah03\" point2=\"sh03\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh03\" point2=\"sh04\" stem=\"X: dia Lite\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh05\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah01\" point2=\"sh06\"/>\\u000a          <ttc code=\"singleh\" point1=\"ah02\" point2=\"sh07\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh07\" point2=\"sh08\" stem=\"X: dia Fat\"/>\\u000a          <ttc code=\"alignt\" point=\"sh07\" zone=\"t: 1\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"alignb\" point=\"sh06\" zone=\"b: 0\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"ab01\" point2=\"sh07\"/>\\u000a          <ttc code=\"interpolatev\" point=\"ah01\" point1=\"ab01\" point2=\"sh07\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv02\" point1=\"ab01\" point2=\"sh07\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"sh05\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-4\" point=\"fh01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"-2\" point=\"sh06\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"2\" point=\"fh02\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"fdeltah\" delta=\"5\" point=\"fh03\" ppm1=\"17\" ppm2=\"17\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+Kerns2: 68 -100 "'kern' Horizontal Kerning lookup 0 subtable" 214 -100 "'kern' Horizontal Kerning lookup 0 subtable" 289 -100 "'kern' Horizontal Kerning lookup 0 subtable" 300 -100 "'kern' Horizontal Kerning lookup 0 subtable" 325 -100 "'kern' Horizontal Kerning lookup 0 subtable" 326 -100 "'kern' Horizontal Kerning lookup 0 subtable" 344 -100 "'kern' Horizontal Kerning lookup 0 subtable" 397 -100 "'kern' Horizontal Kerning lookup 0 subtable" 435 -100 "'kern' Horizontal Kerning lookup 0 subtable" 447 -100 "'kern' Horizontal Kerning lookup 0 subtable" 555 -100 "'kern' Horizontal Kerning lookup 0 subtable" 557 -100 "'kern' Horizontal Kerning lookup 0 subtable" 580 -100 "'kern' Horizontal Kerning lookup 0 subtable" 586 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

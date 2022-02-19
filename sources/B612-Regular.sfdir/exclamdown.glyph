@@ -1,0 +1,75 @@
+StartChar: exclamdown
+Encoding: 258 161 258
+GlifName: exclamdown
+Width: 700
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+195 -399 m 257
+NamedP: "sh02"
+ 195 672 l 257
+ 405 651 l 257
+ 405 -399 l 257
+NamedP: "sh01"
+ 195 -399 l 257
+NamedP: "sh02"
+169 981 m 257
+NamedP: "dh01"
+ 169 1008 169 1008 179.5 1032.5 c 128
+ 190 1057 190 1057 208 1075 c 128
+ 226 1093 226 1093 250 1104 c 128
+ 274 1115 274 1115 302 1115 c 257
+NamedP: "at01"
+ 329 1115 329 1115 352.5 1104 c 128
+ 376 1093 376 1093 393.5 1075 c 128
+ 411 1057 411 1057 421.5 1032.5 c 128
+ 432 1008 432 1008 432 981 c 257
+NamedP: "dh02"
+ 432 954 432 954 421.5 930 c 128
+ 411 906 411 906 393 888 c 128
+ 375 870 375 870 351 859.5 c 128
+ 327 849 327 849 300 849 c 257
+ 273 849 273 849 249.5 859.5 c 128
+ 226 870 226 870 208 888 c 128
+ 190 906 190 906 179.5 930 c 128
+ 169 954 169 954 169 981 c 257
+NamedP: "dh01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"sh02\">\\u000a            <hstem pos=\"1115\" width=\"-266\"/>\\u000a            <vstem pos=\"169\" width=\"263\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"doubleh\" point1=\"dh01\" point2=\"dh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"singleh\" point1=\"dh02\" point2=\"sh01\"/>\\u000a          <ttc code=\"singleh\" point1=\"sh01\" point2=\"sh02\" stem=\"X: 208\"/>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

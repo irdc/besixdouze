@@ -1,0 +1,20 @@
+StartChar: Tau
+Encoding: 78 932 78
+GlifName: T_au
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+424 0 m 257
+ 648 1272 l 257
+ 254 1272 l 257
+ 294 1500 l 257
+ 1414 1500 l 257
+ 1374 1272 l 257
+ 984 1272 l 257
+ 760 0 l 257
+ 424 0 l 257
+EndSplineSet
+EndChar

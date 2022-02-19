@@ -1,0 +1,54 @@
+StartChar: minus
+Encoding: 322 8722 322
+GlifName: minus
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+219 700 m 257
+NamedP: "av01"
+ 1119 700 l 257
+NamedP: "sv01"
+ 1080 476 l 257
+ 180 476 l 257
+ 219 700 l 257
+NamedP: "av01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"av01\">\\u000a            <hstem pos=\"88\" width=\"-21\"/>\\u000a            <hstem pos=\"440\" width=\"155\"/>\\u000a            <hstem pos=\"968\" width=\"-20\"/>\\u000a            <vstem pos=\"472\" width=\"155\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"singlev\" point1=\"av01\" point2=\"sv01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

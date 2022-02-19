@@ -1,0 +1,40 @@
+StartChar: leftceiling
+Encoding: 331 8968 331
+GlifName: leftceiling
+Width: 800
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+300 0 m 257
+NamedP: "hr00"
+ 100 0 l 257
+ 100 1500 l 257
+ 700 1500 l 257
+ 700 1350 l 257
+ 300 1350 l 257
+ 300 0 l 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"21\" width=\"-21\"/>\\u000a            <hstem pos=\"1350\" width=\"150\"/>\\u000a            <vstem pos=\"100\" width=\"200\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

@@ -1,0 +1,24 @@
+StartChar: mailout
+Encoding: 348 57444 348
+GlifName: mailout
+Width: 2100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1544 849 m 257
+ 1621 819 l 257
+ 1600 885 l 257
+ 1600 1100 l 257
+ 2000 749 l 257
+ 1600 399 l 257
+ 1600 612 l 257
+ 1621 677 l 257
+ 1544 649 l 257
+ 1300 649 l 257
+ 1300 849 l 257
+ 1544 849 l 257
+EndSplineSet
+Refer: 346 9993 N 1 0 0 1 0 300 2
+EndChar

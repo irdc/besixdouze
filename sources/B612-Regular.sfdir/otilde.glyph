@@ -1,0 +1,11 @@
+StartChar: otilde
+Encoding: 396 245 396
+GlifName: otilde
+Width: 1200
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 373 111 N 1 0 0 1 0 0 2
+Refer: 527 732 N 1 0 0 1 150 -60 2
+EndChar

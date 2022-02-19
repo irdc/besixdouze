@@ -1,0 +1,68 @@
+StartChar: periodcentered
+Encoding: 372 183 372
+GlifName: periodcentered
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+103 683 m 257
+NamedP: "ah01"
+ 103 724 103 724 118.5 760 c 128
+ 134 796 134 796 161 823 c 128
+ 188 850 188 850 223.5 865.5 c 128
+ 259 881 259 881 300 881 c 257
+NamedP: "av01"
+ 341 881 341 881 377 865.5 c 128
+ 413 850 413 850 440 823 c 128
+ 467 796 467 796 482.5 760 c 128
+ 498 724 498 724 498 683 c 257
+NamedP: "ah02"
+ 498 642 498 642 482.5 605.5 c 128
+ 467 569 467 569 440.5 542 c 128
+ 414 515 414 515 378 499 c 128
+ 342 483 342 483 302 483 c 257
+NamedP: "ab01"
+ 261 483 261 483 224.5 499 c 128
+ 188 515 188 515 161 542 c 128
+ 134 569 134 569 118.5 605.5 c 128
+ 103 642 103 642 103 683 c 257
+NamedP: "ah01"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ah01\">\\u000a            <hstem pos=\"483\" width=\"398\"/>\\u000a            <vstem pos=\"103\" width=\"395\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah01\"/>\\u000a          <ttc align=\"round\" code=\"alignh\" point=\"ah02\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"av01\"/>\\u000a          <ttc align=\"round\" code=\"alignv\" point=\"ab01\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

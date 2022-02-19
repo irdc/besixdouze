@@ -1,0 +1,22 @@
+StartChar: whiterightpointingsmall
+Encoding: 573 9657 573
+GlifName: whiterightpointingsmall
+Width: 900
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+700 700 m 257
+ 199 991 l 257
+ 216 700 l 257
+ 199 410 l 257
+ 700 700 l 257
+540 700 m 257
+ 287 554 l 257
+ 296 695 l 257
+ 296 705 l 257
+ 287 847 l 257
+ 540 700 l 257
+EndSplineSet
+EndChar

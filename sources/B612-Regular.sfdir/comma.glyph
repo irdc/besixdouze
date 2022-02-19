@@ -1,0 +1,54 @@
+StartChar: comma
+Encoding: 203 44 203
+GlifName: comma
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+102 133 m 257
+NamedP: "hr00"
+ 102 162 102 162 113.5 188.5 c 128
+ 125 215 125 215 145.5 234 c 128
+ 166 253 166 253 193 265 c 128
+ 220 277 220 277 250 277 c 257
+ 279 277 279 277 305.5 266.5 c 128
+ 332 256 332 256 352.5 236 c 128
+ 373 216 373 216 385.5 185.5 c 128
+ 398 155 398 155 398 116 c 257
+ 398 63 398 63 391.5 13.5 c 128
+ 385 -36 385 -36 364.5 -87 c 128
+ 344 -138 344 -138 306 -191 c 128
+ 268 -244 268 -244 206 -301 c 257
+ 154 -278 l 257
+ 177 -234 177 -234 195 -187 c 257
+ 210 -148 210 -148 222.5 -101.5 c 128
+ 235 -55 235 -55 235 -11 c 257
+ 210 -10 210 -10 186 0 c 128
+ 162 10 162 10 143 27.5 c 128
+ 124 45 124 45 113 72 c 128
+ 102 99 102 99 102 133 c 257
+NamedP: "hr00"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"hr00\">\\u000a            <hstem pos=\"277\" width=\"-288\"/>\\u000a            <vstem pos=\"102\" width=\"296\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

@@ -1,0 +1,29 @@
+StartChar: x
+Encoding: 580 120 580
+GlifName: x
+Width: 1100
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+644 272 m 257
+ 614 474 l 257
+ 510 272 l 257
+ 295 0 l 257
+ -34 0 l 257
+ 480 585 l 257
+ 213 1093 l 257
+ 550 1120 l 257
+ 652 900 l 257
+ 679 699 l 257
+ 774 900 l 257
+ 948 1096 l 257
+ 1299 1124 l 257
+ 823 581 l 257
+ 1129 0 l 257
+ 778 0 l 257
+ 644 272 l 257
+EndSplineSet
+Kerns2: 97 -100 "'kern' Horizontal Kerning lookup 0 subtable" 98 -100 "'kern' Horizontal Kerning lookup 0 subtable" 99 100 "'kern' Horizontal Kerning lookup 0 subtable" 232 50 "'kern' Horizontal Kerning lookup 0 subtable" 233 50 "'kern' Horizontal Kerning lookup 0 subtable" 234 50 "'kern' Horizontal Kerning lookup 0 subtable" 235 50 "'kern' Horizontal Kerning lookup 0 subtable" 261 100 "'kern' Horizontal Kerning lookup 0 subtable" 463 100 "'kern' Horizontal Kerning lookup 0 subtable" 465 100 "'kern' Horizontal Kerning lookup 0 subtable" 511 50 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

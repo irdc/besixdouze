@@ -1,0 +1,80 @@
+StartChar: plusminus
+Encoding: 385 177 385
+GlifName: plusminus
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+179 862 m 257
+NamedP: "mv01"
+ 539 862 l 257
+NamedP: "mv02"
+ 539 1196 l 257
+NamedP: "mv03"
+ 759 1196 l 257
+NamedP: "mh01"
+ 759 862 l 257
+NamedP: "mh02"
+ 1119 862 l 257
+NamedP: "mv04"
+ 1119 702 l 257
+ 759 702 l 257
+NamedP: "ih01"
+ 759 382 l 257
+NamedP: "ih02"
+ 539 382 l 257
+NamedP: "ih05"
+ 539 702 l 257
+NamedP: "ih06"
+ 179 702 l 257
+ 179 862 l 257
+NamedP: "mv01"
+200 290 m 257
+NamedP: "mh04"
+ 1100 290 l 257
+NamedP: "mh03"
+ 1100 88 l 257
+NamedP: "ih03"
+ 200 88 l 257
+NamedP: "ih04"
+ 200 290 l 257
+NamedP: "mh04"
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.adobe.type.autohint
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <hintSetList>\\u000a          <hintset pointTag=\"ih04\">\\u000a            <hstem pos=\"88\" width=\"202\"/>\\u000a          </hintset>\\u000a        </hintSetList>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+sVcom.fontlab.ttprogram
+p11
+(g2
+(Vdata
+p12
+g4
+tp13
+Rp14
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"mh01\" ppm1=\"25\" ppm2=\"25\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-6\" point=\"mh01\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-6\" point=\"mh02\" ppm1=\"25\" ppm2=\"25\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-6\" point=\"mh02\" ppm1=\"18\" ppm2=\"18\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"3\" point=\"mh03\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"mh04\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih01\" point1=\"mh03\" point2=\"mh04\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"8\" point=\"ih01\" ppm1=\"36\" ppm2=\"36\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"5\" point=\"ih01\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"4\" point=\"ih01\" ppm1=\"17\" ppm2=\"17\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih02\" point1=\"ih03\" point2=\"ih04\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"8\" point=\"ih02\" ppm1=\"36\" ppm2=\"36\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"2\" point=\"ih02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih05\" point1=\"ih04\" point2=\"ih03\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"ih05\" ppm1=\"40\" ppm2=\"40\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"ih05\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"interpolateh\" point=\"ih06\" point1=\"mh04\" point2=\"mh03\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"ih06\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-3\" point=\"ih06\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-5\" point=\"ih06\" ppm1=\"40\" ppm2=\"40\"/>\\u000a          <ttc code=\"mdeltah\" delta=\"-8\" point=\"ih06\" ppm1=\"27\" ppm2=\"27\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-6\" point=\"mv01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"mv02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mv03\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"8\" point=\"mh01\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"mh02\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"-5\" point=\"mv04\" ppm1=\"13\" ppm2=\"13\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"ih02\" ppm1=\"22\" ppm2=\"22\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"ih06\" ppm1=\"28\" ppm2=\"28\"/>\\u000a          <ttc code=\"mdeltav\" delta=\"1\" point=\"mh04\" ppm1=\"27\" ppm2=\"27\"/>\\u000a        </ttProgram>\\u000a      </data>
+p15
+g4
+tp16
+Rp17
+Ntp18
+s."
+EndChar

@@ -1,0 +1,12 @@
+StartChar: Aring
+Encoding: 8 197 8
+GlifName: A_ring
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+Refer: 461 730 N 1 0 0 1 180 245 2
+Kerns2: 41 100 "'kern' Horizontal Kerning lookup 0 subtable" 77 -100 "'kern' Horizontal Kerning lookup 0 subtable" 86 -100 "'kern' Horizontal Kerning lookup 0 subtable" 87 -100 "'kern' Horizontal Kerning lookup 0 subtable" 88 -100 "'kern' Horizontal Kerning lookup 0 subtable" 89 -100 "'kern' Horizontal Kerning lookup 0 subtable" 92 -100 "'kern' Horizontal Kerning lookup 0 subtable" 93 -100 "'kern' Horizontal Kerning lookup 0 subtable" 97 -100 "'kern' Horizontal Kerning lookup 0 subtable" 98 -100 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

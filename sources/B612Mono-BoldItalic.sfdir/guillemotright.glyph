@@ -1,0 +1,57 @@
+StartChar: guillemotright
+Encoding: 272 187 272
+GlifName: guillemotright
+Width: 1300
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+789 619 m 257
+ 764 476 l 257
+ 122 -13 l 257
+NamedP: "ab01"
+ 70 224 l 257
+ 455 517 l 257
+ 535 550 l 257
+NamedP: "iv01"
+ 466 582 l 257
+ 187 880 l 257
+ 316 1106 l 257
+NamedP: "at01"
+ 789 619 l 257
+1289 619 m 257
+ 1264 476 l 257
+ 622 -13 l 257
+NamedP: "ab02"
+ 570 224 l 257
+ 955 517 l 257
+ 1035 550 l 257
+NamedP: "iv02"
+ 966 582 l 257
+ 687 880 l 257
+ 816 1106 l 257
+NamedP: "at02"
+ 1289 619 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.ttprogram
+p1
+(c_codecs
+encode
+p2
+(Vdata
+p3
+Vlatin1
+p4
+tp5
+Rp6
+g2
+(V<data>\\u000a        <ttProgram>\\u000a          <ttc code=\"alignt\" point=\"at01\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab01\" zone=\"b: 0\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv01\" point1=\"at01\" point2=\"ab01\"/>\\u000a          <ttc code=\"alignt\" point=\"at02\" zone=\"t: x\"/>\\u000a          <ttc code=\"alignb\" point=\"ab02\" zone=\"b: 0\"/>\\u000a          <ttc code=\"interpolatev\" point=\"iv02\" point1=\"at02\" point2=\"ab02\"/>\\u000a        </ttProgram>\\u000a      </data>
+p7
+g4
+tp8
+Rp9
+Ntp10
+s."
+EndChar

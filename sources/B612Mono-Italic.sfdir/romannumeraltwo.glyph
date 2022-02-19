@@ -1,0 +1,37 @@
+StartChar: romannumeraltwo
+Encoding: 432 8545 432
+GlifName: romannumeraltwo
+Width: 2600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+356 1500 m 257
+ 1256 1500 l 257
+ 1227 1360 l 257
+ 883 1360 l 257
+ 672 160 l 257
+ 1006 160 l 257
+ 1006 0 l 257
+ 68 0 l 257
+ 116 160 l 257
+ 462 160 l 257
+ 673 1360 l 257
+ 356 1360 l 257
+ 356 1500 l 257
+738 1500 m 257
+ 1638 1500 l 257
+ 1615 1361 l 257
+ 1257 1361 l 257
+ 1043 160 l 257
+ 1421 160 l 257
+ 1373 0 l 257
+ 473 0 l 257
+ 501 160 l 257
+ 857 160 l 257
+ 1071 1361 l 257
+ 695 1361 l 257
+ 738 1500 l 257
+EndSplineSet
+EndChar
