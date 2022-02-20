@@ -5,7 +5,6 @@ FamilyName: B612 Mono
 Weight: Bold
 Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com)
 Version: 1.8
-StyleMapFamilyName: B612
 FONDName: B612
 ItalicAngle: -10
 UnderlinePosition: -250
@@ -24,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1645275667
-ModificationTime: 1645275667
+ModificationTime: 1645371251
 PfmFamily: 16
 TTFWeight: 700
 TTFWidth: 5
@@ -1735,7 +1734,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 21 11
+WinInfo: 273 21 11
 BeginPrivate: 8
 BlueFuzz 1 1
 BlueScale 8 0.039625

@@ -7,12 +7,12 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-209 -150 m 257
+209 -150 m 257,0,-1
 NamedP: "hr00"
- 659 -150 l 257
- 640 -262 l 257
- 190 -262 l 257
- 209 -150 l 257
+ 659 -150 l 257,1,-1
+ 640 -262 l 257,2,-1
+ 190 -262 l 257,3,-1
+ 209 -150 l 257,0,-1
 NamedP: "hr00"
 EndSplineSet
 PickledDataWithLists: "(dp0

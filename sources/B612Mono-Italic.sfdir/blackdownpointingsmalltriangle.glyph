@@ -7,9 +7,9 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-650 470 m 257
- 1035 1100 l 257
- 265 1100 l 257
- 650 470 l 257
+650 470 m 257,0,-1
+ 1035 1100 l 257,1,-1
+ 265 1100 l 257,2,-1
+ 650 470 l 257,0,-1
 EndSplineSet
 EndChar

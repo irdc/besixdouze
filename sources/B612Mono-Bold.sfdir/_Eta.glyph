@@ -7,31 +7,31 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-801 0 m 257
+801 0 m 257,0,-1
 NamedP: "ah01"
- 801 688 l 257
+ 801 688 l 257,1,-1
 NamedP: "dv02"
- 355 688 l 257
+ 355 688 l 257,2,-1
 NamedP: "dv04"
- 355 0 l 257
+ 355 0 l 257,3,-1
 NamedP: "sh02"
- 8 0 l 257
+ 8 0 l 257,4,-1
 NamedP: "sh01"
- 8 1263 l 257
- -23 1500 l 257
- 355 1520 l 257
+ 8 1263 l 257,5,-1
+ -23 1500 l 257,6,-1
+ 355 1520 l 257,7,-1
 NamedP: "sh03"
- 355 916 l 257
+ 355 916 l 257,8,-1
 NamedP: "dv03"
- 801 916 l 257
+ 801 916 l 257,9,-1
 NamedP: "dv01"
- 801 1500 l 257
+ 801 1500 l 257,10,-1
 NamedP: "sh04"
- 1147 1520 l 257
+ 1147 1520 l 257,11,-1
 NamedP: "at01"
- 1147 0 l 257
+ 1147 0 l 257,12,-1
 NamedP: "sh05"
- 801 0 l 257
+ 801 0 l 257,0,-1
 NamedP: "ah01"
 EndSplineSet
 PickledDataWithLists: "(dp0

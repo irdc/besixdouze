@@ -7,18 +7,18 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-168 1500 m 257
- 415 1520 l 257
+168 1500 m 257,0,-1
+ 415 1520 l 257,1,-1
 NamedP: "at01"
- 465 1232 l 257
+ 465 1232 l 257,2,-1
 NamedP: "sv02"
- 590 885 l 257
+ 590 885 l 257,3,-1
 NamedP: "sv01"
- 437 885 l 257
+ 437 885 l 257,4,-1
 NamedP: "av02"
- 216 1230 l 257
+ 216 1230 l 257,5,-1
 NamedP: "av01"
- 168 1500 l 257
+ 168 1500 l 257,0,-1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.ttprogram

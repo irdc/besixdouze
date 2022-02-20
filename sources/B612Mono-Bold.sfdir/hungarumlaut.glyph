@@ -7,24 +7,24 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-336 1496 m 257
+336 1496 m 257,0,-1
 NamedP: "hr02"
- 667 1518 l 257
+ 667 1518 l 257,1,-1
 NamedP: "hr01"
- 385 1117 l 257
+ 385 1117 l 257,2,-1
 NamedP: "sh01"
- 156 1117 l 257
+ 156 1117 l 257,3,-1
 NamedP: "ah01"
- 336 1496 l 257
+ 336 1496 l 257,0,-1
 NamedP: "hr02"
-699 1496 m 257
- 1030 1518 l 257
+699 1496 m 257,4,-1
+ 1030 1518 l 257,5,-1
 NamedP: "hr03"
- 748 1117 l 257
+ 748 1117 l 257,6,-1
 NamedP: "sh03"
- 519 1117 l 257
+ 519 1117 l 257,7,-1
 NamedP: "sh02"
- 699 1496 l 257
+ 699 1496 l 257,4,-1
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.adobe.type.autohint
