@@ -1,12 +1,12 @@
 SplineFontDB: 3.2
-FontName: B612-BoldItalic
-FullName: B612 Bold Italic
-FamilyName: B612
-Weight: Bold
-Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com)
-Version: 1.8
-StyleMapFamilyName: B612
-FONDName: B612 Bold Italic
+FontName: BesixdouzeSans-Italic
+FullName: Besixdouze Sans Italic
+FamilyName: Besixdouze Sans
+Weight: Normal
+Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com); Copyright (c) 2022, Willemijn Coene
+Version: 0.1
+StyleMapFamilyName: Besixdouze Sans
+FONDName: Besixdouze
 ItalicAngle: -10
 UnderlinePosition: -250
 UnderlineWidth: 100
@@ -19,15 +19,15 @@ LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
 PreferredKerning: 1
-StyleMap: 0x0021
+StyleMap: 0x0001
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1645275508
-ModificationTime: 1645275508
+CreationTime: 1645275570
+ModificationTime: 1645275570
 PfmFamily: 16
-TTFWeight: 700
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -63,87 +63,67 @@ OS2CodePages: 20000011.81d40000
 OS2UnicodeRanges: 800000af.5000e0fb.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
 DEI: 91125
-KernClass3: 12 12 "'kern' Horizontal Kerning lookup 0 subtable"
+KernClass3: 12 11 "'kern' Horizontal Kerning lookup 0 subtable"
  10 "@MMK_L_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring"
  10 "@MMK_L_B" "B germandbls"
  10 "@MMK_L_C" "C Ccedilla"
- 10 "@MMK_L_E" "E AE Egrave Eacute Ecircumflex Edieresis OE"
  10 "@MMK_L_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash"
- 10 "@MMK_L_S" "S Scaron"
+ 10 "@MMK_L_U" "U Ugrave Uacute Ucircumflex Udieresis"
  10 "@MMK_L_Y" "Y Yacute Ydieresis"
  10 "@MMK_L_a" "a agrave aacute acircumflex atilde adieresis aring"
  10 "@MMK_L_c" "c ccedilla"
  10 "@MMK_L_n" "n ntilde"
  10 "@MMK_L_u" "u ugrave uacute ucircumflex udieresis"
+ 10 "@MMK_L_y" "y yacute ydieresis"
  10 "@MMK_R_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring AE"
  10 "@MMK_R_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE"
- 10 "@MMK_R_S" "S Scaron"
+ 10 "@MMK_R_U" "U Ugrave Uacute Ucircumflex Udieresis"
  10 "@MMK_R_Y" "Y Yacute Ydieresis"
  10 "@MMK_R_a" "a agrave aacute acircumflex atilde adieresis aring"
  10 "@MMK_R_c" "c ccedilla"
- 10 "@MMK_R_e" "e egrave eacute ecircumflex edieresis"
  10 "@MMK_R_i" "i igrave iacute icircumflex idieresis"
  10 "@MMK_R_n" "n ntilde"
  10 "@MMK_R_u" "u ugrave uacute ucircumflex udieresis"
  10 "@MMK_R_y" "y yacute ydieresis"
- 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -50 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -50 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -150 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 100 {} 2 100 {} 2 100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 2 100 {} 2 -100 {} 2 50 {} 2 50 {} 2 50 {} 2 50 {} 2 50 {} 2 50 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {}
+ 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 2 -50 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -200 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 2 -100 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {} 0 0 {}
 Group: "@MMK_L_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring"
 Group: "@MMK_L_B" "B germandbls"
 Group: "@MMK_L_C" "C Ccedilla"
-Group: "@MMK_L_E" "E AE Egrave Eacute Ecircumflex Edieresis OE"
 Group: "@MMK_L_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash"
-Group: "@MMK_L_S" "S Scaron"
+Group: "@MMK_L_U" "U Ugrave Uacute Ucircumflex Udieresis"
 Group: "@MMK_L_Y" "Y Yacute Ydieresis"
 Group: "@MMK_L_a" "a agrave aacute acircumflex atilde adieresis aring"
 Group: "@MMK_L_c" "c ccedilla"
 Group: "@MMK_L_n" "n ntilde"
 Group: "@MMK_L_u" "u ugrave uacute ucircumflex udieresis"
+Group: "@MMK_L_y" "y yacute ydieresis"
 Group: "@MMK_R_A" "A Agrave Aacute Acircumflex Atilde Adieresis Aring AE"
 Group: "@MMK_R_O" "O Ograve Oacute Ocircumflex Otilde Odieresis Oslash OE"
-Group: "@MMK_R_S" "S Scaron"
+Group: "@MMK_R_U" "U Ugrave Uacute Ucircumflex Udieresis"
 Group: "@MMK_R_Y" "Y Yacute Ydieresis"
 Group: "@MMK_R_a" "a agrave aacute acircumflex atilde adieresis aring"
 Group: "@MMK_R_c" "c ccedilla"
-Group: "@MMK_R_e" "e egrave eacute ecircumflex edieresis"
 Group: "@MMK_R_i" "i igrave iacute icircumflex idieresis"
 Group: "@MMK_R_n" "n ntilde"
 Group: "@MMK_R_u" "u ugrave uacute ucircumflex udieresis"
 Group: "@MMK_R_y" "y yacute ydieresis"
-GroupKern: "@MMK_L_A" "@MMK_R_O" -50
+GroupKern: "@MMK_L_A" "@MMK_R_U" -100
 GroupKern: "@MMK_L_A" "@MMK_R_Y" -100
-GroupKern: "@MMK_L_A" "B" 50
-GroupKern: "@MMK_L_A" "E" 50
-GroupKern: "@MMK_L_A" "Eacute" 50
-GroupKern: "@MMK_L_A" "Ecircumflex" 50
-GroupKern: "@MMK_L_A" "Edieresis" 50
-GroupKern: "@MMK_L_A" "Egrave" 50
-GroupKern: "@MMK_L_A" "J" 50
-GroupKern: "@MMK_L_A" "OE" -50
-GroupKern: "@MMK_L_A" "Oacute" -50
-GroupKern: "@MMK_L_A" "Ocircumflex" -50
-GroupKern: "@MMK_L_A" "Odieresis" -50
-GroupKern: "@MMK_L_A" "Ograve" -50
-GroupKern: "@MMK_L_A" "Oslash" -50
-GroupKern: "@MMK_L_A" "Otilde" -50
-GroupKern: "@MMK_L_A" "Q" -50
+GroupKern: "@MMK_L_A" "J" 100
 GroupKern: "@MMK_L_A" "T" -100
+GroupKern: "@MMK_L_A" "Uacute" -100
+GroupKern: "@MMK_L_A" "Ucircumflex" -100
+GroupKern: "@MMK_L_A" "Udieresis" -100
+GroupKern: "@MMK_L_A" "Ugrave" -100
 GroupKern: "@MMK_L_A" "V" -100
 GroupKern: "@MMK_L_A" "W" -100
 GroupKern: "@MMK_L_A" "Yacute" -100
 GroupKern: "@MMK_L_A" "Ydieresis" -100
-GroupKern: "@MMK_L_A" "Z" 50
-GroupKern: "@MMK_L_A" "w" -100
 GroupKern: "@MMK_L_B" "@MMK_R_O" -100
-GroupKern: "@MMK_L_B" "@MMK_R_S" -100
 GroupKern: "@MMK_L_B" "@MMK_R_Y" -100
 GroupKern: "@MMK_L_B" "@MMK_R_i" -100
 GroupKern: "@MMK_L_B" "@MMK_R_u" -100
 GroupKern: "@MMK_L_B" "@MMK_R_y" -100
-GroupKern: "@MMK_L_B" "I" -50
-GroupKern: "@MMK_L_B" "Iacute" -50
-GroupKern: "@MMK_L_B" "Icircumflex" -50
-GroupKern: "@MMK_L_B" "Idieresis" -50
-GroupKern: "@MMK_L_B" "Igrave" -50
 GroupKern: "@MMK_L_B" "OE" -100
 GroupKern: "@MMK_L_B" "Oacute" -100
 GroupKern: "@MMK_L_B" "Ocircumflex" -100
@@ -151,19 +131,19 @@ GroupKern: "@MMK_L_B" "Odieresis" -100
 GroupKern: "@MMK_L_B" "Ograve" -100
 GroupKern: "@MMK_L_B" "Oslash" -100
 GroupKern: "@MMK_L_B" "Otilde" -100
-GroupKern: "@MMK_L_B" "Q" -50
+GroupKern: "@MMK_L_B" "S" -100
 GroupKern: "@MMK_L_B" "Scaron" -100
-GroupKern: "@MMK_L_B" "T" -100
+GroupKern: "@MMK_L_B" "T" -200
 GroupKern: "@MMK_L_B" "V" -100
 GroupKern: "@MMK_L_B" "W" -100
 GroupKern: "@MMK_L_B" "Yacute" -100
 GroupKern: "@MMK_L_B" "Ydieresis" -100
-GroupKern: "@MMK_L_B" "g" -100
-GroupKern: "@MMK_L_B" "h" -50
+GroupKern: "@MMK_L_B" "b" -100
 GroupKern: "@MMK_L_B" "iacute" -100
 GroupKern: "@MMK_L_B" "icircumflex" -100
 GroupKern: "@MMK_L_B" "idieresis" -100
 GroupKern: "@MMK_L_B" "igrave" -100
+GroupKern: "@MMK_L_B" "j" -100
 GroupKern: "@MMK_L_B" "k" -100
 GroupKern: "@MMK_L_B" "m" -100
 GroupKern: "@MMK_L_B" "p" -100
@@ -173,69 +153,43 @@ GroupKern: "@MMK_L_B" "udieresis" -100
 GroupKern: "@MMK_L_B" "ugrave" -100
 GroupKern: "@MMK_L_B" "yacute" -100
 GroupKern: "@MMK_L_B" "ydieresis" -100
-GroupKern: "@MMK_L_C" "@MMK_R_a" -50
+GroupKern: "@MMK_L_C" "@MMK_R_O" -100
 GroupKern: "@MMK_L_C" "@MMK_R_u" -100
-GroupKern: "@MMK_L_C" "aacute" -50
-GroupKern: "@MMK_L_C" "acircumflex" -50
-GroupKern: "@MMK_L_C" "adieresis" -50
-GroupKern: "@MMK_L_C" "agrave" -50
-GroupKern: "@MMK_L_C" "aring" -50
-GroupKern: "@MMK_L_C" "atilde" -50
-GroupKern: "@MMK_L_C" "d" -100
-GroupKern: "@MMK_L_C" "g" -100
+GroupKern: "@MMK_L_C" "OE" -100
+GroupKern: "@MMK_L_C" "Oacute" -100
+GroupKern: "@MMK_L_C" "Ocircumflex" -100
+GroupKern: "@MMK_L_C" "Odieresis" -100
+GroupKern: "@MMK_L_C" "Ograve" -100
+GroupKern: "@MMK_L_C" "Oslash" -100
+GroupKern: "@MMK_L_C" "Otilde" -100
 GroupKern: "@MMK_L_C" "uacute" -100
 GroupKern: "@MMK_L_C" "ucircumflex" -100
 GroupKern: "@MMK_L_C" "udieresis" -100
 GroupKern: "@MMK_L_C" "ugrave" -100
-GroupKern: "@MMK_L_E" "@MMK_R_O" -100
-GroupKern: "@MMK_L_E" "@MMK_R_u" -100
-GroupKern: "@MMK_L_E" "OE" -100
-GroupKern: "@MMK_L_E" "Oacute" -100
-GroupKern: "@MMK_L_E" "Ocircumflex" -100
-GroupKern: "@MMK_L_E" "Odieresis" -100
-GroupKern: "@MMK_L_E" "Ograve" -100
-GroupKern: "@MMK_L_E" "Oslash" -100
-GroupKern: "@MMK_L_E" "Otilde" -100
-GroupKern: "@MMK_L_E" "V" -100
-GroupKern: "@MMK_L_E" "d" -100
-GroupKern: "@MMK_L_E" "g" -100
-GroupKern: "@MMK_L_E" "uacute" -100
-GroupKern: "@MMK_L_E" "ucircumflex" -100
-GroupKern: "@MMK_L_E" "udieresis" -100
-GroupKern: "@MMK_L_E" "ugrave" -100
-GroupKern: "@MMK_L_O" "@MMK_R_Y" -150
-GroupKern: "@MMK_L_O" "@MMK_R_i" -100
+GroupKern: "@MMK_L_O" "@MMK_R_Y" -100
+GroupKern: "@MMK_L_O" "@MMK_R_i" -50
 GroupKern: "@MMK_L_O" "T" -100
 GroupKern: "@MMK_L_O" "V" -100
 GroupKern: "@MMK_L_O" "W" -100
 GroupKern: "@MMK_L_O" "X" -100
-GroupKern: "@MMK_L_O" "Yacute" -150
-GroupKern: "@MMK_L_O" "Ydieresis" -150
-GroupKern: "@MMK_L_O" "h" -100
-GroupKern: "@MMK_L_O" "iacute" -100
-GroupKern: "@MMK_L_O" "icircumflex" -100
-GroupKern: "@MMK_L_O" "idieresis" -100
-GroupKern: "@MMK_L_O" "igrave" -100
-GroupKern: "@MMK_L_O" "j" -100
-GroupKern: "@MMK_L_S" "@MMK_R_a" 100
-GroupKern: "@MMK_L_S" "@MMK_R_c" 100
-GroupKern: "@MMK_L_S" "@MMK_R_e" 100
-GroupKern: "@MMK_L_S" "aacute" 100
-GroupKern: "@MMK_L_S" "acircumflex" 100
-GroupKern: "@MMK_L_S" "adieresis" 100
-GroupKern: "@MMK_L_S" "agrave" 100
-GroupKern: "@MMK_L_S" "aring" 100
-GroupKern: "@MMK_L_S" "atilde" 100
-GroupKern: "@MMK_L_S" "ccedilla" 100
-GroupKern: "@MMK_L_S" "eacute" 100
-GroupKern: "@MMK_L_S" "ecircumflex" 100
-GroupKern: "@MMK_L_S" "edieresis" 100
-GroupKern: "@MMK_L_S" "egrave" 100
+GroupKern: "@MMK_L_O" "Yacute" -100
+GroupKern: "@MMK_L_O" "Ydieresis" -100
+GroupKern: "@MMK_L_O" "iacute" -50
+GroupKern: "@MMK_L_O" "icircumflex" -50
+GroupKern: "@MMK_L_O" "idieresis" -50
+GroupKern: "@MMK_L_O" "igrave" -50
+GroupKern: "@MMK_L_U" "@MMK_R_A" -100
+GroupKern: "@MMK_L_U" "AE" -100
+GroupKern: "@MMK_L_U" "Aacute" -100
+GroupKern: "@MMK_L_U" "Acircumflex" -100
+GroupKern: "@MMK_L_U" "Adieresis" -100
+GroupKern: "@MMK_L_U" "Agrave" -100
+GroupKern: "@MMK_L_U" "Aring" -100
+GroupKern: "@MMK_L_U" "Atilde" -100
 GroupKern: "@MMK_L_Y" "@MMK_R_A" -100
 GroupKern: "@MMK_L_Y" "@MMK_R_O" -100
 GroupKern: "@MMK_L_Y" "@MMK_R_a" -100
 GroupKern: "@MMK_L_Y" "@MMK_R_c" -100
-GroupKern: "@MMK_L_Y" "@MMK_R_e" -100
 GroupKern: "@MMK_L_Y" "@MMK_R_i" -100
 GroupKern: "@MMK_L_Y" "@MMK_R_n" -100
 GroupKern: "@MMK_L_Y" "@MMK_R_u" -100
@@ -254,6 +208,7 @@ GroupKern: "@MMK_L_Y" "Odieresis" -100
 GroupKern: "@MMK_L_Y" "Ograve" -100
 GroupKern: "@MMK_L_Y" "Oslash" -100
 GroupKern: "@MMK_L_Y" "Otilde" -100
+GroupKern: "@MMK_L_Y" "Q" -100
 GroupKern: "@MMK_L_Y" "aacute" -100
 GroupKern: "@MMK_L_Y" "acircumflex" -100
 GroupKern: "@MMK_L_Y" "adieresis" -100
@@ -262,17 +217,27 @@ GroupKern: "@MMK_L_Y" "aring" -100
 GroupKern: "@MMK_L_Y" "atilde" -100
 GroupKern: "@MMK_L_Y" "ccedilla" -100
 GroupKern: "@MMK_L_Y" "d" -100
-GroupKern: "@MMK_L_Y" "eacute" -100
-GroupKern: "@MMK_L_Y" "ecircumflex" -100
-GroupKern: "@MMK_L_Y" "edieresis" -100
-GroupKern: "@MMK_L_Y" "egrave" -100
+GroupKern: "@MMK_L_Y" "e" -150
+GroupKern: "@MMK_L_Y" "eacute" -150
+GroupKern: "@MMK_L_Y" "ecircumflex" -150
+GroupKern: "@MMK_L_Y" "edieresis" -150
+GroupKern: "@MMK_L_Y" "egrave" -150
 GroupKern: "@MMK_L_Y" "g" -100
 GroupKern: "@MMK_L_Y" "iacute" -100
 GroupKern: "@MMK_L_Y" "icircumflex" -100
 GroupKern: "@MMK_L_Y" "idieresis" -100
 GroupKern: "@MMK_L_Y" "igrave" -100
+GroupKern: "@MMK_L_Y" "j" -100
 GroupKern: "@MMK_L_Y" "m" -100
 GroupKern: "@MMK_L_Y" "ntilde" -100
+GroupKern: "@MMK_L_Y" "o" -100
+GroupKern: "@MMK_L_Y" "oacute" -100
+GroupKern: "@MMK_L_Y" "ocircumflex" -100
+GroupKern: "@MMK_L_Y" "odieresis" -100
+GroupKern: "@MMK_L_Y" "oe" -100
+GroupKern: "@MMK_L_Y" "ograve" -100
+GroupKern: "@MMK_L_Y" "oslash" -100
+GroupKern: "@MMK_L_Y" "otilde" -100
 GroupKern: "@MMK_L_Y" "p" -100
 GroupKern: "@MMK_L_Y" "q" -100
 GroupKern: "@MMK_L_Y" "r" -100
@@ -286,84 +251,46 @@ GroupKern: "@MMK_L_Y" "x" -100
 GroupKern: "@MMK_L_Y" "yacute" -100
 GroupKern: "@MMK_L_Y" "ydieresis" -100
 GroupKern: "@MMK_L_Y" "z" -100
-GroupKern: "@MMK_L_a" "@MMK_R_S" 100
 GroupKern: "@MMK_L_a" "@MMK_R_Y" -100
-GroupKern: "@MMK_L_a" "@MMK_R_a" 50
-GroupKern: "@MMK_L_a" "@MMK_R_c" 50
-GroupKern: "@MMK_L_a" "@MMK_R_e" 50
-GroupKern: "@MMK_L_a" "@MMK_R_i" 50
-GroupKern: "@MMK_L_a" "@MMK_R_n" 50
-GroupKern: "@MMK_L_a" "@MMK_R_u" 50
-GroupKern: "@MMK_L_a" "G" 100
-GroupKern: "@MMK_L_a" "J" 100
-GroupKern: "@MMK_L_a" "P" 50
-GroupKern: "@MMK_L_a" "Scaron" 100
-GroupKern: "@MMK_L_a" "T" -100
-GroupKern: "@MMK_L_a" "X" 100
+GroupKern: "@MMK_L_a" "T" -200
 GroupKern: "@MMK_L_a" "Yacute" -100
 GroupKern: "@MMK_L_a" "Ydieresis" -100
-GroupKern: "@MMK_L_a" "Z" 100
-GroupKern: "@MMK_L_a" "aacute" 50
-GroupKern: "@MMK_L_a" "acircumflex" 50
-GroupKern: "@MMK_L_a" "adieresis" 50
-GroupKern: "@MMK_L_a" "agrave" 50
-GroupKern: "@MMK_L_a" "aring" 50
-GroupKern: "@MMK_L_a" "atilde" 50
-GroupKern: "@MMK_L_a" "b" 50
-GroupKern: "@MMK_L_a" "ccedilla" 50
-GroupKern: "@MMK_L_a" "eacute" 50
-GroupKern: "@MMK_L_a" "ecircumflex" 50
-GroupKern: "@MMK_L_a" "edieresis" 50
-GroupKern: "@MMK_L_a" "egrave" 50
-GroupKern: "@MMK_L_a" "ffi" 100
-GroupKern: "@MMK_L_a" "h" 50
-GroupKern: "@MMK_L_a" "iacute" 50
-GroupKern: "@MMK_L_a" "icircumflex" 50
-GroupKern: "@MMK_L_a" "idieresis" 50
-GroupKern: "@MMK_L_a" "igrave" 50
-GroupKern: "@MMK_L_a" "ntilde" 50
-GroupKern: "@MMK_L_a" "o" 50
-GroupKern: "@MMK_L_a" "oacute" 50
-GroupKern: "@MMK_L_a" "ocircumflex" 50
-GroupKern: "@MMK_L_a" "odieresis" 50
-GroupKern: "@MMK_L_a" "oe" 50
-GroupKern: "@MMK_L_a" "ograve" 50
-GroupKern: "@MMK_L_a" "oslash" 50
-GroupKern: "@MMK_L_a" "otilde" 50
-GroupKern: "@MMK_L_a" "q" 50
-GroupKern: "@MMK_L_a" "r" 50
-GroupKern: "@MMK_L_a" "s" 100
-GroupKern: "@MMK_L_a" "scaron" 100
-GroupKern: "@MMK_L_a" "uacute" 50
-GroupKern: "@MMK_L_a" "ucircumflex" 50
-GroupKern: "@MMK_L_a" "udieresis" 50
-GroupKern: "@MMK_L_a" "ugrave" 50
-GroupKern: "@MMK_L_a" "w" -50
+GroupKern: "@MMK_L_a" "z" 100
 GroupKern: "@MMK_L_c" "@MMK_R_Y" -100
-GroupKern: "@MMK_L_c" "@MMK_R_i" -100
-GroupKern: "@MMK_L_c" "T" -100
+GroupKern: "@MMK_L_c" "T" -200
 GroupKern: "@MMK_L_c" "Yacute" -100
 GroupKern: "@MMK_L_c" "Ydieresis" -100
-GroupKern: "@MMK_L_c" "Z" 100
-GroupKern: "@MMK_L_c" "iacute" -100
-GroupKern: "@MMK_L_c" "icircumflex" -100
-GroupKern: "@MMK_L_c" "idieresis" -100
-GroupKern: "@MMK_L_c" "igrave" -100
-GroupKern: "@MMK_L_n" "@MMK_R_Y" -100
-GroupKern: "@MMK_L_n" "T" -100
+GroupKern: "@MMK_L_n" "@MMK_R_Y" -200
+GroupKern: "@MMK_L_n" "@MMK_R_i" -100
+GroupKern: "@MMK_L_n" "@MMK_R_u" -100
+GroupKern: "@MMK_L_n" "T" -200
 GroupKern: "@MMK_L_n" "V" -100
 GroupKern: "@MMK_L_n" "W" -100
-GroupKern: "@MMK_L_n" "Yacute" -100
-GroupKern: "@MMK_L_n" "Ydieresis" -100
+GroupKern: "@MMK_L_n" "Yacute" -200
+GroupKern: "@MMK_L_n" "Ydieresis" -200
+GroupKern: "@MMK_L_n" "d" -100
+GroupKern: "@MMK_L_n" "iacute" -100
+GroupKern: "@MMK_L_n" "icircumflex" -100
+GroupKern: "@MMK_L_n" "idieresis" -100
+GroupKern: "@MMK_L_n" "igrave" -100
 GroupKern: "@MMK_L_n" "j" -100
-GroupKern: "@MMK_L_n" "w" -100
+GroupKern: "@MMK_L_n" "l" -100
+GroupKern: "@MMK_L_n" "uacute" -100
+GroupKern: "@MMK_L_n" "ucircumflex" -100
+GroupKern: "@MMK_L_n" "udieresis" -100
+GroupKern: "@MMK_L_n" "ugrave" -100
 GroupKern: "@MMK_L_u" "@MMK_R_Y" -100
-GroupKern: "@MMK_L_u" "T" -100
+GroupKern: "@MMK_L_u" "T" -200
+GroupKern: "@MMK_L_u" "V" -100
+GroupKern: "@MMK_L_u" "W" -100
 GroupKern: "@MMK_L_u" "Yacute" -100
 GroupKern: "@MMK_L_u" "Ydieresis" -100
 GroupKern: "@MMK_L_u" "j" -100
+GroupKern: "@MMK_L_y" "@MMK_R_Y" -100
+GroupKern: "@MMK_L_y" "T" -100
+GroupKern: "@MMK_L_y" "Yacute" -100
+GroupKern: "@MMK_L_y" "Ydieresis" -100
 GroupKern: "AE" "@MMK_R_O" -100
-GroupKern: "AE" "@MMK_R_u" -100
 GroupKern: "AE" "OE" -100
 GroupKern: "AE" "Oacute" -100
 GroupKern: "AE" "Ocircumflex" -100
@@ -372,188 +299,108 @@ GroupKern: "AE" "Ograve" -100
 GroupKern: "AE" "Oslash" -100
 GroupKern: "AE" "Otilde" -100
 GroupKern: "AE" "V" -100
-GroupKern: "AE" "d" -100
-GroupKern: "AE" "g" -100
-GroupKern: "AE" "uacute" -100
-GroupKern: "AE" "ucircumflex" -100
-GroupKern: "AE" "udieresis" -100
-GroupKern: "AE" "ugrave" -100
-GroupKern: "Aacute" "@MMK_R_O" -50
+GroupKern: "Aacute" "@MMK_R_U" -100
 GroupKern: "Aacute" "@MMK_R_Y" -100
-GroupKern: "Aacute" "B" 50
-GroupKern: "Aacute" "E" 50
-GroupKern: "Aacute" "Eacute" 50
-GroupKern: "Aacute" "Ecircumflex" 50
-GroupKern: "Aacute" "Edieresis" 50
-GroupKern: "Aacute" "Egrave" 50
-GroupKern: "Aacute" "J" 50
-GroupKern: "Aacute" "OE" -50
-GroupKern: "Aacute" "Oacute" -50
-GroupKern: "Aacute" "Ocircumflex" -50
-GroupKern: "Aacute" "Odieresis" -50
-GroupKern: "Aacute" "Ograve" -50
-GroupKern: "Aacute" "Oslash" -50
-GroupKern: "Aacute" "Otilde" -50
-GroupKern: "Aacute" "Q" -50
+GroupKern: "Aacute" "J" 100
 GroupKern: "Aacute" "T" -100
+GroupKern: "Aacute" "Uacute" -100
+GroupKern: "Aacute" "Ucircumflex" -100
+GroupKern: "Aacute" "Udieresis" -100
+GroupKern: "Aacute" "Ugrave" -100
 GroupKern: "Aacute" "V" -100
 GroupKern: "Aacute" "W" -100
 GroupKern: "Aacute" "Yacute" -100
 GroupKern: "Aacute" "Ydieresis" -100
-GroupKern: "Aacute" "Z" 50
-GroupKern: "Aacute" "w" -100
-GroupKern: "Acircumflex" "@MMK_R_O" -50
+GroupKern: "Acircumflex" "@MMK_R_U" -100
 GroupKern: "Acircumflex" "@MMK_R_Y" -100
-GroupKern: "Acircumflex" "B" 50
-GroupKern: "Acircumflex" "E" 50
-GroupKern: "Acircumflex" "Eacute" 50
-GroupKern: "Acircumflex" "Ecircumflex" 50
-GroupKern: "Acircumflex" "Edieresis" 50
-GroupKern: "Acircumflex" "Egrave" 50
-GroupKern: "Acircumflex" "J" 50
-GroupKern: "Acircumflex" "OE" -50
-GroupKern: "Acircumflex" "Oacute" -50
-GroupKern: "Acircumflex" "Ocircumflex" -50
-GroupKern: "Acircumflex" "Odieresis" -50
-GroupKern: "Acircumflex" "Ograve" -50
-GroupKern: "Acircumflex" "Oslash" -50
-GroupKern: "Acircumflex" "Otilde" -50
-GroupKern: "Acircumflex" "Q" -50
+GroupKern: "Acircumflex" "J" 100
 GroupKern: "Acircumflex" "T" -100
+GroupKern: "Acircumflex" "Uacute" -100
+GroupKern: "Acircumflex" "Ucircumflex" -100
+GroupKern: "Acircumflex" "Udieresis" -100
+GroupKern: "Acircumflex" "Ugrave" -100
 GroupKern: "Acircumflex" "V" -100
 GroupKern: "Acircumflex" "W" -100
 GroupKern: "Acircumflex" "Yacute" -100
 GroupKern: "Acircumflex" "Ydieresis" -100
-GroupKern: "Acircumflex" "Z" 50
-GroupKern: "Acircumflex" "w" -100
-GroupKern: "Adieresis" "@MMK_R_O" -50
+GroupKern: "Adieresis" "@MMK_R_U" -100
 GroupKern: "Adieresis" "@MMK_R_Y" -100
-GroupKern: "Adieresis" "B" 50
-GroupKern: "Adieresis" "E" 50
-GroupKern: "Adieresis" "Eacute" 50
-GroupKern: "Adieresis" "Ecircumflex" 50
-GroupKern: "Adieresis" "Edieresis" 50
-GroupKern: "Adieresis" "Egrave" 50
-GroupKern: "Adieresis" "J" 50
-GroupKern: "Adieresis" "OE" -50
-GroupKern: "Adieresis" "Oacute" -50
-GroupKern: "Adieresis" "Ocircumflex" -50
-GroupKern: "Adieresis" "Odieresis" -50
-GroupKern: "Adieresis" "Ograve" -50
-GroupKern: "Adieresis" "Oslash" -50
-GroupKern: "Adieresis" "Otilde" -50
-GroupKern: "Adieresis" "Q" -50
+GroupKern: "Adieresis" "J" 100
 GroupKern: "Adieresis" "T" -100
+GroupKern: "Adieresis" "Uacute" -100
+GroupKern: "Adieresis" "Ucircumflex" -100
+GroupKern: "Adieresis" "Udieresis" -100
+GroupKern: "Adieresis" "Ugrave" -100
 GroupKern: "Adieresis" "V" -100
 GroupKern: "Adieresis" "W" -100
 GroupKern: "Adieresis" "Yacute" -100
 GroupKern: "Adieresis" "Ydieresis" -100
-GroupKern: "Adieresis" "Z" 50
-GroupKern: "Adieresis" "w" -100
-GroupKern: "Agrave" "@MMK_R_O" -50
+GroupKern: "Agrave" "@MMK_R_U" -100
 GroupKern: "Agrave" "@MMK_R_Y" -100
-GroupKern: "Agrave" "B" 50
-GroupKern: "Agrave" "E" 50
-GroupKern: "Agrave" "Eacute" 50
-GroupKern: "Agrave" "Ecircumflex" 50
-GroupKern: "Agrave" "Edieresis" 50
-GroupKern: "Agrave" "Egrave" 50
-GroupKern: "Agrave" "J" 50
-GroupKern: "Agrave" "OE" -50
-GroupKern: "Agrave" "Oacute" -50
-GroupKern: "Agrave" "Ocircumflex" -50
-GroupKern: "Agrave" "Odieresis" -50
-GroupKern: "Agrave" "Ograve" -50
-GroupKern: "Agrave" "Oslash" -50
-GroupKern: "Agrave" "Otilde" -50
-GroupKern: "Agrave" "Q" -50
+GroupKern: "Agrave" "J" 100
 GroupKern: "Agrave" "T" -100
+GroupKern: "Agrave" "Uacute" -100
+GroupKern: "Agrave" "Ucircumflex" -100
+GroupKern: "Agrave" "Udieresis" -100
+GroupKern: "Agrave" "Ugrave" -100
 GroupKern: "Agrave" "V" -100
 GroupKern: "Agrave" "W" -100
 GroupKern: "Agrave" "Yacute" -100
 GroupKern: "Agrave" "Ydieresis" -100
-GroupKern: "Agrave" "Z" 50
-GroupKern: "Agrave" "w" -100
-GroupKern: "Aring" "@MMK_R_O" -50
+GroupKern: "Aring" "@MMK_R_U" -100
 GroupKern: "Aring" "@MMK_R_Y" -100
-GroupKern: "Aring" "B" 50
-GroupKern: "Aring" "E" 50
-GroupKern: "Aring" "Eacute" 50
-GroupKern: "Aring" "Ecircumflex" 50
-GroupKern: "Aring" "Edieresis" 50
-GroupKern: "Aring" "Egrave" 50
-GroupKern: "Aring" "J" 50
-GroupKern: "Aring" "OE" -50
-GroupKern: "Aring" "Oacute" -50
-GroupKern: "Aring" "Ocircumflex" -50
-GroupKern: "Aring" "Odieresis" -50
-GroupKern: "Aring" "Ograve" -50
-GroupKern: "Aring" "Oslash" -50
-GroupKern: "Aring" "Otilde" -50
-GroupKern: "Aring" "Q" -50
+GroupKern: "Aring" "J" 100
 GroupKern: "Aring" "T" -100
+GroupKern: "Aring" "Uacute" -100
+GroupKern: "Aring" "Ucircumflex" -100
+GroupKern: "Aring" "Udieresis" -100
+GroupKern: "Aring" "Ugrave" -100
 GroupKern: "Aring" "V" -100
 GroupKern: "Aring" "W" -100
 GroupKern: "Aring" "Yacute" -100
 GroupKern: "Aring" "Ydieresis" -100
-GroupKern: "Aring" "Z" 50
-GroupKern: "Aring" "w" -100
-GroupKern: "Atilde" "@MMK_R_O" -50
+GroupKern: "Atilde" "@MMK_R_U" -100
 GroupKern: "Atilde" "@MMK_R_Y" -100
-GroupKern: "Atilde" "B" 50
-GroupKern: "Atilde" "E" 50
-GroupKern: "Atilde" "Eacute" 50
-GroupKern: "Atilde" "Ecircumflex" 50
-GroupKern: "Atilde" "Edieresis" 50
-GroupKern: "Atilde" "Egrave" 50
-GroupKern: "Atilde" "J" 50
-GroupKern: "Atilde" "OE" -50
-GroupKern: "Atilde" "Oacute" -50
-GroupKern: "Atilde" "Ocircumflex" -50
-GroupKern: "Atilde" "Odieresis" -50
-GroupKern: "Atilde" "Ograve" -50
-GroupKern: "Atilde" "Oslash" -50
-GroupKern: "Atilde" "Otilde" -50
-GroupKern: "Atilde" "Q" -50
+GroupKern: "Atilde" "J" 100
 GroupKern: "Atilde" "T" -100
+GroupKern: "Atilde" "Uacute" -100
+GroupKern: "Atilde" "Ucircumflex" -100
+GroupKern: "Atilde" "Udieresis" -100
+GroupKern: "Atilde" "Ugrave" -100
 GroupKern: "Atilde" "V" -100
 GroupKern: "Atilde" "W" -100
 GroupKern: "Atilde" "Yacute" -100
 GroupKern: "Atilde" "Ydieresis" -100
-GroupKern: "Atilde" "Z" 50
-GroupKern: "Atilde" "w" -100
-GroupKern: "Ccedilla" "@MMK_R_a" -50
+GroupKern: "Ccedilla" "@MMK_R_O" -100
 GroupKern: "Ccedilla" "@MMK_R_u" -100
-GroupKern: "Ccedilla" "aacute" -50
-GroupKern: "Ccedilla" "acircumflex" -50
-GroupKern: "Ccedilla" "adieresis" -50
-GroupKern: "Ccedilla" "agrave" -50
-GroupKern: "Ccedilla" "aring" -50
-GroupKern: "Ccedilla" "atilde" -50
-GroupKern: "Ccedilla" "d" -100
-GroupKern: "Ccedilla" "g" -100
+GroupKern: "Ccedilla" "OE" -100
+GroupKern: "Ccedilla" "Oacute" -100
+GroupKern: "Ccedilla" "Ocircumflex" -100
+GroupKern: "Ccedilla" "Odieresis" -100
+GroupKern: "Ccedilla" "Ograve" -100
+GroupKern: "Ccedilla" "Oslash" -100
+GroupKern: "Ccedilla" "Otilde" -100
 GroupKern: "Ccedilla" "uacute" -100
 GroupKern: "Ccedilla" "ucircumflex" -100
 GroupKern: "Ccedilla" "udieresis" -100
 GroupKern: "Ccedilla" "ugrave" -100
-GroupKern: "D" "@MMK_R_a" 50
-GroupKern: "D" "@MMK_R_e" 100
-GroupKern: "D" "C" 100
-GroupKern: "D" "Ccedilla" 100
-GroupKern: "D" "aacute" 50
-GroupKern: "D" "acircumflex" 50
-GroupKern: "D" "adieresis" 50
-GroupKern: "D" "agrave" 50
-GroupKern: "D" "aring" 50
-GroupKern: "D" "atilde" 50
-GroupKern: "D" "b" 100
-GroupKern: "D" "eacute" 100
-GroupKern: "D" "ecircumflex" 100
-GroupKern: "D" "edieresis" 100
-GroupKern: "D" "egrave" 100
+GroupKern: "D" "@MMK_R_Y" -100
+GroupKern: "D" "T" -100
+GroupKern: "D" "V" -100
+GroupKern: "D" "X" -100
+GroupKern: "D" "Yacute" -100
+GroupKern: "D" "Ydieresis" -100
 GroupKern: "D" "t" 100
+GroupKern: "E" "@MMK_R_O" -100
+GroupKern: "E" "OE" -100
+GroupKern: "E" "Oacute" -100
+GroupKern: "E" "Ocircumflex" -100
+GroupKern: "E" "Odieresis" -100
+GroupKern: "E" "Ograve" -100
+GroupKern: "E" "Oslash" -100
+GroupKern: "E" "Otilde" -100
+GroupKern: "E" "V" -100
 GroupKern: "Eacute" "@MMK_R_O" -100
-GroupKern: "Eacute" "@MMK_R_u" -100
 GroupKern: "Eacute" "OE" -100
 GroupKern: "Eacute" "Oacute" -100
 GroupKern: "Eacute" "Ocircumflex" -100
@@ -562,14 +409,7 @@ GroupKern: "Eacute" "Ograve" -100
 GroupKern: "Eacute" "Oslash" -100
 GroupKern: "Eacute" "Otilde" -100
 GroupKern: "Eacute" "V" -100
-GroupKern: "Eacute" "d" -100
-GroupKern: "Eacute" "g" -100
-GroupKern: "Eacute" "uacute" -100
-GroupKern: "Eacute" "ucircumflex" -100
-GroupKern: "Eacute" "udieresis" -100
-GroupKern: "Eacute" "ugrave" -100
 GroupKern: "Ecircumflex" "@MMK_R_O" -100
-GroupKern: "Ecircumflex" "@MMK_R_u" -100
 GroupKern: "Ecircumflex" "OE" -100
 GroupKern: "Ecircumflex" "Oacute" -100
 GroupKern: "Ecircumflex" "Ocircumflex" -100
@@ -578,14 +418,7 @@ GroupKern: "Ecircumflex" "Ograve" -100
 GroupKern: "Ecircumflex" "Oslash" -100
 GroupKern: "Ecircumflex" "Otilde" -100
 GroupKern: "Ecircumflex" "V" -100
-GroupKern: "Ecircumflex" "d" -100
-GroupKern: "Ecircumflex" "g" -100
-GroupKern: "Ecircumflex" "uacute" -100
-GroupKern: "Ecircumflex" "ucircumflex" -100
-GroupKern: "Ecircumflex" "udieresis" -100
-GroupKern: "Ecircumflex" "ugrave" -100
 GroupKern: "Edieresis" "@MMK_R_O" -100
-GroupKern: "Edieresis" "@MMK_R_u" -100
 GroupKern: "Edieresis" "OE" -100
 GroupKern: "Edieresis" "Oacute" -100
 GroupKern: "Edieresis" "Ocircumflex" -100
@@ -594,14 +427,7 @@ GroupKern: "Edieresis" "Ograve" -100
 GroupKern: "Edieresis" "Oslash" -100
 GroupKern: "Edieresis" "Otilde" -100
 GroupKern: "Edieresis" "V" -100
-GroupKern: "Edieresis" "d" -100
-GroupKern: "Edieresis" "g" -100
-GroupKern: "Edieresis" "uacute" -100
-GroupKern: "Edieresis" "ucircumflex" -100
-GroupKern: "Edieresis" "udieresis" -100
-GroupKern: "Edieresis" "ugrave" -100
 GroupKern: "Egrave" "@MMK_R_O" -100
-GroupKern: "Egrave" "@MMK_R_u" -100
 GroupKern: "Egrave" "OE" -100
 GroupKern: "Egrave" "Oacute" -100
 GroupKern: "Egrave" "Ocircumflex" -100
@@ -610,14 +436,9 @@ GroupKern: "Egrave" "Ograve" -100
 GroupKern: "Egrave" "Oslash" -100
 GroupKern: "Egrave" "Otilde" -100
 GroupKern: "Egrave" "V" -100
-GroupKern: "Egrave" "d" -100
-GroupKern: "Egrave" "g" -100
-GroupKern: "Egrave" "uacute" -100
-GroupKern: "Egrave" "ucircumflex" -100
-GroupKern: "Egrave" "udieresis" -100
-GroupKern: "Egrave" "ugrave" -100
 GroupKern: "F" "@MMK_R_A" -100
-GroupKern: "F" "@MMK_R_i" -100
+GroupKern: "F" "@MMK_R_a" -100
+GroupKern: "F" "@MMK_R_c" -100
 GroupKern: "F" "@MMK_R_n" -100
 GroupKern: "F" "@MMK_R_u" -100
 GroupKern: "F" "@MMK_R_y" -100
@@ -628,18 +449,21 @@ GroupKern: "F" "Adieresis" -100
 GroupKern: "F" "Agrave" -100
 GroupKern: "F" "Aring" -100
 GroupKern: "F" "Atilde" -100
-GroupKern: "F" "B" 50
-GroupKern: "F" "T" 50
-GroupKern: "F" "V" 50
-GroupKern: "F" "W" 50
+GroupKern: "F" "aacute" -100
+GroupKern: "F" "acircumflex" -100
+GroupKern: "F" "adieresis" -100
+GroupKern: "F" "agrave" -100
+GroupKern: "F" "aring" -100
+GroupKern: "F" "atilde" -100
+GroupKern: "F" "ccedilla" -100
 GroupKern: "F" "d" -100
+GroupKern: "F" "e" -100
+GroupKern: "F" "eacute" -100
+GroupKern: "F" "ecircumflex" -100
+GroupKern: "F" "edieresis" -100
+GroupKern: "F" "egrave" -100
 GroupKern: "F" "g" -100
-GroupKern: "F" "iacute" -100
-GroupKern: "F" "icircumflex" -100
-GroupKern: "F" "idieresis" -100
-GroupKern: "F" "igrave" -100
 GroupKern: "F" "j" -100
-GroupKern: "F" "k" -50
 GroupKern: "F" "m" -100
 GroupKern: "F" "ntilde" -100
 GroupKern: "F" "o" -100
@@ -655,7 +479,6 @@ GroupKern: "F" "q" -100
 GroupKern: "F" "r" -100
 GroupKern: "F" "s" -100
 GroupKern: "F" "scaron" -100
-GroupKern: "F" "t" -100
 GroupKern: "F" "uacute" -100
 GroupKern: "F" "ucircumflex" -100
 GroupKern: "F" "udieresis" -100
@@ -664,23 +487,9 @@ GroupKern: "F" "v" -100
 GroupKern: "F" "w" -100
 GroupKern: "F" "yacute" -100
 GroupKern: "F" "ydieresis" -100
-GroupKern: "G" "@MMK_R_a" 100
-GroupKern: "G" "@MMK_R_c" 100
-GroupKern: "G" "Z" 100
-GroupKern: "G" "aacute" 100
-GroupKern: "G" "acircumflex" 100
-GroupKern: "G" "adieresis" 100
-GroupKern: "G" "agrave" 100
-GroupKern: "G" "aring" 100
-GroupKern: "G" "atilde" 100
-GroupKern: "G" "ccedilla" 100
-GroupKern: "G" "q" 100
-GroupKern: "H" "d" -100
-GroupKern: "K" "b" 100
-GroupKern: "K" "h" 100
+GroupKern: "G" "k" -100
 GroupKern: "L" "@MMK_R_O" -100
 GroupKern: "L" "@MMK_R_Y" -100
-GroupKern: "L" "G" -100
 GroupKern: "L" "OE" -100
 GroupKern: "L" "Oacute" -100
 GroupKern: "L" "Ocircumflex" -100
@@ -695,35 +504,7 @@ GroupKern: "L" "W" -100
 GroupKern: "L" "Yacute" -100
 GroupKern: "L" "Ydieresis" -100
 GroupKern: "L" "v" -100
-GroupKern: "L" "w" -100
-GroupKern: "M" "@MMK_R_a" -50
-GroupKern: "M" "@MMK_R_u" -100
-GroupKern: "M" "V" -50
-GroupKern: "M" "aacute" -50
-GroupKern: "M" "acircumflex" -50
-GroupKern: "M" "adieresis" -50
-GroupKern: "M" "agrave" -50
-GroupKern: "M" "aring" -50
-GroupKern: "M" "atilde" -50
-GroupKern: "M" "d" -100
-GroupKern: "M" "uacute" -100
-GroupKern: "M" "ucircumflex" -100
-GroupKern: "M" "udieresis" -100
-GroupKern: "M" "ugrave" -100
-GroupKern: "N" "@MMK_R_u" -100
-GroupKern: "N" "d" -100
-GroupKern: "N" "uacute" -100
-GroupKern: "N" "ucircumflex" -100
-GroupKern: "N" "udieresis" -100
-GroupKern: "N" "ugrave" -100
-GroupKern: "Ntilde" "@MMK_R_u" -100
-GroupKern: "Ntilde" "d" -100
-GroupKern: "Ntilde" "uacute" -100
-GroupKern: "Ntilde" "ucircumflex" -100
-GroupKern: "Ntilde" "udieresis" -100
-GroupKern: "Ntilde" "ugrave" -100
 GroupKern: "OE" "@MMK_R_O" -100
-GroupKern: "OE" "@MMK_R_u" -100
 GroupKern: "OE" "OE" -100
 GroupKern: "OE" "Oacute" -100
 GroupKern: "OE" "Ocircumflex" -100
@@ -732,98 +513,84 @@ GroupKern: "OE" "Ograve" -100
 GroupKern: "OE" "Oslash" -100
 GroupKern: "OE" "Otilde" -100
 GroupKern: "OE" "V" -100
-GroupKern: "OE" "d" -100
-GroupKern: "OE" "g" -100
-GroupKern: "OE" "uacute" -100
-GroupKern: "OE" "ucircumflex" -100
-GroupKern: "OE" "udieresis" -100
-GroupKern: "OE" "ugrave" -100
-GroupKern: "Oacute" "@MMK_R_Y" -150
-GroupKern: "Oacute" "@MMK_R_i" -100
+GroupKern: "Oacute" "@MMK_R_Y" -100
+GroupKern: "Oacute" "@MMK_R_i" -50
 GroupKern: "Oacute" "T" -100
 GroupKern: "Oacute" "V" -100
 GroupKern: "Oacute" "W" -100
 GroupKern: "Oacute" "X" -100
-GroupKern: "Oacute" "Yacute" -150
-GroupKern: "Oacute" "Ydieresis" -150
-GroupKern: "Oacute" "h" -100
-GroupKern: "Oacute" "iacute" -100
-GroupKern: "Oacute" "icircumflex" -100
-GroupKern: "Oacute" "idieresis" -100
-GroupKern: "Oacute" "igrave" -100
-GroupKern: "Oacute" "j" -100
-GroupKern: "Ocircumflex" "@MMK_R_Y" -150
-GroupKern: "Ocircumflex" "@MMK_R_i" -100
+GroupKern: "Oacute" "Yacute" -100
+GroupKern: "Oacute" "Ydieresis" -100
+GroupKern: "Oacute" "iacute" -50
+GroupKern: "Oacute" "icircumflex" -50
+GroupKern: "Oacute" "idieresis" -50
+GroupKern: "Oacute" "igrave" -50
+GroupKern: "Ocircumflex" "@MMK_R_Y" -100
+GroupKern: "Ocircumflex" "@MMK_R_i" -50
 GroupKern: "Ocircumflex" "T" -100
 GroupKern: "Ocircumflex" "V" -100
 GroupKern: "Ocircumflex" "W" -100
 GroupKern: "Ocircumflex" "X" -100
-GroupKern: "Ocircumflex" "Yacute" -150
-GroupKern: "Ocircumflex" "Ydieresis" -150
-GroupKern: "Ocircumflex" "h" -100
-GroupKern: "Ocircumflex" "iacute" -100
-GroupKern: "Ocircumflex" "icircumflex" -100
-GroupKern: "Ocircumflex" "idieresis" -100
-GroupKern: "Ocircumflex" "igrave" -100
-GroupKern: "Ocircumflex" "j" -100
-GroupKern: "Odieresis" "@MMK_R_Y" -150
-GroupKern: "Odieresis" "@MMK_R_i" -100
+GroupKern: "Ocircumflex" "Yacute" -100
+GroupKern: "Ocircumflex" "Ydieresis" -100
+GroupKern: "Ocircumflex" "iacute" -50
+GroupKern: "Ocircumflex" "icircumflex" -50
+GroupKern: "Ocircumflex" "idieresis" -50
+GroupKern: "Ocircumflex" "igrave" -50
+GroupKern: "Odieresis" "@MMK_R_Y" -100
+GroupKern: "Odieresis" "@MMK_R_i" -50
 GroupKern: "Odieresis" "T" -100
 GroupKern: "Odieresis" "V" -100
 GroupKern: "Odieresis" "W" -100
 GroupKern: "Odieresis" "X" -100
-GroupKern: "Odieresis" "Yacute" -150
-GroupKern: "Odieresis" "Ydieresis" -150
-GroupKern: "Odieresis" "h" -100
-GroupKern: "Odieresis" "iacute" -100
-GroupKern: "Odieresis" "icircumflex" -100
-GroupKern: "Odieresis" "idieresis" -100
-GroupKern: "Odieresis" "igrave" -100
-GroupKern: "Odieresis" "j" -100
-GroupKern: "Ograve" "@MMK_R_Y" -150
-GroupKern: "Ograve" "@MMK_R_i" -100
+GroupKern: "Odieresis" "Yacute" -100
+GroupKern: "Odieresis" "Ydieresis" -100
+GroupKern: "Odieresis" "iacute" -50
+GroupKern: "Odieresis" "icircumflex" -50
+GroupKern: "Odieresis" "idieresis" -50
+GroupKern: "Odieresis" "igrave" -50
+GroupKern: "Ograve" "@MMK_R_Y" -100
+GroupKern: "Ograve" "@MMK_R_i" -50
 GroupKern: "Ograve" "T" -100
 GroupKern: "Ograve" "V" -100
 GroupKern: "Ograve" "W" -100
 GroupKern: "Ograve" "X" -100
-GroupKern: "Ograve" "Yacute" -150
-GroupKern: "Ograve" "Ydieresis" -150
-GroupKern: "Ograve" "h" -100
-GroupKern: "Ograve" "iacute" -100
-GroupKern: "Ograve" "icircumflex" -100
-GroupKern: "Ograve" "idieresis" -100
-GroupKern: "Ograve" "igrave" -100
-GroupKern: "Ograve" "j" -100
-GroupKern: "Oslash" "@MMK_R_Y" -150
-GroupKern: "Oslash" "@MMK_R_i" -100
+GroupKern: "Ograve" "Yacute" -100
+GroupKern: "Ograve" "Ydieresis" -100
+GroupKern: "Ograve" "iacute" -50
+GroupKern: "Ograve" "icircumflex" -50
+GroupKern: "Ograve" "idieresis" -50
+GroupKern: "Ograve" "igrave" -50
+GroupKern: "Oslash" "@MMK_R_Y" -100
+GroupKern: "Oslash" "@MMK_R_i" -50
 GroupKern: "Oslash" "T" -100
 GroupKern: "Oslash" "V" -100
 GroupKern: "Oslash" "W" -100
 GroupKern: "Oslash" "X" -100
-GroupKern: "Oslash" "Yacute" -150
-GroupKern: "Oslash" "Ydieresis" -150
-GroupKern: "Oslash" "h" -100
-GroupKern: "Oslash" "iacute" -100
-GroupKern: "Oslash" "icircumflex" -100
-GroupKern: "Oslash" "idieresis" -100
-GroupKern: "Oslash" "igrave" -100
-GroupKern: "Oslash" "j" -100
-GroupKern: "Otilde" "@MMK_R_Y" -150
-GroupKern: "Otilde" "@MMK_R_i" -100
+GroupKern: "Oslash" "Yacute" -100
+GroupKern: "Oslash" "Ydieresis" -100
+GroupKern: "Oslash" "iacute" -50
+GroupKern: "Oslash" "icircumflex" -50
+GroupKern: "Oslash" "idieresis" -50
+GroupKern: "Oslash" "igrave" -50
+GroupKern: "Otilde" "@MMK_R_Y" -100
+GroupKern: "Otilde" "@MMK_R_i" -50
 GroupKern: "Otilde" "T" -100
 GroupKern: "Otilde" "V" -100
 GroupKern: "Otilde" "W" -100
 GroupKern: "Otilde" "X" -100
-GroupKern: "Otilde" "Yacute" -150
-GroupKern: "Otilde" "Ydieresis" -150
-GroupKern: "Otilde" "h" -100
-GroupKern: "Otilde" "iacute" -100
-GroupKern: "Otilde" "icircumflex" -100
-GroupKern: "Otilde" "idieresis" -100
-GroupKern: "Otilde" "igrave" -100
-GroupKern: "Otilde" "j" -100
+GroupKern: "Otilde" "Yacute" -100
+GroupKern: "Otilde" "Ydieresis" -100
+GroupKern: "Otilde" "iacute" -50
+GroupKern: "Otilde" "icircumflex" -50
+GroupKern: "Otilde" "idieresis" -50
+GroupKern: "Otilde" "igrave" -50
 GroupKern: "P" "@MMK_R_A" -100
+GroupKern: "P" "@MMK_R_Y" -100
+GroupKern: "P" "@MMK_R_a" -100
+GroupKern: "P" "@MMK_R_c" -100
 GroupKern: "P" "@MMK_R_i" -100
+GroupKern: "P" "@MMK_R_n" -100
 GroupKern: "P" "@MMK_R_u" -100
 GroupKern: "P" "AE" -100
 GroupKern: "P" "Aacute" -100
@@ -832,15 +599,32 @@ GroupKern: "P" "Adieresis" -100
 GroupKern: "P" "Agrave" -100
 GroupKern: "P" "Aring" -100
 GroupKern: "P" "Atilde" -100
+GroupKern: "P" "L" -100
+GroupKern: "P" "V" -100
 GroupKern: "P" "X" -100
+GroupKern: "P" "Yacute" -100
+GroupKern: "P" "Ydieresis" -100
+GroupKern: "P" "aacute" -100
+GroupKern: "P" "acircumflex" -100
+GroupKern: "P" "adieresis" -100
+GroupKern: "P" "agrave" -100
+GroupKern: "P" "aring" -100
+GroupKern: "P" "atilde" -100
+GroupKern: "P" "ccedilla" -100
 GroupKern: "P" "d" -100
-GroupKern: "P" "g" -50
-GroupKern: "P" "h" -100
+GroupKern: "P" "e" -100
+GroupKern: "P" "eacute" -100
+GroupKern: "P" "ecircumflex" -100
+GroupKern: "P" "edieresis" -100
+GroupKern: "P" "egrave" -100
+GroupKern: "P" "g" -100
 GroupKern: "P" "iacute" -100
 GroupKern: "P" "icircumflex" -100
 GroupKern: "P" "idieresis" -100
 GroupKern: "P" "igrave" -100
 GroupKern: "P" "j" -100
+GroupKern: "P" "m" -100
+GroupKern: "P" "ntilde" -100
 GroupKern: "P" "o" -100
 GroupKern: "P" "oacute" -100
 GroupKern: "P" "ocircumflex" -100
@@ -855,35 +639,39 @@ GroupKern: "P" "uacute" -100
 GroupKern: "P" "ucircumflex" -100
 GroupKern: "P" "udieresis" -100
 GroupKern: "P" "ugrave" -100
+GroupKern: "P" "x" -100
 GroupKern: "Q" "@MMK_R_Y" -100
-GroupKern: "Q" "T" -100
 GroupKern: "Q" "V" -100
 GroupKern: "Q" "W" -100
+GroupKern: "Q" "X" -100
 GroupKern: "Q" "Yacute" -100
 GroupKern: "Q" "Ydieresis" -100
-GroupKern: "R" "D" -50
+GroupKern: "R" "@MMK_R_O" -100
+GroupKern: "R" "@MMK_R_U" -100
+GroupKern: "R" "@MMK_R_Y" -100
+GroupKern: "R" "OE" -100
+GroupKern: "R" "Oacute" -100
+GroupKern: "R" "Ocircumflex" -100
+GroupKern: "R" "Odieresis" -100
+GroupKern: "R" "Ograve" -100
+GroupKern: "R" "Oslash" -100
+GroupKern: "R" "Otilde" -100
+GroupKern: "R" "S" -100
+GroupKern: "R" "Scaron" -100
 GroupKern: "R" "T" -100
+GroupKern: "R" "Uacute" -100
+GroupKern: "R" "Ucircumflex" -100
+GroupKern: "R" "Udieresis" -100
+GroupKern: "R" "Ugrave" -100
 GroupKern: "R" "V" -100
 GroupKern: "R" "W" -100
+GroupKern: "R" "Yacute" -100
+GroupKern: "R" "Ydieresis" -100
 GroupKern: "R" "d" -100
-GroupKern: "Scaron" "@MMK_R_a" 100
-GroupKern: "Scaron" "@MMK_R_c" 100
-GroupKern: "Scaron" "@MMK_R_e" 100
-GroupKern: "Scaron" "aacute" 100
-GroupKern: "Scaron" "acircumflex" 100
-GroupKern: "Scaron" "adieresis" 100
-GroupKern: "Scaron" "agrave" 100
-GroupKern: "Scaron" "aring" 100
-GroupKern: "Scaron" "atilde" 100
-GroupKern: "Scaron" "ccedilla" 100
-GroupKern: "Scaron" "eacute" 100
-GroupKern: "Scaron" "ecircumflex" 100
-GroupKern: "Scaron" "edieresis" 100
-GroupKern: "Scaron" "egrave" 100
 GroupKern: "T" "@MMK_R_A" -100
-GroupKern: "T" "@MMK_R_a" -100
+GroupKern: "T" "@MMK_R_O" -100
+GroupKern: "T" "@MMK_R_a" -200
 GroupKern: "T" "@MMK_R_c" -100
-GroupKern: "T" "@MMK_R_e" -100
 GroupKern: "T" "@MMK_R_n" -100
 GroupKern: "T" "@MMK_R_u" -100
 GroupKern: "T" "@MMK_R_y" -100
@@ -894,19 +682,28 @@ GroupKern: "T" "Adieresis" -100
 GroupKern: "T" "Agrave" -100
 GroupKern: "T" "Aring" -100
 GroupKern: "T" "Atilde" -100
-GroupKern: "T" "aacute" -100
-GroupKern: "T" "acircumflex" -100
-GroupKern: "T" "adieresis" -100
-GroupKern: "T" "agrave" -100
-GroupKern: "T" "aring" -100
-GroupKern: "T" "atilde" -100
+GroupKern: "T" "OE" -100
+GroupKern: "T" "Oacute" -100
+GroupKern: "T" "Ocircumflex" -100
+GroupKern: "T" "Odieresis" -100
+GroupKern: "T" "Ograve" -100
+GroupKern: "T" "Oslash" -100
+GroupKern: "T" "Otilde" -100
+GroupKern: "T" "aacute" -200
+GroupKern: "T" "acircumflex" -200
+GroupKern: "T" "adieresis" -200
+GroupKern: "T" "agrave" -200
+GroupKern: "T" "aring" -200
+GroupKern: "T" "atilde" -200
 GroupKern: "T" "ccedilla" -100
-GroupKern: "T" "d" -200
+GroupKern: "T" "d" -100
+GroupKern: "T" "e" -100
 GroupKern: "T" "eacute" -100
 GroupKern: "T" "ecircumflex" -100
 GroupKern: "T" "edieresis" -100
 GroupKern: "T" "egrave" -100
 GroupKern: "T" "g" -100
+GroupKern: "T" "k" -100
 GroupKern: "T" "m" -100
 GroupKern: "T" "ntilde" -100
 GroupKern: "T" "o" -100
@@ -931,14 +728,7 @@ GroupKern: "T" "w" -100
 GroupKern: "T" "x" -100
 GroupKern: "T" "yacute" -100
 GroupKern: "T" "ydieresis" -100
-GroupKern: "U" "@MMK_R_A" -100
-GroupKern: "U" "AE" -100
-GroupKern: "U" "Aacute" -100
-GroupKern: "U" "Acircumflex" -100
-GroupKern: "U" "Adieresis" -100
-GroupKern: "U" "Agrave" -100
-GroupKern: "U" "Aring" -100
-GroupKern: "U" "Atilde" -100
+GroupKern: "T" "z" -100
 GroupKern: "Uacute" "@MMK_R_A" -100
 GroupKern: "Uacute" "AE" -100
 GroupKern: "Uacute" "Aacute" -100
@@ -973,11 +763,10 @@ GroupKern: "Ugrave" "Aring" -100
 GroupKern: "Ugrave" "Atilde" -100
 GroupKern: "V" "@MMK_R_A" -100
 GroupKern: "V" "@MMK_R_O" -100
-GroupKern: "V" "@MMK_R_e" -100
+GroupKern: "V" "@MMK_R_a" -100
 GroupKern: "V" "@MMK_R_i" -100
 GroupKern: "V" "@MMK_R_n" -100
 GroupKern: "V" "@MMK_R_u" -100
-GroupKern: "V" "@MMK_R_y" -100
 GroupKern: "V" "AE" -100
 GroupKern: "V" "Aacute" -100
 GroupKern: "V" "Acircumflex" -100
@@ -992,7 +781,15 @@ GroupKern: "V" "Odieresis" -100
 GroupKern: "V" "Ograve" -100
 GroupKern: "V" "Oslash" -100
 GroupKern: "V" "Otilde" -100
+GroupKern: "V" "Q" -100
+GroupKern: "V" "aacute" -100
+GroupKern: "V" "acircumflex" -100
+GroupKern: "V" "adieresis" -100
+GroupKern: "V" "agrave" -100
+GroupKern: "V" "aring" -100
+GroupKern: "V" "atilde" -100
 GroupKern: "V" "d" -100
+GroupKern: "V" "e" -100
 GroupKern: "V" "eacute" -100
 GroupKern: "V" "ecircumflex" -100
 GroupKern: "V" "edieresis" -100
@@ -1002,6 +799,7 @@ GroupKern: "V" "iacute" -100
 GroupKern: "V" "icircumflex" -100
 GroupKern: "V" "idieresis" -100
 GroupKern: "V" "igrave" -100
+GroupKern: "V" "j" -100
 GroupKern: "V" "m" -100
 GroupKern: "V" "ntilde" -100
 GroupKern: "V" "o" -100
@@ -1019,21 +817,11 @@ GroupKern: "V" "uacute" -100
 GroupKern: "V" "ucircumflex" -100
 GroupKern: "V" "udieresis" -100
 GroupKern: "V" "ugrave" -100
-GroupKern: "V" "v" -50
-GroupKern: "V" "w" -100
-GroupKern: "V" "x" -100
-GroupKern: "V" "yacute" -100
-GroupKern: "V" "ydieresis" -100
-GroupKern: "V" "z" -100
 GroupKern: "W" "@MMK_R_A" -100
 GroupKern: "W" "@MMK_R_O" -100
-GroupKern: "W" "@MMK_R_a" -100
-GroupKern: "W" "@MMK_R_c" -100
-GroupKern: "W" "@MMK_R_e" -100
 GroupKern: "W" "@MMK_R_i" -100
 GroupKern: "W" "@MMK_R_n" -100
 GroupKern: "W" "@MMK_R_u" -100
-GroupKern: "W" "@MMK_R_y" -100
 GroupKern: "W" "AE" -100
 GroupKern: "W" "Aacute" -100
 GroupKern: "W" "Acircumflex" -100
@@ -1041,8 +829,6 @@ GroupKern: "W" "Adieresis" -100
 GroupKern: "W" "Agrave" -100
 GroupKern: "W" "Aring" -100
 GroupKern: "W" "Atilde" -100
-GroupKern: "W" "G" -50
-GroupKern: "W" "J" -100
 GroupKern: "W" "OE" -100
 GroupKern: "W" "Oacute" -100
 GroupKern: "W" "Ocircumflex" -100
@@ -1051,35 +837,20 @@ GroupKern: "W" "Ograve" -100
 GroupKern: "W" "Oslash" -100
 GroupKern: "W" "Otilde" -100
 GroupKern: "W" "Q" -100
-GroupKern: "W" "aacute" -100
-GroupKern: "W" "acircumflex" -100
-GroupKern: "W" "adieresis" -100
-GroupKern: "W" "agrave" -100
-GroupKern: "W" "aring" -100
-GroupKern: "W" "atilde" -100
-GroupKern: "W" "ccedilla" -100
 GroupKern: "W" "d" -100
+GroupKern: "W" "e" -100
 GroupKern: "W" "eacute" -100
 GroupKern: "W" "ecircumflex" -100
 GroupKern: "W" "edieresis" -100
 GroupKern: "W" "egrave" -100
 GroupKern: "W" "g" -100
-GroupKern: "W" "h" -100
 GroupKern: "W" "iacute" -100
 GroupKern: "W" "icircumflex" -100
 GroupKern: "W" "idieresis" -100
 GroupKern: "W" "igrave" -100
-GroupKern: "W" "l" -50
+GroupKern: "W" "j" -100
 GroupKern: "W" "m" -100
 GroupKern: "W" "ntilde" -100
-GroupKern: "W" "o" -100
-GroupKern: "W" "oacute" -100
-GroupKern: "W" "ocircumflex" -100
-GroupKern: "W" "odieresis" -100
-GroupKern: "W" "oe" -100
-GroupKern: "W" "ograve" -100
-GroupKern: "W" "oslash" -100
-GroupKern: "W" "otilde" -100
 GroupKern: "W" "p" -100
 GroupKern: "W" "q" -100
 GroupKern: "W" "r" -100
@@ -1087,12 +858,6 @@ GroupKern: "W" "uacute" -100
 GroupKern: "W" "ucircumflex" -100
 GroupKern: "W" "udieresis" -100
 GroupKern: "W" "ugrave" -100
-GroupKern: "W" "v" -100
-GroupKern: "W" "w" -100
-GroupKern: "W" "x" -100
-GroupKern: "W" "yacute" -100
-GroupKern: "W" "ydieresis" -100
-GroupKern: "W" "z" -100
 GroupKern: "X" "@MMK_R_O" -100
 GroupKern: "X" "OE" -100
 GroupKern: "X" "Oacute" -100
@@ -1101,13 +866,11 @@ GroupKern: "X" "Odieresis" -100
 GroupKern: "X" "Ograve" -100
 GroupKern: "X" "Oslash" -100
 GroupKern: "X" "Otilde" -100
-GroupKern: "X" "s" 100
-GroupKern: "X" "scaron" 100
+GroupKern: "X" "Q" -100
 GroupKern: "Yacute" "@MMK_R_A" -100
 GroupKern: "Yacute" "@MMK_R_O" -100
 GroupKern: "Yacute" "@MMK_R_a" -100
 GroupKern: "Yacute" "@MMK_R_c" -100
-GroupKern: "Yacute" "@MMK_R_e" -100
 GroupKern: "Yacute" "@MMK_R_i" -100
 GroupKern: "Yacute" "@MMK_R_n" -100
 GroupKern: "Yacute" "@MMK_R_u" -100
@@ -1126,6 +889,7 @@ GroupKern: "Yacute" "Odieresis" -100
 GroupKern: "Yacute" "Ograve" -100
 GroupKern: "Yacute" "Oslash" -100
 GroupKern: "Yacute" "Otilde" -100
+GroupKern: "Yacute" "Q" -100
 GroupKern: "Yacute" "aacute" -100
 GroupKern: "Yacute" "acircumflex" -100
 GroupKern: "Yacute" "adieresis" -100
@@ -1134,17 +898,27 @@ GroupKern: "Yacute" "aring" -100
 GroupKern: "Yacute" "atilde" -100
 GroupKern: "Yacute" "ccedilla" -100
 GroupKern: "Yacute" "d" -100
-GroupKern: "Yacute" "eacute" -100
-GroupKern: "Yacute" "ecircumflex" -100
-GroupKern: "Yacute" "edieresis" -100
-GroupKern: "Yacute" "egrave" -100
+GroupKern: "Yacute" "e" -150
+GroupKern: "Yacute" "eacute" -150
+GroupKern: "Yacute" "ecircumflex" -150
+GroupKern: "Yacute" "edieresis" -150
+GroupKern: "Yacute" "egrave" -150
 GroupKern: "Yacute" "g" -100
 GroupKern: "Yacute" "iacute" -100
 GroupKern: "Yacute" "icircumflex" -100
 GroupKern: "Yacute" "idieresis" -100
 GroupKern: "Yacute" "igrave" -100
+GroupKern: "Yacute" "j" -100
 GroupKern: "Yacute" "m" -100
 GroupKern: "Yacute" "ntilde" -100
+GroupKern: "Yacute" "o" -100
+GroupKern: "Yacute" "oacute" -100
+GroupKern: "Yacute" "ocircumflex" -100
+GroupKern: "Yacute" "odieresis" -100
+GroupKern: "Yacute" "oe" -100
+GroupKern: "Yacute" "ograve" -100
+GroupKern: "Yacute" "oslash" -100
+GroupKern: "Yacute" "otilde" -100
 GroupKern: "Yacute" "p" -100
 GroupKern: "Yacute" "q" -100
 GroupKern: "Yacute" "r" -100
@@ -1162,7 +936,6 @@ GroupKern: "Ydieresis" "@MMK_R_A" -100
 GroupKern: "Ydieresis" "@MMK_R_O" -100
 GroupKern: "Ydieresis" "@MMK_R_a" -100
 GroupKern: "Ydieresis" "@MMK_R_c" -100
-GroupKern: "Ydieresis" "@MMK_R_e" -100
 GroupKern: "Ydieresis" "@MMK_R_i" -100
 GroupKern: "Ydieresis" "@MMK_R_n" -100
 GroupKern: "Ydieresis" "@MMK_R_u" -100
@@ -1181,6 +954,7 @@ GroupKern: "Ydieresis" "Odieresis" -100
 GroupKern: "Ydieresis" "Ograve" -100
 GroupKern: "Ydieresis" "Oslash" -100
 GroupKern: "Ydieresis" "Otilde" -100
+GroupKern: "Ydieresis" "Q" -100
 GroupKern: "Ydieresis" "aacute" -100
 GroupKern: "Ydieresis" "acircumflex" -100
 GroupKern: "Ydieresis" "adieresis" -100
@@ -1189,17 +963,27 @@ GroupKern: "Ydieresis" "aring" -100
 GroupKern: "Ydieresis" "atilde" -100
 GroupKern: "Ydieresis" "ccedilla" -100
 GroupKern: "Ydieresis" "d" -100
-GroupKern: "Ydieresis" "eacute" -100
-GroupKern: "Ydieresis" "ecircumflex" -100
-GroupKern: "Ydieresis" "edieresis" -100
-GroupKern: "Ydieresis" "egrave" -100
+GroupKern: "Ydieresis" "e" -150
+GroupKern: "Ydieresis" "eacute" -150
+GroupKern: "Ydieresis" "ecircumflex" -150
+GroupKern: "Ydieresis" "edieresis" -150
+GroupKern: "Ydieresis" "egrave" -150
 GroupKern: "Ydieresis" "g" -100
 GroupKern: "Ydieresis" "iacute" -100
 GroupKern: "Ydieresis" "icircumflex" -100
 GroupKern: "Ydieresis" "idieresis" -100
 GroupKern: "Ydieresis" "igrave" -100
+GroupKern: "Ydieresis" "j" -100
 GroupKern: "Ydieresis" "m" -100
 GroupKern: "Ydieresis" "ntilde" -100
+GroupKern: "Ydieresis" "o" -100
+GroupKern: "Ydieresis" "oacute" -100
+GroupKern: "Ydieresis" "ocircumflex" -100
+GroupKern: "Ydieresis" "odieresis" -100
+GroupKern: "Ydieresis" "oe" -100
+GroupKern: "Ydieresis" "ograve" -100
+GroupKern: "Ydieresis" "oslash" -100
+GroupKern: "Ydieresis" "otilde" -100
 GroupKern: "Ydieresis" "p" -100
 GroupKern: "Ydieresis" "q" -100
 GroupKern: "Ydieresis" "r" -100
@@ -1221,466 +1005,133 @@ GroupKern: "Z" "Odieresis" -100
 GroupKern: "Z" "Ograve" -100
 GroupKern: "Z" "Oslash" -100
 GroupKern: "Z" "Otilde" -100
-GroupKern: "aacute" "@MMK_R_S" 100
 GroupKern: "aacute" "@MMK_R_Y" -100
-GroupKern: "aacute" "@MMK_R_a" 50
-GroupKern: "aacute" "@MMK_R_c" 50
-GroupKern: "aacute" "@MMK_R_e" 50
-GroupKern: "aacute" "@MMK_R_i" 50
-GroupKern: "aacute" "@MMK_R_n" 50
-GroupKern: "aacute" "@MMK_R_u" 50
-GroupKern: "aacute" "G" 100
-GroupKern: "aacute" "J" 100
-GroupKern: "aacute" "P" 50
-GroupKern: "aacute" "Scaron" 100
-GroupKern: "aacute" "T" -100
-GroupKern: "aacute" "X" 100
+GroupKern: "aacute" "T" -200
 GroupKern: "aacute" "Yacute" -100
 GroupKern: "aacute" "Ydieresis" -100
-GroupKern: "aacute" "Z" 100
-GroupKern: "aacute" "aacute" 50
-GroupKern: "aacute" "acircumflex" 50
-GroupKern: "aacute" "adieresis" 50
-GroupKern: "aacute" "agrave" 50
-GroupKern: "aacute" "aring" 50
-GroupKern: "aacute" "atilde" 50
-GroupKern: "aacute" "b" 50
-GroupKern: "aacute" "ccedilla" 50
-GroupKern: "aacute" "eacute" 50
-GroupKern: "aacute" "ecircumflex" 50
-GroupKern: "aacute" "edieresis" 50
-GroupKern: "aacute" "egrave" 50
-GroupKern: "aacute" "ffi" 100
-GroupKern: "aacute" "h" 50
-GroupKern: "aacute" "iacute" 50
-GroupKern: "aacute" "icircumflex" 50
-GroupKern: "aacute" "idieresis" 50
-GroupKern: "aacute" "igrave" 50
-GroupKern: "aacute" "ntilde" 50
-GroupKern: "aacute" "o" 50
-GroupKern: "aacute" "oacute" 50
-GroupKern: "aacute" "ocircumflex" 50
-GroupKern: "aacute" "odieresis" 50
-GroupKern: "aacute" "oe" 50
-GroupKern: "aacute" "ograve" 50
-GroupKern: "aacute" "oslash" 50
-GroupKern: "aacute" "otilde" 50
-GroupKern: "aacute" "q" 50
-GroupKern: "aacute" "r" 50
-GroupKern: "aacute" "s" 100
-GroupKern: "aacute" "scaron" 100
-GroupKern: "aacute" "uacute" 50
-GroupKern: "aacute" "ucircumflex" 50
-GroupKern: "aacute" "udieresis" 50
-GroupKern: "aacute" "ugrave" 50
-GroupKern: "aacute" "w" -50
-GroupKern: "acircumflex" "@MMK_R_S" 100
+GroupKern: "aacute" "z" 100
 GroupKern: "acircumflex" "@MMK_R_Y" -100
-GroupKern: "acircumflex" "@MMK_R_a" 50
-GroupKern: "acircumflex" "@MMK_R_c" 50
-GroupKern: "acircumflex" "@MMK_R_e" 50
-GroupKern: "acircumflex" "@MMK_R_i" 50
-GroupKern: "acircumflex" "@MMK_R_n" 50
-GroupKern: "acircumflex" "@MMK_R_u" 50
-GroupKern: "acircumflex" "G" 100
-GroupKern: "acircumflex" "J" 100
-GroupKern: "acircumflex" "P" 50
-GroupKern: "acircumflex" "Scaron" 100
-GroupKern: "acircumflex" "T" -100
-GroupKern: "acircumflex" "X" 100
+GroupKern: "acircumflex" "T" -200
 GroupKern: "acircumflex" "Yacute" -100
 GroupKern: "acircumflex" "Ydieresis" -100
-GroupKern: "acircumflex" "Z" 100
-GroupKern: "acircumflex" "aacute" 50
-GroupKern: "acircumflex" "acircumflex" 50
-GroupKern: "acircumflex" "adieresis" 50
-GroupKern: "acircumflex" "agrave" 50
-GroupKern: "acircumflex" "aring" 50
-GroupKern: "acircumflex" "atilde" 50
-GroupKern: "acircumflex" "b" 50
-GroupKern: "acircumflex" "ccedilla" 50
-GroupKern: "acircumflex" "eacute" 50
-GroupKern: "acircumflex" "ecircumflex" 50
-GroupKern: "acircumflex" "edieresis" 50
-GroupKern: "acircumflex" "egrave" 50
-GroupKern: "acircumflex" "ffi" 100
-GroupKern: "acircumflex" "h" 50
-GroupKern: "acircumflex" "iacute" 50
-GroupKern: "acircumflex" "icircumflex" 50
-GroupKern: "acircumflex" "idieresis" 50
-GroupKern: "acircumflex" "igrave" 50
-GroupKern: "acircumflex" "ntilde" 50
-GroupKern: "acircumflex" "o" 50
-GroupKern: "acircumflex" "oacute" 50
-GroupKern: "acircumflex" "ocircumflex" 50
-GroupKern: "acircumflex" "odieresis" 50
-GroupKern: "acircumflex" "oe" 50
-GroupKern: "acircumflex" "ograve" 50
-GroupKern: "acircumflex" "oslash" 50
-GroupKern: "acircumflex" "otilde" 50
-GroupKern: "acircumflex" "q" 50
-GroupKern: "acircumflex" "r" 50
-GroupKern: "acircumflex" "s" 100
-GroupKern: "acircumflex" "scaron" 100
-GroupKern: "acircumflex" "uacute" 50
-GroupKern: "acircumflex" "ucircumflex" 50
-GroupKern: "acircumflex" "udieresis" 50
-GroupKern: "acircumflex" "ugrave" 50
-GroupKern: "acircumflex" "w" -50
-GroupKern: "adieresis" "@MMK_R_S" 100
+GroupKern: "acircumflex" "z" 100
 GroupKern: "adieresis" "@MMK_R_Y" -100
-GroupKern: "adieresis" "@MMK_R_a" 50
-GroupKern: "adieresis" "@MMK_R_c" 50
-GroupKern: "adieresis" "@MMK_R_e" 50
-GroupKern: "adieresis" "@MMK_R_i" 50
-GroupKern: "adieresis" "@MMK_R_n" 50
-GroupKern: "adieresis" "@MMK_R_u" 50
-GroupKern: "adieresis" "G" 100
-GroupKern: "adieresis" "J" 100
-GroupKern: "adieresis" "P" 50
-GroupKern: "adieresis" "Scaron" 100
-GroupKern: "adieresis" "T" -100
-GroupKern: "adieresis" "X" 100
+GroupKern: "adieresis" "T" -200
 GroupKern: "adieresis" "Yacute" -100
 GroupKern: "adieresis" "Ydieresis" -100
-GroupKern: "adieresis" "Z" 100
-GroupKern: "adieresis" "aacute" 50
-GroupKern: "adieresis" "acircumflex" 50
-GroupKern: "adieresis" "adieresis" 50
-GroupKern: "adieresis" "agrave" 50
-GroupKern: "adieresis" "aring" 50
-GroupKern: "adieresis" "atilde" 50
-GroupKern: "adieresis" "b" 50
-GroupKern: "adieresis" "ccedilla" 50
-GroupKern: "adieresis" "eacute" 50
-GroupKern: "adieresis" "ecircumflex" 50
-GroupKern: "adieresis" "edieresis" 50
-GroupKern: "adieresis" "egrave" 50
-GroupKern: "adieresis" "ffi" 100
-GroupKern: "adieresis" "h" 50
-GroupKern: "adieresis" "iacute" 50
-GroupKern: "adieresis" "icircumflex" 50
-GroupKern: "adieresis" "idieresis" 50
-GroupKern: "adieresis" "igrave" 50
-GroupKern: "adieresis" "ntilde" 50
-GroupKern: "adieresis" "o" 50
-GroupKern: "adieresis" "oacute" 50
-GroupKern: "adieresis" "ocircumflex" 50
-GroupKern: "adieresis" "odieresis" 50
-GroupKern: "adieresis" "oe" 50
-GroupKern: "adieresis" "ograve" 50
-GroupKern: "adieresis" "oslash" 50
-GroupKern: "adieresis" "otilde" 50
-GroupKern: "adieresis" "q" 50
-GroupKern: "adieresis" "r" 50
-GroupKern: "adieresis" "s" 100
-GroupKern: "adieresis" "scaron" 100
-GroupKern: "adieresis" "uacute" 50
-GroupKern: "adieresis" "ucircumflex" 50
-GroupKern: "adieresis" "udieresis" 50
-GroupKern: "adieresis" "ugrave" 50
-GroupKern: "adieresis" "w" -50
-GroupKern: "ae" "@MMK_R_Y" -100
+GroupKern: "adieresis" "z" 100
+GroupKern: "ae" "@MMK_R_Y" -200
 GroupKern: "ae" "T" -200
 GroupKern: "ae" "V" -100
-GroupKern: "ae" "W" -100
-GroupKern: "ae" "Yacute" -100
-GroupKern: "ae" "Ydieresis" -100
-GroupKern: "ae" "b" -100
-GroupKern: "ae" "d" -100
-GroupKern: "ae" "f" -100
-GroupKern: "ae" "g" -100
-GroupKern: "ae" "p" -100
-GroupKern: "ae" "r" -50
-GroupKern: "ae" "v" -50
-GroupKern: "ae" "w" -100
-GroupKern: "agrave" "@MMK_R_S" 100
+GroupKern: "ae" "Yacute" -200
+GroupKern: "ae" "Ydieresis" -200
 GroupKern: "agrave" "@MMK_R_Y" -100
-GroupKern: "agrave" "@MMK_R_a" 50
-GroupKern: "agrave" "@MMK_R_c" 50
-GroupKern: "agrave" "@MMK_R_e" 50
-GroupKern: "agrave" "@MMK_R_i" 50
-GroupKern: "agrave" "@MMK_R_n" 50
-GroupKern: "agrave" "@MMK_R_u" 50
-GroupKern: "agrave" "G" 100
-GroupKern: "agrave" "J" 100
-GroupKern: "agrave" "P" 50
-GroupKern: "agrave" "Scaron" 100
-GroupKern: "agrave" "T" -100
-GroupKern: "agrave" "X" 100
+GroupKern: "agrave" "T" -200
 GroupKern: "agrave" "Yacute" -100
 GroupKern: "agrave" "Ydieresis" -100
-GroupKern: "agrave" "Z" 100
-GroupKern: "agrave" "aacute" 50
-GroupKern: "agrave" "acircumflex" 50
-GroupKern: "agrave" "adieresis" 50
-GroupKern: "agrave" "agrave" 50
-GroupKern: "agrave" "aring" 50
-GroupKern: "agrave" "atilde" 50
-GroupKern: "agrave" "b" 50
-GroupKern: "agrave" "ccedilla" 50
-GroupKern: "agrave" "eacute" 50
-GroupKern: "agrave" "ecircumflex" 50
-GroupKern: "agrave" "edieresis" 50
-GroupKern: "agrave" "egrave" 50
-GroupKern: "agrave" "ffi" 100
-GroupKern: "agrave" "h" 50
-GroupKern: "agrave" "iacute" 50
-GroupKern: "agrave" "icircumflex" 50
-GroupKern: "agrave" "idieresis" 50
-GroupKern: "agrave" "igrave" 50
-GroupKern: "agrave" "ntilde" 50
-GroupKern: "agrave" "o" 50
-GroupKern: "agrave" "oacute" 50
-GroupKern: "agrave" "ocircumflex" 50
-GroupKern: "agrave" "odieresis" 50
-GroupKern: "agrave" "oe" 50
-GroupKern: "agrave" "ograve" 50
-GroupKern: "agrave" "oslash" 50
-GroupKern: "agrave" "otilde" 50
-GroupKern: "agrave" "q" 50
-GroupKern: "agrave" "r" 50
-GroupKern: "agrave" "s" 100
-GroupKern: "agrave" "scaron" 100
-GroupKern: "agrave" "uacute" 50
-GroupKern: "agrave" "ucircumflex" 50
-GroupKern: "agrave" "udieresis" 50
-GroupKern: "agrave" "ugrave" 50
-GroupKern: "agrave" "w" -50
-GroupKern: "aring" "@MMK_R_S" 100
+GroupKern: "agrave" "z" 100
 GroupKern: "aring" "@MMK_R_Y" -100
-GroupKern: "aring" "@MMK_R_a" 50
-GroupKern: "aring" "@MMK_R_c" 50
-GroupKern: "aring" "@MMK_R_e" 50
-GroupKern: "aring" "@MMK_R_i" 50
-GroupKern: "aring" "@MMK_R_n" 50
-GroupKern: "aring" "@MMK_R_u" 50
-GroupKern: "aring" "G" 100
-GroupKern: "aring" "J" 100
-GroupKern: "aring" "P" 50
-GroupKern: "aring" "Scaron" 100
-GroupKern: "aring" "T" -100
-GroupKern: "aring" "X" 100
+GroupKern: "aring" "T" -200
 GroupKern: "aring" "Yacute" -100
 GroupKern: "aring" "Ydieresis" -100
-GroupKern: "aring" "Z" 100
-GroupKern: "aring" "aacute" 50
-GroupKern: "aring" "acircumflex" 50
-GroupKern: "aring" "adieresis" 50
-GroupKern: "aring" "agrave" 50
-GroupKern: "aring" "aring" 50
-GroupKern: "aring" "atilde" 50
-GroupKern: "aring" "b" 50
-GroupKern: "aring" "ccedilla" 50
-GroupKern: "aring" "eacute" 50
-GroupKern: "aring" "ecircumflex" 50
-GroupKern: "aring" "edieresis" 50
-GroupKern: "aring" "egrave" 50
-GroupKern: "aring" "ffi" 100
-GroupKern: "aring" "h" 50
-GroupKern: "aring" "iacute" 50
-GroupKern: "aring" "icircumflex" 50
-GroupKern: "aring" "idieresis" 50
-GroupKern: "aring" "igrave" 50
-GroupKern: "aring" "ntilde" 50
-GroupKern: "aring" "o" 50
-GroupKern: "aring" "oacute" 50
-GroupKern: "aring" "ocircumflex" 50
-GroupKern: "aring" "odieresis" 50
-GroupKern: "aring" "oe" 50
-GroupKern: "aring" "ograve" 50
-GroupKern: "aring" "oslash" 50
-GroupKern: "aring" "otilde" 50
-GroupKern: "aring" "q" 50
-GroupKern: "aring" "r" 50
-GroupKern: "aring" "s" 100
-GroupKern: "aring" "scaron" 100
-GroupKern: "aring" "uacute" 50
-GroupKern: "aring" "ucircumflex" 50
-GroupKern: "aring" "udieresis" 50
-GroupKern: "aring" "ugrave" 50
-GroupKern: "aring" "w" -50
-GroupKern: "atilde" "@MMK_R_S" 100
+GroupKern: "aring" "z" 100
 GroupKern: "atilde" "@MMK_R_Y" -100
-GroupKern: "atilde" "@MMK_R_a" 50
-GroupKern: "atilde" "@MMK_R_c" 50
-GroupKern: "atilde" "@MMK_R_e" 50
-GroupKern: "atilde" "@MMK_R_i" 50
-GroupKern: "atilde" "@MMK_R_n" 50
-GroupKern: "atilde" "@MMK_R_u" 50
-GroupKern: "atilde" "G" 100
-GroupKern: "atilde" "J" 100
-GroupKern: "atilde" "P" 50
-GroupKern: "atilde" "Scaron" 100
-GroupKern: "atilde" "T" -100
-GroupKern: "atilde" "X" 100
+GroupKern: "atilde" "T" -200
 GroupKern: "atilde" "Yacute" -100
 GroupKern: "atilde" "Ydieresis" -100
-GroupKern: "atilde" "Z" 100
-GroupKern: "atilde" "aacute" 50
-GroupKern: "atilde" "acircumflex" 50
-GroupKern: "atilde" "adieresis" 50
-GroupKern: "atilde" "agrave" 50
-GroupKern: "atilde" "aring" 50
-GroupKern: "atilde" "atilde" 50
-GroupKern: "atilde" "b" 50
-GroupKern: "atilde" "ccedilla" 50
-GroupKern: "atilde" "eacute" 50
-GroupKern: "atilde" "ecircumflex" 50
-GroupKern: "atilde" "edieresis" 50
-GroupKern: "atilde" "egrave" 50
-GroupKern: "atilde" "ffi" 100
-GroupKern: "atilde" "h" 50
-GroupKern: "atilde" "iacute" 50
-GroupKern: "atilde" "icircumflex" 50
-GroupKern: "atilde" "idieresis" 50
-GroupKern: "atilde" "igrave" 50
-GroupKern: "atilde" "ntilde" 50
-GroupKern: "atilde" "o" 50
-GroupKern: "atilde" "oacute" 50
-GroupKern: "atilde" "ocircumflex" 50
-GroupKern: "atilde" "odieresis" 50
-GroupKern: "atilde" "oe" 50
-GroupKern: "atilde" "ograve" 50
-GroupKern: "atilde" "oslash" 50
-GroupKern: "atilde" "otilde" 50
-GroupKern: "atilde" "q" 50
-GroupKern: "atilde" "r" 50
-GroupKern: "atilde" "s" 100
-GroupKern: "atilde" "scaron" 100
-GroupKern: "atilde" "uacute" 50
-GroupKern: "atilde" "ucircumflex" 50
-GroupKern: "atilde" "udieresis" 50
-GroupKern: "atilde" "ugrave" 50
-GroupKern: "atilde" "w" -50
-GroupKern: "b" "@MMK_R_Y" -100
-GroupKern: "b" "T" -200
-GroupKern: "b" "V" -50
-GroupKern: "b" "W" -50
-GroupKern: "b" "Yacute" -100
-GroupKern: "b" "Ydieresis" -100
-GroupKern: "b" "w" -100
+GroupKern: "atilde" "z" 100
+GroupKern: "b" "@MMK_R_Y" -200
+GroupKern: "b" "Yacute" -200
+GroupKern: "b" "Ydieresis" -200
 GroupKern: "ccedilla" "@MMK_R_Y" -100
-GroupKern: "ccedilla" "@MMK_R_i" -100
-GroupKern: "ccedilla" "T" -100
+GroupKern: "ccedilla" "T" -200
 GroupKern: "ccedilla" "Yacute" -100
 GroupKern: "ccedilla" "Ydieresis" -100
-GroupKern: "ccedilla" "Z" 100
-GroupKern: "ccedilla" "iacute" -100
-GroupKern: "ccedilla" "icircumflex" -100
-GroupKern: "ccedilla" "idieresis" -100
-GroupKern: "ccedilla" "igrave" -100
-GroupKern: "d" "@MMK_R_S" 100
-GroupKern: "d" "@MMK_R_Y" 100
-GroupKern: "d" "C" 100
-GroupKern: "d" "Ccedilla" 100
-GroupKern: "d" "J" 100
-GroupKern: "d" "Scaron" 100
-GroupKern: "d" "V" 100
-GroupKern: "d" "X" 100
-GroupKern: "d" "Yacute" 100
-GroupKern: "d" "Ydieresis" 100
-GroupKern: "d" "Z" 100
-GroupKern: "e" "@MMK_R_Y" -100
+GroupKern: "d" "@MMK_R_i" -100
+GroupKern: "d" "b" -100
+GroupKern: "d" "d" -100
+GroupKern: "d" "iacute" -100
+GroupKern: "d" "icircumflex" -100
+GroupKern: "d" "idieresis" -100
+GroupKern: "d" "igrave" -100
+GroupKern: "e" "@MMK_R_Y" -200
 GroupKern: "e" "T" -200
 GroupKern: "e" "V" -100
-GroupKern: "e" "W" -100
-GroupKern: "e" "Yacute" -100
-GroupKern: "e" "Ydieresis" -100
-GroupKern: "e" "b" -100
-GroupKern: "e" "d" -100
-GroupKern: "e" "f" -100
-GroupKern: "e" "g" -100
-GroupKern: "e" "p" -100
-GroupKern: "e" "r" -50
-GroupKern: "e" "v" -50
-GroupKern: "e" "w" -100
-GroupKern: "eacute" "@MMK_R_Y" -100
+GroupKern: "e" "Yacute" -200
+GroupKern: "e" "Ydieresis" -200
+GroupKern: "eacute" "@MMK_R_Y" -200
 GroupKern: "eacute" "T" -200
 GroupKern: "eacute" "V" -100
-GroupKern: "eacute" "W" -100
-GroupKern: "eacute" "Yacute" -100
-GroupKern: "eacute" "Ydieresis" -100
-GroupKern: "eacute" "b" -100
-GroupKern: "eacute" "d" -100
-GroupKern: "eacute" "f" -100
-GroupKern: "eacute" "g" -100
-GroupKern: "eacute" "p" -100
-GroupKern: "eacute" "r" -50
-GroupKern: "eacute" "v" -50
-GroupKern: "eacute" "w" -100
-GroupKern: "ecircumflex" "@MMK_R_Y" -100
+GroupKern: "eacute" "Yacute" -200
+GroupKern: "eacute" "Ydieresis" -200
+GroupKern: "ecircumflex" "@MMK_R_Y" -200
 GroupKern: "ecircumflex" "T" -200
 GroupKern: "ecircumflex" "V" -100
-GroupKern: "ecircumflex" "W" -100
-GroupKern: "ecircumflex" "Yacute" -100
-GroupKern: "ecircumflex" "Ydieresis" -100
-GroupKern: "ecircumflex" "b" -100
-GroupKern: "ecircumflex" "d" -100
-GroupKern: "ecircumflex" "f" -100
-GroupKern: "ecircumflex" "g" -100
-GroupKern: "ecircumflex" "p" -100
-GroupKern: "ecircumflex" "r" -50
-GroupKern: "ecircumflex" "v" -50
-GroupKern: "ecircumflex" "w" -100
-GroupKern: "edieresis" "@MMK_R_Y" -100
+GroupKern: "ecircumflex" "Yacute" -200
+GroupKern: "ecircumflex" "Ydieresis" -200
+GroupKern: "edieresis" "@MMK_R_Y" -200
 GroupKern: "edieresis" "T" -200
 GroupKern: "edieresis" "V" -100
-GroupKern: "edieresis" "W" -100
-GroupKern: "edieresis" "Yacute" -100
-GroupKern: "edieresis" "Ydieresis" -100
-GroupKern: "edieresis" "b" -100
-GroupKern: "edieresis" "d" -100
-GroupKern: "edieresis" "f" -100
-GroupKern: "edieresis" "g" -100
-GroupKern: "edieresis" "p" -100
-GroupKern: "edieresis" "r" -50
-GroupKern: "edieresis" "v" -50
-GroupKern: "edieresis" "w" -100
-GroupKern: "egrave" "@MMK_R_Y" -100
+GroupKern: "edieresis" "Yacute" -200
+GroupKern: "edieresis" "Ydieresis" -200
+GroupKern: "egrave" "@MMK_R_Y" -200
 GroupKern: "egrave" "T" -200
 GroupKern: "egrave" "V" -100
-GroupKern: "egrave" "W" -100
-GroupKern: "egrave" "Yacute" -100
-GroupKern: "egrave" "Ydieresis" -100
-GroupKern: "egrave" "b" -100
-GroupKern: "egrave" "d" -100
-GroupKern: "egrave" "f" -100
-GroupKern: "egrave" "g" -100
-GroupKern: "egrave" "p" -100
-GroupKern: "egrave" "r" -50
-GroupKern: "egrave" "v" -50
-GroupKern: "egrave" "w" -100
+GroupKern: "egrave" "Yacute" -200
+GroupKern: "egrave" "Ydieresis" -200
+GroupKern: "f" "@MMK_R_a" -100
 GroupKern: "f" "@MMK_R_c" -100
+GroupKern: "f" "@MMK_R_n" -100
 GroupKern: "f" "@MMK_R_u" -100
+GroupKern: "f" "aacute" -100
+GroupKern: "f" "acircumflex" -100
+GroupKern: "f" "adieresis" -100
+GroupKern: "f" "agrave" -100
+GroupKern: "f" "aring" -100
+GroupKern: "f" "atilde" -100
+GroupKern: "f" "b" -100
 GroupKern: "f" "ccedilla" -100
 GroupKern: "f" "d" -100
-GroupKern: "f" "f" -200
+GroupKern: "f" "e" -100
+GroupKern: "f" "eacute" -100
+GroupKern: "f" "ecircumflex" -100
+GroupKern: "f" "edieresis" -100
+GroupKern: "f" "egrave" -100
+GroupKern: "f" "f" -100
 GroupKern: "f" "g" -100
-GroupKern: "f" "o" -50
-GroupKern: "f" "oacute" -50
-GroupKern: "f" "ocircumflex" -50
-GroupKern: "f" "odieresis" -50
-GroupKern: "f" "oe" -50
-GroupKern: "f" "ograve" -50
-GroupKern: "f" "oslash" -50
-GroupKern: "f" "otilde" -50
+GroupKern: "f" "l" -100
+GroupKern: "f" "m" -100
+GroupKern: "f" "ntilde" -100
+GroupKern: "f" "o" -100
+GroupKern: "f" "oacute" -100
+GroupKern: "f" "ocircumflex" -100
+GroupKern: "f" "odieresis" -100
+GroupKern: "f" "oe" -100
+GroupKern: "f" "ograve" -100
+GroupKern: "f" "oslash" -100
+GroupKern: "f" "otilde" -100
+GroupKern: "f" "p" -100
+GroupKern: "f" "q" -100
 GroupKern: "f" "uacute" -100
 GroupKern: "f" "ucircumflex" -100
 GroupKern: "f" "udieresis" -100
 GroupKern: "f" "ugrave" -100
-GroupKern: "g" "T" -100
+GroupKern: "f" "w" -100
+GroupKern: "g" "@MMK_R_Y" -100
+GroupKern: "g" "@MMK_R_i" -100
+GroupKern: "g" "V" -100
+GroupKern: "g" "Yacute" -100
+GroupKern: "g" "Ydieresis" -100
+GroupKern: "g" "b" -100
+GroupKern: "g" "iacute" -100
+GroupKern: "g" "icircumflex" -100
+GroupKern: "g" "idieresis" -100
+GroupKern: "g" "igrave" -100
 GroupKern: "germandbls" "@MMK_R_O" -100
-GroupKern: "germandbls" "@MMK_R_S" -100
 GroupKern: "germandbls" "@MMK_R_Y" -100
 GroupKern: "germandbls" "@MMK_R_i" -100
 GroupKern: "germandbls" "@MMK_R_u" -100
 GroupKern: "germandbls" "@MMK_R_y" -100
-GroupKern: "germandbls" "I" -50
-GroupKern: "germandbls" "Iacute" -50
-GroupKern: "germandbls" "Icircumflex" -50
-GroupKern: "germandbls" "Idieresis" -50
-GroupKern: "germandbls" "Igrave" -50
 GroupKern: "germandbls" "OE" -100
 GroupKern: "germandbls" "Oacute" -100
 GroupKern: "germandbls" "Ocircumflex" -100
@@ -1688,19 +1139,19 @@ GroupKern: "germandbls" "Odieresis" -100
 GroupKern: "germandbls" "Ograve" -100
 GroupKern: "germandbls" "Oslash" -100
 GroupKern: "germandbls" "Otilde" -100
-GroupKern: "germandbls" "Q" -50
+GroupKern: "germandbls" "S" -100
 GroupKern: "germandbls" "Scaron" -100
-GroupKern: "germandbls" "T" -100
+GroupKern: "germandbls" "T" -200
 GroupKern: "germandbls" "V" -100
 GroupKern: "germandbls" "W" -100
 GroupKern: "germandbls" "Yacute" -100
 GroupKern: "germandbls" "Ydieresis" -100
-GroupKern: "germandbls" "g" -100
-GroupKern: "germandbls" "h" -50
+GroupKern: "germandbls" "b" -100
 GroupKern: "germandbls" "iacute" -100
 GroupKern: "germandbls" "icircumflex" -100
 GroupKern: "germandbls" "idieresis" -100
 GroupKern: "germandbls" "igrave" -100
+GroupKern: "germandbls" "j" -100
 GroupKern: "germandbls" "k" -100
 GroupKern: "germandbls" "m" -100
 GroupKern: "germandbls" "p" -100
@@ -1710,204 +1161,189 @@ GroupKern: "germandbls" "udieresis" -100
 GroupKern: "germandbls" "ugrave" -100
 GroupKern: "germandbls" "yacute" -100
 GroupKern: "germandbls" "ydieresis" -100
-GroupKern: "h" "@MMK_R_Y" -100
-GroupKern: "h" "T" -200
+GroupKern: "h" "@MMK_R_Y" -200
+GroupKern: "h" "@MMK_R_i" -100
+GroupKern: "h" "T" -100
 GroupKern: "h" "V" -100
 GroupKern: "h" "W" -100
-GroupKern: "h" "Yacute" -100
-GroupKern: "h" "Ydieresis" -100
-GroupKern: "h" "d" -100
-GroupKern: "h" "w" -50
-GroupKern: "k" "d" -100
-GroupKern: "k" "g" -100
-GroupKern: "k" "o" -50
-GroupKern: "k" "oacute" -50
-GroupKern: "k" "ocircumflex" -50
-GroupKern: "k" "odieresis" -50
-GroupKern: "k" "oe" -50
-GroupKern: "k" "ograve" -50
-GroupKern: "k" "oslash" -50
-GroupKern: "k" "otilde" -50
-GroupKern: "l" "X" 100
-GroupKern: "l" "Z" 100
+GroupKern: "h" "Yacute" -200
+GroupKern: "h" "Ydieresis" -200
+GroupKern: "h" "iacute" -100
+GroupKern: "h" "icircumflex" -100
+GroupKern: "h" "idieresis" -100
+GroupKern: "h" "igrave" -100
+GroupKern: "h" "l" -100
+GroupKern: "k" "@MMK_R_Y" -100
+GroupKern: "k" "V" -100
+GroupKern: "k" "Yacute" -100
+GroupKern: "k" "Ydieresis" -100
 GroupKern: "l" "l" -100
-GroupKern: "l" "s" 100
-GroupKern: "l" "scaron" 100
-GroupKern: "m" "@MMK_R_Y" -150
-GroupKern: "m" "T" -100
+GroupKern: "m" "@MMK_R_U" -100
+GroupKern: "m" "@MMK_R_Y" -200
+GroupKern: "m" "@MMK_R_a" -50
+GroupKern: "m" "@MMK_R_i" -100
+GroupKern: "m" "T" -200
+GroupKern: "m" "Uacute" -100
+GroupKern: "m" "Ucircumflex" -100
+GroupKern: "m" "Udieresis" -100
+GroupKern: "m" "Ugrave" -100
 GroupKern: "m" "V" -100
 GroupKern: "m" "W" -100
-GroupKern: "m" "Yacute" -150
-GroupKern: "m" "Ydieresis" -150
-GroupKern: "m" "w" -50
-GroupKern: "ntilde" "@MMK_R_Y" -100
-GroupKern: "ntilde" "T" -100
+GroupKern: "m" "X" -100
+GroupKern: "m" "Yacute" -200
+GroupKern: "m" "Ydieresis" -200
+GroupKern: "m" "aacute" -50
+GroupKern: "m" "acircumflex" -50
+GroupKern: "m" "adieresis" -50
+GroupKern: "m" "agrave" -50
+GroupKern: "m" "aring" -50
+GroupKern: "m" "atilde" -50
+GroupKern: "m" "d" -100
+GroupKern: "m" "iacute" -100
+GroupKern: "m" "icircumflex" -100
+GroupKern: "m" "idieresis" -100
+GroupKern: "m" "igrave" -100
+GroupKern: "ntilde" "@MMK_R_Y" -200
+GroupKern: "ntilde" "@MMK_R_i" -100
+GroupKern: "ntilde" "@MMK_R_u" -100
+GroupKern: "ntilde" "T" -200
 GroupKern: "ntilde" "V" -100
 GroupKern: "ntilde" "W" -100
-GroupKern: "ntilde" "Yacute" -100
-GroupKern: "ntilde" "Ydieresis" -100
+GroupKern: "ntilde" "Yacute" -200
+GroupKern: "ntilde" "Ydieresis" -200
+GroupKern: "ntilde" "d" -100
+GroupKern: "ntilde" "iacute" -100
+GroupKern: "ntilde" "icircumflex" -100
+GroupKern: "ntilde" "idieresis" -100
+GroupKern: "ntilde" "igrave" -100
 GroupKern: "ntilde" "j" -100
-GroupKern: "ntilde" "w" -100
+GroupKern: "ntilde" "l" -100
+GroupKern: "ntilde" "uacute" -100
+GroupKern: "ntilde" "ucircumflex" -100
+GroupKern: "ntilde" "udieresis" -100
+GroupKern: "ntilde" "ugrave" -100
 GroupKern: "o" "@MMK_R_Y" -100
-GroupKern: "o" "T" -100
+GroupKern: "o" "T" -200
 GroupKern: "o" "V" -100
-GroupKern: "o" "W" -100
 GroupKern: "o" "Yacute" -100
 GroupKern: "o" "Ydieresis" -100
 GroupKern: "oacute" "@MMK_R_Y" -100
-GroupKern: "oacute" "T" -100
+GroupKern: "oacute" "T" -200
 GroupKern: "oacute" "V" -100
-GroupKern: "oacute" "W" -100
 GroupKern: "oacute" "Yacute" -100
 GroupKern: "oacute" "Ydieresis" -100
 GroupKern: "ocircumflex" "@MMK_R_Y" -100
-GroupKern: "ocircumflex" "T" -100
+GroupKern: "ocircumflex" "T" -200
 GroupKern: "ocircumflex" "V" -100
-GroupKern: "ocircumflex" "W" -100
 GroupKern: "ocircumflex" "Yacute" -100
 GroupKern: "ocircumflex" "Ydieresis" -100
 GroupKern: "odieresis" "@MMK_R_Y" -100
-GroupKern: "odieresis" "T" -100
+GroupKern: "odieresis" "T" -200
 GroupKern: "odieresis" "V" -100
-GroupKern: "odieresis" "W" -100
 GroupKern: "odieresis" "Yacute" -100
 GroupKern: "odieresis" "Ydieresis" -100
-GroupKern: "oe" "@MMK_R_Y" -100
+GroupKern: "oe" "@MMK_R_Y" -200
 GroupKern: "oe" "T" -200
 GroupKern: "oe" "V" -100
-GroupKern: "oe" "W" -100
-GroupKern: "oe" "Yacute" -100
-GroupKern: "oe" "Ydieresis" -100
-GroupKern: "oe" "b" -100
-GroupKern: "oe" "d" -100
-GroupKern: "oe" "f" -100
-GroupKern: "oe" "g" -100
-GroupKern: "oe" "p" -100
-GroupKern: "oe" "r" -50
-GroupKern: "oe" "v" -50
-GroupKern: "oe" "w" -100
+GroupKern: "oe" "Yacute" -200
+GroupKern: "oe" "Ydieresis" -200
 GroupKern: "ograve" "@MMK_R_Y" -100
-GroupKern: "ograve" "T" -100
+GroupKern: "ograve" "T" -200
 GroupKern: "ograve" "V" -100
-GroupKern: "ograve" "W" -100
 GroupKern: "ograve" "Yacute" -100
 GroupKern: "ograve" "Ydieresis" -100
 GroupKern: "oslash" "@MMK_R_Y" -100
-GroupKern: "oslash" "T" -100
+GroupKern: "oslash" "T" -200
 GroupKern: "oslash" "V" -100
-GroupKern: "oslash" "W" -100
 GroupKern: "oslash" "Yacute" -100
 GroupKern: "oslash" "Ydieresis" -100
 GroupKern: "otilde" "@MMK_R_Y" -100
-GroupKern: "otilde" "T" -100
+GroupKern: "otilde" "T" -200
 GroupKern: "otilde" "V" -100
-GroupKern: "otilde" "W" -100
 GroupKern: "otilde" "Yacute" -100
 GroupKern: "otilde" "Ydieresis" -100
-GroupKern: "p" "@MMK_R_Y" -100
+GroupKern: "p" "@MMK_R_Y" -200
 GroupKern: "p" "T" -100
 GroupKern: "p" "V" -100
 GroupKern: "p" "W" -100
-GroupKern: "p" "Yacute" -100
-GroupKern: "p" "Ydieresis" -100
-GroupKern: "p" "w" -50
+GroupKern: "p" "Yacute" -200
+GroupKern: "p" "Ydieresis" -200
+GroupKern: "p" "l" -100
 GroupKern: "q" "@MMK_R_Y" -100
 GroupKern: "q" "T" -100
 GroupKern: "q" "Yacute" -100
 GroupKern: "q" "Ydieresis" -100
-GroupKern: "q" "f" 50
-GroupKern: "q" "w" -50
-GroupKern: "r" "@MMK_R_S" 100
+GroupKern: "q" "l" -100
 GroupKern: "r" "@MMK_R_y" 100
+GroupKern: "r" "S" 100
 GroupKern: "r" "Scaron" 100
 GroupKern: "r" "f" 100
-GroupKern: "r" "s" 50
-GroupKern: "r" "scaron" 50
+GroupKern: "r" "s" 100
+GroupKern: "r" "scaron" 100
 GroupKern: "r" "t" 100
-GroupKern: "r" "v" 50
-GroupKern: "r" "x" 50
 GroupKern: "r" "yacute" 100
 GroupKern: "r" "ydieresis" 100
+GroupKern: "s" "@MMK_R_Y" -100
 GroupKern: "s" "T" -100
-GroupKern: "s" "w" -50
+GroupKern: "s" "V" -100
+GroupKern: "s" "Yacute" -100
+GroupKern: "s" "Ydieresis" -100
+GroupKern: "scaron" "@MMK_R_Y" -100
 GroupKern: "scaron" "T" -100
-GroupKern: "scaron" "w" -50
-GroupKern: "slash" "slash" -200
+GroupKern: "scaron" "V" -100
+GroupKern: "scaron" "Yacute" -100
+GroupKern: "scaron" "Ydieresis" -100
 GroupKern: "t" "T" -100
 GroupKern: "t" "t" -100
 GroupKern: "uacute" "@MMK_R_Y" -100
-GroupKern: "uacute" "T" -100
+GroupKern: "uacute" "T" -200
+GroupKern: "uacute" "V" -100
+GroupKern: "uacute" "W" -100
 GroupKern: "uacute" "Yacute" -100
 GroupKern: "uacute" "Ydieresis" -100
 GroupKern: "uacute" "j" -100
 GroupKern: "ucircumflex" "@MMK_R_Y" -100
-GroupKern: "ucircumflex" "T" -100
+GroupKern: "ucircumflex" "T" -200
+GroupKern: "ucircumflex" "V" -100
+GroupKern: "ucircumflex" "W" -100
 GroupKern: "ucircumflex" "Yacute" -100
 GroupKern: "ucircumflex" "Ydieresis" -100
 GroupKern: "ucircumflex" "j" -100
 GroupKern: "udieresis" "@MMK_R_Y" -100
-GroupKern: "udieresis" "T" -100
+GroupKern: "udieresis" "T" -200
+GroupKern: "udieresis" "V" -100
+GroupKern: "udieresis" "W" -100
 GroupKern: "udieresis" "Yacute" -100
 GroupKern: "udieresis" "Ydieresis" -100
 GroupKern: "udieresis" "j" -100
 GroupKern: "ugrave" "@MMK_R_Y" -100
-GroupKern: "ugrave" "T" -100
+GroupKern: "ugrave" "T" -200
+GroupKern: "ugrave" "V" -100
+GroupKern: "ugrave" "W" -100
 GroupKern: "ugrave" "Yacute" -100
 GroupKern: "ugrave" "Ydieresis" -100
 GroupKern: "ugrave" "j" -100
-GroupKern: "v" "@MMK_R_Y" -50
-GroupKern: "v" "@MMK_R_a" -50
+GroupKern: "v" "@MMK_R_Y" -100
 GroupKern: "v" "T" -100
-GroupKern: "v" "W" -50
-GroupKern: "v" "X" -100
-GroupKern: "v" "Yacute" -50
-GroupKern: "v" "Ydieresis" -50
-GroupKern: "v" "aacute" -50
-GroupKern: "v" "acircumflex" -50
-GroupKern: "v" "adieresis" -50
-GroupKern: "v" "agrave" -50
-GroupKern: "v" "aring" -50
-GroupKern: "v" "atilde" -50
-GroupKern: "v" "b" -50
+GroupKern: "v" "Yacute" -100
+GroupKern: "v" "Ydieresis" -100
 GroupKern: "v" "d" -100
-GroupKern: "v" "o" -50
-GroupKern: "v" "oacute" -50
-GroupKern: "v" "ocircumflex" -50
-GroupKern: "v" "odieresis" -50
-GroupKern: "v" "oe" -50
-GroupKern: "v" "ograve" -50
-GroupKern: "v" "oslash" -50
-GroupKern: "v" "otilde" -50
-GroupKern: "v" "q" -50
+GroupKern: "w" "@MMK_R_Y" -100
+GroupKern: "w" "T" -100
+GroupKern: "w" "Yacute" -100
+GroupKern: "w" "Ydieresis" -100
 GroupKern: "w" "d" -100
-GroupKern: "w" "f" 100
-GroupKern: "w" "g" -50
-GroupKern: "w" "p" -50
-GroupKern: "w" "q" -50
-GroupKern: "w" "s" 50
-GroupKern: "w" "scaron" 50
-GroupKern: "w" "t" 50
-GroupKern: "x" "@MMK_R_Y" -100
-GroupKern: "x" "@MMK_R_e" 50
-GroupKern: "x" "Yacute" -100
-GroupKern: "x" "Ydieresis" -100
-GroupKern: "x" "Z" 100
-GroupKern: "x" "eacute" 50
-GroupKern: "x" "ecircumflex" 50
-GroupKern: "x" "edieresis" 50
-GroupKern: "x" "egrave" 50
-GroupKern: "x" "f" 100
-GroupKern: "x" "s" 100
-GroupKern: "x" "scaron" 100
-GroupKern: "x" "t" 50
-GroupKern: "y" "T" -100
-GroupKern: "y" "f" 100
+GroupKern: "x" "T" -100
+GroupKern: "yacute" "@MMK_R_Y" -100
 GroupKern: "yacute" "T" -100
-GroupKern: "yacute" "f" 100
+GroupKern: "yacute" "Yacute" -100
+GroupKern: "yacute" "Ydieresis" -100
+GroupKern: "ydieresis" "@MMK_R_Y" -100
 GroupKern: "ydieresis" "T" -100
-GroupKern: "ydieresis" "f" 100
+GroupKern: "ydieresis" "Yacute" -100
+GroupKern: "ydieresis" "Ydieresis" -100
 GroupKern: "z" "@MMK_R_O" -100
-GroupKern: "z" "@MMK_R_Y" -200
+GroupKern: "z" "@MMK_R_Y" -100
 GroupKern: "z" "OE" -100
 GroupKern: "z" "Oacute" -100
 GroupKern: "z" "Ocircumflex" -100
@@ -1915,13 +1351,11 @@ GroupKern: "z" "Odieresis" -100
 GroupKern: "z" "Ograve" -100
 GroupKern: "z" "Oslash" -100
 GroupKern: "z" "Otilde" -100
-GroupKern: "z" "T" -100
-GroupKern: "z" "V" -50
-GroupKern: "z" "W" -100
-GroupKern: "z" "Yacute" -200
-GroupKern: "z" "Ydieresis" -200
-GroupKern: "z" "g" -50
-LangName: 1033 "Copyright (c) 2012, AIRBUS (airbus-group.com)" "" "" "Airbus: B612 Bold Italic: Version1.008" "" "Version 1.008" "" "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation" "AIRBUS" "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot" "" "" "http://intactile.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+GroupKern: "z" "T" -200
+GroupKern: "z" "V" -100
+GroupKern: "z" "Yacute" -100
+GroupKern: "z" "Ydieresis" -100
+LangName: 1033 "Copyright (c) 2012, AIRBUS (airbus-group.com); Copyright (c) 2022, Willemijn Coene" "" "" "irdc: Besixdouze Sans Italic: Version 0.1" "" "Version 0.1" "" "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation" "irdc.nl" "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot, Willemijn Coene" "" "" "http://irdc.nl" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1
@@ -1944,10 +1378,10 @@ I1
 sV110
 p11
 I6
-sV29
+sV31
 p12
 I2
-sV50
+sV55
 p13
 I3
 sV67
@@ -1959,7 +1393,7 @@ I5
 ssVwidth
 p16
 I100
-ssVX: 116
+ssVX: 119
 p17
 (dp18
 g7
@@ -1970,18 +1404,18 @@ g10
 I1
 sg12
 I2
-sV38
+sV37
 p20
 I3
 sg14
 I4
 sg15
 I5
-sV95
+sV93
 p21
 I6
 ssg16
-I116
+I119
 ssVX: 150
 p22
 (dp23
@@ -1991,12 +1425,12 @@ sg8
 (dp24
 g10
 I1
-sV17
+sV19
 p25
 I2
 sg20
 I3
-sV47
+sV46
 p26
 I4
 sV60
@@ -2007,7 +1441,7 @@ p28
 I6
 ssg16
 I150
-ssVX: 200
+ssVX: 161
 p29
 (dp30
 g7
@@ -2018,53 +1452,48 @@ g10
 I1
 sg25
 I2
-sV24
+sV29
 p32
 I3
-sV34
-p33
+sg26
 I4
-sV43
-p34
+sg27
 I5
-sV55
-p35
+sV69
+p33
 I6
 ssg16
-I200
-ssVX: 369
-p36
-(dp37
+I161
+ssVX: 200
+p34
+(dp35
 g7
 I00
 sg8
-(dp38
+(dp36
 g10
 I1
-sV14
-p39
-I3
-sV19
-p40
-I4
-sV25
-p41
-I5
-sV30
-p42
-I6
-sV9
-p43
+sg25
 I2
+sg32
+I3
+sV35
+p37
+I4
+sV45
+p38
+I5
+sg13
+I6
 ssg16
-I369
+I200
 ssVY: 100
-p44
-(dp45
+p39
+(dp40
 g7
 I01
 sg8
-(dp46
+(dp41
 g10
 I1
 sg11
@@ -2079,13 +1508,35 @@ sg15
 I5
 ssg16
 I100
-ssVY: 150
-p47
-(dp48
+ssVY: 140
+p42
+(dp43
 g7
 I01
 sg8
-(dp49
+(dp44
+g10
+I1
+sg25
+I2
+sg20
+I3
+sg26
+I4
+sg27
+I5
+sV79
+p45
+I6
+ssg16
+I140
+ssVY: 150
+p46
+(dp47
+g7
+I01
+sg8
+(dp48
 g10
 I1
 sg25
@@ -2100,71 +1551,72 @@ sg28
 I6
 ssg16
 I150
-ssVY: 200
-p50
-(dp51
+ssVY: 160
+p49
+(dp50
 g7
 I01
 sg8
-(dp52
+(dp51
 g10
 I1
 sg25
 I2
 sg32
 I3
-sg33
+sg26
 I4
-sg34
+sg27
 I5
-sg35
+sg33
+I6
+ssg16
+I160
+ssVY: 200
+p52
+(dp53
+g7
+I01
+sg8
+(dp54
+g10
+I1
+sg25
+I2
+sg32
+I3
+sg37
+I4
+sg38
+I5
+sg13
 I6
 ssg16
 I200
-ssVY: 216
-p53
-(dp54
+ssVY: 80
+p55
+(dp56
 g7
 I01
 sg8
-(dp55
+(dp57
 g10
 I1
-sg25
-I2
-sg32
-I3
-sg33
-I4
-sg34
+sV113
+p58
 I5
-sV51
-p56
+sV138
+p59
 I6
-ssg16
-I216
-ssVY: 228
-p57
-(dp58
-g7
-I01
-sg8
-(dp59
-g10
-I1
-sg25
+sg12
 I2
-sg32
+sg13
 I3
-sg33
-I4
-sg34
-I5
-sV49
+sV88
 p60
-I6
+I4
 ssg16
-I228
+I80
 sssVzones
 p61
 (dp62
@@ -2178,7 +1630,7 @@ sVtop
 p66
 I00
 sg16
-I29
+I27
 ssVb: 1
 p67
 (dp68
@@ -2187,25 +1639,25 @@ I-500
 sg66
 I00
 sg16
-I25
+I27
 ssVt: 0
 p69
 (dp70
 g65
-I1133
+I1121
 sg66
 I01
 sg16
-I0
+I3
 ssVt: 1
 p71
 (dp72
 g65
-I1527
+I1520
 sg66
 I01
 sg16
-I0
+I5
 ssssVpublic.glyphOrder
 p73
 (lp74
@@ -3407,10 +2859,10 @@ BeginPrivate: 8
 BlueFuzz 1 1
 BlueScale 8 0.039625
 BlueShift 1 7
-BlueValues 27 [-29 0 1133 1133 1527 1527]
-ForceBold 4 true
-OtherBlues 11 [-525 -500]
-StemSnapH 21 [100 150 200 216 228]
-StemSnapV 21 [100 116 150 200 369]
+BlueValues 27 [-27 0 1121 1124 1520 1525]
+ForceBold 5 false
+OtherBlues 11 [-527 -500]
+StemSnapH 24 [100 80 140 150 160 200]
+StemSnapV 21 [100 119 150 161 200]
 EndPrivate
 EndSplineFont

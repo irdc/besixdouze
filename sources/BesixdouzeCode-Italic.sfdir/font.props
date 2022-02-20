@@ -1,11 +1,11 @@
 SplineFontDB: 3.2
-FontName: B612Mono-Italic
-FullName: B612 Mono Italic
-FamilyName: B612 Mono
+FontName: BesixdouzeCode-Italic
+FullName: Besixdouze Code Italic
+FamilyName: Besixdouze Code
 Weight: Normal
-Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com)
-Version: 1.8
-FONDName: B612
+Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com); Copyright (c) 2022, Willemijn Coene
+Version: 0.1
+FONDName: Besixdouze
 ItalicAngle: -10
 UnderlinePosition: -250
 UnderlineWidth: 100
@@ -60,7 +60,7 @@ OS2Vendor: '    '
 OS2CodePages: 20000011.81d40000
 OS2UnicodeRanges: 800000af.5000e0fb.00000000.00000000
 DEI: 91125
-LangName: 1033 "Copyright (c) 2012, AIRBUS (airbus-group.com)" "" "" "Airbus: B612 Mono Italic: Version1.008" "" "Version 1.008" "" "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation" "AIRBUS" "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot" "" "" "http://intactile.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "B612 Mono" "Italic"
+LangName: 1033 "Copyright (c) 2012, AIRBUS (airbus-group.com); Copyright (c) 2022, Willemijn Coene" "" "" "irdc: Besixdouze Code Italic: Version 0.1" "" "Version 0.1" "" "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation" "irdc.nl" "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot, Willemijn Coene" "" "" "http://irdc.nl" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Besixdouze Code" "Italic"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1

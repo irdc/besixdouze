@@ -1,12 +1,12 @@
 SplineFontDB: 3.2
-FontName: B612Mono-Regular
-FullName: B612 Mono Regular
-FamilyName: B612 Mono
-Weight: Normal
-Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com)
-Version: 1.8
-FONDName: B612
-ItalicAngle: 0
+FontName: BesixdouzeCode-BoldItalic
+FullName: Besixdouze Code Bold Italic
+FamilyName: Besixdouze Code
+Weight: Bold
+Copyright: Copyright (c) 2012, AIRBUS (airbus-group.com); Copyright (c) 2022, Willemijn Coene
+Version: 0.1
+FONDName: Besixdouze
+ItalicAngle: -10
 UnderlinePosition: -250
 UnderlineWidth: 100
 Ascent: 1600
@@ -22,10 +22,10 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1645275702
-ModificationTime: 1645370893
+CreationTime: 1645275667
+ModificationTime: 1645371251
 PfmFamily: 16
-TTFWeight: 400
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -60,7 +60,7 @@ OS2Vendor: '    '
 OS2CodePages: 20000011.81d40000
 OS2UnicodeRanges: 800000af.5000e0fb.00000000.00000000
 DEI: 91125
-LangName: 1033 "Copyright (c) 2012, AIRBUS (airbus-group.com)" "" "" "Airbus: B612 Mono Regular: Version1.008" "" "Version 1.008" "" "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation" "AIRBUS" "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot" "" "" "http://intactile.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "B612 Mono"
+LangName: 1033 "Copyright (c) 2012, AIRBUS (airbus-group.com); Copyright (c) 2022, Willemijn Coene" "" "" "irdc: Besixdouze Code Bold Italic: Version 0.1" "" "Version 0.1" "" "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation" "irdc.nl" "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot, Willemijn Coene" "" "" "http://irdc.nl" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Besixdouze Code" "Bold Italic"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1
@@ -1734,12 +1734,12 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 378 21 11
+WinInfo: 273 21 11
 BeginPrivate: 8
 BlueFuzz 1 1
 BlueScale 8 0.039625
 BlueShift 1 7
-BlueValues 27 [-17 0 1117 1120 1520 1520]
+BlueValues 27 [-17 0 1100 1120 1520 1520]
 ForceBold 5 false
 OtherBlues 11 [-517 -500]
 StemSnapH 5 [160]
